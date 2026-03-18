@@ -2,6 +2,8 @@
 
 A mythic dark fantasy TTRPG world built on the bones of dead gods, published as a website using [Quartz](https://quartz.jzhao.xyz/).
 
+> **Disclosure:** This entire world, including all lore, NPCs, factions, regions, history, and campaign content, is **100% AI-generated**. This project is an experiment to explore how far AI can go in creating a cohesive, deep, and playable TTRPG setting. No human-written worldbuilding exists in this vault. The infrastructure (Quartz setup, Docker config, deployment) was also AI-assisted.
+
 ## Overview
 
 Aethermourne is an Obsidian vault containing worldbuilding content for a dark fantasy setting using the Nimble TTRPG system. The active campaign is **The Second Silence**.
