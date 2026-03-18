@@ -15,6 +15,10 @@ COPY site/ .
 # Copy vault content into Quartz's expected content directory
 COPY Aethermourne/ content/
 
+# Base URL for sitemap/RSS (e.g. "aethermourne.example.com", no protocol)
+ARG BASE_URL=localhost
+ENV BASE_URL=${BASE_URL}
+
 # Build the static site
 RUN npx quartz build
 
