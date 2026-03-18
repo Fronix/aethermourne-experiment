@@ -50,6 +50,19 @@ type: overview
 | [[Hanna Tide\|Elder Hanna Tide]] | Elder of Mistholm | [[The Hollowed Reach]] | None | Alive |
 | [[Sera Greywater\|Warden Sera Greywater]] | Toll-Warden of Bridgemere | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
 | [[Dren Halwick]] | Whisper-Cell Inmate | [[The Hollowed Reach]] | None | Alive (compromised) |
+| [[Cassia Lorn]] | Ashless Community Leader | [[The Ashen Dominion]] | None (Ashless) | Alive |
+| [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[The Ashen Dominion]] | None | Alive |
+| [[Prior Gault Ashworth]] | Pilgrimage Master | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| [[Captain Daren Kolst]] | Garrison Commander | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| [[Petra Venn]] | Congregation Organizer | [[The Ashen Dominion]] | [[Unbound Congregation]] | Alive |
+| [[Vael Sundren]] | Mutagenist Researcher | [[The Verdant Marches]] | Mutagenists | Alive |
+| [[Tessara Wildbloom]] | Greensinger (Missing) | [[The Verdant Marches]] | [[The Greensingers]] | Missing |
+| [[Ivara Mistwalker]] | Spore-Seer | [[The Verdant Marches]] | Peak Clans | Alive |
+| [[Torvin Ashwalker\|Warden Torvin Ashwalker]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
+| [[Brannoc Stillwater\|Warden Brannoc Stillwater]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
+| [[Senna Deepmoss\|Warden Senna Deepmoss]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
+| [[Merren Vask\|Scout-Captain Merren Vask]] | Lost Scout (Remnant) | [[The Pale Wastes]] | [[The Ashen Vigil]] | Undead |
+| [[Nara Frostmere\|Holdwarden Nara Frostmere]] | Former Holdwarden | [[The Pale Wastes]] | The Holds (Frostmere) | Dead |
 
 ---
 
@@ -57,20 +70,31 @@ type: overview
 
 ### The Ashen Dominion
 
-| NPC | Title | Faction |
-|-----|-------|---------|
-| [[Hierarch Valdren III]] | Supreme Ruler of the Dominion | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
-| [[Ashara Voss\|Commander Ashara Voss]] | Commander of the Order | [[Order of the Ashen Flame]] |
-| [[Delric Mourne\|Thane Delric Mourne]] | Head of the Cinders | [[The Cinders]] |
-| [[Elowen Greaves\|Speaker Elowen Greaves]] | Leader of the Congregation | [[Unbound Congregation]] |
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Hierarch Valdren III]] | Supreme Ruler | [[Ostivaar]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
+| [[Ashara Voss\|Commander Ashara Voss]] | Commander of the Order | [[Cinderholm]] | [[Order of the Ashen Flame]] |
+| [[Delric Mourne\|Thane Delric Mourne]] | Head of the Cinders | [[Ostivaar]] | [[The Cinders]] |
+| [[Elowen Greaves\|Speaker Elowen Greaves]] | Leader of the Congregation | [[Ostivaar]] | [[Unbound Congregation]] |
+| [[Cassia Lorn]] | Ashless Community Leader | [[Ostivaar]] | None |
+| [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[Hearthstone]] | None |
+| [[Prior Gault Ashworth]] | Pilgrimage Master | [[Crown's Reach]] | [[Order of the Ashen Flame]] |
+| [[Captain Daren Kolst]] | Garrison Commander | [[Thornwall]] | [[Order of the Ashen Flame]] |
+| [[Petra Venn]] | Congregation Organizer | [[Ashveil]] | [[Unbound Congregation]] |
 
 ### The Verdant Marches
 
-| NPC | Title | Faction |
-|-----|-------|---------|
-| [[Kaelith Thornborn]] | Aspirant Marchwarden / Unifier | [[Marchwardens Council\|Thornborn Coalition]] |
-| [[Elder Rosk]] | Eldest Greensinger | [[The Greensingers]] |
-| [[Draven Ironbark\|Warden Draven Ironbark]] | Marchwarden of Clan Ironbark | [[Marchwardens Council\|Ironbark Opposition]] |
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Kaelith Thornborn]] | Aspirant Marchwarden | [[Thornhaven]] | [[Marchwardens Council\|Thornborn Coalition]] |
+| [[Elder Rosk]] | Eldest Greensinger | [[Roothold]] | [[The Greensingers]] |
+| [[Draven Ironbark\|Warden Draven Ironbark]] | Marchwarden (Ironbark) | Northern Cradle | [[Marchwardens Council\|Ironbark Opposition]] |
+| [[Torvin Ashwalker\|Warden Torvin Ashwalker]] | Marchwarden (Ashwalker) | [[Ashwalker's Post]] | [[Marchwardens Council]] |
+| [[Brannoc Stillwater\|Warden Brannoc Stillwater]] | Marchwarden (Stillwater) | [[Stillwater]] | [[Marchwardens Council]] |
+| [[Senna Deepmoss\|Warden Senna Deepmoss]] | Marchwarden (Deepmoss) | Southern Cradle | [[Marchwardens Council]] |
+| [[Vael Sundren]] | Mutagenist Researcher | [[Mirewatch]] | Mutagenists |
+| [[Tessara Wildbloom]] | Greensinger (Missing) | Deep Cradle | [[The Greensingers]] |
+| [[Ivara Mistwalker]] | Spore-Seer | [[Sporeheim]] | Peak Clans |
 
 ### The Hollowed Reach
 
@@ -95,11 +119,13 @@ type: overview
 
 ### The Pale Wastes
 
-| NPC | Title | Faction |
-|-----|-------|---------|
-| [[Bjorn Ashken\|Holdwarden Bjorn Ashken]] | Holdwarden of Greyhold | The Holds (Greyhold) |
-| [[Thessa Ironveil\|Commander Thessa Ironveil]] | Vigil Commander | [[The Ashen Vigil]] |
-| [[Revenant Yael]] | Remnant Leader | [[Remnants Court\|The Remnants' Court]] |
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Bjorn Ashken\|Holdwarden Bjorn Ashken]] | Holdwarden of Greyhold | [[Greyhold]] | The Holds |
+| [[Thessa Ironveil\|Commander Thessa Ironveil]] | Vigil Commander | [[Lastlight]] | [[The Ashen Vigil]] |
+| [[Revenant Yael]] | Remnant Leader | [[Ashenmere]] | [[Remnants Court\|The Remnants' Court]] |
+| [[Merren Vask\|Scout-Captain Merren Vask]] | Lost Scout (Remnant) | Hollowdeep | [[The Ashen Vigil]] |
+| [[Nara Frostmere\|Holdwarden Nara Frostmere]] | Former Holdwarden | [[Frostmere]] | The Holds |
 
 ### Divine Figures
 
@@ -151,8 +177,11 @@ type: overview
 
 > [!warning] Naming Conventions
 > - **Hierarch / Thane / Speaker**, Ashen Dominion titles
+> - **Foreman / Prior**, minor Ashen Dominion titles
 > - **Marchwarden / Elder / Warden**, Verdant Marches titles
+> - **Spore-Seer / Mutagenist**, Verdant Marches specialist titles
 > - **Tidekeeper / Keeper**, Hollowed Reach titles
 > - **Holdwarden / Commander / Revenant**, Pale Wastes titles
+> - **Scout-Captain / Factor**, Pale Wastes operational titles
 > - **Shipwright / Warden (Toll) / Elder**, minor Hollowed Reach titles
 > - All divine figures are referred to by name and epithet (e.g., "Serith, the Veiled One")
