@@ -6,7 +6,50 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#npc",
+      "color": {
+        "a": 1,
+        "rgb": 13936450
+      }
+    },
+    {
+      "query": "tag:#faction",
+      "color": {
+        "a": 1,
+        "rgb": 13066320
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 5939823
+      }
+    },
+    {
+      "query": "tag:#lore",
+      "color": {
+        "a": 1,
+        "rgb": 6000569
+      }
+    },
+    {
+      "query": "tag:#session",
+      "color": {
+        "a": 1,
+        "rgb": 9138093
+      }
+    },
+    {
+      "query": "tag:#campaign",
+      "color": {
+        "a": 1,
+        "rgb": 9138093
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012134,
+  "scale": 0.7132754626224461,
   "close": false
 }

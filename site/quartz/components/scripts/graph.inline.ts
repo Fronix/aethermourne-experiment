@@ -193,16 +193,37 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
+  // tag-based color groups (matching Obsidian graph colors)
+  const tagColorGroups: [string, string][] = [
+    ["npc", "#d4a742"],
+    ["faction", "#c75050"],
+    ["location", "#5a9e6f"],
+    ["lore", "#5b8fb9"],
+    ["session", "#8b6fad"],
+    ["campaign", "#8b6fad"],
+  ]
+
   // calculate color
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    } else if (d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
-    } else {
-      return computedStyleMap["--gray"]
     }
+
+    // check tag-based colors
+    for (const [tag, tagColor] of tagColorGroups) {
+      if (d.tags.includes(tag)) {
+        return tagColor
+      }
+    }
+
+    if (visited.has(d.id)) {
+      return computedStyleMap["--tertiary"]
+    }
+
+    return computedStyleMap["--gray"]
   }
 
   function nodeRadius(d: NodeData) {
@@ -378,11 +399,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       interactive: false,
       eventMode: "none",
       text: n.text,
-      alpha: 0,
+      alpha: 1,
       anchor: { x: 0.5, y: 1.2 },
       style: {
         fontSize: fontSize * 15,
-        fill: computedStyleMap["--dark"],
+        fill: computedStyleMap["--darkgray"],
         fontFamily: computedStyleMap["--bodyFont"],
       },
       resolution: window.devicePixelRatio * 4,
@@ -509,9 +530,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
 
-          // zoom adjusts opacity of labels too
+          // zoom adjusts opacity of labels, with a minimum so they stay readable
           const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
+          let scaleOpacity = Math.max((scale - 1) / 3.75, 0.8)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
           for (const label of labelsContainer.children) {

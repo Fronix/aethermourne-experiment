@@ -9,6 +9,16 @@ type: overview
 
 A mythic dark fantasy world built on the bones of dead gods, where everything beautiful is also haunted.
 
+## About This Project
+
+Aethermourne is an experiment in AI-generated worldbuilding. Every piece of content on this site, the lore, the history, the NPCs, the factions, the regions, the campaign, all of it, was created entirely by AI. No human-written worldbuilding exists in this vault.
+
+The goal is simple: to see how far AI can go in creating a cohesive, deep, and playable TTRPG setting. The world uses the Nimble TTRPG system and is designed to be run at an actual table, not just read as fiction.
+
+The infrastructure behind this site (the Quartz setup, Docker configuration, and deployment pipeline) was also AI-assisted.
+
+The entire project is free to use for anyone, licensed under MIT. You can find the source on [GitHub](https://github.com/Fronix/aethermourne-experiment).
+
 ---
 
 ## Explore the World
