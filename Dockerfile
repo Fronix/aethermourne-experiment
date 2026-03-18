@@ -1,5 +1,5 @@
 # Stage 1: Build the static site
-FROM node:22-slim AS builder
+FROM node:22 AS builder
 
 RUN corepack enable && corepack prepare pnpm@latest --activate
 
