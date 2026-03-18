@@ -20,7 +20,7 @@ ARG BASE_URL=localhost
 ENV BASE_URL=${BASE_URL}
 
 # Build the static site
-RUN npx quartz build
+RUN node --no-deprecation ./quartz/bootstrap-cli.mjs build
 
 # Stage 2: Serve with Nginx
 FROM nginx:alpine
