@@ -1,5 +1,5 @@
 # Stage 1: Build the static site
-FROM node:22 AS builder
+FROM node:22-alpine AS builder
 
 RUN corepack enable && corepack prepare pnpm@latest --activate
 
