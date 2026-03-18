@@ -1,0 +1,18 @@
+# Node
+site/node_modules/
+site/public/
+
+# Obsidian
+.obsidian/workspace.json
+
+# Agent configs
+.opencode/
+.Claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+nul
+*.log

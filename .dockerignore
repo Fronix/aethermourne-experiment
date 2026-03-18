@@ -1,0 +1,20 @@
+# Obsidian internals
+.obsidian/
+
+# Agent configs
+.opencode/
+.Claude/
+
+# Git
+.git/
+
+# Node modules (we install fresh in Docker)
+site/node_modules/
+
+# Build output
+site/public/
+
+# Misc
+*.log
+nul
+AGENTS.md
