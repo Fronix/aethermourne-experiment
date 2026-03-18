@@ -2,6 +2,10 @@
 site/node_modules/
 site/public/
 
+# Copied vault content for local preview (only index.md should be committed)
+site/content/*
+!site/content/index.md
+
 # Obsidian
 .obsidian/workspace.json
 
