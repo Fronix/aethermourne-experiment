@@ -6,7 +6,7 @@ A mythic dark fantasy TTRPG world built on the bones of dead gods, published as 
 
 **Tools used:**
 - **[Claude](https://claude.ai)** (Anthropic) — All worldbuilding content, lore, and narrative design
-- **[OpenCode](https://github.com/anthropics/opencode)** (Anthropic) — Infrastructure setup, Quartz configuration, Docker pipeline, deployment, and site customization
+- **[OpenCode](https://github.com/anomalyco/opencode)** (Anthropic) — Infrastructure setup, Quartz configuration, Docker pipeline, deployment, and site customization
 - **[Obsidian](https://obsidian.md)** — Knowledge base and vault structure
 
 The AI agents, slash commands, and skills that drive the worldbuilding workflow are all included in the [`.opencode/`](.opencode/) directory. See the [OpenCode Configuration](#opencode-configuration) section below for details.
@@ -19,7 +19,7 @@ The vault is automatically built and deployed as a static website via Docker.
 
 ## OpenCode Configuration
 
-The [`.opencode/`](.opencode/) directory contains the full AI-driven worldbuilding workflow. Everything here is used by [OpenCode](https://github.com/anthropics/opencode) to power the content creation process.
+The [`.opencode/`](.opencode/) directory contains the full AI-driven worldbuilding workflow. Everything here is used by [OpenCode](https://github.com/anomalyco/opencode) to power the content creation process.
 
 ### Agents
 

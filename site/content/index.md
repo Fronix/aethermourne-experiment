@@ -17,7 +17,7 @@ The goal is simple: to see how far AI can go in creating a cohesive, deep, and p
 
 **Tools used:**
 - **[Claude](https://claude.ai)** (Anthropic), all worldbuilding content, lore, and narrative design
-- **[OpenCode](https://github.com/anthropics/opencode)** (Anthropic), infrastructure setup, Quartz configuration, Docker pipeline, deployment, and site customization
+- **[OpenCode](https://github.com/anomalyco/opencode)** (Anthropic), infrastructure setup, Quartz configuration, Docker pipeline, deployment, and site customization
 - **[Obsidian](https://obsidian.md)**, knowledge base and vault structure
 
 The AI agents, slash commands, and worldbuilding templates that power the content creation workflow are all open source and available in the repository's [`.opencode/` directory](https://github.com/Fronix/aethermourne-experiment/tree/main/.opencode).
