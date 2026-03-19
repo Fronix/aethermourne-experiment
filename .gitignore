@@ -9,8 +9,13 @@ site/content/*
 # Obsidian
 .obsidian/workspace.json
 
-# Agent configs
-.opencode/
+# OpenCode - include agents, commands, skills; exclude runtime files
+.opencode/node_modules/
+.opencode/bun.lock
+.opencode/package.json
+.opencode/.gitignore
+
+# Claude Code
 .Claude/
 
 # OS

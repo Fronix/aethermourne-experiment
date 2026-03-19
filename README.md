@@ -2,7 +2,14 @@
 
 A mythic dark fantasy TTRPG world built on the bones of dead gods, published as a website using [Quartz](https://quartz.jzhao.xyz/).
 
-> **Disclosure:** This entire world, including all lore, NPCs, factions, regions, history, and campaign content, is **100% AI-generated**. This project is an experiment to explore how far AI can go in creating a cohesive, deep, and playable TTRPG setting. No human-written worldbuilding exists in this vault. The infrastructure (Quartz setup, Docker config, deployment) was also AI-assisted.
+**This entire world, including all lore, NPCs, factions, regions, history, and campaign content, is 100% AI-generated.** This project is an experiment to explore how far AI can go in creating a cohesive, deep, and playable TTRPG setting. No human-written worldbuilding exists in this vault.
+
+**Tools used:**
+- **[Claude](https://claude.ai)** (Anthropic) — All worldbuilding content, lore, and narrative design
+- **[OpenCode](https://github.com/anthropics/opencode)** (Anthropic) — Infrastructure setup, Quartz configuration, Docker pipeline, deployment, and site customization
+- **[Obsidian](https://obsidian.md)** — Knowledge base and vault structure
+
+The AI agents, slash commands, and skills that drive the worldbuilding workflow are all included in the [`.opencode/`](.opencode/) directory. See the [OpenCode Configuration](#opencode-configuration) section below for details.
 
 ## Overview
 
@@ -10,10 +17,50 @@ Aethermourne is an Obsidian vault containing worldbuilding content for a dark fa
 
 The vault is automatically built and deployed as a static website via Docker.
 
+## OpenCode Configuration
+
+The [`.opencode/`](.opencode/) directory contains the full AI-driven worldbuilding workflow. Everything here is used by [OpenCode](https://github.com/anthropics/opencode) to power the content creation process.
+
+### Agents
+
+| Agent | Description |
+|---|---|
+| [`gm.md`](.opencode/agents/gm.md) | Primary GM assistant for lore lookup, GM craft advice, and command routing |
+| [`lore-audit.md`](.opencode/agents/lore-audit.md) | Exhaustive lore consistency auditor for cross-referencing and contradiction detection |
+
+### Slash Commands
+
+| Command | Description |
+|---|---|
+| [`/worldbuild`](.opencode/commands/worldbuild.md) | Create or expand world content (single topic) |
+| [`/expand-region`](.opencode/commands/expand-region.md) | Bulk-generate all missing location files for a region |
+| [`/enrich-npcs`](.opencode/commands/enrich-npcs.md) | Bulk-enrich thin NPC files with backstory, relationships, and roleplay cues |
+| [`/npc`](.opencode/commands/npc.md) | Look up an existing NPC or create a new one |
+| [`/plan-session`](.opencode/commands/plan-session.md) | Plan a new session for The Second Silence |
+| [`/process-transcript`](.opencode/commands/process-transcript.md) | Process a session transcript into narrative summary and update tracking files |
+| [`/after-session`](.opencode/commands/after-session.md) | Post-session checklist to update all tracking files |
+| [`/recap`](.opencode/commands/recap.md) | Generate a current world-state briefing and opening monologue |
+| [`/player-arc`](.opencode/commands/player-arc.md) | Develop a PC's personal story arc |
+
+### Skills
+
+| Skill | Description |
+|---|---|
+| [`obsidian-markdown`](.opencode/skills/obsidian-markdown/SKILL.md) | Formatting rules for Obsidian-native markdown (wikilinks, callouts, frontmatter) |
+| [`session-template`](.opencode/skills/session-template/SKILL.md) | Template structure for session documents |
+| [`worldbuilding-templates`](.opencode/skills/worldbuilding-templates/SKILL.md) | Canonical templates for settlements, landmarks, NPCs, creatures, and artifacts |
+
+## License
+
+[MIT](LICENSE)
+
+---
+
 ## Project Structure
 
 ```
 ├── Aethermourne/       # Obsidian vault content (world lore, NPCs, factions, etc.)
+├── .opencode/          # AI agents, commands, and skills for OpenCode
 ├── site/               # Quartz static site generator
 │   ├── quartz.config.ts
 │   ├── quartz.layout.ts
@@ -81,7 +128,3 @@ docker build --build-arg BASE_URL=aethermourne.example.com -t aethermourne .
 3. Ports Exposes: **80**
 4. Set the `BASE_URL` build argument to your domain
 5. Configure a webhook for auto-deploy on push
-
-## License
-
-[MIT](LICENSE)

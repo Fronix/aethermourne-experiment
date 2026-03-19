@@ -15,7 +15,12 @@ Aethermourne is an experiment in AI-generated worldbuilding. Every piece of cont
 
 The goal is simple: to see how far AI can go in creating a cohesive, deep, and playable TTRPG setting. The world uses the Nimble TTRPG system and is designed to be run at an actual table, not just read as fiction.
 
-The infrastructure behind this site (the Quartz setup, Docker configuration, and deployment pipeline) was also AI-assisted.
+**Tools used:**
+- **[Claude](https://claude.ai)** (Anthropic), all worldbuilding content, lore, and narrative design
+- **[OpenCode](https://github.com/anthropics/opencode)** (Anthropic), infrastructure setup, Quartz configuration, Docker pipeline, deployment, and site customization
+- **[Obsidian](https://obsidian.md)**, knowledge base and vault structure
+
+The AI agents, slash commands, and worldbuilding templates that power the content creation workflow are all open source and available in the repository's [`.opencode/` directory](https://github.com/Fronix/aethermourne-experiment/tree/main/.opencode).
 
 The entire project is free to use for anyone, licensed under MIT. You can find the source on [GitHub](https://github.com/Fronix/aethermourne-experiment).
 
