@@ -50,10 +50,6 @@ The [`.opencode/`](.opencode/) directory contains the full AI-driven worldbuildi
 | [`session-template`](.opencode/skills/session-template/SKILL.md) | Template structure for session documents |
 | [`worldbuilding-templates`](.opencode/skills/worldbuilding-templates/SKILL.md) | Canonical templates for settlements, landmarks, NPCs, creatures, and artifacts |
 
-## License
-
-[MIT](LICENSE)
-
 ---
 
 ## Project Structure
