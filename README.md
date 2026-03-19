@@ -17,6 +17,37 @@ Aethermourne is an Obsidian vault containing worldbuilding content for a dark fa
 
 The vault is automatically built and deployed as a static website via Docker.
 
+---
+
+## Create Your Own World
+
+Want to use this setup for your own TTRPG world? Fork the repo, then run the setup script:
+
+```bash
+git clone https://github.com/Fronix/aethermourne-experiment.git my-world
+cd my-world
+./setup.sh
+```
+
+The script will ask you for:
+- **World name** (e.g. "Eldoria")
+- **Campaign name** (e.g. "The Shattered Crown")
+- **Tone** (a 1-2 sentence description of your world's vibe)
+
+It then generates:
+- A full Obsidian vault folder structure with starter files
+- All OpenCode agents, commands, and skills configured for your world
+- Updated Quartz config and Dockerfile
+
+From there, fire up [OpenCode](https://github.com/anomalyco/opencode) and start building:
+
+```bash
+opencode
+/worldbuild [your first topic]
+```
+
+---
+
 ## OpenCode Configuration
 
 The [`.opencode/`](.opencode/) directory contains the full AI-driven worldbuilding workflow. Everything here is used by [OpenCode](https://github.com/anomalyco/opencode) to power the content creation process.
