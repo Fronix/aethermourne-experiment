@@ -63,6 +63,42 @@ type: overview
 | [[Senna Deepmoss\|Warden Senna Deepmoss]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
 | [[Merren Vask\|Scout-Captain Merren Vask]] | Lost Scout (Remnant) | [[The Pale Wastes]] | [[The Ashen Vigil]] | Undead |
 | [[Nara Frostmere\|Holdwarden Nara Frostmere]] | Former Holdwarden | [[The Pale Wastes]] | The Holds (Frostmere) | Dead |
+| [[Maren Duskwater]] | Fenmother | [[The Greymere Fenlands]] | [[The Confluence Council]] | Alive |
+| [[Wick]] | Fencrafter Prodigy | [[The Greymere Fenlands]] | None | Alive |
+| [[Torben Greaves]] | Master Smuggler | [[The Greymere Fenlands]] | None | Alive |
+| [[Old Fenris]] | Confluence Elder | [[The Greymere Fenlands]] | [[The Confluence Council]] | Alive |
+| [[Captain Hale Ashmark]] | Dominion Officer | [[The Greymere Fenlands]] | [[Order of the Ashen Flame]] | Alive |
+| [[Sera Gloomhollow]] | Bandit Queen | [[The Greymere Fenlands]] | None | Alive |
+| [[Brother Lumen]] | Nethys Researcher | [[The Greymere Fenlands]] | [[The Star-Readers]] (defrocked) | Alive |
+| [[Nettie Bridgeborn]] | Information Broker | [[The Greymere Fenlands]] | None | Alive |
+| [[Yrsa Bloodhand]] | Iron Thane | [[The Ironmarch]] | None (Iron Thane) | Alive |
+| [[Quartermaster Voss Irenthal]] | Quartermasters' Circle Head | [[The Ironmarch]] | [[The Quartermasters Circle]] | Alive |
+| [[Sira Embersteel]] | Master Weaponsmith | [[The Ironmarch]] | None | Alive |
+| [[Harsk the Quiet]] | Mercenary Captain | [[The Ironmarch]] | [[The Iron Companies]] | Alive |
+| [[Alder Brightfield]] | Mayor of Duskfield | [[The Ironmarch]] | None | Alive |
+| [[Captain Neve Stormhull]] | Harbor Master | [[The Ironmarch]] | None | Alive |
+| [[Factor Gellen Ashworth]] | Fragment Monitor | [[The Ironmarch]] | [[The Ember Guild]] | Alive |
+| [[Mira the Red]] | Warlord Challenger | [[The Ironmarch]] | None | Alive |
+| [[Tyrell Vane\|Edgewalker Tyrell Vane]] | Senior Edgewalker | [[The Shattered Edge]] | [[The Accord of Echoes]] | Alive |
+| [[Lysara Shimmerborn]] | Head Researcher | [[The Shattered Edge]] | None | Alive |
+| [[Oren Blackfinger\|Dust-Trader Oren Blackfinger]] | Dust Merchant | [[The Shattered Edge]] | None | Alive |
+| [[The Mirror]] | Shapeshifter Spy | [[The Shattered Edge]] | None | Alive |
+| [[Kessa Thornwall\|Warden Kessa Thornwall]] | Edgewatch Commander | [[The Shattered Edge]] | [[The Accord of Echoes]] | Alive |
+| [[Prior Echoes]] | Vorrhyn Philosopher-Priest | [[The Shattered Edge]] | [[The Echoists]] | Alive |
+| [[Brunhild Ironheart\|Forge-Matriarch Brunhild Ironheart]] | Forge Council Head | [[The Emberveil]] | [[The Forge Council]] | Alive |
+| [[Orin Deepstone\|Delver-Captain Orin Deepstone]] | Deep Mining Commander | [[The Emberveil]] | [[The Forge Council]] | Alive |
+| [[Ashara Cinderbloom\|Mender Ashara Cinderbloom]] | Head Healer | [[The Emberveil]] | None | Alive |
+| [[Polara Facet\|Gemwright Polara Facet]] | Jewelers' Conclave Master | [[The Emberveil]] | None | Alive |
+| [[Tarn Smokeshield\|Warden Tarn Smokeshield]] | Smokewall Commander | [[The Emberveil]] | [[The Forge Council]] | Alive |
+| [[Apprentice Jyn]] | Grand Forge Apprentice | [[The Emberveil]] | [[The Ember Guild]] | Alive |
+| [[Corrin Ashveil\|Factor Corrin Ashveil]] | Ember Guild Historian | [[The Emberveil]] | [[The Ember Guild]] | Alive |
+| [[Vessa Ironvow]] | Rogue Miner | [[The Emberveil]] | None | Alive |
+| [[Yara Thornbloom\|Cyclekeeper Yara Thornbloom]] | Senior Cyclekeeper | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
+| [[Kael Duskborne\|Warden Kael Duskborne]] | Military Leader | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
+| [[Revenant Moss]] | Community Leader | [[The Thornwild]] | None | Undead |
+| [[Root-Speaker Fennara]] | Heretical Druid | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
+| [[Garret Boneharvest]] | Cycle-Material Trader | [[The Thornwild]] | None | Alive |
+| [[The Bloom-Wraith]] | Cycle Entity | [[The Thornwild]] | None | Unknown |
 
 ---
 
@@ -127,6 +163,67 @@ type: overview
 | [[Merren Vask\|Scout-Captain Merren Vask]] | Lost Scout (Remnant) | Hollowdeep | [[The Ashen Vigil]] |
 | [[Nara Frostmere\|Holdwarden Nara Frostmere]] | Former Holdwarden | [[Frostmere]] | The Holds |
 
+### The Greymere Fenlands
+
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Maren Duskwater]] | Fenmother | [[Fenholm]] | [[The Confluence Council]] |
+| [[Wick]] | Fencrafter Prodigy | [[Glimwater]] | None |
+| [[Torben Greaves]] | Master Smuggler | [[The Drowning Bridge]] | None |
+| [[Old Fenris]] | Confluence Elder | [[Fenholm]] | [[The Confluence Council]] |
+| [[Captain Hale Ashmark]] | Dominion Officer | [[Ashcreek]] | [[Order of the Ashen Flame]] |
+| [[Sera Gloomhollow]] | Bandit Queen | Deep Fen | None |
+| [[Brother Lumen]] | Nethys Researcher | [[Glimwater]] | [[The Star-Readers]] (defrocked) |
+| [[Nettie Bridgeborn]] | Information Broker | [[The Drowning Bridge]] | None |
+
+### The Ironmarch
+
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Yrsa Bloodhand]] | Iron Thane | [[Ironhaven]] | None (Iron Thane) |
+| [[Quartermaster Voss Irenthal]] | Quartermasters' Circle Head | [[The Red Garrison]] | [[The Quartermasters Circle]] |
+| [[Sira Embersteel]] | Master Weaponsmith | [[Wrathspire]] | None |
+| [[Harsk the Quiet]] | Mercenary Captain | [[The Red Garrison]] | [[The Iron Companies]] |
+| [[Alder Brightfield]] | Mayor of Duskfield | [[Duskfield]] | None |
+| [[Captain Neve Stormhull]] | Harbor Master | [[Shieldbreak]] | None |
+| [[Factor Gellen Ashworth]] | Fragment Monitor | [[Wrathspire]] | [[The Ember Guild]] |
+| [[Mira the Red]] | Warlord Challenger | Mobile | None |
+
+### The Shattered Edge
+
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Tyrell Vane\|Edgewalker Tyrell Vane]] | Senior Edgewalker | [[Riftmarket]] | [[The Accord of Echoes]] |
+| [[Lysara Shimmerborn]] | Head Researcher | [[The Last Certainty]] | None |
+| [[Oren Blackfinger\|Dust-Trader Oren Blackfinger]] | Dust Merchant | [[Riftmarket]] | None |
+| [[The Mirror]] | Shapeshifter Spy | Mobile | None |
+| [[Kessa Thornwall\|Warden Kessa Thornwall]] | Edgewatch Commander | [[Edgewatch]] | [[The Accord of Echoes]] |
+| [[Prior Echoes]] | Vorrhyn Philosopher-Priest | [[Riftmarket]] | [[The Echoists]] |
+
+### The Emberveil
+
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Brunhild Ironheart\|Forge-Matriarch Brunhild Ironheart]] | Forge Council Head | [[Crucible]] | [[The Forge Council]] |
+| [[Orin Deepstone\|Delver-Captain Orin Deepstone]] | Deep Mining Commander | [[Hearthdeep]] | [[The Forge Council]] |
+| [[Ashara Cinderbloom\|Mender Ashara Cinderbloom]] | Head Healer | [[Cinderfall]] | None |
+| [[Polara Facet\|Gemwright Polara Facet]] | Jewelers' Conclave Master | [[Anvilrest]] | None |
+| [[Tarn Smokeshield\|Warden Tarn Smokeshield]] | Smokewall Commander | [[Smokewall]] | [[The Forge Council]] |
+| [[Apprentice Jyn]] | Grand Forge Apprentice | [[Crucible]] | [[The Ember Guild]] |
+| [[Corrin Ashveil\|Factor Corrin Ashveil]] | Ember Guild Historian | [[Crucible]] | [[The Ember Guild]] |
+| [[Vessa Ironvow]] | Rogue Miner | Outer Warrens | None |
+
+### The Thornwild
+
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Yara Thornbloom\|Cyclekeeper Yara Thornbloom]] | Senior Cyclekeeper | [[Cyclethorn]] | [[The Cyclekeepers]] |
+| [[Kael Duskborne\|Warden Kael Duskborne]] | Military Leader | [[Cyclethorn]] | [[The Cyclekeepers]] |
+| [[Revenant Moss]] | Community Leader | [[Ashbloom]] | None |
+| [[Root-Speaker Fennara]] | Heretical Druid Leader | [[Rootpyre]] | [[The Cyclekeepers]] |
+| [[Garret Boneharvest]] | Cycle-Material Trader | [[Bone Garden]] | None |
+| [[The Bloom-Wraith]] | Cycle Entity | The Bonewood | None |
+
 ### Divine Figures
 
 *See [[The Twelve]] for full divine lore. Campaign-specific notes below.*
@@ -184,4 +281,9 @@ type: overview
 > - **Holdwarden / Commander / Revenant**, Pale Wastes titles
 > - **Scout-Captain / Factor**, Pale Wastes operational titles
 > - **Shipwright / Warden (Toll) / Elder**, minor Hollowed Reach titles
+> - **Fenmother / Confluence Elder**, Greymere Fenlands titles
+> - **Iron Thane / Quartermaster / Factor**, Ironmarch titles
+> - **Edgewalker / Prior / Dust-Trader**, Shattered Edge titles
+> - **Forge-Matriarch / Delver-Captain / Gemwright / Mender**, Emberveil titles
+> - **Cyclekeeper / Root-Speaker / Warden**, Thornwild titles
 > - All divine figures are referred to by name and epithet (e.g., "Serith, the Veiled One")
