@@ -1,5 +1,42 @@
 # Changelog
 
+## 2026-03-21, Bulk NPC Enrichment (40 Files)
+
+Enriched all 40 thin NPC files (under 50 lines) to the full enriched template (60-90 lines). Each file now includes Appearance, Personality, Backstory, Relationships, What They Want, and expanded GM-only callouts with Campaign Role, Key Secret, Arc Trajectory, and Roleplay Notes with sample dialogue.
+
+### Files Enriched by Region
+
+**The Hollowed Reach (15):**
+- Lira Ashvane, Maren Selk, Celestine Vael, The Whisperer, Elara Duskmantle
+- Captain Rook Tessavar, Sable, Bryn Kellar, Dren Halwick, Aldren Vayne
+- Orna Dallow, Hanna Tide, Sera Greywater, Cordell Raith, Jessamine Kole
+- Abbot Cael (counted above, Weeping Isles)
+
+**The Ashen Dominion (9):**
+- Hierarch Valdren III, Ashara Voss, Delric Mourne, Elowen Greaves
+- Cassia Lorn, Edda Haelstrom, Prior Gault Ashworth, Captain Daren Kolst
+- Petra Venn
+
+**The Verdant Marches (8):**
+- Kaelith Thornborn, Elder Rosk, Draven Ironbark, Vael Sundren
+- Tessara Wildbloom, Ivara Mistwalker, Torvin Ashwalker, Brannoc Stillwater
+- Senna Deepmoss
+
+**The Pale Wastes (5):**
+- Bjorn Ashken, Thessa Ironveil, Revenant Yael, Merren Vask, Nara Frostmere
+
+**Mobile (1):**
+- Torren Hearthforge
+
+### Average Line Count
+- Before: 37 lines
+- After: 63 lines
+
+### Lore Note
+- Discovered discrepancy: Concord of Tides faction file names "Aldric Voss" as Tidekeeper of Secrets, while Tidewall settlement file and NPC file name Cordell Raith. Needs reconciliation.
+
+---
+
 ## 2026-03-20, Continental Expansion (5 New Regions)
 
 Massive worldbuilding expansion adding 5 new regions to Aethermourne, filling out the continent's empty geography. Each region has its own divine legacy, settlements, NPCs, factions, and hooks.
