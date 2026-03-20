@@ -198,3 +198,23 @@ Aethermourne/
 ## Tone
 
 Mythic dark fantasy. Decayed majesty. A world built on the bones of dead gods where everything beautiful is also haunted. Heroes exist but heroism is hard-won and leaves marks. Consequence-driven, morally complex, awe and unease in equal measure.
+
+---
+
+## GM Design Principles
+
+### The Three Clue Rule
+
+For any conclusion you want the players to reach, always include **at least three clues** pointing to it. This applies to mysteries, plot-critical revelations, hidden connections, and any situation where the players need to figure something out.
+
+**Why three?** Players will miss clues. They'll misinterpret them, overlook them, or go in an unexpected direction. Three clues means that even if they miss two, they still have a path forward. If they find all three, the conclusion feels earned and well-supported.
+
+**When generating content, apply this rule to:**
+- Session plans: any mystery, investigation, or plot gate must have 3+ independent clues
+- NPC designs: if an NPC holds a secret, there should be 3+ ways the players could discover it
+- Location descriptions: if a place contains something important, embed clues in the environment, NPCs present, and discoverable objects or documents
+- Plot threads: if a thread requires a specific revelation to advance, seed that revelation across 3+ sources (people, places, evidence)
+
+**Clue diversity matters.** The three clues should come through different channels: one might be found through investigation, another through social interaction, and a third through environmental observation. Don't cluster all clues in the same method of discovery.
+
+**Corollary: permissive clue-finding.** If the players come up with a reasonable approach that wasn't pre-planned, it should still work. Clues are not locked to specific skill checks or exact actions. Reward creative thinking by letting novel approaches reveal existing clues.
