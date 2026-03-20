@@ -39,7 +39,7 @@ This relationship has a material consequence: Solvaen's remains, particularly As
 
 **Lingering Influence**
 
-When Ur-Ghael's influence bleeds through weakened membranes, nearby populations develop compulsive pattern-seeking. They arrange objects in geometric formations without knowing why. They speak in rhythms. They see patterns in random noise and cannot stop themselves from tracing connections that may not exist. A village near [[The Maelstrom]] has been documented doing precisely this, its inhabitants spending their days arranging stones into spiraling mandalas with a devotion that borders on religious ecstasy.
+When Ur-Ghael's influence bleeds through weakened membranes, nearby populations develop compulsive pattern-seeking. They arrange objects in geometric formations without knowing why. They speak in rhythms. They see patterns in random noise and cannot stop themselves from tracing connections that may not exist. A village near [[The Shattered Edge|The Maelstrom]] has been documented doing precisely this, its inhabitants spending their days arranging stones into spiraling mandalas with a devotion that borders on religious ecstasy.
 
 The effect is not painful. It is not, strictly speaking, harmful. But it is deeply unsettling to watch, and it does not stop. The village has been arranging stones for three years. They do not appear distressed. They do not appear to have noticed.
 

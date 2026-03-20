@@ -28,11 +28,11 @@ The following items are known or theorized to exist within Kavothei's collection
 2. **The Empyrean's blueprints**: The architectural principles by which [[The Twelve]] built the divine realm. These would contain the foundational rules of creation itself, the source code of structured reality.
 3. **[[The Twelve#Nethys|Nethys]]'s memories, pre-shattering**: The goddess's complete consciousness from before she broke apart, including her full understanding of the [[Cosmology and Magic#Ley Lines and the Aetheric Web|Aetheric Web]], [[The Gyre]], and the Primordials. This alone would be worth any price.
 4. **The true names of the Gyre-Born**: The identities of the proto-entities that existed [[Before the Pattern|before the pattern]], knowledge that could reveal what creation was before the gods refined it.
-5. **An echo of [[The Twelve#Belara|Belara]]'s stolen essence**: When [[The Twelve#Kaevroth|Kaevroth]] consumed Belara's power, fragments of her nature leaked through the Boundary. Kavothei holds a copy, an impression, a ghost of the Wild goddess's essence in its original form.
+5. **An echo of [[The Twelve#Belara|Belara]]'s stolen essence**: When [[The Twelve#Kaevroth|Kaevroth]] consumed Belara's power, fragments of her nature leaked through the Boundary. Kavothei holds a copy, an impression, a ghost of the Gentle Flame's essence in its original form.
 6. **The original Empyrean Accord text**: The compact between all Twelve gods that established the rules of divine governance. The version known to mortal scholars is a summary. The original contains clauses that the gods never shared.
 7. **Songs from the last night before the Theomachis**: Music, conversation, laughter from the final hours before the gods went to war. The emotional record of a divine family on the eve of its destruction.
 8. **The names of every mortal killed in the Theomachis**: Every single one. Kavothei absorbed the death-echoes as they leaked through the Boundary in the cataclysm's aftermath.
-9. **[[The Twelve#Vorrhyn|Vorrhyn]]'s final words**: What the god of sky and freedom said in the instant before annihilation. Lost to creation when he was unmade. Preserved, somewhere, in Kavothei's collection.
+9. **[[The Twelve#Vorrhyn|Vorrhyn]]'s final words**: What the god of chaos and freedom said in the instant before annihilation. Lost to creation when he was unmade. Preserved, somewhere, in Kavothei's collection.
 10. **Pre-Twelve star charts**: Maps of the celestial sphere from before [[The Twelve#Aelindra|Aelindra]] encoded her knowledge into the stars. These would show the Boundary's original architecture, a baseline against which its current degradation could be measured.
 
 > [!warning]- GM Only

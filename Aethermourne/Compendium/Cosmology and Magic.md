@@ -54,11 +54,62 @@ The post-Theomachis cosmology is messy, overlapping, and poorly understood by th
 | **Morrhael's Domain** | Broken / Persistent | A pocket plane within [[The Twelve#Morrhael|Morrhael]]'s skull where the death-god's domain persists in shattered form. Souls that should have passed on are trapped here. |
 | **The Celestial Sphere** | Active / Remote | Where [[The Twelve#Aelindra|Aelindra]] retreated. The stars are her domain. Whether this is a true plane or an aspect of the mortal sky is debated, the answer may be both. |
 | **The Deep** | Active / Liminal | [[The Twelve#Yvenne|Yvenne]]'s ocean domain. More than just physical ocean, there are depths where the water becomes something else, where Yvenne's divine essence makes the sea a borderland between mortal reality and something older. |
+| **[[The Gyre]]** | Active / Foundational | The primordial substrate of raw, undifferentiated potential beneath all structured reality. The raw material from which [[The Twelve]] built creation. Connected to Aethermourne via the Aetheric Web's filtration and breached at [[The Shattered Edge\|The Maelstrom]]. |
+| **[[The Fathom]]** | Active / External | The vast alien expanse outside the boundary of creation. Separated from creation by the celestial sphere (the stars). Its nature is fundamentally incompatible with creation's rules. The boundary is weakening as stars go dark. |
 
 > [!warning]- GM Cosmology Notes
 > **The Loom still functions**, but only in fragments. Orenthas's death didn't destroy it, it severed the weaver from the loom. Threads of fate still exist, but nothing is actively weaving them into patterns. This is why prophecy in Aethermourne is unreliable: futures still exist, but they aren't shaped into coherent destinies anymore. The campaign's central tension is that someone, or something, may be trying to take up the weaving again.
 >
 > **Morrhael's Domain** is the afterlife, and it is broken. This is the most immediately urgent cosmological problem: the dead have nowhere to go. [[The Pale Wastes]] are what happens when death itself is dying.
+
+---
+
+## Beyond Creation: The Outer Planes
+
+The Three Planes, the Empyrean, Aethermourne, and the Loom, were not all that existed. They were merely all that [[The Twelve]] built, all that mortals were meant to inhabit and comprehend. Beyond the boundaries of this structured creation lie planes far older and far stranger, planes the gods drew from, built walls against, and never spoke of to their mortal children.
+
+Two have been identified by scholars piecing together fragments from [[The Star-Readers]], [[The Last Certainty]], and sealed Lantern-Keeper archives: [[The Gyre]], the primordial substrate beneath and within all structured reality, and [[The Fathom]], the alien expanse outside creation's boundary. Together with the structured planes, they form a cosmological architecture far more complex, and far more fragile, than the tripartite model most theologians still teach.
+
+Understanding these outer planes reframes everything about Aethermourne's crisis. The Second Silence is not merely a magical decline. It is the failure of every divine mechanism that kept structured reality insulated from what lies above, below, and beyond.
+
+> [!info] The Cosmological Stack
+> The full structure of reality, from outermost to innermost:
+>
+> - **[[The Fathom]]**, the vast alien beyond, surrounding everything
+>   - **[[The Boundary Architecture|The Boundary]]**, the celestial sphere, the stars, the edge of creation
+>     - **The Shattered Empyrean**, the divine realm, now collapsed
+>       - **Aethermourne**, the mortal world
+>         - **[[The Gyre]]**, the primordial substrate, raw potential within and below
+> - **The Loom of Fate** threads through all layers, from the Gyre to the Boundary
+
+### The Gyre
+
+[[The Gyre]] is the raw, undifferentiated potential from which [[The Twelve]] drew the substance of creation. It is not a void or an absence but a plenitude, everything that could ever exist, existing simultaneously without form or differentiation. It sits beneath and within all structured reality, the foundation on which the world rests.
+
+The Aetheric Web does not merely distribute magic; it also functions as a filtration membrane, drawing raw potential upward from the Gyre and converting it into the structured magical energy mortals can use. The [[The Shattered Edge|Maelstrom]], where [[The Twelve#Vorrhyn|Vorrhyn]] was destroyed, is the largest known breach in this membrane, a wound where unfiltered Gyre-potential bleeds directly into reality. The Gyre is also the home of [[The Primordials#The Gyre Primordials|the Gyre Primordials]], five vast foundational presences that predate the gods. See [[The Gyre]] and [[The Membrane]] for full details.
+
+### The Fathom
+
+[[The Fathom]] is what exists outside the boundary of creation, a fundamentally different kind of existence operating under rules entirely unrelated to those [[The Twelve]] established. It is not empty, not hostile, but alien in the deepest sense: its nature is incompatible with creation's architecture the way deep water is incompatible with air-breathing.
+
+The stars are not merely lights in the sky. They are structural anchor points, elements of the [[The Boundary Architecture|celestial sphere]] that [[The Twelve#Aelindra|Aelindra]] now inhabits and maintains. This boundary keeps the Fathom's nature from flooding inward. But stars are going dark, one by one, and each darkened star is a weakened point in the membrane. The Fathom is home to [[The Primordials#The Fathom Entities|five alien presences]], intelligences that observe, collect, or press against creation's boundary. See [[The Fathom]] and [[The Boundary Architecture]] for full details.
+
+### The Primordials
+
+[[The Primordials]] are forces and entities that predate [[The Twelve]]. They are not gods. Gods chose what they would be, crystallizing from raw potential into defined beings with defined domains. The Primordials never chose, never narrowed, and remain what they have always been: vast, unresolved, and absolute. Five exist within [[The Gyre]] as foundational processes (the tendency toward pattern, dissolution, recursion, emergence, and stillness) and five exist within [[The Fathom]] as alien intelligences whose nature and motives are fundamentally incomprehensible. They do not care about mortals. But their influence is bleeding through as the divine mechanisms that once insulated creation from them continue to fail.
+
+### The Boundary
+
+The [[The Boundary Architecture|celestial sphere]] was built and maintained by [[The Twelve]] as the outermost wall of creation, separating everything the gods built from the alien expanse of [[The Fathom]]. The stars are its anchor points, structural elements that hold the membrane taut. [[The Twelve#Aelindra|Aelindra]] retreated to this boundary after the Theomachis and now serves as its last conscious guardian.
+
+The Boundary is degrading. Stars go dark, and each one that fails weakens the membrane. This is not the same crisis as the Second Silence's magical decline, though the two compound each other. Serith's sabotage of the Aetheric Web accelerates the decay of internal magical infrastructure, while the Boundary's erosion is a separate, slower failure of the outermost wall. Both are happening simultaneously, and solving one does not solve the other.
+
+### Connection to the Second Silence
+
+The full cosmological picture reveals that the Second Silence is not a single crisis but a cascade of interlocking failures. The Aetheric Web is being sabotaged, the death-cycle is broken, the Loom of Fate is unwoven, and the Boundary is eroding. Each failure worsens the others: a weakening Web means less filtered Gyre-potential reaching the surface, which destabilizes ley lines, which accelerates magical decline, which makes the Boundary harder to maintain. Even if the players resolve the immediate threat of [[The Twelve#Serith|Serith]], the Boundary crisis remains, a problem on a scale that may be beyond mortal capacity to address.
+
+> [!warning]- GM Only
+> Most of this cosmological picture is unknown to the people living in Aethermourne. The Shattered Edge communities know the Maelstrom is dangerous but not why. The [[The Star-Readers|Star-Readers]] have fragments of the truth, particularly regarding the Boundary and the darkening stars, but their scholarship is incomplete and often dismissed by mainstream theologians. [[Lysara Shimmerborn]] suspects the existence of the outer planes based on her deep-ocean research but has no framework to confirm it. The Lantern-Keepers' deep-dive expeditions have produced sealed reports that describe encounters consistent with Fathom seepage, but these are classified. No single faction has the full picture. Assembling it would require cooperation between groups that distrust each other, which is, of course, precisely the kind of challenge worthy of a campaign arc.
 
 ---
 
@@ -221,7 +272,7 @@ The physical remains of the dead gods are the world's most valuable and dangerou
 
 ### Overview
 
-The Aetheric Web, Nethys's creation, still functions as the world's magical infrastructure. It is the circulatory system of Aethermourne's magic, carrying divine energy from the remains of the gods across the continent.
+The Aetheric Web, Nethys's creation, still functions as the world's magical infrastructure. It is the circulatory system of Aethermourne's magic, carrying divine energy from the remains of the gods across the continent. The Web also draws raw potential upward from [[The Gyre]] and filters it into usable magical energy, functioning as a boundary between structured reality and the primordial substrate as well as a distribution network.
 
 - **Ley Lines** run across the continent, connecting divine remains to each other and to the broader landscape. They are invisible to mundane sight but can be perceived by trained mages, certain animals, and anyone under the influence of divine materials.
 - **Confluences** are points where multiple ley lines intersect. These are sites of amplified magical energy, excellent for research and enchantment, dangerous for the unwary. Most major cities were built on confluences, knowingly or not.
@@ -238,6 +289,8 @@ The Aetheric Web, Nethys's creation, still functions as the world's magical infr
 
 > [!warning]- GM Only
 > **The Web is Dying.** Nethys's fragmented consciousness is the only thing maintaining the ley lines, and she is losing coherence. If the Web fails entirely, magic in Aethermourne won't vanish, it will become wild, unstructured, and impossibly dangerous. Every spell would essentially be a roll of the dice. This is the magical dimension of the Second Silence: not the absence of magic, but the loss of all control over it.
+>
+> If the Web fails, the membrane between structured reality and [[The Gyre]] thins everywhere. Unfiltered Gyre-potential bleeds upward. See [[The Membrane]] for details.
 
 ---
 
@@ -278,6 +331,8 @@ This is not a problem anyone can solve by finding more resources. It is an exist
 
 > [!warning]- GM Only
 > **The Secret Engine:** The Second Silence is accelerating because Serith is siphoning ley line energy from her prison in the Abyssal Trench. She is using it to weaken the barriers that hold her, slowly unraveling the Aetheric Web to free herself. The world's magical decline is not natural entropy, it is sabotage. If the players discover this, it reframes the entire crisis: the world isn't dying of old age. It's being murdered from within.
+>
+> The cosmological picture is even worse than Serith's sabotage suggests. The Boundary between creation and [[The Fathom]] is also weakening, a separate crisis that compounds the magical decline. See [[The Fathom]] and [[The Boundary Architecture]].
 
 ---
 
@@ -294,6 +349,8 @@ For GMs who need to quickly reference environmental magical effects:
 | **Nethys Fragment Event** | At confluences (rare) | Brief contact with Nethys's shattered consciousness | Low, usually beneficial, occasionally overwhelming |
 | **Necromantic Saturation** | The Pale Wastes (constant) | All magic risks necromantic contamination | High, cumulative and insidious |
 | **Empyrean Bleed** | Near divine remains | Shattered Empyrean "leaks" through, causing visions or spatial distortion | Variable, depends on proximity and duration |
+| **Gyre Bleed** | Near Maelstrom, Hollow Zones, ley surges | Unfiltered Primordial influence: compulsive patterns, dissolution, reality stuttering | Variable, subtle to severe depending on membrane integrity |
+| **Fathom Seepage** | Deep ocean, coastal during Black Tides, where stars have gone dark | Alien wrongness: impossible geometries, unnamed colors, biological rules that don't apply | Low to moderate, currently localized but increasing |
 
 ---
 
@@ -311,3 +368,9 @@ For GMs who need to quickly reference environmental magical effects:
 >
 > **What happens when the divine materials run out?**
 > No one knows. The most optimistic scholars believe the world will simply become non-magical, mundane, but livable. The pessimists believe that magic is now woven into the world's fundamental structure, and its removal would cause reality to unravel. The truth is probably somewhere in between, and probably worse than either prediction.
+>
+> **What are The Gyre and The Fathom?**
+> The outer planes. The Gyre is the raw substrate beneath creation, the material The Twelve used to build the world. The Fathom is the alien expanse outside creation's boundary. Both predate the gods. Neither is hostile, but both are incompatible with structured reality in their raw forms. See [[The Gyre]], [[The Fathom]], and [[The Primordials]].
+>
+> **What are the Primordials?**
+> Forces and entities that predate The Twelve. They are not gods. Five exist in The Gyre (vast processes like the tendency toward pattern or dissolution) and five exist in The Fathom (alien intelligences that observe, collect, or press against creation's boundary). They do not care about mortals. But their influence is bleeding through as divine mechanisms fail. See [[The Primordials]].

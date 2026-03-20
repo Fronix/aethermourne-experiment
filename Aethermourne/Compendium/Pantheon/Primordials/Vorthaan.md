@@ -39,7 +39,7 @@ Vorthaan is the force that makes gods mortal. Even divine structure, vast and en
 
 When Vorthaan bleeds through weakened membranes, things lose coherence. Buildings crumble faster than physics can explain. Memories fade from minds that should retain them. Names become difficult to recall, as if the words are dissolving before they can be spoken. Paint fades. Metal corrodes. Ink disappears from pages. Not destruction, never destruction, but the quiet, patient undoing of everything that was ever made.
 
-A stretch of road near [[The Maelstrom]] has been documented where travelers forget where they were going. They arrive at one end with clear purpose and arrive at the other with a vague sense that they had somewhere to be but cannot recall where or why. A library in a border town has been slowly losing its contents, books becoming blank page by page, the words simply ceasing to be.
+A stretch of road near [[The Shattered Edge|The Maelstrom]] has been documented where travelers forget where they were going. They arrive at one end with clear purpose and arrive at the other with a vague sense that they had somewhere to be but cannot recall where or why. A library in a border town has been slowly losing its contents, books becoming blank page by page, the words simply ceasing to be.
 
 > [!warning]- GM Only
 > Vorthaan's influence is an excellent tool for creating atmospheric dread without physical threat. A town where everything is slowly becoming less defined, where people's faces blur slightly when you look away, where yesterday's events feel like last year's, is profoundly unsettling without requiring a single combat encounter.

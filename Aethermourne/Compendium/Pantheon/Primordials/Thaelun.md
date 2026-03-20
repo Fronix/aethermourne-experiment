@@ -37,7 +37,7 @@ Thaelun is the youngest of the identified Gyre Primordials, in the sense that mu
 
 Reality stutters near Thaelun bleed-through. Things exist in multiple states simultaneously. A door that is open and closed. A person who appears young and old depending on the angle of observation. An animal that is alive and dead at once, moving and still, predator and prey. These phenomena are brief, usually lasting only seconds, but deeply disturbing to witness. The mind recognizes that what it is seeing is impossible, but the eyes insist.
 
-In severe cases, entire locations can enter a state of superposition, a house that is both standing and collapsed, a river that flows in two directions simultaneously, a forest clearing where it is day and night at the same time. These events are documented at the edges of [[The Maelstrom]] and nowhere else, which suggests the Maelstrom breach is the primary channel for Thaelun's influence.
+In severe cases, entire locations can enter a state of superposition, a house that is both standing and collapsed, a river that flows in two directions simultaneously, a forest clearing where it is day and night at the same time. These events are documented at the edges of [[The Shattered Edge|The Maelstrom]] and nowhere else, which suggests the Maelstrom breach is the primary channel for Thaelun's influence.
 
 > [!warning]- GM Only
 > The Maelstrom-Changed people at [[The Shattered Edge]], particularly those with probability-perception or precognitive flashes, may be Thaelun-adjacent. Their abilities are not true prophecy (which channels [[The Twelve#Orenthas|Orenthas]]'s Loom) but something stranger: a partial perception of multiple simultaneous realities, an echo of Thaelun's nature grafted onto a mortal mind.

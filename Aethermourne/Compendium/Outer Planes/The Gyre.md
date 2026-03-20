@@ -67,7 +67,7 @@ This means the Second Silence, the slow failure of the Aetheric Web, is not mere
 
 Below the membrane of structured reality, within the Gyre's eternal churning, there are presences. They are not gods. They are not beings in the way mortals understand the term. They are vast processes given a kind of awareness, forces of nature that predate the concept of "nature" itself. Mortal scholars who have glimpsed them, through the [[The Shattered Edge|Maelstrom]], through Nethys's fragments, through deep meditation at ley confluences, have given them names. These names are approximations, handles bolted onto phenomena that have no need for labels.
 
-Three have been tentatively identified. There are countless more, unnamed and unknown, moving through the Gyre's depths like currents in an ocean too vast to chart.
+Five have been tentatively identified. There are countless more, unnamed and unknown, moving through the Gyre's depths like currents in an ocean too vast to chart.
 
 ### Ur-Ghael, The First Pattern
 
@@ -89,6 +89,18 @@ Vorthaan is the reason the Gyre never resolves into permanent structure on its o
 The most alien of the three named Primordials. Thaelun is simultaneously many things at once, not shapeshifting, which implies a base form that changes, but genuinely *being* all possibilities at the same time. It is the living embodiment of the Gyre's nature: undifferentiated potential that has not yet chosen what to become.
 
 Mortals who glimpse Thaelun through the Maelstrom go mad, because their minds attempt to process infinite simultaneous realities through a consciousness designed to handle one reality at a time. The results are catastrophic. The "Foretouched" who have emerged from Maelstrom exposure carrying fragments of impossible knowledge may have brushed against the outermost edge of Thaelun's presence, receiving slivers of its infinite simultaneity.
+
+### Achren, The Hollow Between
+
+The principle of distinction itself. Every boundary in creation, every edge, every point where one thing ends and another begins, echoes Achren's nature. Without Achren, there would be no "this" and "that," only undifferentiated everything, a seamless, borderless totality without division or definition. Achren is the reason anything is distinct from anything else, the reason categories exist, the reason a river is not a mountain and a thought is not a stone.
+
+Achren is cold, precise, and absolutely necessary. It emerged when [[Ur-Ghael]]'s pattern-formation first created things that were distinct from each other. The moment there were two patterns instead of one, there was a space between them, and that space was Achren. [[The Twelve]] used Achren's principle as the foundation of the Boundary between creation and [[The Fathom]], amplifying it to cosmic scale. Every wall, every shore, every membrane in the architecture of existence is an echo of Achren's fundamental nature.
+
+### Yith, The Dreaming Deep
+
+Yith does not churn, pattern, dissolve, or separate. Yith *dreams*. It exists in perpetual reverie, a state of consciousness that has no waking counterpart, no beginning, and no end. Its dreams leak upward through the membrane between the Gyre and structured reality as visions, inspirations, creative impulses, and, occasionally, madness.
+
+Of all the Gyre Primordials, Yith is the most approachable, not because it is conscious of mortals, not because it is friendly, but because its influence manifests as something mortals recognize: dreams. Some scholars at [[The Last Certainty]] have proposed a theory so audacious it borders on heresy: that the Gyre itself is Yith's dream, that the churning potential of the substrate is the content of a mind too vast to comprehend, dreaming all possibilities simultaneously. This is probably metaphor. But the Gyre is a place where "probably" is a weak word.
 
 > [!warning]- GM Only
 > The Primordials are not threats about to invade. They are forces of nature. You do not fight them any more than you fight gravity. They have no interest in the mortal world, because interest implies focus, and focus implies choosing one thing over another, which is fundamentally alien to the Gyre's nature.
@@ -193,7 +205,7 @@ The shattered goddess perceived the Gyre directly in life, and her fragments ret
 | **Relationship to Creation** | Source material from which the Twelve built the Empyrean and Aethermourne |
 | **Relationship to Magic** | The Aetheric Web filters Gyre-potential into usable magical energy |
 | **Primary Breach** | [[The Shattered Edge\|The Maelstrom]], where Vorrhyn's annihilation punched through the membrane |
-| **Named Primordials** | Ur-Ghael (pattern), Vorthaan (dissolution), Thaelun (simultaneity) |
+| **Named Primordials** | Ur-Ghael (pattern), Vorthaan (dissolution), Thaelun (simultaneity), Achren (separation), Yith (dreaming) |
 | **Ecology** | Three layers: Shallows, Currents, Deep Churn. See [[Ecology of the Gyre]] |
 | **Gyre Fauna** | Quasi-entities that crystallize and dissolve. See [[Ecology of the Gyre#Gyre Fauna]] |
 | **The Membrane** | The barrier between structure and substrate. See [[The Membrane]] |
