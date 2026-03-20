@@ -39,6 +39,11 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Hollowed Reach]]** , salt-stained coast of fog and ruin
 - **[[The Verdant Marches]]** , untamed wilderness that remembers
 - **[[The Pale Wastes]]** , frozen silence at the edge of the world
+- **[[The Greymere Fenlands]]** , lawless marshland where shattered magic pools and glows
+- **[[The Ironmarch]]** , war-scarred east where a dead god's fury still bleeds
+- **[[The Shattered Edge]]** , communities ringing the wound where reality broke
+- **[[The Emberveil]]** , volcanic highlands above a god's still-burning forge
+- **[[The Thornwild]]** , cursed northwest where life and death cycle as one
 
 ## Factions
 
