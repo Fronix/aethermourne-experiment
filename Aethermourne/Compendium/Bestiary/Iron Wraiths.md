@@ -47,3 +47,19 @@ Iron Wraiths cannot be reasoned with, but they can be outmaneuvered. Their battl
 > The party crests a ridge on the Proving Grounds and sees a column of forty Iron Wraiths marching in perfect formation across the iron plain below. They are executing a flanking maneuver on nothing, wheeling around an enemy position that no longer exists. The party can avoid them by staying still, as the formation's battle plan does not include this ridge. But between the party and their destination, the Wraiths' patrol route crosses the only viable path.
 >
 > **Complication:** A detachment of six Wraiths has broken from the main column and is executing a scouting pattern that will bring them directly to the party's position within minutes. The party must decide: fight six now, or wait and risk forty.
+
+---
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Iron Wraith | 5 | H | 45 | 6 | +4 | +2 | +5 | 2d8 slashing (spectral iron blade) |
+>
+> **Special Abilities:**
+> - **Formation Fighting.** When adjacent to another Iron Wraith, damage rolls gain +2 and attackers' damage against it is reduced by an additional die step.
+> - **Battle-Fury Aura.** Martial characters within 6 spaces must pass a DC 13 Will save or feel compelled to join the formation (stunned for 1 round on failure). Non-martial characters make the same save against fear.
+> - **Fixed Tactics.** Once committed to a maneuver, cannot change target or direction for 2 rounds. Exploitable with DC 14 Insight to predict movement.
+> - **War-Glyph Flare.** On death, releases a burst of war-essence in 2 space radius. DC 12 Will save or take 1d6 psychic damage and suffer disadvantage on Will saves for 1 minute.
+> **Bloodied:** War-glyphs flare permanently. Battle-Fury Aura DC increases to 15. Attacks become frenzied, dealing an additional 1d4 damage.
+> **Weakness:** Predictable battle plans. Identifying their current formation (DC 14 Insight or History) allows the party to exploit gaps and avoid their patrol routes entirely.
+> **Recommended Party Size:** 4 players of level 4-5 (per 4-6 Wraiths)

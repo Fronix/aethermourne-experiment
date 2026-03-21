@@ -50,3 +50,54 @@ The true danger is the ancient Forgeborn, the pre-Theomachis constructs that sti
 > The party is moving through the Forge Eternal when they hear the rhythmic clang of metal on metal ahead. Around a bend, they find a mid-scale Forgeborn methodically disassembling a larger construct that has fallen inactive. It has already incorporated one of the larger construct's weapon-arms into its own chassis and is reaching for a second. It has not noticed the party. Nearby, a cluster of blade-drones circles overhead in a holding pattern, waiting. If the party attacks or makes noise, the mid-scale Forgeborn designates them as a threat and the blade-drones descend. If the party waits, the Forgeborn finishes its work, stands, and reveals that it has grown half again its original size.
 >
 > **Escalation:** The noise of combat attracts more Forgeborn from deeper in the Forge. The party has three rounds before reinforcements arrive, and the reinforcements include something much larger.
+
+---
+
+## Stat Blocks
+
+> [!example] Stat Block (Nimble): Blade-Drone
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Blade-Drone | 1 | M | 12 | fly 8 | +0 | +4 | -2 | cutting pass 1d6+3 slashing |
+>
+> **Resistances/Immunities:** Immune to poison, psychic, necrotic. Vulnerable to lightning.
+>
+> **Special Abilities:**
+> - **Flyby:** Does not provoke opportunity attacks when flying out of reach.
+> - **Swarm Coordination:** When 3+ drones attack the same target in a round, each after the first gains +2 damage (max +6). A swarm of 10+ deals an additional 2d6 slashing per round.
+>
+> **Weakness:** Lightning damage shorts out articulation (stunned 1 round). Magnetic fields render them immobile. Bludgeoning is fully effective.
+
+> [!example] Stat Block (Nimble): Forgeborn Soldier
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Forgeborn Soldier | 4 | H | 55 | 6 | +3 | +1 | -1 | integrated weapon 1d10+4 slashing/piercing, or war-glyph 2d6 fire (3 space cone, Dex save DC 14, recharge 5-6) |
+>
+> **Resistances/Immunities:** Immune to poison, psychic, necrotic. Vulnerable to lightning.
+>
+> **Special Abilities:**
+> - **Salvage Protocol:** When it reduces another construct to 0 HP, spends 1 round incorporating parts, gaining +5 max HP.
+> - **Patrol Behavior:** Follows a fixed patrol route. Only attacks creatures entering its zone or attacking first.
+>
+> **Bloodied (half HP):** War-glyphs flicker erratically. The Soldier's patrol behavior breaks and it becomes aggressive, pursuing targets up to 12 spaces beyond its normal patrol zone.
+>
+> **Weakness:** Lightning deals double damage. War-glyphs can be disabled (Arcana DC 16, action, adjacent). Rust effects deal double damage.
+
+> [!example] Stat Block (Nimble): Ancient Forgeborn
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Ancient Forgeborn | 10 | H | 180 | 6 | +6 | +1 | +3 | war-blade 2d12+6 slashing, or war-glyph barrage 4d6 fire (6 space cone, Dex save DC 17) |
+>
+> **Resistances/Immunities:** Immune to poison, psychic, necrotic. Resistant to all non-magical physical damage. Vulnerable to lightning.
+>
+> **Special Abilities:**
+> - **Kaevroth's Authority:** Commands all Forgeborn within 24 spaces. Commanded Forgeborn gain +2 to damage and act with tactical intelligence (flanking, focus fire, retreat when damaged).
+> - **Adaptive Tactics:** After a creature hits with the same attack type twice, the Ancient gains +1 Armor category against that type for the remainder of the encounter.
+> - **Siege Engine:** Deals double damage to structures and objects.
+> - **War-Glyph Overcharge (1/encounter, Action):** All glyphs fire simultaneously. Every creature within 12 spaces makes Dex save DC 17 or takes 6d6 fire damage (half on success). Glyphs dim for 1d4 rounds afterward.
+>
+> **Bloodied (half HP):** Amber light blazes from every joint and glyph. The Ancient becomes reckless, gaining an extra attack each round but taking +2 damage from all sources.
+>
+> **Last Stand:** When reduced to 0 HP, the Ancient's war-glyphs overload. Every creature within 6 spaces makes Dex save DC 17 or takes 4d6 fire damage. All Forgeborn within 24 spaces lose Kaevroth's Authority and revert to basic patrol behavior.
+>
+> **Weakness:** Lightning deals double damage. If separated from lesser Forgeborn (no allies within 24 spaces), loses Authority and fights with disadvantage on the first attack each round.

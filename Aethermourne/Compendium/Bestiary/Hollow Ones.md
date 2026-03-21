@@ -45,3 +45,23 @@ A Hollow One near an ambitious mortal becomes a mirror of that ambition, adoptin
 
 > [!example] Sample Encounter
 > The party passes through a residential district on Level 7. The streets are populated, dozens of figures going about routines that look almost normal. A woman opens a shop that has no goods. A man sweeps a floor that is already clean. None of them look at the party, until the most ambitious PC draws too close. One Hollow One turns. Then another. Then six more, all facing the same PC, all tilting their heads at the same angle. They begin walking toward the PC, not threatening, just drawn, like moths to a lantern. The PC feels a faint tug at the edges of their thoughts.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Hollow One | 4 | None | 35 | 6 | +1 | +2 | -1 | grasping hands 1d6+3 bludgeoning |
+>
+> **Resistances/Immunities:** Immune to psychic damage, charm, and fear. There is nothing inside to affect.
+>
+> **Special Abilities:**
+> - **Ambition Mirror:** When within 6 spaces of a living mortal, copies posture, gait, and expressions. Within 2 spaces for more than 1 minute, begins speaking in the mortal's voice.
+> - **Identity Drain:** A creature starting its turn within 1 space makes Will save DC 13. Failure: 1d4 psychic damage and the Hollow One gains temporary HP equal to damage dealt. A creature fully drained becomes a Hollow One.
+> - **Synchronization:** When 3+ Hollow Ones are within 2 spaces, they share initiative and gain +1 to damage per additional Hollow One (max +3).
+>
+> **Bloodied (half HP):** The Hollow One's mimicry breaks down, its movements becoming jerky and its copied voice distorting into a hollow echo. Will save DC for Identity Drain drops to 11.
+>
+> **Weakness:** A creature that spends an action asserting its identity (stating its name, recounting a memory) forces all Hollow Ones within 6 spaces to make Will save DC 12 or be stunned until the end of the creature's next turn.

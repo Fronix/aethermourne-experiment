@@ -48,3 +48,26 @@ The storms cannot be fought, dispersed, or redirected through conventional means
 
 > [!example] Sample Encounter
 > The party is crossing the Ashfield on Level 1 when the guide they hired in Rustgate stops mid-sentence and looks at the sky. "Storm," she says, and starts running. The horizon behind the party darkens, not with clouds but with a churning wall of grey-black particulate that stretches from ground to sky. The party has roughly two minutes to find shelter before the Typhon reaches them. The nearest structure is a half-collapsed iron bunker four hundred yards away. Inside, three other travelers are already huddled, their faces wrapped in cloth, their skin raw and bleeding from a previous exposure. The storm hits the bunker like a fist, and iron ash begins sifting through the ceiling seams.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble): Ash Typhon (Environmental Hazard)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Ash Typhon | — | — | N/A | 8 (storm front) | — | — | — | environmental hazard (escalating) |
+>
+> **Escalation:**
+> - **Round 1, Ash Front:** Visibility 6 spaces. All creatures in the open take 1d4 slashing. Str save DC 12 or coughing imposes disadvantage on Perception.
+> - **Round 2, Full Storm:** Visibility 1 space. Open creatures take 2d6 slashing. Str save DC 14 or blinded until start of next turn. Breathing without filtration causes 1d4 additional damage.
+> - **Round 3+, Scouring:** Open creatures take 3d6 slashing. Str save DC 16 or gain 1 level of exhaustion (rust-lung). Exposed metal equipment: flat DC 13 or loses effectiveness. Communication beyond 1 space impossible.
+>
+> **Special Abilities:**
+> - **Shelter Degradation:** Imperfect shelter (cracked walls, loose seams) reduces damage by half. Only sealed, airtight structures provide full protection.
+> - **Duration:** 1d6 x 10 minutes. Add 10 minutes per significant battle in the area within the past 24 hours.
+> - **Warning Signs:** Perception DC 12 to notice pre-storm signs 2 minutes before arrival. Experienced Descent travelers notice automatically.
+>
+> **Weakness:** Cannot be fought. Shelter is the only defense. Storms do not enter areas below Level 4. Wind-control magic can create a 2 space calm bubble for 1d4 rounds (Arcana DC 16), but the caster takes full damage each round.
+>
+> **Encounter Note:** Any level. Scale consequences by shelter availability, not party strength.

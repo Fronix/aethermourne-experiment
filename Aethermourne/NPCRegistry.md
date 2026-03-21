@@ -33,6 +33,14 @@ type: overview
 | [[Bjorn Ashken\|Holdwarden Bjorn Ashken]] | Holdwarden of Greyhold | [[The Pale Wastes]] | The Holds (Greyhold) | Alive |
 | [[Thessa Ironveil\|Commander Thessa Ironveil]] | Vigil Commander | [[The Pale Wastes]] | [[The Ashen Vigil]] | Alive |
 | [[Revenant Yael]] | Remnant Leader | [[The Pale Wastes]] | [[Remnants Court\|The Remnants' Court]] | Undead |
+| [[Captain Erys Vane]] | Concord Harbormaster | [[The Unwritten Lands]] | [[Concord of Tides]] | Alive |
+| [[Prior Cael Drantine]] | Lead Missionary | [[The Unwritten Lands]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
+| [[Tidecaller Mirenne]] | Senior Priest | [[The Unwritten Lands]] | Tidecallers (Yvenne clergy) | Alive |
+| [[Salice]] | Smuggler Queen | [[The Unwritten Lands]] | Independent | Alive |
+| [[Vosh]] | Oldborn Observer | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| [[Speaker Dravos]] | Ash Reclaimers Leader | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| [[Speaker Kaelthen]] | Sealed Gate Leader | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| [[Speaker Yavenne]] | Open Hand Leader | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
 | [[The Twelve#Serith\|Serith, the Veiled One]] | Goddess of Shadow | Abyssal Trench | Her own | Imprisoned |
 | [[The Twelve#Aelindra\|Aelindra, the Star-Keeper]] | Goddess of Knowledge | Celestial Sphere | [[The Star-Readers]] | Alive (diminished) |
 | [[The Twelve#Yvenne\|Yvenne, the Depth-Singer]] | Goddess of the Sea | Deep Ocean | Her own | Alive (erratic) |
@@ -332,6 +340,19 @@ type: overview
 | [[The Iron Shepherd]] | Guide of the Descent | Mobile (all levels) | None |
 | [[The Ferryman's Shadow]] | Echo of Morrhael | Mobile (all levels) | None |
 | [[The Collector]] | Story-Keeper | Mobile (all levels) | Unknown |
+
+### The Unwritten Lands
+
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Captain Erys Vane]] | Concord Harbormaster | [[Tidecross]] | [[Concord of Tides]] |
+| [[Prior Cael Drantine]] | Lead Missionary | [[Tidecross]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
+| [[Tidecaller Mirenne]] | Senior Priest | [[Tidecross]] | Tidecallers (Yvenne clergy) |
+| [[Salice]] | Smuggler Queen | [[Tidecross]] | Independent |
+| [[Vosh]] | Oldborn Observer | [[Tidecross]] | [[The Oldborn Kingdoms]] |
+| [[Speaker Dravos]] | Ash Reclaimers Leader | [[Draveth]] | [[The Oldborn Kingdoms]] |
+| [[Speaker Kaelthen]] | Sealed Gate Leader | [[Keth'vaal]] | [[The Oldborn Kingdoms]] |
+| [[Speaker Yavenne]] | Open Hand Leader | [[Keth'vaal]] | [[The Oldborn Kingdoms]] |
 
 ### Divine Figures
 

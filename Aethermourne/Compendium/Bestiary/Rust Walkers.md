@@ -45,3 +45,46 @@ Late-stage Rust Walkers are essentially automatons. They patrol the Descent's co
 
 > [!example] Sample Encounter
 > The party finds a figure sitting against a wall on Level 3, legs extended, head bowed. Her hands are iron from the wrists down, dark and pitted with rust. She looks up when addressed. "How long have you been here?" she asks, and when the party answers, she nods slowly. "I said the same thing when I arrived. 'Just passing through.' That was, I think, four months ago. Maybe longer. I've stopped counting because counting means I still care about time, and caring about anything accelerates it." She holds up her iron hands. "I was a scribe. My hands were everything." She flexes her fingers, and the sound of grinding metal fills the corridor.
+
+---
+
+## Stat Blocks
+
+> [!example] Stat Block (Nimble): Rust Walker, Early Stage
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Rust Walker (Early) | 1 | None | 18 | 6 | +1 | +0 | -1 | iron fist 1d6+1 bludgeoning |
+>
+> **Special Abilities:**
+> - **Still Human:** Capable of speech and reason. Not hostile unless threatened. Iron hands grant advantage on grapple checks.
+>
+> **Weakness:** Lightning damage deals double. Can be reasoned with.
+
+> [!example] Stat Block (Nimble): Rust Walker, Mid Stage
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Rust Walker (Mid) | 3 | M | 45 | 4 | +3 | -1 | -1 | iron limb 1d8+3 bludgeoning |
+>
+> **Special Abilities:**
+> - **Grinding Movement:** Audible grinding within 12 spaces (cannot be stealthy).
+> - **Iron Weight:** Melee attacks deal an additional 1d4 bludgeoning from sheer mass. Cannot swim or float.
+> - **Fading Will:** Can still respond to speech with a 1-round delay. Will save DC 12 each day or lose one memory permanently.
+>
+> **Bloodied (half HP):** Iron plating cracks, revealing glimpses of the person beneath. The Walker speaks a single word from its former life.
+>
+> **Weakness:** Lightning damage deals double and stuns for 1 round.
+
+> [!example] Stat Block (Nimble): Rust Walker, Late Stage
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Rust Walker (Late) | 6 | H | 75 | 4 | +4 | -2 | -2 | iron limbs 2d8+4 bludgeoning |
+>
+> **Special Abilities:**
+> - **War-Essence Patrol:** Moves in fixed patrol patterns. Ignores creatures that do not obstruct its path or touch objects it guards.
+> - **Iron Body:** Immune to poison, psychic, and necrotic damage.
+> - **Synchronized Formation:** When two or more late-stage Rust Walkers are within 6 spaces, they move and attack in unison, gaining +2 to damage and +1 Armor category.
+> - **Residual Identity:** A PC who speaks the Walker's original name forces a Will save DC 15. Failure: the Walker freezes for 1 round. Success: it becomes enraged, gaining an extra attack for 2 rounds.
+>
+> **Bloodied (half HP):** The iron body groans and splits along old stress lines. For one round, the Walker's original face is visible beneath the iron, mouth open in a silent scream.
+>
+> **Weakness:** Lightning damage deals double and stuns for 1 round. Late-stage Walkers can be bypassed entirely by not interfering with their patrol route.

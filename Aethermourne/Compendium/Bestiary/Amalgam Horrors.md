@@ -46,3 +46,24 @@ The true threat of an Amalgam Horror is not physical. It is the choice it forces
 
 > [!example] Sample Encounter
 > A shape blocks the corridor in the Maw, a mass of iron-laced flesh the size of a cart, pressing against the walls. Four faces are visible. One is weeping silently. One is speaking rapidly in a language no one recognizes. One looks directly at the party's healer and says, clearly and calmly, "Please. I know you can separate us. I can feel it. Just pull me free and let the others go." The fourth face looks at the same healer and says, "She is lying. If you pull her free, the rest of us die. She knows this." Both faces appear completely sincere.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble): Amalgam Horror (4-Soul Variant)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Amalgam Horror | 6 | M | 95 | 4 | +4 | -1 | +1 | flailing limbs 2d8+4 bludgeoning (reach 2 spaces) |
+>
+> **Resistances:** Resistant to slashing (iron-laced flesh).
+>
+> **Special Abilities:**
+> - **Conflicting Impulses:** At the start of each turn, roll 1d4: (1) Aggressive, attacks nearest creature; (2) Pleading, does not attack, begs for help; (3) Panicked, moves randomly, Dash; (4) Calculating, attacks most vulnerable target with advantage.
+> - **Grapple:** On hit, target is grappled (Str DC 15 to escape) as multiple arms seize them.
+> - **Absorb:** If the Amalgam grapples a creature for 3 consecutive rounds, the creature begins merging. Str save DC 16 each round or take 2d6 necrotic damage. A creature reduced to 0 HP is absorbed permanently, adding +20 HP and a new face.
+> - **Faces Speak:** Each face speaks independently with contradictory information. Insight DC 14 to determine truthfulness.
+>
+> **Bloodied (half HP):** The Amalgam's conflicting impulses intensify. Roll 1d4 twice and use both results simultaneously (the body tears at itself while attacking, taking 1d6 damage at the start of each turn).
+>
+> **Weakness:** Radiant damage stuns it for 1 round as souls briefly separate. Fire is effective but all faces scream, forcing Will save DC 12 on creatures within 6 spaces or frightened for 1 round.

@@ -47,3 +47,22 @@ A Court Phantom identifies the fault lines in any relationship, the unspoken res
 
 > [!example] Sample Encounter
 > The party rests in a chamber off Ironhold's main hall. A wisp of smoke in a courtier's robe drifts to each PC in turn, lingering just long enough to murmur something. Pass each player a note with a true, uncomfortable fact about another party member, drawn from previous sessions. Then watch. The Court Phantom does not stay to see the result. It does not need to. It has already done its work.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Court Phantom | 7 | None | N/A | fly 6 | — | — | +5 | none (social hazard) |
+>
+> **Special Abilities:**
+> - **Whispered Truth:** Shares a true, damaging fact about one party member with another. No save. The information is always accurate.
+> - **Fault Line Detection:** Automatically identifies the strongest interpersonal tension in any group within 6 spaces. Targets this tension with surgical precision.
+> - **Indestructible Gossip:** Destroying the smoke form does nothing permanent. Reforms in a different part of Level 7 within hours. Will save DC 16 to stop listening once it begins speaking.
+> - **Cascading Distrust:** If a Court Phantom successfully creates conflict between two party members (GM adjudication), 1d4 more Phantoms are drawn within the hour.
+>
+> **Weakness:** Cannot affect creatures with no interpersonal relationships. Groups that openly discuss the Phantom's revelations and reaffirm trust render its whispers ineffective for 24 hours.
+>
+> **Encounter Note:** Social/roleplay encounter. Threat scales with party dynamics, not party level.

@@ -47,3 +47,24 @@ The distinction from Morrhael's undead is critical. The iron-laced undead that e
 
 > [!example] Sample Encounter
 > The party enters a chamber on Level 4 to find an iron-laced corpse standing motionless before an anvil, holding a hammer raised mid-strike. Its eye sockets burn with iron-orange light. It has been standing like this for what appears to be a very long time, based on the dust and Iron Mite tracks around its feet. As long as no one touches the anvil, the Dead is harmless. If anyone touches it, the Dead completes its strike, then turns toward the interloper with centuries of frustrated purpose behind its burning eyes.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | The Ambitious Dead | 4 | M | 50 | 5 | +3 | +0 | +4 | iron fist 1d10+4 bludgeoning |
+>
+> **Resistances/Immunities:** Immune to poison, necrotic, and psychic. Cannot be frightened, charmed, or exhausted.
+>
+> **Special Abilities:**
+> - **Implanted Ambition:** Each Ambitious Dead has a single, specific drive (guard a door, reach a location, deliver an object). It ignores all creatures and stimuli unrelated to this ambition. Cannot be distracted, taunted, or redirected.
+> - **Ambition Fury:** When a creature directly obstructs the Dead's ambition, it gains advantage on attacks and +2 damage for 3 rounds.
+> - **Burning Purpose:** When its ambition is obstructed, the iron-orange light flares. All creatures within 2 spaces make Will save DC 13 or must move 1 space away from the Dead's path (no action lost).
+> - **Domain Persistence:** If destroyed, the Descent reanimates a new corpse with the same ambition in 1d4 days.
+>
+> **Bloodied (half HP):** The iron-orange light in its eye sockets gutters and flares erratically. The Dead begins whispering its ambition aloud in a voice that sounds almost human.
+>
+> **Weakness:** Fulfilling the Dead's ambition (opening the door it guards for it, delivering its object) causes it to collapse peacefully. This is the only way to permanently end an Ambitious Dead.

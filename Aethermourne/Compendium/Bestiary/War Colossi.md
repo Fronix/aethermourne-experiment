@@ -46,3 +46,21 @@ A Colossus in motion is not a combat encounter. It is a catastrophe. They move w
 
 > [!example] Sample Encounter
 > The party navigates a vast processional hall on Level 7, its ceiling lost in shadow. Iron statues line both sides, each one towering above the party, rust-covered and still. Midway through the hall, the party hears a grinding sound. One of the Colossi is moving, its head turning slowly to track a member of the Iron Court who walks below, issuing commands in a guttural language. The Colossus steps forward, shaking the ground, and begins following the courtier. The party must decide: continue through the hall while a Colossus is active, attempt to avoid its path, or follow and learn how the courtier commands it.
+
+---
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | War Colossus | 12 | H (divine iron) | 300 | 4 | +10 | -2 | +6 | 4d12 bludgeoning (siege weapon strike), 12 space reach |
+>
+> **Special Abilities:**
+> - **Siege Engine.** Attacks deal double damage to structures and objects. A single strike can demolish a building.
+> - **Command Authority.** Only responds to voices with domain authority within the Iron Descent. Can be countermanded with DC 20 Will save (Persuasion) if the speaker holds a legitimate claim to Kaevroth's power.
+> - **Earthquake Stride.** Each step forces DC 14 Dex save within 6 spaces or be knocked prone. Movement shakes the ground for 20 spaces.
+> - **Divine Iron Body.** Immune to non-magical damage. All magical damage halved except that channeled through Morrhaelite or Ashite weapons.
+> - **Dormancy.** If no commands are received for 10 rounds, returns to dormant state.
+> **Bloodied:** Iron groans and cracks appear across its form. War-glyphs flare to blinding intensity. Earthquake Stride DC increases to 16 and range extends to 12 spaces. Attacks become erratic, striking twice per turn.
+> **Last Stand:** On death, the Colossus topples. All creatures within 12 spaces make DC 16 Dex save or take 6d12 bludgeoning damage from the collapse. The impact creates a permanent crater of shattered divine iron.
+> **Weakness:** Not designed for small targets. Attacks against Medium or smaller creatures roll damage twice and take the lower result. Can be redirected by issuing commands in Kaevroth's divine tongue (DC 18 Arcana to approximate). Morrhaelite weapons deal full damage and bypass armor.
+> **Recommended Party Size:** Not intended for direct combat. Treat as environmental hazard or puzzle. If forced to fight: 5-6 players of level 8+

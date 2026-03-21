@@ -47,3 +47,20 @@ Contract Wraiths cannot be destroyed by conventional means while the broken cont
 > The party encounters someone they know, an NPC ally or a party member who is currently elsewhere, walking through the Iron Market. The figure greets them warmly, knows details only the real person would know, and behaves almost perfectly. Almost. One PC notices the wrongness: a gesture that is slightly off, a laugh that does not reach the eyes. The figure is a Contract Wraith hunting the oathbreaker who wore this face. It is friendly to the party only because the party is not its target. If they interfere, it becomes hostile, and it fights exactly like the person it resembles.
 >
 > **Stakes:** The Wraith is heading toward someone the party cares about. If they want to stop it, they need to find and resolve the original contract, not just fight the messenger.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Contract Wraith | = template | = template | = template | = template | = template | = template | = template | = template's primary attack |
+>
+> **Special Abilities:**
+> - **Perfect Mirror:** Possesses all skills, abilities, and combat capabilities of its template. Knows everything the template knew at the moment the contract was broken.
+> - **Iron Reform:** If destroyed, reforms in 1d8 hours from iron filings and Market dust. Continues indefinitely until the contract is fulfilled, superseded, or the iron tablet is destroyed.
+> - **Oathbreaker's Scent:** Always knows direction and distance to its target. Cannot be misdirected by mundane means. Magical concealment DC 18.
+> - **Wrong Face:** Creatures that know the template can attempt Insight DC 16 to notice something off. Success: advantage on saves against the Wraith's social manipulation.
+>
+> **Weakness:** Fulfilling the original broken contract instantly destroys the Wraith. Destroying the iron contract tablet in the Market's archives destroys it permanently. Cannot enter areas warded against extraplanar entities.

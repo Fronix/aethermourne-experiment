@@ -45,3 +45,22 @@ A Crown Wraith with thralls becomes exponentially more dangerous. It commands it
 
 > [!example] Sample Encounter
 > The party crosses a field of broken banners on Level 6 when silence falls. A figure stands at the center of the field, seven feet tall, wearing a crown of black iron that burns with pale light. No words are spoken. Each PC feels a pull in their chest, a sudden, overwhelming certainty that this figure deserves their loyalty. The first PC to fail their resistance drops to one knee. The wraith turns its blurred face toward them and extends a hand, not in greeting, but in command. The kneeling PC feels compelled to defend the wraith against their companions.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Crown Wraith | 6 | M | 75 | fly 6 | +0 | +2 | +5 | none (commands thralls) |
+>
+> **Special Abilities:**
+> - **Sovereign Aura (12 spaces):** At the start of the Crown Wraith's turn, all creatures within 12 spaces make Will save DC 16. Failure: charmed and compelled to kneel. A kneeling creature uses its next action to defend the Wraith. Success: immune for 1 minute. Creatures with no desire for leadership have advantage.
+> - **Crown's Champion:** A kneeling creature may take the Wraith's extended hand (a choice, not compelled). Grants +2 to attacks and damage for 1 hour but cannot act against the Wraith. The creature believes it has been chosen to rule.
+> - **Incorporeal Movement:** Can move through creatures and objects.
+> - **Undying Authority:** When reduced to 0 HP, the body dissipates but the crown remains. Any creature picking up the crown makes Will save DC 18 or places it on their own head, gaining Sovereign Aura but losing identity over hours.
+>
+> **Bloodied (half HP):** The Wraith's spectral regalia cracks and dims. Its Sovereign Aura DC drops to 14, and kneeling creatures may repeat their save immediately.
+>
+> **Weakness:** Genuinely rejecting all desire for authority (roleplay, GM adjudication) grants immunity to Sovereign Aura. Destroying the crown (Armor H, HP 30, immune to non-magical damage) permanently destroys the wraith.

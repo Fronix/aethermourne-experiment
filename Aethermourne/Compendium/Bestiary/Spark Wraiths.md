@@ -48,3 +48,24 @@ In combat, Spark Wraiths are fragile but evasive. Their bodies are insubstantial
 > The party is examining blueprints in the Pattern Library, trying to decipher a schematic for one of [[The Twelve#Kaevroth|Kaevroth]]'s war-constructs. The work is intellectually demanding. As the most analytical PC leans closer, studying the lines, a warmth settles over their shoulders. It feels good, like sitting by a fire on a cold night. Sparks drift past their peripheral vision. The schematic starts to blur, not on the page, but in their understanding. They were close to a breakthrough, and now it is receding, like waking from a dream. A Spark Wraith has settled on them like a shawl of living embers, feeding contentedly.
 >
 > **Complication:** The Pattern Library is home to a colony of Spark Wraiths. Destroying one draws the attention of others. The party must balance the need to study the blueprints against the risk of attracting more feeders, knowing that each moment of concentrated thought makes them more visible.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Spark Wraith | 4 | None | 35 | fly 6 | -2 | +3 | +1 | engulf 2d6 fire |
+>
+> **Resistances/Immunities:** Immune to fire and poison. Resistant to all physical damage (insubstantial fire).
+>
+> **Special Abilities:**
+> - **Creativity Drain (passive):** Any creature within 3 spaces engaging in creative thought (planning, strategizing, problem-solving) makes Will save DC 14 at the end of each minute. Failure: loses the ability to improvise or innovate for 1d4 hours. Repeated failures extend and deepen the effect.
+> - **Aggressive Feed (Action):** The Wraith engulfs a target (Dex save DC 13 to avoid). An engulfed creature takes 2d6 fire damage per round and must make Will save DC 15 or lose all creative capacity for 24 hours. Escape: Str save DC 13 as an action.
+> - **Innovation Beacon:** Detects creative thought within 120 ft and moves toward the strongest source.
+> - **Core Spark:** A bright mote at its center (Armor H, 5 HP). Destroying the core kills the Wraith permanently. Otherwise, a destroyed Wraith reignites in 1d10 minutes.
+>
+> **Bloodied (half HP):** The Wraith's form destabilizes, its core spark flickering visible. Attacks against the core no longer require a called shot.
+>
+> **Weakness:** Cold damage deals double and prevents reignition for 1 hour. Water-based attacks extinguish the Wraith for 1d4 rounds. Mundane, repetitive thought (counting, reciting memorized text) makes a creature invisible to the Wraith.

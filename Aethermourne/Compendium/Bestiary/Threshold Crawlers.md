@@ -47,3 +47,19 @@ In combat, they flicker between their translucent and iron states. In translucen
 > The party is investigating a [[The Twelve#Kaevroth|Kaevroth]] fragment in the mortal world. The air near the fragment tastes of iron. Reflections in nearby water show a grey, ash-covered landscape instead of the surroundings. Then the shimmering begins at the edges of vision, Threshold Crawlers gathering at the thin point, drawn by the party's proximity. One PC feels iron creeping up their boots, cold and heavy. A Crawler has latched on and is pulling. The party must fight creatures that phase between states while preventing their companion from being dragged through to the Ashfield.
 >
 > **Stakes:** If the PC is pulled through, the rest of the party sees them vanish, replaced by a brief afterimage in rusted iron that crumbles to dust. The pulled PC wakes alone on the Ashfield with no obvious way back.
+
+---
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Threshold Crawler | 4 | M (translucent) / H (iron) | 28 | 6 | +3 | +4 | +2 | 1d6 cold (phase-touch) |
+>
+> **Special Abilities:**
+> - **Phase Shift.** Alternates between translucent form (physical damage reduced to dice only, magic deals full damage) and iron form (magic damage halved, physical deals full damage). Shifts at the start of its turn.
+> - **Translocation Pull.** On a hit against a target near a planar thin point, the target must pass DC 14 Str save or be pulled partially into the Iron Descent. On failure by 5+, the target is fully translocated.
+> - **Disorientation Aura.** Creatures within 2 spaces have disadvantage on Perception checks and cannot determine true north.
+> - **Boundary Lurk.** Can hide within planar boundaries, appearing as a shimmer in peripheral vision. DC 15 Perception to spot before it attacks.
+> **Bloodied:** Phase shifting accelerates, switching forms at the start and end of its turn. Translocation Pull DC increases to 16.
+> **Weakness:** Attacks that affect both planes simultaneously (radiant damage, divine magic) bypass the phase shift entirely, dealing full damage in either form.
+> **Recommended Party Size:** 3-4 players of level 3-5 (per 2-3 Crawlers)

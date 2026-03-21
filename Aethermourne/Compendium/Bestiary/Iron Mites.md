@@ -45,3 +45,24 @@ The danger emerges when someone damages the domain's structure. Destroying a wal
 
 > [!example] Sample Encounter
 > A frustrated PC strikes an iron wall in anger, denting it. Within seconds, a stream of Iron Mites flows from the ceiling toward the dent, their tiny bodies clicking. They begin repairing the wall, filling the dent with fresh iron drawn from somewhere deeper in the structure. If the PC steps back, the swarm ignores them. If the PC strikes the wall again, more Mites arrive. If the PC strikes a third time, the swarm pauses its repair work, and every Mite in the stream turns toward the PC simultaneously. The clicking stops. Then it resumes, louder, and the stream splits, one branch continuing repairs while the other begins flowing toward the PC's boots.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Iron Mite Swarm | 3 | None | 60 | 4 | +1 | +3 | -2 | grinding tools 2d6 piercing (all creatures in 2 space area) |
+>
+> **Resistances/Immunities:** Immune to poison, psychic, fire, and cold. Resistant to slashing and piercing. Vulnerable to lightning and area bludgeoning.
+>
+> **Special Abilities:**
+> - **Convergence Response:** Triggered when the Descent's architecture is damaged. Swarm arrives in 1d4 rounds. Scales with damage severity: minor (HP 30), standard (HP 60), major (HP 120, 3d6 damage).
+> - **Repair Priority:** If the source of damage stops and retreats 6+ spaces, the swarm ignores them and focuses on repairs.
+> - **Stripping:** A creature starting its turn in the swarm's space takes damage automatically and makes Dex save DC 14 or has one piece of non-magical equipment damaged.
+> - **Endless Reinforcement:** Regenerates 10 HP at the start of each turn as new Mites arrive. Stops only if the party is 12+ spaces from any damaged architecture.
+>
+> **Bloodied (half HP):** The swarm's clicking intensifies to a shriek. Its speed increases to 6 as the domain sends reinforcements with greater urgency.
+>
+> **Weakness:** Stopping all damage and retreating causes disengagement within 2 rounds. Lightning damage prevents regeneration for 1 round.

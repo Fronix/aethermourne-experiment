@@ -54,3 +54,24 @@ The way to defeat a Mirror Shade is to become unpredictable. It knows everything
 > The Shade is an exact copy of the PC, equipped with identical gear and abilities. It does not attack immediately. It speaks first, in the PC's own voice: "You have been wondering if you are enough. I am here to answer that question." Then it draws their weapon and fights with everything the PC has, executed without hesitation or mercy.
 >
 > **Stakes:** If the Shade wins, the PC is pulled into the iron wall. The other party members see their companion's face appear in the polished surface, mouth open in a silent scream, while the Shade sheathes its weapon, adjusts its expression to something more natural, and says, "We should keep moving." The wrong smile flickers for just a moment before settling into something almost right.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Mirror Shade | = original | = original | = original | = original | = original | = original | = original | = original's primary attack |
+>
+> **Special Abilities:**
+> - **Perfect Copy:** The Mirror Shade has all abilities, spells, and equipment of the original at the moment of creation. It fights without hesitation or emotional interference. Its first attack each round deals +1d6 bonus damage (cold precision).
+> - **Pattern Lock:** The Shade predicts the original's tactics. Attacks the original has used before deal half damage to the Shade. Attacks the original has never used (new combinations, unfamiliar styles, improvised actions) deal double damage.
+> - **Replacement Grapple:** When the Shade reduces the original to 0 HP, the original is pulled into the nearest polished iron surface. The Shade assumes the original's identity. Reversing this requires returning to the exact surface and destroying the Shade there.
+> - **Doubt Anchor:** The Shade cannot be permanently destroyed while the doubt that created it persists. If destroyed without the original resolving the underlying doubt, the Shade reforms from the next polished surface the original sees (1d4 days later).
+>
+> **Bloodied (half HP):** The Shade's smile falters, flickering between its wrong grin and the original's true expression. It becomes visibly desperate, attacking recklessly (advantage on attacks, but attacks against it also have advantage).
+>
+> **Weakness:** Genuinely unpredictable actions (never-before-used abilities, acting against established character) bypass Pattern Lock. If the original genuinely resolves the doubt that birthed the Shade (GM adjudication, not a skill check), the Shade takes 10d10 radiant damage and cannot reform. Shattering all polished iron surfaces within 60 ft prevents reformation for 24 hours.
+>
+> **Encounter Note:** 1-on-1 encounter (the original PC). Party intervention is possible but the Shade copies the strongest intervening ally if more than two PCs engage it simultaneously.

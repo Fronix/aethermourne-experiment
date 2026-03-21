@@ -47,3 +47,19 @@ The most effective defense is suppressing desire. Travelers who meditate, who re
 > The party is crossing the open Ashfield at night (or what passes for night, a deepening of the grey). One PC with a strong personal goal, retrieving a lost item, saving someone, gaining power, notices the ash around them has gone still. No wind. No drift. Then the grinding begins, metal on metal, from every direction. Fragment Hounds emerge from the ash in a wide circle, already in formation. They ignore the party members with mild temperaments and fixate on whoever wants something most.
 >
 > **Complication:** A lone Ash Revenant stumbles into the encounter, drawn by the noise. The Hounds ignore it (it has no desire left). The Revenant begins mimicking the party's combat movements, getting in the way.
+
+---
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Fragment Hound | 3 | M | 32 | 8 | +3 | +4 | +1 | 1d8 piercing (needle-splinter bite) |
+>
+> **Special Abilities:**
+> - **Desire Sense.** Detects creatures with strong desires within 1 mile. Characters with active personal goals or strong emotions are targeted first.
+> - **Aggression Venom.** On bite, target makes DC 13 Will save or is compelled to attack the nearest ally for 1 round. Save repeats at end of each turn.
+> - **Silent Pack Tactics.** When an ally is within 5 ft of the target, the Hound rolls damage twice and takes the higher result. Communicate silently through ground vibration.
+> - **Iron Camouflage.** Advantage on Stealth in iron-rich environments. Virtually invisible when motionless on the Ashfield.
+> **Bloodied:** Desperation sharpens hunger. Desire Sense range doubles. Bite damage increases to 1d10.
+> **Weakness:** Characters who suppress desire (meditation, emotional detachment) become invisible to the pack. DC 16 Will save to achieve this state during combat.
+> **Recommended Party Size:** 3-4 players of level 3-4 (per pack of 3-5 Hounds)

@@ -47,3 +47,29 @@ They cannot be reasoned with. They cannot be bargained with. They cannot be inti
 
 > [!example] Sample Encounter
 > The party is navigating the Silence on Level 9 when two members of the group argue, raising their voices in frustration. The floor vibrates. Iron plates buckle upward. In the space of a heartbeat, a seven-foot shape assembles itself from the corridor walls, edges gleaming, radiating heat that tastes like a battlefield. It does not pause. It does not assess. It strikes the nearest source of conflict with an arm that was part of the wall two seconds ago. The party has approximately four rounds to survive before the Elemental burns through its essence and collapses into smoking fragments.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Iron Elemental | 12 | H | 120 | 8 | +6 | +1 | +4 | iron limb 3d10+8 slashing (reach 2 spaces) |
+>
+> **Resistances/Immunities:** Immune to poison, psychic, necrotic, fire. Resistant to all non-magical physical damage.
+>
+> **Special Abilities:**
+> - **Assembled Form:** Manifests instantly from surrounding iron architecture. Cannot be surprised or delayed. Appears within 6 spaces of the most intense conflict.
+> - **Burn Duration:** Exists for 3-5 rounds (roll 1d4+2 at manifestation). At the end of its final round, it collapses into cooling fragments. Nothing can extend this duration.
+> - **Shrapnel Detonation (Reaction):** When struck by a melee attack that deals 15+ damage, sheds iron shrapnel. All creatures within 2 spaces make Dex save DC 16 or take 2d8 piercing damage.
+> - **War-Essence Aura:** All creatures within 3 spaces make Will save DC 17 at the start of each turn or are compelled to attack the nearest creature (friend or foe) for 1 round.
+> - **Divine Echo:** PCs within 1 space experience flashes of Kaevroth's final battle. No mechanical effect, but profoundly disorienting.
+>
+> **Bloodied (half HP):** The Elemental's form destabilizes, shedding glowing iron fragments. Its Shrapnel Detonation triggers automatically at the start of each of its turns (no attack needed).
+>
+> **Last Stand:** When it would be destroyed before its burn duration ends, the Elemental detonates. All creatures within 6 spaces make Dex save DC 17 or take 4d10 slashing damage (half on success) as its entire body becomes shrapnel.
+>
+> **Weakness:** Lightning damage stuns it for 1 round. Cold damage reduces remaining duration by 1 round. Cannot pursue beyond 12 spaces of its manifestation point.
+>
+> **Encounter Note:** Not intended to be fought directly. Survival encounter for any level. 5 players of level 8+ could potentially destroy one before burnout.

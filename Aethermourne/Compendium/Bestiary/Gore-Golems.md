@@ -50,3 +50,19 @@ Their greatest tactical asset is inevitability. They are not fast enough to catc
 > The party has just survived a fight with Iron Wraiths. They are wounded and want to rest. Within minutes, the fallen Wraiths' remains begin sliding across the ground toward a central point thirty feet away. The components stack, compress, and rise. A Gore-Golem assembles itself from the very enemies the party just killed, incorporating their weapons and armor into its body. It turns toward the party. They are not fighting. That is a problem.
 >
 > **Twist:** The Golem is wearing a distinctive piece of equipment the party recognizes, something from a previous encounter or an NPC they knew. The Proving Grounds have been recycling for a long time.
+
+---
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Gore-Golem | 6 | H | 65 | 4 | +6 | -1 | +3 | 2d10 bludgeoning (fused-mass slam) |
+>
+> **Special Abilities:**
+> - **Reassembly.** When reduced to 0 HP, components begin reassembling after 1d4 rounds unless scattered at least 6 spaces apart or burned.
+> - **Battlefield Recycler.** Incorporates defeated creatures' equipment into its body. Each body absorbed increases armor effectiveness (max 3 absorbed, at which point even non-metallic weapons deal half damage). Can absorb a fallen creature as a bonus action.
+> - **Non-Combatant Aggression.** Prioritizes attacking creatures not engaged in combat. Creatures actively fighting are ignored unless they attack the Golem directly.
+> - **Slow but Inevitable.** Cannot be slowed below 2 spaces by any effect. Ignores difficult terrain.
+> **Bloodied:** Components loosen, shedding shrapnel. All creatures within 2 spaces take 1d6 piercing damage at the start of the Golem's turn. Slam damage increases to 2d12.
+> **Weakness:** Fire destroys organic components permanently, preventing reassembly. Scattering components (DC 16 Str save to push/throw pieces 6+ spaces) also prevents reassembly.
+> **Recommended Party Size:** 4-5 players of level 4-6 (per single Golem)

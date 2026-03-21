@@ -45,3 +45,22 @@ The danger emerges when a Revenant encounters a situation that mirrors its defin
 > The party crosses the Fade Line and finds a cluster of seven Ash Revenants standing in a circle, all reaching toward a central point where nothing visible exists. As the party approaches, the Revenants turn in unison. One of them is wearing the tattered remains of a uniform the party recognizes, a soldier from a mortal nation who went missing decades ago. The Revenants begin mimicking the party's movements. If anyone draws a weapon, the uniformed Revenant charges.
 >
 > **Twist:** The uniformed Revenant's whispered phrase is a name, someone still alive in the mortal world. Delivering the name to that person would destroy the Revenant, but the name belongs to a significant NPC.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Ash Revenant | 2 | None | 22 | 6 | +1 | +2 | +0 | ash limb 1d6+2 bludgeoning |
+>
+> **Special Abilities:**
+> - **Ambition Trigger:** When it encounters an object or situation matching its defining desire, gains advantage on attacks and +2 damage for 1 minute.
+> - **Ambition Collapse:** If the Revenant's defining desire is fulfilled, it immediately collapses into powder. No HP reduction needed.
+> - **Whispered Phrase:** Repeats a single phrase on loop. Perception DC 12 to hear clearly. The phrase hints at identity and desire.
+> - **Ash Reform:** If reduced to 0 HP by non-fire damage, reforms in 1d4 rounds unless the ash is scattered by wind or fire.
+>
+> **Bloodied (half HP):** Releases ash cloud, 10 ft radius, light obscurement for 2 rounds.
+>
+> **Weakness:** Fire damage prevents reformation. Fulfilling the Revenant's desire destroys it instantly. Holy water causes 2d6 radiant damage.

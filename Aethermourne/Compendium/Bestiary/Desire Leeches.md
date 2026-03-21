@@ -48,3 +48,24 @@ Removal is straightforward once the Leeches are identified: intense heat drives 
 > The party rests in the Iron Market. The next morning, one PC (chosen by the GM based on who has the strongest current motivation) begins acting slightly different. They are calm. Agreeable. They suggest the party take things slowly, maybe reconsider whether they need to go deeper. Their arguments are sound. Over the next few hours, their conviction continues to fade. If the party does not intervene, the PC eventually sits down and stops moving, watching the Market's commerce with mild, detached interest, unable to remember what they came here to do.
 >
 > **Resolution:** Another PC must make a genuine emotional appeal, not a mechanical check, but an in-character moment of connection. "Remember why we came here. Remember what we're fighting for." The Leeches detach in a visible shimmer, and the drained PC gasps as their motivation floods back, raw and overwhelming.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Desire Leech | 0 | None | 1 (individual) | fly 2 | -4 | +2 | +3 | none (psychic parasite) |
+>
+> **Detection:** Perception DC 18 to spot a single Leech, DC 14 for a cloud.
+>
+> **Special Abilities:**
+> - **Ambition Drain (passive):** A Leech attached to a creature drains one specific motivation over 1d4 hours. No save, the attachment is imperceptible. After the drain completes, the host loses all emotional investment in that goal.
+> - **Cloud Drain:** A cloud of Leeches (10+) drains all motivation in 1d4 x 10 minutes. The host becomes completely apathetic.
+> - **Reasonable Surrender:** A Leech-drained creature argues persuasively against continuing the mission. Insight DC 16 to recognize this as Leech influence.
+> - **Detection Difficulty:** Medicine DC 14 or Arcana DC 14 to diagnose Leech attachment once symptoms appear.
+>
+> **Weakness:** Intense heat drives them off immediately. A genuine burst of emotion directed at the host forces detachment, no check required. Cold iron disrupts their feeding.
+>
+> **Encounter Note:** Roleplay encounter, not combat. Any level.

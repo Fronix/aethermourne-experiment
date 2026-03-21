@@ -45,3 +45,19 @@ The phantom host marches in an endless loop: advance, engage an invisible enemy,
 
 > [!example] Sample Encounter
 > The party approaches a crossroads on Level 6 where three banners stand planted in the iron ground, each bearing a different faded sigil. A phantom column of soldiers marches from east to west, their boots making no sound but their formation perfect. The party must cross the column's path. Any PC who steps into the column and takes a step in its direction feels iron gauntlets close around their arms as phantom soldiers pull them into formation. Initiative begins, with the trapped PC marching involuntarily while companions attempt a rescue before the next "death cycle" completes.
+
+---
+
+## Stat Block
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Banner-Haunt | 5 | M | 40 | 0 | — | — | +3 | phantom host 1d8+3 slashing (against bound creatures during death cycle) |
+>
+> **Special Abilities:**
+> - **Binding March:** Any creature that takes a step in the same direction as the phantom host within 2 spaces makes Will save DC 15 or is bound to the march. Bound creatures move 6 spaces per round with the column and cannot take actions other than attempting to break free (Str DC 16 or Will DC 16 as an action).
+> - **Death Cycle:** Every 3 rounds, bound creatures experience phantom combat: 3d6 psychic damage (Will save DC 14 for half).
+> - **Sigil Shift:** The banner's heraldry shifts each round. Creatures observing it make Will save DC 12 or are fascinated for 1 round.
+>
+> **Weakness:** The banner is vulnerable to fire. Destroying it releases all bound creatures and disperses the phantom host in a burst of war-essence (all creatures within 4 spaces take 2d6 force damage, Dex save DC 13 for half). Pulling a bound creature out of the column (Str DC 16 from outside) also works but risks the rescuer being caught.

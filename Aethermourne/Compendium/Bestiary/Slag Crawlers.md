@@ -47,3 +47,19 @@ Non-metallic weapons, stone, bone, wood, and magic are effective against them. F
 > The party is crossing a narrow bridge over a river of molten iron in the Forge Eternal. Halfway across, the surface of the river bulges upward. A Slag Crawler, twelve feet long and glowing cherry-red, rises from the molten flow and fixes on the party's metal equipment. It lunges for the most heavily armored PC. The bridge is narrow enough that dodging means risking the river. Behind the party, a second, smaller Crawler emerges, cutting off retreat. Between their feet, intricate metal sculptures begin forming from drops of slag the Crawlers shed, beautiful, useless, and in the way.
 >
 > **Resolution:** The party can fight with non-metal weapons, use cold-based attacks to freeze the Crawlers temporarily, or sacrifice a piece of metal equipment as a distraction, tossing it into the river and running while the Crawlers feed.
+
+---
+
+> [!example] Stat Block (Nimble)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Slag Crawler | 3 | M (semi-molten) | 35 | 6 | +3 | +4 | -1 | 1d8 fire (molten bite) + equipment dissolution |
+>
+> **Special Abilities:**
+> - **Metal Dissolution.** On hit against a metal-armored or metal-wielding target, the equipment makes a DC 13 durability save or loses 1 step of effectiveness (armor degrades from H to M to None; weapons lose 1 damage die step). At None/0, the item is destroyed and absorbed.
+> - **Metal Absorption.** Absorbing a metal item restores 1d8 HP and increases size. After absorbing 3+ items, the Crawler's bite damage increases to 2d8.
+> - **Semi-Liquid Form.** Can flow through gaps as narrow as 1 inch. Immune to bludgeoning damage. Slashing and piercing damage from metal weapons is halved (non-metallic weapons deal full damage).
+> - **Heat Aura.** Creatures within 1 space take 1d4 fire damage at the start of their turn.
+> **Bloodied:** The Crawler's semi-molten form destabilizes, shedding drops of liquid iron. Heat Aura range extends to 2 spaces and damage increases to 1d6.
+> **Weakness:** Cold damage freezes the Crawler solid for 1 round (armor becomes None, all attacks deal full damage, can be shattered if reduced to 0 HP while frozen). Non-metallic weapons deal full damage. Completely ignores unarmed, unarmored creatures.
+> **Recommended Party Size:** 3-4 players of level 3-5 (per 2-3 Crawlers)

@@ -49,3 +49,34 @@ Escaping the boundary before the Echo concludes is theoretically possible but re
 > **Duration:** This Echo lasts approximately thirty minutes of real time. The defenders lose. The party must survive the rout and avoid being trampled during the collapse of the defensive line.
 >
 > **Reward:** After the Echo fades, a single real object remains on the battlefield, a weapon or piece of armor from the original engagement, preserved by the Echo's power.
+
+---
+
+## Stat Blocks
+
+> [!example] Stat Block (Nimble): Battle Echo (Environmental Event)
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Battle Echo | — | — | N/A | — | — | — | — | environmental hazard |
+>
+> **Special Abilities:**
+> - **Immersive Boundary:** When a creature enters the Echo's radius (6-60 spaces), it is instantly pulled into the replay. No save. Exiting requires finding the boundary edge (Perception DC 16 in combat, DC 12 if disengaged).
+> - **Role Assignment:** The Echo places intruders on the losing side.
+> - **Real Consequences:** Damage is real. Death is permanent. All injuries carry over.
+> - **Fixed Duration:** Small engagements: 10-30 minutes. Large battles: hours. The losing side always loses.
+> - **Amber Remnant:** When the Echo fades, one preserved object remains. Roll or choose: weapon (+1, iron, Kaevroth-era), armor piece (fire resistance), or tactical document (Theomachis lore).
+>
+> **Weakness:** The outcome is fixed. Identifying the winner (History DC 14) lets the party position to survive the rout. Disengaging and finding the boundary is always an option.
+
+> [!example] Stat Block (Nimble): Echo Phantom Soldier
+> | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
+> |---|---|---|---|---|---|---|---|---|
+> | Echo Phantom Soldier | 3 | M | 25 | 6 | +2 | +1 | +0 | iron longsword 1d8+3 slashing, or iron javelin 1d6+2 piercing (range 6 spaces) |
+>
+> **Resistances:** Resistant to necrotic and psychic damage (the Echo preserves them).
+>
+> **Special Abilities:**
+> - **Formation Tactics:** When 3+ soldiers are adjacent, gain +1 Armor category and +2 damage.
+> - **Disappear on Conclusion:** When the Echo ends, all phantom soldiers vanish instantly.
+>
+> **Weakness:** They fight with 2,000-year-old tactics. Creative or unconventional approaches impose disadvantage on their attacks for 1 round.

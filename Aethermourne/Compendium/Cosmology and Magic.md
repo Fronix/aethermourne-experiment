@@ -236,6 +236,120 @@ Not a "tradition" so much as an ambient reality. In [[The Pale Wastes]], necroma
 | **Primal Communion** | Verdant Marches | Living land (Thyrea) | Intuitive, powerful in nature | Unreliable in cities/wastes | Root-Mind |
 | **Tidal Sorcery** | Hollowed Reach | Ocean currents (Yvenne) | Powerful at high tide, adaptive | Tide-dependent, erratic | Tide-Touched |
 | **Necromantic Arts** | Pale Wastes | Death energy (Morrhael) | Effortless necromancy | Contamination of all magic | Death-Touched |
+| **Primordial Pact** | Unwritten Lands | Gyre Primordials | Stable, no divine dependency | Costs are personal and permanent | Primordial Taint |
+
+---
+
+#### 5. Primordial Pact Magic (The Unwritten Lands)
+
+**Philosophy:** Magic is negotiation. The world is not built from dead gods but from living forces, vast, ancient, and indifferent. Power is not drawn from remains or ridden like a tide. It is borrowed, and the lender always collects.
+
+The Oldborn of [[The Unwritten Lands]] developed their magical tradition in complete isolation from the Aetheric Web. They have never drawn from divine remains, never channeled ley line energy, never shaped spells through the corpses of [[The Twelve]]. Their magic predates divine order. It draws directly from [[The Gyre]]'s foundational forces, the [[The Primordials|Primordials]], through formal pacts that bind the caster to the force they invoke.
+
+This is not worship. The Primordials are not gods. They do not hear prayers, grant favors, or care about mortal affairs. They are processes, tendencies, pressures. A pact with a Primordial is closer to a contract with gravity than a prayer to a deity. The force will do what it does. The pact determines how much of that force flows through you, and what it takes in return.
+
+**Practice:**
+
+- Pact magic requires a **formal binding ritual** performed at a [[The Primordia#Primordial Anchors|Primordial Anchor]] or other site of concentrated Primordial energy
+- The caster offers something of themselves, not blood sacrifice or material offerings, but aspects of their identity: memories, sensory capacity, emotional range, physical stability
+- In return, the Primordial force flows through the caster in a controlled manner, granting abilities aligned with that force's nature
+- Each pact is unique. Two casters bound to [[The Primordials#Ur-Ghael|Ur-Ghael]] will not have identical abilities, because each negotiated different terms
+- Pacts are **permanent and cumulative**. A caster can hold multiple pacts, but each one costs something, and the costs compound
+- Casting does not require incantations, formulas, or tidal conditions. The caster simply *channels*, allowing the Primordial force to express itself through their body and will
+- The skill lies not in the casting but in the *control*, directing a force that is fundamentally indifferent to your survival
+
+**Strengths & Weaknesses:**
+
+| Strengths | Weaknesses |
+|---|---|
+| No dependency on divine remains or ley lines | Costs are personal and permanent, you lose part of yourself |
+| Stable, does not fluctuate with tides, decay, or the Second Silence | Cannot be taught systematically, every pact is unique |
+| Extraordinarily powerful within the pact's domain | Narrowly focused, a pact with Ur-Ghael grants no dissolution magic |
+| Functions anywhere, not region-dependent | Requires proximity to a Primordial Anchor for the initial binding |
+| No risk of divine taint or necromantic contamination | The Primordial force is indifferent to your intentions and may express itself in ways you did not intend |
+
+**Risk, Primordial Taint:** Extended channeling causes the caster's body and mind to drift toward the Primordial force they are bound to. An Ur-Ghael pact-holder becomes rigid, compulsive, unable to tolerate disorder. A Vorthaan pact-holder begins to dissolve, physically and psychologically. Advanced cases cease to be mortal in any meaningful sense, they become expressions of the force, Gyre-Touched in the truest sense. The Oldborn consider this not a disease but an initiation. Those who embrace it may transcend. Those who resist it break.
+
+> [!info]
+> **At the Table:** Primordial pact magic should feel alien to players accustomed to Aetheric traditions. It is quieter, stranger, and more personal. There are no spell lists. A pact-holder simply *does things* that should not be possible, and pays for them in ways that are not immediately visible. Use this to create an uncanny valley effect when PCs encounter Oldborn casters for the first time.
+
+---
+
+### The Five Pact Types
+
+Each Gyre Primordial offers a distinct category of pact. The Fathom entities are not available for pacts, their nature is too alien, too foreign. Attempting to bind with a Fathom entity is not negotiation. It is annihilation.
+
+#### Pact of Structure ([[The Primordials#Ur-Ghael|Ur-Ghael]], The First Pattern)
+
+**Grants:** The ability to impose order on the physical world. Hardening materials, freezing motion, stabilizing chaotic environments, reinforcing structures, compelling obedience from disordered systems.
+
+**Costs:** Emotional rigidity. Loss of spontaneity, creativity, and the ability to tolerate ambiguity. Advanced pact-holders cannot laugh, cannot grieve, cannot feel surprise. They become perfect, crystalline, and hollow.
+
+**Oldborn Use:** Architecture, city defense, law enforcement. The Oldborn's black stone cities are built and maintained by Ur-Ghael pact-holders who have given their emotional lives to keep the walls standing.
+
+#### Pact of Dissolution ([[The Primordials#Vorthaan|Vorthaan]], The Consuming Spiral)
+
+**Grants:** The ability to unmake. Disintegrating matter, dissolving bindings, erasing enchantments, returning structured things to raw potential. The most feared pact type.
+
+**Costs:** Physical coherence. The caster's body begins to lose definition. Edges blur. Flesh flows. In advanced cases, the caster must concentrate simply to maintain a recognizable form. They are dissolving into what they channel.
+
+**Oldborn Use:** Mining, demolition, counter-magic, and warfare. Vorthaan pact-holders are rare because few survive the binding, and those who do are watched carefully. They are necessary and terrifying.
+
+#### Pact of Multiplicity ([[The Primordials#Thaelun|Thaelun]], The Skein of Many)
+
+**Grants:** The ability to exist in multiple states simultaneously. Perceiving all possible outcomes of an action, existing in two places at once (briefly), splitting consciousness across parallel processes, experiencing time non-linearly.
+
+**Costs:** Singular identity. The caster becomes less *one person* and more a collection of overlapping possibilities. Memories from lives they did not live intrude. They answer questions they were not asked. They grieve for losses that have not occurred. Advanced cases cannot remember which version of themselves is "real."
+
+**Oldborn Use:** Scholarship, divination, strategic planning. Thaelun pact-holders serve as advisors and seers. Their counsel is invaluable but must be carefully interpreted, as they often answer from a perspective that includes futures and pasts the listener does not share.
+
+#### Pact of Boundaries ([[The Primordials#Achren|Achren]], The Hollow Between)
+
+**Grants:** The ability to create, reinforce, or dissolve barriers. Warding, sealing, containing, separating. The complementary opposite of Vorthaan's dissolution: where Vorthaan unmakes, Achren divides.
+
+**Costs:** Connection. The caster becomes increasingly isolated, unable to form or maintain emotional bonds. Touch becomes uncomfortable, then painful. Proximity to others feels like a violation of the self's edges. Advanced cases cannot tolerate physical contact and communicate only through intermediaries.
+
+**Oldborn Use:** Defense, containment of Primordial hazards, maintaining the barriers that keep the Shimmer from expanding. The Silence-Watchers rely heavily on Achren pact-holders for their ward maintenance.
+
+#### Pact of Dreams ([[The Primordials#Yith|Yith]], The Dreaming Deep)
+
+**Grants:** Access to the substrate's dream-layer. Telepathy, illusion, memory manipulation, perception of hidden truths, communion with the semi-conscious awareness that permeates Primordial landscapes.
+
+**Costs:** Wakefulness. The boundary between sleeping and waking erodes. The caster dreams while conscious and acts while dreaming. Reality becomes porous. Advanced cases cannot distinguish between what they have seen, what they have dreamed, and what they have imagined. Some slip into Yith's perpetual reverie and never return.
+
+**Oldborn Use:** Communication, espionage, healing (through dream-therapy), and communion with the land's Primordial awareness. Yith pact-holders are the Oldborn's diplomats and mediators, their ability to perceive emotional truth makes deception nearly impossible in their presence.
+
+---
+
+### Primordial Magic vs. Aetheric Magic: Interaction Effects
+
+When Primordial pact magic and Aetheric-derived magic interact, the results are unpredictable and often dangerous. The two systems operate on fundamentally incompatible principles: Aetheric magic channels filtered divine energy through structured conduits. Primordial magic channels raw, unfiltered Gyre-potential through living bodies. When they collide:
+
+**Interference (Most Common):** Both systems attempt to occupy the same magical space and cancel each other out. Spells fizzle. Wards collapse. Enchantments flicker. This is the default interaction, mutual suppression. A calculist and an Ur-Ghael pact-holder casting simultaneously in the same space will find their magic weakened, not strengthened.
+
+**Resonance (Rare, Dangerous):** Under specific conditions, typically near a ley line confluence or Primordial Anchor, the two systems amplify each other catastrophically. The Aetheric structure channels Primordial force without the Web's filtration, producing effects far beyond either caster's intent or control. This is how Hollow Zones form: the interaction burns out the local magical infrastructure entirely.
+
+**Contamination (Insidious):** Prolonged proximity causes each system to "bleed" into the other. Aetheric magic near Primordial sources begins to behave erratically, losing the predictability that calculism depends on, gaining an organic quality that unsettles its practitioners. Primordial magic near ley lines begins to *structure itself*, losing the fluid negotiation that makes it safe and becoming rigid, demanding, more like a divine mandate than a pact.
+
+> [!warning]- GM Only
+> **The Contamination Effect** is the Oldborn's primary fear. They have seen what divine order does to Primordial forces: it enslaves them. The Aetheric Web is, from the Oldborn perspective, a system that *imprisons* the Gyre's potential and forces it to serve dead masters. When Aetheric magic contaminates Primordial magic, the pact-holder's negotiated relationship with the force transforms into an involuntary servitude, the force still flows through them, but it no longer listens to their terms. This is why the Oldborn call Aetheric magic "tainted." It is not a slur. It is a diagnosis.
+
+---
+
+### Why the Oldborn Consider Aetheric Magic "Tainted"
+
+The Oldborn's objection to Aetheric magic is not aesthetic or cultural. It is cosmological.
+
+From the Oldborn perspective, the known continent's magical traditions all share a single, damning flaw: they draw power from *dead things*. The gods are dead. Their remains radiate energy. Mortals harvest that energy and call it magic. The Oldborn call it something else: **parasitism on divine corpses**.
+
+But the deeper objection is structural. The Aetheric Web does not merely distribute divine energy. It *filters* the Gyre's raw potential, stripping it of its living character and converting it into something usable by mortal minds. To the Oldborn, this is an act of violence against the substrate of creation itself. The Web takes living potential, the churning, creative, infinite possibility of the Gyre, and reduces it to a tame, controllable resource.
+
+Every mage who draws from ley lines participates in this process. Every spell cast through the Web reinforces the imprisonment of the Gyre's potential. The Oldborn do not see Aetheric mages as evil. They see them as *infected*, carriers of a system that degrades everything it touches, including the caster. Order Sickness, Root-Mind, Tide-Touched, Death-Touched: the Oldborn view all four magical risks as symptoms of the same disease, the fundamental wrongness of building magic on death rather than negotiation.
+
+This is not entirely fair. The Aetheric traditions are effective, sophisticated, and deeply integrated into the known continent's civilizations. The Oldborn's perspective is that of people who have never needed divine crutches and cannot understand why anyone would accept them. But it is a perspective grounded in genuine cosmological insight, and it cannot be dismissed as mere prejudice.
+
+> [!info]
+> **At the Table:** The Oldborn critique of Aetheric magic should not be presented as objectively correct or incorrect. It is a perspective, deeply held, cosmologically informed, and partially right. Players who engage with it should feel challenged, not lectured. The best way to deploy this is through Oldborn NPCs who genuinely pity Aetheric casters rather than condemn them.
 
 ---
 
