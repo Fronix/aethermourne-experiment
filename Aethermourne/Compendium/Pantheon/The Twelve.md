@@ -218,10 +218,14 @@ Kaevroth's influence is the hardest to quantify because it looks so much like or
 
 The **[[Major Factions#Ember Guild|Ember Guild]]** tracks known fragments and investigates regions of unexplained conflict escalation. They maintain a classified registry of fragment locations.
 
+**The Iron Descent**
+
+Unlike every other divine domain, Kaevroth's realm in the Empyrean did not collapse when he died. It folded inward, anchoring itself to his scattered iron fragments and compressing into a self-sustaining pocket plane. Known as [[The Iron Descent]], this nine-layered domain feeds on ambition, drawing the driven and the hungry through fragment-doorways and trapping them in an architecture of ever-deepening desire. It is the most intact surviving structure in the Shattered Empyrean, more coherent than Morrhael's broken afterlife, more organized than any other divine remnant. It does not need to be found. It finds you.
+
 > [!warning]- GM Note , The Heart of Iron
 > The largest Kaevroth fragment , his heart , has never been found. It is the size of a house and radiates war-essence with a potency that dwarfs all other fragments combined.
 >
-> It is buried beneath the Ashen Dominion's capital. The Hierarch does not know this. But the city's history , its relentless expansion, its militarism, its crushing of dissent , makes a terrible kind of sense when you consider what lies beneath its foundations.
+> It is buried beneath the Ashen Dominion's capital. The Hierarch does not know this. But the city's history , its relentless expansion, its militarism, its crushing of dissent , makes a terrible kind of sense when you consider what lies beneath its foundations. The Heart is also the anchor point for [[The Iron Descent#Level 9 - The Heart|The Heart]], the ninth and deepest level of the Iron Descent, Kaevroth's surviving domain. What happens to the Heart of Iron affects both the mortal world and the Descent simultaneously.
 >
 > If uncovered, the Heart of Iron could be destroyed (reducing ambient aggression across the continent), weaponized (granting its wielder an army of war-maddened fanatics), or used as a bargaining chip with Serith, who wants it for reasons she has not disclosed.
 

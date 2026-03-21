@@ -36,7 +36,7 @@ The Star-Readers know that something is terribly wrong with the world. The Star 
 
 Decentralized network of regional chapters:
 
-- **Arch-Readers**, Lead regional chapters. The Arch-Reader of Ashveil (currently Arch-Reader Thessaly Vane) is *primus inter pares* but has no authority over other chapters.
+- **Arch-Readers**, Lead regional chapters. The Arch-Reader of Ashveil (currently Arch-Reader Tessera Vane) is *primus inter pares* but has no authority over other chapters.
 - **Star-Readers**, Full members. Scholars, astronomers, historians, archivists.
 - **Lens-Bearers**, Journeyman researchers and field operatives sent to investigate phenomena.
 - **Initiates**, Students and apprentices.
@@ -52,7 +52,7 @@ Chapters communicate through a network of encoded letters, trusted couriers, and
 
 ## Strengths
 
-- **Information.** The Star-Readers know more about Aethermourne's history, cosmology, and current events than any other faction. Their archives are unmatched.
+- **Information.** The Star-Readers know more about Aethermourne's history, cosmology, and current events than any other faction. Their archives are unmatched. In 1203 AS, they sent an expedition into [[The Iron Descent]], Kaevroth's surviving divine domain. Only one member returned, speaking in two voices, her own and something that claimed to be Kaevroth's echo. Her account, transcribed before she fell silent permanently, remains the Star-Readers' most detailed source on the cosmological persistence of divine domains after their god's death.
 - **Continental presence.** Chapters in every region provide a network for information exchange and coordination.
 - **Scholarly resources.** Observatories, libraries, laboratories, and the expertise to use them.
 - **Aelindra's visions.** Some Star-Readers still receive prophetic visions, fragmentary and fading, but occasionally revelatory.
@@ -76,4 +76,4 @@ Chapters communicate through a network of encoded letters, trusted couriers, and
 >
 > Aelindra isn't dying. She's *fighting*, pouring her power into resisting Serith's veil, which is why her channel to mortals is weakening. She's choosing to protect cosmic truth at the cost of her own followers' connection to her. If the Star-Readers knew this, it would be both devastating and galvanizing.
 >
-> Arch-Reader Thessaly Vane is the NPC most likely to piece together the full picture, she's brilliant, obsessive, and closer to the truth than anyone in the campaign. She just needs the pieces the PCs will bring her.
+> Arch-Reader Tessera Vane is the NPC most likely to piece together the full picture, she's brilliant, obsessive, and closer to the truth than anyone in the campaign. She just needs the pieces the PCs will bring her.

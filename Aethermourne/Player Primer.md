@@ -124,7 +124,7 @@ The Godfall happened two thousand years ago. The details are debated, mythologiz
 | **Solvaen** | Order, Law, Structure | His skeleton forms the Dominion's mountains. His blood crystallized into Ashite. |
 | **Thyrea** | Nature, Growth, Life | Her body became the Marches' ecosystem. The land itself carries her essence. |
 | **Morrhael** | Death, Passage, Rest | His skull lies in the Hollowdeep. His broken domain prevents the dead from resting. |
-| **[[The Twelve#Kaevroth|Kaevroth]]** | War, Conquest, Wrath | He started the war. His iron body shattered across the world. Fragments of him surface occasionally, and drive people mad. |
+| **[[The Twelve#Kaevroth|Kaevroth]]** | War, Conquest, Wrath | He started the war. His iron body shattered across the world. Fragments of him surface occasionally, and drive people mad. His divine domain survived as a place called the Iron Descent, though most consider it legend. |
 | **[[The Twelve#Vorrhyn|Vorrhyn]]** | Chaos, Change, Entropy | Destroyed so completely that reality itself cracked. The wound is called the **Maelstrom**, a roiling tear in the sky visible from the eastern coast. |
 | **[[The Twelve#Thalvor|Thalvor]]** | Fire, Craft, Creation | Sacrificed himself willingly to reignite the world's core after the war nearly froze it. His forge still burns deep underground. Dwarven cultures revere him above all others. |
 | **[[The Twelve#Belara|Belara]]** | Love, Mercy, Compassion | Died shielding mortals from the crossfire. Her tears still fall on the Weeping Isles. She is mourned more than any other god. |
@@ -172,6 +172,10 @@ The gods left behind more than geography. Their remains include substances of ex
 - **Thyrea's Amber**, Fossilized sap from the goddess's body. Preserves living things in a state of suspended animation. Used in medicine and, less ethically, in certain kinds of imprisonment.
 
 These materials are valuable, powerful, and not to be trifled with. You will encounter them. Treat them with the respect you'd give anything that used to be part of a god.
+
+### The Iron Descent
+
+Miners, soldiers, and scholars occasionally speak of a place called the Iron Descent, a realm said to exist within Kaevroth's scattered iron fragments. Stories describe a domain of iron cities and impossible ambitions that lures the driven and the hungry. Most people treat it as a cautionary tale, a campfire story about what happens when ambition burns too hot. But the [[Major Factions#Ember Guild|Ember Guild]] takes the stories seriously, and expeditions that have gone looking for the truth have a poor record of coming back.
 
 ---
 

@@ -55,6 +55,7 @@ The post-Theomachis cosmology is messy, overlapping, and poorly understood by th
 | **The Celestial Sphere** | Active / Remote | Where [[The Twelve#Aelindra|Aelindra]] retreated. The stars are her domain. Whether this is a true plane or an aspect of the mortal sky is debated, the answer may be both. |
 | **The Deep** | Active / Liminal | [[The Twelve#Yvenne|Yvenne]]'s ocean domain. More than just physical ocean, there are depths where the water becomes something else, where Yvenne's divine essence makes the sea a borderland between mortal reality and something older. |
 | **[[The Gyre]]** | Active / Foundational | The primordial substrate of raw, undifferentiated potential beneath all structured reality. The raw material from which [[The Twelve]] built creation. Connected to Aethermourne via the Aetheric Web's filtration and breached at [[The Shattered Edge\|The Maelstrom]]. |
+| **[[The Iron Descent]]** | Persistent / Predatory | [[The Twelve#Kaevroth\|Kaevroth]]'s divine domain, the only Empyrean realm to survive the Theomachis intact. A nine-layered pocket plane anchored to scattered iron fragments, feeding on mortal ambition. The Heart of Iron beneath [[Ostivaar]] is its deepest anchor. |
 | **[[The Fathom]]** | Active / External | The vast alien expanse outside the boundary of creation. Separated from creation by the celestial sphere (the stars). Its nature is fundamentally incompatible with creation's rules. The boundary is weakening as stars go dark. |
 
 > [!warning]- GM Cosmology Notes
@@ -351,6 +352,7 @@ For GMs who need to quickly reference environmental magical effects:
 | **Empyrean Bleed** | Near divine remains | Shattered Empyrean "leaks" through, causing visions or spatial distortion | Variable, depends on proximity and duration |
 | **Gyre Bleed** | Near Maelstrom, Hollow Zones, ley surges | Unfiltered Primordial influence: compulsive patterns, dissolution, reality stuttering | Variable, subtle to severe depending on membrane integrity |
 | **Fathom Seepage** | Deep ocean, coastal during Black Tides, where stars have gone dark | Alien wrongness: impossible geometries, unnamed colors, biological rules that don't apply | Low to moderate, currently localized but increasing |
+| **Iron Descent Resonance** | Near Kaevroth fragments, especially large ones | Fragment pulses with domain activity: amplified aggression, vivid dreams of iron cities, temporary planar thinning | Variable, increasing with Second Silence |
 
 ---
 
@@ -368,6 +370,9 @@ For GMs who need to quickly reference environmental magical effects:
 >
 > **What happens when the divine materials run out?**
 > No one knows. The most optimistic scholars believe the world will simply become non-magical, mundane, but livable. The pessimists believe that magic is now woven into the world's fundamental structure, and its removal would cause reality to unravel. The truth is probably somewhere in between, and probably worse than either prediction.
+>
+> **What is the Iron Descent?**
+> [[The Twelve#Kaevroth\|Kaevroth]]'s divine domain in the Empyrean, which survived the Theomachis by folding inward and anchoring to his scattered iron fragments. It is a nine-layered pocket plane that feeds on ambition. Entry is possible through large fragments; exit is extremely difficult. Most scholars consider it legend. The [[The Ember Guild\|Ember Guild]] knows better. See [[The Iron Descent]].
 >
 > **What are The Gyre and The Fathom?**
 > The outer planes. The Gyre is the raw substrate beneath creation, the material The Twelve used to build the world. The Fathom is the alien expanse outside creation's boundary. Both predate the gods. Neither is hostile, but both are incompatible with structured reality in their raw forms. See [[The Gyre]], [[The Fathom]], and [[The Primordials]].

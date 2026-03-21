@@ -49,10 +49,11 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 
 - **Year 0:** The Triumvirate strikes. The Theomachis begins.
 - **Year 1:** Five gods fall: [[The Twelve#Solvaen|Solvaen]], [[The Twelve#Thyrea|Thyrea]], [[The Twelve#Morrhael|Morrhael]], [[The Twelve#Belara|Belara]], [[The Twelve#Thalvor|Thalvor]]. Their bodies become the land.
-- **Year 2:** [[The Twelve#Vorrhyn|Vorrhyn]] unmade (the **Maelstrom** born). [[The Twelve#Kaevroth|Kaevroth]] shattered, iron fragments scatter across the continent.
+- **Year 2:** [[The Twelve#Vorrhyn|Vorrhyn]] unmade (the **Maelstrom** born). [[The Twelve#Kaevroth|Kaevroth]] shattered, iron fragments scatter across the continent. Kaevroth's domain in the Empyrean folds inward rather than collapsing, anchoring to his scattered iron fragments. [[The Iron Descent]] is born.
 - **Year 3:** [[The Twelve#Serith|Serith]] imprisoned beneath the Abyssal Trench. [[The Twelve#Orenthas|Orenthas]] speaks his final word. [[The Twelve#Nethys|Nethys]] fragments into the Aetheric Web.
 - **~4-50 AS:** The Ash Years. Sky choked with divine ash. More than half the mortal population perishes.
 - **~100 AS:** First **Ashite** forged from crystallized divine blood.
+- **~200 AS:** First accidental mortal contact with [[The Iron Descent]] when a miner cracks a buried Kaevroth fragment.
 - **~200 AS:** [[The Greensingers]] emerge in the Verdant Marches.
 - **~280 AS:** [[The Ashen Vigil]] founded to guard against the rising dead.
 - **~350 AS:** [[The Lantern-Keepers]] form along the southern coast.
@@ -72,6 +73,7 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 - **~700 AS:** [[The Star-Readers]] organize across national borders.
 - **~750 AS:** First **Marrow Plague** in the Verdant Marches.
 - **~800 AS:** [[Concord of Tides]] formalized as merchant-republic.
+- **847 AS:** Commander Aldric Solhane leads 40 [[The Ashen Vigil|Ashen Vigil]] soldiers into the Hollowdeep. They discover the Bone Gate connecting to [[The Iron Descent]]. 12 return.
 - **~850 AS:** **Remnant Accords** signed between living and intelligent undead.
 - **~900-950 AS:** **First Border War** between Dominion and Marches. The **Scarwall** grows.
 - **~1000 AS:** Star-Reading of Aelindra's Tear: *"A second silence shall fall when the stars forget their names."*
@@ -85,6 +87,7 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 - **~1000-1100 AS:** The **Golden Centuries**. Peace, trade, and prosperity.
 - **~1100 AS:** [[The Cinders]] founded as secret police by Valdren VII.
 - **~1150 AS:** [[The Hollowed Reach#Driftmere|Driftmere]] rebellion, pirate haven born.
+- **1203 AS:** [[The Star-Readers]] send an expedition into [[The Iron Descent]]. One survivor returns speaking in two voices.
 - **~1200-1300 AS:** **Ashite Wars** between Dominion and Reach.
 - **~1350 AS:** **Deep Awakening**, first signs of movement in the Abyssal Trench.
 - **~1400 AS:** [[The Greensingers|Greensingers]] warn of disturbance in **Thyrea's Cradle**.
@@ -105,6 +108,7 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 - **~1950 AS:** [[Unbound Congregation]] formalizes as reform movement.
 - **~2000 AS:** Undead offensives from the Hollowdeep cease entirely. The **Quiet Years** begin.
 - **~2050 AS:** [[Kaelith Thornborn]] born.
+- **2089 AS:** [[The Ember Guild]] agent [[Factor Ashlen Hale]] enters [[The Iron Descent]] voluntarily to map its structure. She has not returned.
 - **~2100 AS:** **Star Fade** begins, stars dimming across the sky.
 - **~2150 AS:** [[Hierarch Valdren III]] takes power.
 - **~2170 AS:** [[Kaelith Thornborn|Kaelith]]'s **Awakening** in Thyrea's Cradle.

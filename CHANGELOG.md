@@ -1,5 +1,33 @@
 # Changelog
 
+## 2026-03-21, The Iron Descent Expansion
+
+Major expansion adding Kaevroth's surviving divine domain as a nine-layered pocket plane within the Shattered Empyrean. The Iron Descent is the only Empyrean realm to survive the Theomachis intact, feeding on mortal ambition through scattered iron fragments.
+
+### New Content Created
+
+| Category | Count | Details |
+|---|---|---|
+| Hub file | 1 | `The Iron Descent.md` (overview, cosmological position, entry/exit mechanics) |
+| Level files | 9 | Levels 1-9, each with environment, NPCs, encounters, GM notes |
+| Lore files | 4 | Origins, Laws of the Descent, Expeditions, Mortal World connections |
+| Bestiary entries | 24 | Iron Descent creatures across all levels |
+| NPC files | 62 | NPCs organized by level, from Rustgate to The Heart |
+
+### Existing Files Updated (8)
+
+- `Timeline.md`, 5 new chronological entries (2 AS, ~200 AS, 847 AS, 1203 AS, 2089 AS)
+- `World Overview.md`, added Iron Descent mention in Borderlands section
+- `Player Primer.md`, updated Kaevroth table entry, added player-facing Iron Descent note
+- `Cosmology and Magic.md`, added to Current Cosmology table, Cosmological Hazards table, and Appendix Q&A
+- `The Twelve.md`, added Iron Descent paragraph to Kaevroth's Legacy, updated Heart of Iron GM note
+- `The Ember Guild.md`, added fragment-doorway discovery and Factor Ashlen Hale expedition
+- `The Ashen Vigil.md`, added 847 AS Bone Gate expedition under Commander Solhane
+- `The Star-Readers.md`, added 1203 AS expedition and sole survivor account
+- `NPCRegistry.md`, added 62 Iron Descent NPCs to Quick Reference Table and new By Region section
+
+---
+
 ## 2026-03-21, Bulk NPC Enrichment (40 Files)
 
 Enriched all 40 thin NPC files (under 50 lines) to the full enriched template (60-90 lines). Each file now includes Appearance, Personality, Backstory, Relationships, What They Want, and expanded GM-only callouts with Campaign Role, Key Secret, Arc Trajectory, and Roleplay Notes with sample dialogue.

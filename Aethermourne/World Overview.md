@@ -140,6 +140,8 @@ The **Ashward Marches** form the contested border between the Dominion and the V
 
 The **Greymere Fenlands** sprawl between the Dominion's southern provinces and the Hollowed Reach, a vast marshland where neither power holds firm control. It is a haven for outcasts, criminals, and those who prefer to be forgotten.
 
+Not all divine domains collapsed with their gods. [[The Twelve#Kaevroth|Kaevroth]]'s realm in the Empyrean survived, folding inward and anchoring to his scattered iron fragments. Known as [[The Iron Descent]], this nine-layered pocket plane feeds on mortal ambition, reaching through buried fragments like fingers through keyholes. Most scholars dismiss it as legend. The few who have entered rarely return.
+
 And at the continent's center-west lies the **Maelstrom**, a wound in reality where [[The Twelve#Vorrhyn|Vorrhyn]], God of Chaos, was utterly annihilated. Not killed. Not imprisoned. *Unmade.* The Maelstrom is a region where the laws of nature do not apply consistently. Gravity shifts. Time stutters. Space folds. Things exist there that should not exist anywhere. No nation claims the Maelstrom. No sane person enters it willingly. It is, by every reasonable measure, the most dangerous place in the known world.
 
 It is also, some scholars whisper, the only place where a god was so thoroughly destroyed that nothing of them remains. In a world built on divine corpses, the absence of a corpse is its own kind of mystery.

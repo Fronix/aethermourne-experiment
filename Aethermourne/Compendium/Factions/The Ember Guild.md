@@ -45,7 +45,7 @@ Guild halls operate in most major cities, each run by a resident Master Craftsma
 
 - **Advance the craft** of working divine materials. Every generation of Guild members should surpass the last.
 - **Maintain neutrality** and access to all regions. The moment the Guild takes a side, it loses access to half its clients and half its materials.
-- **Track and catalogue [[Cosmology and Magic|Kaevroth]] fragments.** The Guild considers these too dangerous for any faction to use and maintains a registry of known fragments and their locations.
+- **Track and catalogue [[Cosmology and Magic|Kaevroth]] fragments.** The Guild considers these too dangerous for any faction to use and maintains a registry of known fragments and their locations. The Guild's tracking has revealed that the fragments are not merely dangerous materials but potential doorways to [[The Iron Descent]], Kaevroth's surviving divine domain. In 2089 AS, Factor [[Factor Ashlen Hale|Ashlen Hale]] entered the Iron Descent voluntarily to map its structure. She has not returned.
 - **Profit.** The Guild isn't a charity. Divine-material work commands divine-material prices.
 
 ## Strengths

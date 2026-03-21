@@ -53,7 +53,7 @@ Military hierarchy:
 - **Elite warriors.** Every Vigil member is a hardened veteran of anti-undead warfare. They know their enemy better than anyone alive.
 - **Morrhaelite weapons.** Forged from the remnants of a death-god, these weapons disrupt undead animation on contact. The Vigil's armory is irreplaceable.
 - **Respect.** The Vigil is respected across the continent. Even the Dominion sends (inadequate) supply shipments. Their moral authority is unassailable.
-- **Experience.** Over seventeen hundred years of institutional knowledge about undead threats, Hollowdeep behavior, and survival in the Wastes.
+- **Experience.** Over seventeen hundred years of institutional knowledge about undead threats, Hollowdeep behavior, and survival in the Wastes. In 847 AS, Commander Aldric Solhane led 40 Vigil soldiers into the Hollowdeep's deepest tunnels, where they discovered the Bone Gate, a crossing point connecting to [[The Iron Descent]], Kaevroth's surviving domain. Only 12 returned. The Vigil's sealed report on the expedition is their most classified document.
 
 ## Weaknesses
 

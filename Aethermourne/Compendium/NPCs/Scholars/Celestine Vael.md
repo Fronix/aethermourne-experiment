@@ -43,7 +43,7 @@ She operates from the Archive of Tides in [[Tidewall]], which houses one of the 
 
 ## Relationships
 
-- **Arch-Reader Thessaly Vane**, the Star-Readers' most senior leader in Ashveil. Celestine shares findings with Vane and considers her the only colleague brilliant enough to see the full pattern. They correspond by encoded letter.
+- **Arch-Reader Tessera Vane**, the Star-Readers' most senior leader in Ashveil. Celestine shares findings with Vane and considers her the only colleague brilliant enough to see the full pattern. They correspond by encoded letter.
 - **[[Lira Ashvane]]**, Commander of the [[The Lantern-Keepers]]. Celestine provides intelligence on the cosmic dimensions of the crisis. Ashvane provides the practical grounding Celestine sometimes lacks.
 - **[[Maren Selk]]**, First Tidekeeper. Celestine has tried to warn the [[Concord of Tides]] about the Star Fade. Selk listened politely and did nothing, because "the stars are dimming" does not translate into trade policy.
 - **[[The Twelve#Aelindra|Aelindra]]**, her goddess. The divine channel is weakening, and Celestine feels the growing silence like an amputation. She does not know if Aelindra is dying or being silenced, and the uncertainty is eroding her faith.

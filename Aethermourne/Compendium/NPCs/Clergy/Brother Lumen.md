@@ -44,7 +44,7 @@ Three months ago, he arrived in [[Sporeling]] and recognized the fungal network 
 
 ## Relationships
 
-- **[[The Star-Readers]]** , he was expelled but still considers himself a member. He believes they will welcome him back when his work succeeds. They will not. Arch-Reader Thessaly Vane considers him a cautionary tale.
+- **[[The Star-Readers]]** , he was expelled but still considers himself a member. He believes they will welcome him back when his work succeeds. They will not. Arch-Reader Tessera Vane considers him a cautionary tale.
 - **[[Wick]]** , he met the prodigy once in [[Glimwater]] and recognized their potential immediately. He needs a living conduit for the final stage of his experiment: someone who can channel multiple fragments simultaneously. Wick is the only candidate he's identified. He hasn't told them this.
 - **[[Old Fenris]]** , the elder suspects what Lumen is doing and hasn't stopped him. Lumen interprets this as tacit approval. It is actually horrified paralysis.
 - **The Sporeling community** , they tolerate his presence because he pays for his lodging in Star-Reader knowledge and helps maintain the grounding wards in the Shard Bogs. They don't understand his research. He hasn't tried to explain it.

@@ -99,6 +99,48 @@ type: overview
 | [[Root-Speaker Fennara]] | Heretical Druid | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
 | [[Garret Boneharvest]] | Cycle-Material Trader | [[The Thornwild]] | None | Alive |
 | [[The Bloom-Wraith]] | Cycle Entity | [[The Thornwild]] | None | Unknown |
+| [[Erys Ironfall\|Warden Erys Ironfall]] | Warden of Rustgate | [[The Iron Descent]] | None | Trapped |
+| [[Keeper Maren Ashveil]] | Keeper of the Unnamed Shrine | [[The Iron Descent]] | None | Trapped |
+| [[Old Rust]] | Eldest Resident of Rustgate | [[The Iron Descent]] | None | Ash revenant |
+| [[Dalla Threshborn]] | Smuggler | [[The Iron Descent]] | None | Trapped |
+| [[Scavenger Polk]] | Salvager and Trader | [[The Iron Descent]] | None | Trapped |
+| [[The Ashen Crier]] | Herald of the Ashfield | [[The Iron Descent]] | None | Cursed |
+| [[Warlord Keth]] | Ruler of the Crucible | [[The Iron Descent]] | None | Bound |
+| [[Mira Ashborn\|Sergeant Mira Ashborn]] | Combatant | [[The Iron Descent]] | [[The Ashen Vigil]] (formerly) | Trapped |
+| [[The Registrar]] | Keeper of Records | [[The Iron Descent]] | None | Bound |
+| [[Merchant-Prince Avarek]] | Merchant-Prince of Greedhollow | [[The Iron Descent]] | The Iron Market | Trapped |
+| [[Dealmaker Syra Voss]] | Dealmaker | [[The Iron Descent]] | The Iron Market | Bound |
+| [[The Assessor]] | Assessor | [[The Iron Descent]] | The Iron Market | Construct |
+| [[Ren Twice-Sold]] | Guide | [[The Iron Descent]] | None | Trapped |
+| [[Coinless Marta]] | Thief | [[The Iron Descent]] | None | Trapped |
+| [[The Debt Collector]] | Enforcer | [[The Iron Descent]] | The Iron Market | Construct |
+| [[Broker Fennwick]] | Broker | [[The Iron Descent]] | The Iron Market | Trapped |
+| [[Smeltress Kora]] | Master Smith | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[Forge-Warden Irontooth]] | Forge-Warden | [[The Iron Descent]] | [[The Iron Descent]] | Bound |
+| [[The Overseer]] | Production Overseer | [[The Iron Descent]] | [[The Iron Descent]] | Construct |
+| [[Bellows-Keeper Tharn]] | Keeper of the Bellows | [[The Iron Descent]] | [[The Iron Descent]] | Bound |
+| [[Apprentice Nil]] | Apprentice Cataloguer | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[Factor Ashlen Hale]] | Senior Cartographer | [[The Iron Descent]] | [[The Ember Guild]] | Trapped |
+| [[The Slag Mother]] | Keeper of the Waste Channels | [[The Iron Descent]] | None | Trapped |
+| [[Sovereign Kallis]] | Sovereign of the Hall of Mirrors | [[The Iron Descent]] | [[The Iron Descent]] | Domain-manifestation |
+| [[The Last General]] | Commander of the Thousand Thrones | [[The Iron Descent]] | The Thousand Thrones | War-spirit |
+| [[Queen Vassera]] | Queen of a Dead Kingdom | [[The Iron Descent]] | The Thousand Thrones | Trapped |
+| [[Crown-Keeper Ash]] | Keeper of the Field of Banners | [[The Iron Descent]] | The Thousand Thrones | Bound |
+| [[Herald Unbroken]] | Guardian of the Bone Gate | [[The Iron Descent]] | The Thousand Thrones | Bound |
+| [[The Cartographer]] | Keeper of the Tower | [[The Iron Descent]] | The Thousand Thrones | Trapped |
+| [[The Deposed]] | Former King | [[The Iron Descent]] | None | Freed |
+| [[Lord Imperator Vaelgrim]] | Lord Imperator | [[The Iron Descent]] | The Iron Court | Bound |
+| [[The Hollow King]] | Ruler of the Consuming | [[The Iron Descent]] | None | Consumed |
+| [[Mother Amalgam]] | Keeper of the Refuge | [[The Iron Descent]] | None | Consumed |
+| [[The Hunger]] | Manifestation | [[The Iron Descent]] | None | Domain manifestation |
+| [[Vessel Maren]] | Scholar of the Consuming | [[The Iron Descent]] | None | Being consumed |
+| [[The Remnant]] | Last Distinct Soul | [[The Iron Descent]] | None | Being consumed |
+| [[The Undigested]] | Fragment of the Unconsumed | [[The Iron Descent]] | None | Divine fragment |
+| [[The Echo of Kaevroth]] | Echo, Ruler of The Heart | [[The Iron Descent]] | [[The Iron Descent]] | Echo |
+| [[Vex the Defiant]] | Leader of the Unbound | [[The Iron Descent]] | The Unbound | Trapped |
+| [[Rust-Singer Elara]] | Bard | [[The Iron Descent]] | The Unbound (loosely) | Trapped |
+| [[The Iron Shepherd]] | Guide of the Descent | [[The Iron Descent]] | None | Unknown |
+| [[The Ferryman's Shadow]] | Echo of Morrhael | [[The Iron Descent]] | None | Echo |
 
 ---
 
@@ -224,6 +266,73 @@ type: overview
 | [[Garret Boneharvest]] | Cycle-Material Trader | [[Bone Garden]] | None |
 | [[The Bloom-Wraith]] | Cycle Entity | The Bonewood | None |
 
+### The Iron Descent
+
+| NPC | Title | Location | Faction |
+|-----|-------|----------|---------|
+| [[Erys Ironfall\|Warden Erys Ironfall]] | Warden of Rustgate | Level 1: The Ashfield | None |
+| [[Keeper Maren Ashveil]] | Keeper of the Unnamed Shrine | Level 1: The Ashfield | None |
+| [[Old Rust]] | Eldest Resident of Rustgate | Level 1: The Ashfield | None |
+| [[Dalla Threshborn]] | Smuggler | Level 1: The Ashfield | None |
+| [[Scavenger Polk]] | Salvager and Trader | Level 1: The Ashfield | None |
+| [[The Ashen Crier]] | Herald of the Ashfield | Level 1: The Ashfield | None |
+| [[Warlord Keth]] | Ruler of the Crucible of Names | Level 2: The Proving Grounds | None |
+| [[Mira Ashborn\|Sergeant Mira Ashborn]] | Combatant | Level 2: The Proving Grounds | [[The Ashen Vigil]] (formerly) |
+| [[The Registrar]] | Keeper of Records | Level 2: The Proving Grounds | None |
+| [[Bloodqueen Sevra]] | Bloodqueen of the Crucible of Names | Level 2: The Proving Grounds | The Crucible of Names |
+| [[The Peacemaker]] | Self-appointed Mediator | Level 2: The Proving Grounds | None |
+| [[Pit-Master Grenn]] | Pit-Master of the Arena of Echoes | Level 2: The Proving Grounds | The Crucible of Names |
+| [[Merchant-Prince Avarek]] | Merchant-Prince of Greedhollow | Level 3: The Iron Market | The Iron Market |
+| [[Dealmaker Syra Voss]] | Dealmaker | Level 3: The Iron Market | The Iron Market |
+| [[The Assessor]] | Assessor | Level 3: The Iron Market | The Iron Market |
+| [[Ren Twice-Sold]] | Guide | Level 3: The Iron Market | None |
+| [[Coinless Marta]] | Thief | Level 3: The Iron Market | None |
+| [[The Debt Collector]] | Enforcer | Level 3: The Iron Market | The Iron Market |
+| [[Broker Fennwick]] | Broker | Level 3: The Iron Market | The Iron Market |
+| [[Smeltress Kora]] | Master Smith | Level 4: The Forge Eternal | [[The Iron Descent]] |
+| [[Forge-Warden Irontooth]] | Forge-Warden | Level 4: The Forge Eternal | [[The Iron Descent]] |
+| [[The Overseer]] | Production Overseer | Level 4: The Forge Eternal | [[The Iron Descent]] |
+| [[Bellows-Keeper Tharn]] | Keeper of the Bellows | Level 4: The Forge Eternal | [[The Iron Descent]] |
+| [[Apprentice Nil]] | Apprentice Cataloguer | Level 4: The Forge Eternal | [[The Iron Descent]] |
+| [[Factor Ashlen Hale]] | Senior Cartographer | Level 4: The Forge Eternal | [[The Ember Guild]] |
+| [[The Slag Mother]] | Keeper of the Waste Channels | Level 4: The Forge Eternal | None |
+| [[Sovereign Kallis]] | Sovereign of the Hall of Mirrors | Level 5: The Hall of Mirrors | [[The Iron Descent]] |
+| [[The Truthsayer]] | Prophet of the Unmirrored Cell | Level 5: The Hall of Mirrors | None |
+| [[Lord Parvane]] | Court Ambassador of Gloryholme | Level 5: The Hall of Mirrors | [[The Iron Descent]] |
+| [[Dreamer Ysolde]] | Resident of Gloryholme | Level 5: The Hall of Mirrors | [[The Iron Descent]] |
+| [[The Shattered Man]] | Curator of the Gallery of Triumphs | Level 5: The Hall of Mirrors | [[The Iron Descent]] |
+| [[Mirror-Warden Caelus]] | Warden of the Hall of Mirrors | Level 5: The Hall of Mirrors | [[The Iron Descent]] |
+| [[The Last General]] | Commander of the Thousand Thrones | Level 6: The Conquest | The Thousand Thrones |
+| [[Queen Vassera]] | Queen of a Dead Kingdom | Level 6: The Conquest | The Thousand Thrones |
+| [[Crown-Keeper Ash]] | Keeper of the Field of Banners | Level 6: The Conquest | The Thousand Thrones |
+| [[Herald Unbroken]] | Guardian of the Bone Gate | Level 6: The Conquest | The Thousand Thrones |
+| [[The Cartographer]] | Keeper of the Cartographer's Tower | Level 6: The Conquest | The Thousand Thrones |
+| [[The Deposed]] | Former King | Level 6: The Conquest | None |
+| [[Lord Imperator Vaelgrim]] | Lord Imperator of the Iron Court | Level 7: The Iron Court | The Iron Court |
+| [[Chancellor Dross]] | Chief Diplomat of the Iron Court | Level 7: The Iron Court | The Iron Court |
+| [[Judicator Seren]] | Judicator of the Iron Court | Level 7: The Iron Court | The Iron Court |
+| [[The Ambassador]] | Ambassador of the Iron Court | Level 7: The Iron Court | The Iron Court |
+| [[Spymaster Whisper]] | Chief of Intelligence | Level 7: The Iron Court | The Iron Court |
+| [[Executioner Gral]] | Court Executioner | Level 7: The Iron Court | The Iron Court |
+| [[Petitioner Ashwyn]] | Petitioner of the Iron Court | Level 7: The Iron Court | The Iron Court |
+| [[The Hollow King]] | Ruler of the Consuming | Level 8: The Consuming | None |
+| [[Mother Amalgam]] | Keeper of the Refuge | Level 8: The Consuming | None |
+| [[The Hunger]] | Manifestation of the Consuming Drive | Level 8: The Consuming | None |
+| [[Vessel Maren]] | Scholar of the Consuming | Level 8: The Consuming | None |
+| [[The Remnant]] | Last Distinct Soul | Level 8: The Consuming | None |
+| [[The Undigested]] | Fragment of the Unconsumed | Level 8: The Consuming | None |
+| [[The Echo of Kaevroth]] | Echo, Ruler of The Heart | Level 9: The Heart | [[The Iron Descent]] |
+| [[The Mercy]] | Fragment of Belara, the Mercy Gate | Level 9: The Heart | [[The Iron Descent]] |
+| [[Iron-Prophet Thalric]] | Prophet of the Heart | Level 9: The Heart | [[The Iron Descent]] |
+| [[The Warden of Hope]] | Guardian of the Mercy Gate | Level 9: The Heart | [[The Iron Descent]] |
+| [[The Last Loyalist]] | Sentinel of the Empty Throne | Level 9: The Heart | [[The Iron Descent]] |
+| [[The Unnamed]] | Living Memory of the Iron Descent | Level 9: The Heart | [[The Iron Descent]] |
+| [[Vex the Defiant]] | Leader of the Unbound | Mobile (Levels 1-5) | The Unbound |
+| [[Rust-Singer Elara]] | Bard of the Iron Descent | Mobile (Levels 2-6) | The Unbound (loosely) |
+| [[The Iron Shepherd]] | Guide of the Descent | Mobile (all levels) | None |
+| [[The Ferryman's Shadow]] | Echo of Morrhael | Mobile (all levels) | None |
+| [[The Collector]] | Story-Keeper | Mobile (all levels) | Unknown |
+
 ### Divine Figures
 
 *See [[The Twelve]] for full divine lore. Campaign-specific notes below.*
@@ -286,4 +395,5 @@ type: overview
 > - **Edgewalker / Prior / Dust-Trader**, Shattered Edge titles
 > - **Forge-Matriarch / Delver-Captain / Gemwright / Mender**, Emberveil titles
 > - **Cyclekeeper / Root-Speaker / Warden**, Thornwild titles
+> - **Warden / Forge-Warden / Smeltress / Bellows-Keeper / Dealmaker / Sovereign / Lord Imperator**, Iron Descent titles
 > - All divine figures are referred to by name and epithet (e.g., "Serith, the Veiled One")
