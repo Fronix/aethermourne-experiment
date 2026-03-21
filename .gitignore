@@ -16,7 +16,7 @@ site/content/*
 .opencode/.gitignore
 
 # Claude Code
-.Claude/
+.claude/
 
 # OS
 Thumbs.db
