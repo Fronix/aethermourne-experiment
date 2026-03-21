@@ -57,7 +57,7 @@ type: overview
 | [[Abbot Cael]] | Leader of the Merciful | [[The Hollowed Reach]] | The Merciful | Alive |
 | [[Hanna Tide\|Elder Hanna Tide]] | Elder of Mistholm | [[The Hollowed Reach]] | None | Alive |
 | [[Sera Greywater\|Warden Sera Greywater]] | Toll-Warden of Bridgemere | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
-| [[Dren Halwick]] | Whisper-Cell Inmate | [[The Hollowed Reach]] | None | Alive (compromised) |
+| [[Dren Halwick]] | Whisper-Cell Inmate | [[The Hollowed Reach]] | None | Alive |
 | [[Cassia Lorn]] | Ashless Community Leader | [[The Ashen Dominion]] | None (Ashless) | Alive |
 | [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[The Ashen Dominion]] | None | Alive |
 | [[Prior Gault Ashworth]] | Pilgrimage Master | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
@@ -103,13 +103,13 @@ type: overview
 | [[Vessa Ironvow]] | Rogue Miner | [[The Emberveil]] | None | Alive |
 | [[Yara Thornbloom\|Cyclekeeper Yara Thornbloom]] | Senior Cyclekeeper | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
 | [[Kael Duskborne\|Warden Kael Duskborne]] | Military Leader | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
-| [[Revenant Moss]] | Community Leader | [[The Thornwild]] | None | Undead |
+| [[Revenant Moss]] | Community Leader | [[The Thornwild]] | None | Alive |
 | [[Root-Speaker Fennara]] | Heretical Druid | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
 | [[Garret Boneharvest]] | Cycle-Material Trader | [[The Thornwild]] | None | Alive |
 | [[The Bloom-Wraith]] | Cycle Entity | [[The Thornwild]] | None | Unknown |
 | [[Erys Ironfall\|Warden Erys Ironfall]] | Warden of Rustgate | [[The Iron Descent]] | None | Trapped |
 | [[Keeper Maren Ashveil]] | Keeper of the Unnamed Shrine | [[The Iron Descent]] | None | Trapped |
-| [[Old Rust]] | Eldest Resident of Rustgate | [[The Iron Descent]] | None | Ash revenant |
+| [[Old Rust]] | Eldest Resident of Rustgate | [[The Iron Descent]] | None | Undead |
 | [[Dalla Threshborn]] | Smuggler | [[The Iron Descent]] | None | Trapped |
 | [[Scavenger Polk]] | Salvager and Trader | [[The Iron Descent]] | None | Trapped |
 | [[The Ashen Crier]] | Herald of the Ashfield | [[The Iron Descent]] | None | Cursed |
@@ -117,7 +117,7 @@ type: overview
 | [[Mira Ashborn\|Sergeant Mira Ashborn]] | Combatant | [[The Iron Descent]] | [[The Ashen Vigil]] (formerly) | Trapped |
 | [[The Registrar]] | Keeper of Records | [[The Iron Descent]] | None | Bound |
 | [[Merchant-Prince Avarek]] | Merchant-Prince of Greedhollow | [[The Iron Descent]] | The Iron Market | Trapped |
-| [[Dealmaker Syra Voss]] | Dealmaker | [[The Iron Descent]] | The Iron Market | Bound |
+| [[Dealmaker Syra Voss]] | Dealmaker | [[The Iron Descent]] | The Iron Market | Domain-manifestation |
 | [[The Assessor]] | Assessor | [[The Iron Descent]] | The Iron Market | Construct |
 | [[Ren Twice-Sold]] | Guide | [[The Iron Descent]] | None | Trapped |
 | [[Coinless Marta]] | Thief | [[The Iron Descent]] | None | Trapped |
@@ -136,19 +136,39 @@ type: overview
 | [[Crown-Keeper Ash]] | Keeper of the Field of Banners | [[The Iron Descent]] | The Thousand Thrones | Bound |
 | [[Herald Unbroken]] | Guardian of the Bone Gate | [[The Iron Descent]] | The Thousand Thrones | Bound |
 | [[The Cartographer]] | Keeper of the Tower | [[The Iron Descent]] | The Thousand Thrones | Trapped |
-| [[The Deposed]] | Former King | [[The Iron Descent]] | None | Freed |
-| [[Lord Imperator Vaelgrim]] | Lord Imperator | [[The Iron Descent]] | The Iron Court | Bound |
+| [[The Deposed]] | Former King | [[The Iron Descent]] | None | Freed (chooses to remain) |
+| [[Lord Imperator Vaelgrim]] | Lord Imperator | [[The Iron Descent]] | The Iron Court | War-spirit/bound |
 | [[The Hollow King]] | Ruler of the Consuming | [[The Iron Descent]] | None | Consumed |
 | [[Mother Amalgam]] | Keeper of the Refuge | [[The Iron Descent]] | None | Consumed |
-| [[The Hunger]] | Manifestation | [[The Iron Descent]] | None | Domain manifestation |
-| [[Vessel Maren]] | Scholar of the Consuming | [[The Iron Descent]] | None | Being consumed |
-| [[The Remnant]] | Last Distinct Soul | [[The Iron Descent]] | None | Being consumed |
-| [[The Undigested]] | Fragment of the Unconsumed | [[The Iron Descent]] | None | Divine fragment |
+| [[The Hunger]] | Manifestation | [[The Iron Descent]] | None | Domain-manifestation |
+| [[Vessel Maren]] | Scholar of the Consuming | [[The Iron Descent]] | None | Consuming (in progress) |
+| [[The Remnant]] | Last Distinct Soul | [[The Iron Descent]] | None | Consuming (in progress) |
+| [[The Undigested]] | Fragment of the Unconsumed | [[The Iron Descent]] | None | Divine-fragment |
 | [[The Echo of Kaevroth]] | Echo, Ruler of The Heart | [[The Iron Descent]] | [[The Iron Descent]] | Echo |
 | [[Vex the Defiant]] | Leader of the Unbound | [[The Iron Descent]] | The Unbound | Trapped |
 | [[Rust-Singer Elara]] | Bard | [[The Iron Descent]] | The Unbound (loosely) | Trapped |
 | [[The Iron Shepherd]] | Guide of the Descent | [[The Iron Descent]] | None | Unknown |
 | [[The Ferryman's Shadow]] | Echo of Morrhael | [[The Iron Descent]] | None | Echo |
+| [[Bloodqueen Sevra]] | Bloodqueen of the Crucible | [[The Iron Descent]] | The Crucible of Names | Trapped |
+| [[The Peacemaker]] | Self-appointed Mediator | [[The Iron Descent]] | None | Trapped |
+| [[Pit-Master Grenn]] | Pit-Master of the Arena | [[The Iron Descent]] | The Crucible of Names | Trapped |
+| [[The Truthsayer]] | Prophet of the Unmirrored Cell | [[The Iron Descent]] | None | Trapped |
+| [[Lord Parvane]] | Court Ambassador of Gloryholme | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[Dreamer Ysolde]] | Resident of Gloryholme | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[The Shattered Man]] | Curator of the Gallery | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[Mirror-Warden Caelus]] | Warden of the Hall of Mirrors | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[Chancellor Dross]] | Chief Diplomat | [[The Iron Descent]] | The Iron Court | Bound |
+| [[Judicator Seren]] | Judicator of the Iron Court | [[The Iron Descent]] | The Iron Court | Bound |
+| [[The Ambassador]] | Ambassador of the Iron Court | [[The Iron Descent]] | The Iron Court | Bound |
+| [[Spymaster Whisper]] | Chief of Intelligence | [[The Iron Descent]] | The Iron Court | Bound |
+| [[Executioner Gral]] | Court Executioner | [[The Iron Descent]] | The Iron Court | Bound |
+| [[Petitioner Ashwyn]] | Petitioner of the Iron Court | [[The Iron Descent]] | The Iron Court | Bound |
+| [[The Mercy]] | Fragment of Belara | [[The Iron Descent]] | [[The Iron Descent]] | Echo |
+| [[Iron-Prophet Thalric]] | Prophet of the Heart | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[The Warden of Hope]] | Guardian of the Mercy Gate | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[The Last Loyalist]] | Sentinel of the Empty Throne | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[The Unnamed]] | Living Memory | [[The Iron Descent]] | [[The Iron Descent]] | Trapped |
+| [[The Collector]] | Story-Keeper | [[The Iron Descent]] | Unknown | Trapped |
 
 ---
 

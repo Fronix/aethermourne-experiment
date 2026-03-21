@@ -46,6 +46,15 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Emberveil]]**, volcanic highlands above a god's still-burning forge
 - **[[The Thornwild]]**, cursed northwest where life and death cycle as one
 
+## The Unwritten Lands (New Continent)
+
+- **[[The Unwritten Lands]]**, a continent shaped by Primordial forces, hidden for millennia
+- **[[The Veilshore]]**, coastal contact zone where two worlds collide
+- **[[The Primordia]]**, raw Primordial heartland where reality is negotiable
+- **[[The Oldborn Kingdoms]]**, ancient civilization built without gods
+- **[[The Loom's Edge]]**, forbidden interior where Orenthas's excised fate-threads wait
+- **[[Player Primer - Unwritten Lands]]**, player-facing guide to the new continent
+
 ## Beyond the Mortal World
 
 - **[[The Iron Descent]]**, Kaevroth's surviving domain, a nine-layered hell that feeds on ambition
@@ -91,10 +100,33 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 ## The Campaign
 
 - **[[Campaign Overview]]**, *The Second Silence*, a five-act campaign spanning all nine regions
+- **[[Villain Action Timelines]]**, session-by-session doom clocks for every antagonist
+- **[[GM Campaign Flow Guide]]**, practical session-level pacing and transition guidance
+- **[[Cross-Region Quest Chains]]**, five multi-region quest chains that connect the campaign
+- **[[The Prophecy Fragments]]**, eight prophecy handouts to drip-feed across the campaign
+
+## Adventures & Playable Content
+
+- **[[Campaign Overview|Campaign Starters]]**, first-session packages for 7 regions
+- **8 one-shots**, standalone adventures from coastal horror to political intrigue
+- **10 quest boards**, location-specific quests for major settlements
+- **[[Player Handouts]]**, in-world documents ready to print
+- **[[Session Toolkits]]**, tavern encounters, downtime activities, social scenes, slice-of-life
+- **[[Location Encounter Tables]]**, d6/d8 encounter tables for 6 settlements
+- **[[Random NPC Tables]]**, name, occupation, motivation, secret, and rumor generators
+- **[[Travel Rules and Hazards]]**, movement, distances, regional hazards, weather, foraging
+
+## GM Reference
+
+- **[[GM Quick Reference]]**, compact Nimble rules reference for the table
+- **[[Faction Relationships]]**, relationship matrix for all 11 major factions
+- **[[Encounter Tables]]**, regional encounter tables for all 9 regions
+- **[[Shops and Services]]**, merchants and services by settlement
+- **[[Rumors and Notices]]**, overheard gossip and posted notices
 
 ## The NPCs
 
-- **[[NPCRegistry]]**, master index of all 138 named characters
+- **[[NPCRegistry]]**, master index of all 149 named characters
 
 ---
 
@@ -104,15 +136,17 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 >
 > | | |
 > |---|---|
-> | **Total files** | 291 |
-> | **Total lines of lore** | 23,000+ |
-> | **Regions** | 9 |
-> | **Settlements** | 49 |
-> | **Named NPCs** | 138 |
-> | **Mortal world NPCs** | 76 |
-> | **Iron Descent inhabitants** | 62 |
-> | **Creatures (Bestiary)** | 24 |
-> | **Factions** | 20 |
+> | **Total files** | 366 |
+> | **Total lines of lore** | 35,000+ |
+> | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
+> | **Settlements** | 55+ |
+> | **Named NPCs** | 149 |
+> | **NPC files** | 146 |
+> | **Creatures (Bestiary)** | 28 |
+> | **Factions** | 22 |
+> | **Campaign starters** | 7 |
+> | **One-shots** | 8 |
+> | **Quest boards** | 10 |
 > | **Gods (The Twelve)** | 12 |
 > | **Primordials** | 10 |
 > | **Outer Planes** | 3 (The Iron Descent, The Gyre, The Fathom) |
@@ -123,5 +157,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 > | **Shattered gods** | 1 |
 > | **Silent gods** | 1 |
 > | **Campaign acts** | 5 |
+> | **Cross-region quest chains** | 5 |
+> | **Prophecy fragments** | 8 |
 > | **Years of in-world history** | 2,200+ |
 > | **Human-written words** | 0 |
