@@ -131,7 +131,7 @@ The people are warm, darkly humorous, and profoundly practical. They help strang
 >
 > Serith wants access to the Loom. With it, she could rewrite the conditions of her imprisonment, not by breaking free through force, but by altering the threads of fate so that her prison was never sealed. The widening Maelstrom is the first stage: stretching the wound until it becomes a passage.
 >
-> The "Foretouched" Changed, those who emerge with impossible knowledge, are carrying fragments of information that have bled through from the Loom. They are not prophets. They are leaks. The knowledge they carry is real, accurate, and extremely dangerous, because every fragment that bleeds through weakens the barrier further.
+> The "Foretouched" Changed, those who emerge with impossible knowledge, are carrying fate-echoes that have bled through from the Loom. They are not prophets. They are leaks. The knowledge they carry is real, accurate, and extremely dangerous, because every fragment that bleeds through weakens the barrier further.
 >
 > The [[The Veil Unbound|Veil Unbound]] agents in [[Riftmarket]] are preparing a ritual at the Maelstrom's edge, one designed to widen the wound enough for Serith's influence to reach the Loom directly. They need Empyrean Shards, large quantities of them, and they are buying aggressively through intermediaries. [[Oren Blackfinger]] has noticed the unusual demand but does not yet understand why.
 

@@ -75,11 +75,11 @@ The Echo Garden is the safest place to encounter temporal phenomena. The impress
 ### The Thread Vault
 
 > [!warning]- GM Only
-> Beneath the Hall of Returns, accessible through a concealed passage, the Threadwalkers maintain a vault containing physical thread-fragments, dormant patterns from the excised fate-threads that have manifested as tangible objects. Silver filaments, each no longer than a forearm, stored in lead-lined cases that dampen their temporal resonance.
+> Beneath the Hall of Returns, accessible through a concealed passage, the Threadwalkers maintain a vault containing dormant patterns from the excised fate-threads that have manifested as tangible objects. Silver filaments, each no longer than a forearm, stored in lead-lined cases that dampen their temporal resonance.
 >
-> There are seventeen fragments in the vault. Each shows a different vision when touched: a future that was excised, a path that Orenthas forbade. Some show beautiful worlds. Some show horrors. All show certainty, futures without doubt, without ambiguity, without choice.
+> There are seventeen dormant patterns in the vault. Each shows a different vision when touched: a future that was excised, a path that Orenthas forbade. Some show beautiful worlds. Some show horrors. All show certainty, futures without doubt, without ambiguity, without choice.
 >
-> The Threadwalkers study these fragments carefully, never touching them bare-handed, using specially prepared gloves that filter the visions into manageable fragments. Their research suggests the fragments are *growing*, generating new thread-material at an accelerating rate. The vault was built for twelve cases. It now holds seventeen. Within a decade, it will not be large enough.
+> The Threadwalkers study these dormant patterns carefully, never touching them bare-handed, using specially prepared gloves that filter the visions into manageable impressions. Their research suggests the patterns are *growing*, generating new thread-material at an accelerating rate. The vault was built for twelve cases. It now holds seventeen. Within a decade, it will not be large enough.
 
 ---
 
@@ -103,7 +103,7 @@ New Threadwalkers train for three years before their first expedition past the A
 
 ## Tensions & Hooks
 
-1. **The Thread Vault Breach.** One of the vault's lead cases has cracked. The fragment inside is generating thread-material at visible speed, silver filaments crawling across the vault floor. The Threadwalkers cannot contain it with existing methods. They need help, someone with knowledge of divine magic (which interacts with the Loom differently than Primordial magic) to understand what is happening. The PCs, carrying traces of the known continent's divine traditions, may be exactly what is needed.
+1. **The Thread Vault Breach.** One of the vault's lead cases has cracked. The dormant pattern inside is generating thread-material at visible speed, silver filaments crawling across the vault floor. The Threadwalkers cannot contain it with existing methods. They need help, someone with knowledge of divine magic (which interacts with the Loom differently than Primordial magic) to understand what is happening. The PCs, carrying traces of the known continent's divine traditions, may be exactly what is needed.
 
 2. **Issek's Expedition.** Threadwalker Issek has proposed going deeper than any Threadwalker has gone, past the Mirror Valleys, into the Skein itself. He claims the threads are calling him, that they want to show him something. The Council has forbidden it. Issek intends to go anyway. The PCs must decide: stop him, join him, or let him go and deal with the consequences.
 
@@ -111,7 +111,7 @@ New Threadwalkers train for three years before their first expedition past the A
 
 4. **Kaeven's Request.** Threadmaster Kaeven approaches the PCs privately. She has seen something in the Mirror Valleys that she cannot discuss with her own people: a future where the Loom Scar opens fully and the counter-prophecy rewrites reality. She needs the PCs to reach the Scar and determine whether it can be sealed. She cannot go herself. Her anchor-moment is failing. If she enters the Skein, she will not return.
 
-5. **The Convergence.** All seventeen thread-fragments in the vault begin resonating simultaneously, producing a harmonic that can be heard throughout the settlement. The Anchor Line pillars crack. The distortion zone surges southward. For twelve terrifying minutes, Skeinhold exists in all times at once before the Threadwalkers' collective discipline pulls it back. Something in the Loom Scar just moved. The next convergence will be stronger.
+5. **The Convergence.** All seventeen dormant patterns in the vault begin resonating simultaneously, producing a harmonic that can be heard throughout the settlement. The Anchor Line pillars crack. The distortion zone surges southward. For twelve terrifying minutes, Skeinhold exists in all times at once before the Threadwalkers' collective discipline pulls it back. Something in the Loom Scar just moved. The next convergence will be stronger.
 
 > [!warning]- GM Only
 > **Campaign Role:** Skeinhold is the gateway to the campaign's deepest revelations. Here the PCs learn the Threadwalkers' discipline (giving them the tools to survive the Loom's Edge), encounter manifested fate-threads (their first direct contact with the counter-prophecy), and receive the guidance needed to reach the Loom Scar.

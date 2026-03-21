@@ -146,7 +146,7 @@ The players find themselves in a landscape that is half-memory, half-geometry. O
 
 The crystallization halts. Orynn will never be fully human again, the growths on her body remain, and she will occasionally speak in patterns. But she is *herself*. She knows her name. She remembers her granddaughter. She holds the cracked cup and does not let go.
 
-Vaelith weeps. She does not thank the players with words. She presses her forehead to each of theirs, an Oldborn gesture of profound respect. She gives them the promised crystals and something more: a Primordial Anchor shard, a small stabilized crystal that grants advantage on saves against environmental hazards in the Primordia (one use, then it crumbles).
+Vaelith weeps. She does not thank the players with words. She presses her forehead to each of theirs, an Oldborn gesture of profound respect. She gives them the promised crystals and something more: a Primordial Anchor shard, a small stabilized crystal that grants rolling twice and taking higher on saves against environmental hazards in the Primordia (one use, then it crumbles).
 
 **Campaign implication:** The method the players used to save Orynn could work on other Structure-Broken across the Oldborn Kingdoms. This makes the players valuable to the Oldborn, a diplomatic bridge that did not exist before.
 

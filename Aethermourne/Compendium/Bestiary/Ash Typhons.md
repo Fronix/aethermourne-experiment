@@ -59,7 +59,7 @@ The storms cannot be fought, dispersed, or redirected through conventional means
 > | Ash Typhon | — | — | N/A | 8 (storm front) | — | — | — | environmental hazard (escalating) |
 >
 > **Escalation:**
-> - **Round 1, Ash Front:** Visibility 6 spaces. All creatures in the open take 1d4 slashing. Str save DC 12 or coughing imposes disadvantage on Perception.
+> - **Round 1, Ash Front:** Visibility 6 spaces. All creatures in the open take 1d4 slashing. Str save DC 12 or coughing imposes rolling twice and taking lower on Perception.
 > - **Round 2, Full Storm:** Visibility 1 space. Open creatures take 2d6 slashing. Str save DC 14 or blinded until start of next turn. Breathing without filtration causes 1d4 additional damage.
 > - **Round 3+, Scouring:** Open creatures take 3d6 slashing. Str save DC 16 or gain 1 level of exhaustion (rust-lung). Exposed metal equipment: flat DC 13 or loses effectiveness. Communication beyond 1 space impossible.
 >

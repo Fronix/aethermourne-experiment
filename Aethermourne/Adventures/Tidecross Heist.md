@@ -120,7 +120,7 @@ The cave is accessible via a narrow path along the cliff face (Athletics DC 12 t
 
 ### Cave Layout (Described)
 
-**Entry tunnel.** 30 feet long, 5 feet wide. Trapped: a tripwire at the 15-foot mark triggers an alchemical smoke bomb (fills the tunnel, heavily obscures for 3 rounds, Constitution DC 13 or coughing imposes disadvantage on attacks).
+**Entry tunnel.** 30 feet long, 5 feet wide. Trapped: a tripwire at the 15-foot mark triggers an alchemical smoke bomb (fills the tunnel, heavily obscures for 3 rounds, Str save DC 13 or coughing imposes rolling twice and taking lower on attacks).
 
 **Main chamber.** 20x30 feet, carved smooth. Contains:
 - A workbench with resonance tuning forks, notes in cipher (Intelligence DC 15 to decode: activation instructions for the Choir Stone)

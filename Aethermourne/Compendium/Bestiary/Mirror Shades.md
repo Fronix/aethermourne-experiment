@@ -70,8 +70,8 @@ The way to defeat a Mirror Shade is to become unpredictable. It knows everything
 > - **Replacement Grapple:** When the Shade reduces the original to 0 HP, the original is pulled into the nearest polished iron surface. The Shade assumes the original's identity. Reversing this requires returning to the exact surface and destroying the Shade there.
 > - **Doubt Anchor:** The Shade cannot be permanently destroyed while the doubt that created it persists. If destroyed without the original resolving the underlying doubt, the Shade reforms from the next polished surface the original sees (1d4 days later).
 >
-> **Bloodied (half HP):** The Shade's smile falters, flickering between its wrong grin and the original's true expression. It becomes visibly desperate, attacking recklessly (advantage on attacks, but attacks against it also have advantage).
+> **Bloodied (half HP):** The Shade's smile falters, flickering between its wrong grin and the original's true expression. It becomes visibly desperate, attacking recklessly (rolls twice and takes higher on attacks, but attacks against it also roll twice and take higher).
 >
-> **Weakness:** Genuinely unpredictable actions (never-before-used abilities, acting against established character) bypass Pattern Lock. If the original genuinely resolves the doubt that birthed the Shade (GM adjudication, not a skill check), the Shade takes 10d10 radiant damage and cannot reform. Shattering all polished iron surfaces within 60 ft prevents reformation for 24 hours.
+> **Weakness:** Genuinely unpredictable actions (never-before-used abilities, acting against established character) bypass Pattern Lock. If the original genuinely resolves the doubt that birthed the Shade (GM adjudication, not a skill check), the Shade takes 10d10 radiant damage and cannot reform. Shattering all polished iron surfaces within 12 spaces prevents reformation for 24 hours.
 >
 > **Encounter Note:** 1-on-1 encounter (the original PC). Party intervention is possible but the Shade copies the strongest intervening ally if more than two PCs engage it simultaneously.

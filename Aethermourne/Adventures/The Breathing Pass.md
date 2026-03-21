@@ -93,7 +93,7 @@ Roll or choose from the following. Use 3-4 encounters on the ascent.
 
 | d8 | Hazard | Details |
 |---|---|---|
-| 1 | **Terrain Shift** | The ground tilts 30 degrees without warning. Dexterity save DC 14 or slide 20 feet downslope (1d6 bludgeoning, costs 1 Stamina). Wagons require group Athletics DC 15 to anchor. |
+| 1 | **Terrain Shift** | The ground tilts 30 degrees without warning. Dexterity save DC 14 or slide 4 spaces downslope (1d6 bludgeoning, costs 1 Stamina). Wagons require group Athletics DC 15 to anchor. |
 | 2 | **Breath Surge** | The mountain exhales. A blast of mineral-laden wind fills the pass. Str save DC 13 or blinded for 1 minute (stone dust). Costs 1 Stamina regardless. |
 | 3 | **Path Collapse** | The path ahead sinks into the mountain. The caravan has 2 rounds to find an alternate route (Survival DC 14 or Investigation DC 14) before the detour becomes a dead end. |
 | 4 | **Breath-beast** | A creature of animate stone detaches from the cliff face. Use an Earth Elemental stat block (scaled to party level). It attacks the crystal wagons specifically, drawn to the resonance. Defeating it causes it to collapse into rubble. |

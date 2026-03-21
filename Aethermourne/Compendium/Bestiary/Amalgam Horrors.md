@@ -59,7 +59,7 @@ The true threat of an Amalgam Horror is not physical. It is the choice it forces
 > **Resistances:** Resistant to slashing (iron-laced flesh).
 >
 > **Special Abilities:**
-> - **Conflicting Impulses:** At the start of each turn, roll 1d4: (1) Aggressive, attacks nearest creature; (2) Pleading, does not attack, begs for help; (3) Panicked, moves randomly, Dash; (4) Calculating, attacks most vulnerable target with advantage.
+> - **Conflicting Impulses:** At the start of each turn, roll 1d4: (1) Aggressive, attacks nearest creature; (2) Pleading, does not attack, begs for help; (3) Panicked, moves randomly, Dash; (4) Calculating, attacks most vulnerable target, rolling twice and taking higher on the attack.
 > - **Grapple:** On hit, target is grappled (Str DC 15 to escape) as multiple arms seize them.
 > - **Absorb:** If the Amalgam grapples a creature for 3 consecutive rounds, the creature begins merging. Str save DC 16 each round or take 2d6 necrotic damage. A creature reduced to 0 HP is absorbed permanently, adding +20 HP and a new face.
 > - **Faces Speak:** Each face speaks independently with contradictory information. Insight DC 14 to determine truthfulness.

@@ -56,7 +56,7 @@ Late-stage Rust Walkers are essentially automatons. They patrol the Descent's co
 > | Rust Walker (Early) | 1 | None | 18 | 6 | +1 | +0 | -1 | iron fist 1d6+1 bludgeoning |
 >
 > **Special Abilities:**
-> - **Still Human:** Capable of speech and reason. Not hostile unless threatened. Iron hands grant advantage on grapple checks.
+> - **Still Human:** Capable of speech and reason. Not hostile unless threatened. Iron hands grant rolling twice and taking higher on grapple checks.
 >
 > **Weakness:** Lightning damage deals double. Can be reasoned with.
 

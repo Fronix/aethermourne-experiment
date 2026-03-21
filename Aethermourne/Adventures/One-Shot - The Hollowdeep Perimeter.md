@@ -89,7 +89,7 @@ As the PCs approach the Marrow Fields (divine bone fragments protruding from fro
 - Stage 2 (half mile): Grey depression. Colors seem muted. Motivation drains. DC 13 Will save or lose the desire to continue (sit down for 1d10 minutes unless physically moved by allies).
 - Stage 3 (at the bones): Peaceful acceptance. The cold feels warm. Sitting down feels right. DC 15 Will save or stop moving entirely, content to wait.
 
-**Countermeasure:** Morrhaelite equipment provides advantage on bone-pull saves. Strong emotional anchors (thinking of loved ones, reciting personal oaths) grant +2.
+**Countermeasure:** Morrhaelite equipment grants rolling twice and taking higher on bone-pull saves. Strong emotional anchors (thinking of loved ones, reciting personal oaths) grant +2.
 
 ### Scene 2: The Patrol
 
@@ -106,7 +106,7 @@ If the PCs are careless (failed Stealth or loud movement), the patrol returns. T
 > [!example] Stat Block (Nimble)
 > | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
 > |---|---|---|---|---|---|---|---|---|
-> | Hollowdeep Soldier | 3 | M | 20 | 30' | +3 | +1 | +4 | 1d8 slashing (rusted blade) |
+> | Hollowdeep Soldier | 3 | M | 20 | 6 | +3 | +1 | +4 | 1d8 slashing (rusted blade) |
 >
 > **Special Abilities:**
 > - **Formation Discipline.** When adjacent to another Soldier, damage rolls gain +2. Cannot be frightened while in formation.
@@ -174,7 +174,7 @@ As the PCs retreat, the sky darkens. A bone-storm rolls in from the crater, dust
 
 **Round 1 - Death-Sight:** All PCs see the spirit world overlaid on reality. The tundra is not empty. Thousands of translucent figures stand in the frost, motionless, facing the crater. The dead who fell here over millennia, not yet risen, not yet at rest. Merely waiting. No save required, but deeply unsettling.
 
-**Round 2 - Necrotic Wind:** DC 13 Str save or take 2d6 necrotic damage and suffer tissue numbness (disadvantage on Dex saves for 1 hour). Exposed skin blackens at the edges. Healing restores the damage but the discoloration remains for 1d4 days.
+**Round 2 - Necrotic Wind:** DC 13 Str save or take 2d6 necrotic damage and suffer tissue numbness (rolling twice and taking lower on Dex saves for 1 hour). Exposed skin blackens at the edges. Healing restores the damage but the discoloration remains for 1d4 days.
 
 **Round 3 - The Whisper:** DC 15 Will save. On failure, the PC hears a voice, feminine, calm, patient. It says one sentence, different for each PC, always true, always something they fear:
 

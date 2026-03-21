@@ -56,11 +56,11 @@ The danger emerges when a Revenant encounters a situation that mirrors its defin
 > | Ash Revenant | 2 | None | 22 | 6 | +1 | +2 | +0 | ash limb 1d6+2 bludgeoning |
 >
 > **Special Abilities:**
-> - **Ambition Trigger:** When it encounters an object or situation matching its defining desire, gains advantage on attacks and +2 damage for 1 minute.
+> - **Ambition Trigger:** When it encounters an object or situation matching its defining desire, rolls twice and takes higher on attacks and gains +2 damage for 1 minute.
 > - **Ambition Collapse:** If the Revenant's defining desire is fulfilled, it immediately collapses into powder. No HP reduction needed.
 > - **Whispered Phrase:** Repeats a single phrase on loop. Perception DC 12 to hear clearly. The phrase hints at identity and desire.
 > - **Ash Reform:** If reduced to 0 HP by non-fire damage, reforms in 1d4 rounds unless the ash is scattered by wind or fire.
 >
-> **Bloodied (half HP):** Releases ash cloud, 10 ft radius, light obscurement for 2 rounds.
+> **Bloodied (half HP):** Releases ash cloud, 2 space radius, light obscurement for 2 rounds.
 >
 > **Weakness:** Fire damage prevents reformation. Fulfilling the Revenant's desire destroys it instantly. Holy water causes 2d6 radiant damage.

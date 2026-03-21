@@ -61,6 +61,6 @@ Contract Wraiths cannot be destroyed by conventional means while the broken cont
 > - **Perfect Mirror:** Possesses all skills, abilities, and combat capabilities of its template. Knows everything the template knew at the moment the contract was broken.
 > - **Iron Reform:** If destroyed, reforms in 1d8 hours from iron filings and Market dust. Continues indefinitely until the contract is fulfilled, superseded, or the iron tablet is destroyed.
 > - **Oathbreaker's Scent:** Always knows direction and distance to its target. Cannot be misdirected by mundane means. Magical concealment DC 18.
-> - **Wrong Face:** Creatures that know the template can attempt Insight DC 16 to notice something off. Success: advantage on saves against the Wraith's social manipulation.
+> - **Wrong Face:** Creatures that know the template can attempt Insight DC 16 to notice something off. Success: rolling twice and taking higher on saves against the Wraith's social manipulation.
 >
 > **Weakness:** Fulfilling the original broken contract instantly destroys the Wraith. Destroying the iron contract tablet in the Market's archives destroys it permanently. Cannot enter areas warded against extraplanar entities.

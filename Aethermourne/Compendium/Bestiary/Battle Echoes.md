@@ -79,4 +79,4 @@ Escaping the boundary before the Echo concludes is theoretically possible but re
 > - **Formation Tactics:** When 3+ soldiers are adjacent, gain +1 Armor category and +2 damage.
 > - **Disappear on Conclusion:** When the Echo ends, all phantom soldiers vanish instantly.
 >
-> **Weakness:** They fight with 2,000-year-old tactics. Creative or unconventional approaches impose disadvantage on their attacks for 1 round.
+> **Weakness:** They fight with 2,000-year-old tactics. Creative or unconventional approaches force them to roll twice and take lower on their attacks for 1 round.

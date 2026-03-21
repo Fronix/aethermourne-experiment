@@ -135,7 +135,7 @@ While the PCs investigate, something emerges from the [[The Veilshore#The Fernwa
 A single [[Gyre-Wraiths|Gyre-Wraith]] drifts out of the Fernwald, a shifting translucent shape that refuses to resolve. Humanoid, then angular, then liquid. Colors that have no names ripple across its surface. Looking directly at it causes eyes to water and thoughts to stutter.
 
 - Lvl 5 | Armor: H (shifting form) | HP 30 | Speed 4 | Str +3 | Dex +3 | Will +5 | 1d10 dissolution (touch, target's equipment makes DC 13 save or warps)
-- **Dissolution Aura:** Creatures within 10 ft at start of turn: DC 12 Will save or take 1d4 psychic damage as body "forgets" its shape momentarily
+- **Dissolution Aura:** Creatures within 2 spaces at start of turn: DC 12 Will save or take 1d4 psychic damage as body "forgets" its shape momentarily
 - **Immune** to non-Primordially-attuned physical weapons and Aetheric (divine-based) magic
 - **Vulnerable** to Primordial pact magic (the PCs won't have this yet)
 - **Weakness:** Structured sound (music, rhythmic chanting, mathematical recitation) forces it to pause, unable to act for 1 round. DC 13 Performance or relevant skill.
@@ -186,8 +186,8 @@ With evidence from the Wrack (acid purchase), the shrine (nighttime visits), and
 - She will not fight unless cornered. If cornered:
 
 **Encounter: Jessalyn Crowe**
-- Lvl 3 | Armor: None | HP 20 | Speed 6 | Str +0 | Dex +3 | Will +4 | 1d6 piercing (concealed blade) or 1d8 cold (Serith's whisper, 30' range, DC 13 Will save or target hears Serith's voice and loses next action)
-- **Serith's Gift:** Once per encounter, can cause all seawater within 30 ft to surge violently (DC 14 Dex save or knocked prone and dragged 10 ft toward nearest water source)
+- Lvl 3 | Armor: None | HP 20 | Speed 6 | Str +0 | Dex +3 | Will +4 | 1d6 piercing (concealed blade) or 1d8 cold (Serith's whisper, 6 space range, DC 13 Will save or target hears Serith's voice and loses next action)
+- **Serith's Gift:** Once per encounter, can cause all seawater within 6 spaces to surge violently (DC 14 Dex save or knocked prone and dragged 2 spaces toward nearest water source)
 - **Escape Plan:** Smoke pellet + sprint toward cliffs. If she reaches the water, she Sleepwalks into the ocean and is gone.
 
 **What Crowe Carries:**

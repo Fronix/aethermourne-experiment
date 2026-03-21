@@ -100,4 +100,4 @@ The true danger is the ancient Forgeborn, the pre-Theomachis constructs that sti
 >
 > **Last Stand:** When reduced to 0 HP, the Ancient's war-glyphs overload. Every creature within 6 spaces makes Dex save DC 17 or takes 4d6 fire damage. All Forgeborn within 24 spaces lose Kaevroth's Authority and revert to basic patrol behavior.
 >
-> **Weakness:** Lightning deals double damage. If separated from lesser Forgeborn (no allies within 24 spaces), loses Authority and fights with disadvantage on the first attack each round.
+> **Weakness:** Lightning deals double damage. If separated from lesser Forgeborn (no allies within 24 spaces), loses Authority and rolls twice and takes lower on the first attack each round.

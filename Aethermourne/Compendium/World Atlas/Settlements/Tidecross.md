@@ -67,7 +67,7 @@ The shrine has become a pilgrimage site for sailors, a place to pray before depa
 
 A fortified building near the docks, claimed by [[The Star-Readers]] as a research station. The Archive catalogues everything learned about the Unwritten Lands: Oldborn language fragments, Primordial phenomena, maps that become obsolete within weeks. The building is guarded, warded, and off-limits to non-scholars.
 
-Rumor says the Star-Readers have recovered a fragment of [[Cosmology and Magic#The Loom of Fate|the Loom]] and are keeping it in the Archive's vault. The rumor is true. [[The Veil Unbound]] knows this. They are planning to take it.
+Rumor says the Star-Readers have recovered an excised thread of [[Cosmology and Magic#The Loom of Fate|the Loom]] and are keeping it in the Archive's vault. The rumor is true. [[The Veil Unbound]] knows this. They are planning to take it.
 
 ### The Wrack Tunnel
 
@@ -111,7 +111,7 @@ The population is transient. Sailors come and go with the tides. Merchants stay 
 
 1. **The Vanishing Oldborn.** Vosh has not been seen in three days. The Oldborn delegation sent a message: if Vosh is not returned unharmed within a week, they will consider it an act of war. No one knows where Vosh is. The players must find them before the deadline expires.
 
-2. **The Archive Heist.** [[The Veil Unbound]] is planning to raid the Archive House and steal the Loom fragment. The Star-Readers know something is coming but not when or how. The players might be hired to defend the Archive, infiltrate the cult, or steal the fragment themselves before either faction gets it.
+2. **The Archive Heist.** [[The Veil Unbound]] is planning to raid the Archive House and steal the excised Loom thread. The Star-Readers know something is coming but not when or how. The players might be hired to defend the Archive, infiltrate the cult, or steal the fragment themselves before either faction gets it.
 
 3. **The Black Sand Rising.** Something is moving beneath the black sand of the market. At night, shapes press upward against the surface, never breaking through. The Oldborn say the sand is rejecting the settlement, that the land is preparing to expel the outlanders. Merchants are refusing to work. Trade is collapsing. If the market dies, Tidecross dies with it.
 

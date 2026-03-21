@@ -56,7 +56,7 @@ A Crown Wraith with thralls becomes exponentially more dangerous. It commands it
 > | Crown Wraith | 6 | M | 75 | fly 6 | +0 | +2 | +5 | none (commands thralls) |
 >
 > **Special Abilities:**
-> - **Sovereign Aura (12 spaces):** At the start of the Crown Wraith's turn, all creatures within 12 spaces make Will save DC 16. Failure: charmed and compelled to kneel. A kneeling creature uses its next action to defend the Wraith. Success: immune for 1 minute. Creatures with no desire for leadership have advantage.
+> - **Sovereign Aura (12 spaces):** At the start of the Crown Wraith's turn, all creatures within 12 spaces make Will save DC 16. Failure: charmed and compelled to kneel. A kneeling creature uses its next action to defend the Wraith. Success: immune for 1 minute. Creatures with no desire for leadership roll twice and take higher.
 > - **Crown's Champion:** A kneeling creature may take the Wraith's extended hand (a choice, not compelled). Grants +2 to attacks and damage for 1 hour but cannot act against the Wraith. The creature believes it has been chosen to rule.
 > - **Incorporeal Movement:** Can move through creatures and objects.
 > - **Undying Authority:** When reduced to 0 HP, the body dissipates but the crown remains. Any creature picking up the crown makes Will save DC 18 or places it on their own head, gaining Sovereign Aura but losing identity over hours.

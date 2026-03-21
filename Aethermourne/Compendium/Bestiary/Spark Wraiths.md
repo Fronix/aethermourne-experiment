@@ -63,7 +63,7 @@ In combat, Spark Wraiths are fragile but evasive. Their bodies are insubstantial
 > **Special Abilities:**
 > - **Creativity Drain (passive):** Any creature within 3 spaces engaging in creative thought (planning, strategizing, problem-solving) makes Will save DC 14 at the end of each minute. Failure: loses the ability to improvise or innovate for 1d4 hours. Repeated failures extend and deepen the effect.
 > - **Aggressive Feed (Action):** The Wraith engulfs a target (Dex save DC 13 to avoid). An engulfed creature takes 2d6 fire damage per round and must make Will save DC 15 or lose all creative capacity for 24 hours. Escape: Str save DC 13 as an action.
-> - **Innovation Beacon:** Detects creative thought within 120 ft and moves toward the strongest source.
+> - **Innovation Beacon:** Detects creative thought within 24 spaces and moves toward the strongest source.
 > - **Core Spark:** A bright mote at its center (Armor H, 5 HP). Destroying the core kills the Wraith permanently. Otherwise, a destroyed Wraith reignites in 1d10 minutes.
 >
 > **Bloodied (half HP):** The Wraith's form destabilizes, its core spark flickering visible. Attacks against the core no longer require a called shot.

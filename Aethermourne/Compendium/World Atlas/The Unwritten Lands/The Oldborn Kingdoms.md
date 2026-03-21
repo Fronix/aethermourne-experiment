@@ -142,9 +142,9 @@ The Circle of Speakers has fractured into three camps:
 
 - **[[Keth'vaal]]**, the oldest city, neutral meeting ground and seat of the Circle of Speakers
 - **[[Vehlkaar]]**, southern port city built within the Thornwood, the only Oldborn city accessible by sea
-- **Ur-Saethen**, the scholarly capital, home to the greatest library in either continent
-- **Draveth**, a mining city in the Ashfall Range, built into the caldera of a dormant volcano
-- **Hael'rune**, eastern border city, closest to [[The Veilshore]], first point of contact with outlander expeditions
+- **[[Ur-Saethen]]**, the scholarly capital, home to the greatest library in either continent
+- **[[Draveth]]**, a mining city in the Ashfall Range, built into the caldera of a dormant volcano
+- **[[Hael'rune]]**, eastern border city, closest to [[The Veilshore]], first point of contact with outlander expeditions
 
 ---
 

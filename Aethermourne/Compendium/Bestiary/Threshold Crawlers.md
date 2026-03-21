@@ -58,7 +58,7 @@ In combat, they flicker between their translucent and iron states. In translucen
 > **Special Abilities:**
 > - **Phase Shift.** Alternates between translucent form (physical damage reduced to dice only, magic deals full damage) and iron form (magic damage halved, physical deals full damage). Shifts at the start of its turn.
 > - **Translocation Pull.** On a hit against a target near a planar thin point, the target must pass DC 14 Str save or be pulled partially into the Iron Descent. On failure by 5+, the target is fully translocated.
-> - **Disorientation Aura.** Creatures within 2 spaces have disadvantage on Perception checks and cannot determine true north.
+> - **Disorientation Aura.** Creatures within 2 spaces roll twice and take lower on Perception checks and cannot determine true north.
 > - **Boundary Lurk.** Can hide within planar boundaries, appearing as a shimmer in peripheral vision. DC 15 Perception to spot before it attacks.
 > **Bloodied:** Phase shifting accelerates, switching forms at the start and end of its turn. Translocation Pull DC increases to 16.
 > **Weakness:** Attacks that affect both planes simultaneously (radiant damage, divine magic) bypass the phase shift entirely, dealing full damage in either form.

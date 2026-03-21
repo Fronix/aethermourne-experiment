@@ -81,14 +81,14 @@ system: nimble
 |---|---|---|
 | Black Tide | Coastal areas (increasing) | Sea turns dark. Magic surges: spells have 1-in-6 chance of wild effect. Trench creatures surface. |
 | Tidal Bridge Failure | Bridge crossings | DC 12 Dex to cross safely during flicker. Failure: fall into sea, 2d6 bludgeoning + current. |
-| Fog ("The Breath") | Shattered Coast, all times | Visibility 60 ft. Navigation DC 13. Sounds distorted (+2 to enemy Stealth). |
+| Fog ("The Breath") | Shattered Coast, all times | Visibility 12 spaces. Navigation DC 13. Sounds distorted (+2 to enemy Stealth). |
 | Sleepwalker Encounter | Coastal nights | DC 14 Will or hear whispers. Failure by 5+: compelled to walk toward sea for 1 round. |
 
 ### The Pale Wastes
 
 | Hazard | Trigger | Effect (Nimble) |
 |---|---|---|
-| Bone-Pull | Within 500 ft of Marrow Field | Escalating Will saves: DC 11 (fatigue), DC 13 (depression, lose motivation), DC 15 (acceptance, stop moving). Morrhaelite equipment: advantage. |
+| Bone-Pull | Within 100 spaces of Marrow Field | Escalating Will saves: DC 11 (fatigue), DC 13 (depression, lose motivation), DC 15 (acceptance, stop moving). Morrhaelite equipment: advantage. |
 | Bone-Storm | Random (40% increase) | 3 rounds: Death-Sight (no save, see spirits), Necrotic Wind (DC 13 Str, 2d6 necrotic), Whispers (DC 15 Will, Serith's voice). |
 | Supernatural Cold | Constant | DC 12 Str save per 4 hours without cold-weather gear. Failure: 1d4 cold damage + 1 exhaustion. Near Hollowdeep: DC 14. |
 | Undead Patrols | Between Holds, near crater | Silent, disciplined. Stealth DC 14 to avoid. If spotted, 1d4 rounds before reinforcements. |
@@ -97,7 +97,7 @@ system: nimble
 
 | Hazard | Trigger | Effect (Nimble) |
 |---|---|---|
-| Ley Surge | Random (1-in-6 per hour in Nethys Pools) | All spells within 100 ft: roll 1d6. 1-2: spell fails. 3-4: spell succeeds with altered effect (GM choice). 5-6: spell succeeds at double potency. |
+| Ley Surge | Random (1-in-6 per hour in Nethys Pools) | All spells within 20 spaces: roll 1d6. 1-2: spell fails. 3-4: spell succeeds with altered effect (GM choice). 5-6: spell succeeds at double potency. |
 | Soft Ground | Off-trail travel | DC 12 Dex or sink to waist. DC 14 Str to pull free. Failure by 5+: sinking continues, 1 round to rescue. |
 | Disorientation | Deep Fen | DC 14 Will per hour. Failure: lose 1d4 hours. Three consecutive failures: lost, require rescue or DC 16 to self-orient. |
 | Bioluminescent Spores | Nethys Pools clearings | DC 13 Will or become fascinated (1d10 min, unable to willingly leave). Addictive: subsequent saves at -2. |
@@ -115,8 +115,8 @@ system: nimble
 
 | Hazard | Trigger | Effect (Nimble) |
 |---|---|---|
-| War-Essence | Within 200 ft of fragments | DC 13 Will save per hour. Failure: rising aggression, -2 to social checks, advantage on attack damage but disadvantage on retreat/defensive actions. |
-| Monolith Proximity | Within 200 ft of Shardfall monolith | Teeth-ache, flaring temper. DC 14 Will or provoke nearest creature (including allies) with hostile speech/action. |
+| War-Essence | Within 40 spaces of fragments | DC 13 Will save per hour. Failure: rising aggression, -2 to social checks, advantage on attack damage but disadvantage on retreat/defensive actions. |
+| Monolith Proximity | Within 40 spaces of Shardfall monolith | Teeth-ache, flaring temper. DC 14 Will or provoke nearest creature (including allies) with hostile speech/action. |
 | Iron Dust | Rust Coast, windy days | DC 12 Str save or 1d4 damage (inhaled iron particles). Extended exposure: voice rasps, -2 to Persuasion for 1d4 days. |
 | Fragment Fields (sea) | Coastal sailing | DC 14 Dex (pilot) to navigate submerged iron fragments. Failure: hull breach, 1d6 hours to repair. |
 
@@ -124,9 +124,9 @@ system: nimble
 
 | Hazard | Trigger | Effect (Nimble) |
 |---|---|---|
-| Geothermal Vent | Random (1-in-8 per hour in Caldera Ring) | DC 13 Dex to dodge. Failure: 2d6 fire damage. Steam cloud: 30 ft radius, heavily obscured for 30 seconds. |
+| Geothermal Vent | Random (1-in-8 per hour in Caldera Ring) | DC 13 Dex to dodge. Failure: 2d6 fire damage. Steam cloud: 6-space radius, heavily obscured for 30 seconds. |
 | Volcanic Ash | Ashfall Slopes | -2 Perception (visual). DC 12 Str per 4 hours or 1 exhaustion (breathing difficulty). Cloth mask negates. |
-| Unstable Ground | Deep Warrens, mine shafts | DC 13 Dex or floor collapses. Fall: 2d6 per 10 ft. Mine supports: DC 14 Perception to spot weakness. |
+| Unstable Ground | Deep Warrens, mine shafts | DC 13 Dex or floor collapses. Fall: 2d6 per 2 spaces. Mine supports: DC 14 Perception to spot weakness. |
 | Heat Exhaustion | Caldera Ring, summer | DC 12 Str per 4 hours without water. Failure: 1 exhaustion. Heavy armor: DC increases by 2. |
 
 ### The Thornwild
@@ -143,7 +143,7 @@ system: nimble
 | Hazard | Trigger | Effect (Nimble) |
 |---|---|---|
 | Reality Distortion | Threshold zone and deeper | Physics unreliable. Ranged attacks: 1-in-4 chance of trajectory shift (reroll direction randomly). |
-| Gravity Shift | Shimmer Zone | DC 13 Dex per hour. Failure: gravity reverses locally for 1 round. Fall "upward" 10 ft, then return. 1d6 damage. |
+| Gravity Shift | Shimmer Zone | DC 13 Dex per hour. Failure: gravity reverses locally for 1 round. Fall "upward" 2 spaces, then return. 1d6 damage. |
 | Maelstrom Surge | Random (increasing) | Zone expands rapidly. DC 15 Dex to flee expanding edge. Caught: DC 14 Will or gain 1 mutation (Changed transformation begins). |
 | Time Inconsistency | All zones past Stable Ring | 1-in-6 chance per hour: lose or gain 1d4 hours. Party members may experience different durations. |
 
@@ -164,7 +164,7 @@ system: nimble
 |---|---|---|---|---|
 | 1 | Clear, mild | Clear, bitter cold (-2 exposure DCs) | Clear, humid, pollen heavy | Calm (suspiciously so) |
 | 2 | Overcast, light wind | Overcast, steady cold | Warm rain, canopy drip | Ley shimmer (minor surge, cosmetic) |
-| 3 | Light rain | Light snow, reduced visibility (100 ft) | Heavy rain, flooding risk | Phase weather (alternating sun/rain/fog in minutes) |
+| 3 | Light rain | Light snow, reduced visibility (20 spaces) | Heavy rain, flooding risk | Phase weather (alternating sun/rain/fog in minutes) |
 | 4 | Heavy rain, mud (-4 miles/day) | Heavy snow, trail obscured (-6 miles/day) | Pollen storm (intoxication hazard) | Wild growth/decay (Thornwild cycle intensifies) |
 | 5 | Storm, lightning risk | Bone-storm (see Pale Wastes hazards) | Thunderstorm, flash floods | Reality storm (distortion hazards active) |
 | 6 | Unnatural calm (roll on regional hazard) | Supernatural cold (exposure DCs +4) | Thyrea bloom (Marrow-Water surfaces) | Convergence event (two weather types simultaneously) |

@@ -58,7 +58,7 @@ The most effective defense is suppressing desire. Travelers who meditate, who re
 > **Special Abilities:**
 > - **Desire Sense.** Detects creatures with strong desires within 1 mile. Characters with active personal goals or strong emotions are targeted first.
 > - **Aggression Venom.** On bite, target makes DC 13 Will save or is compelled to attack the nearest ally for 1 round. Save repeats at end of each turn.
-> - **Silent Pack Tactics.** When an ally is within 5 ft of the target, the Hound rolls damage twice and takes the higher result. Communicate silently through ground vibration.
+> - **Silent Pack Tactics.** When an ally is within 1 space of the target, the Hound rolls damage twice and takes the higher result. Communicate silently through ground vibration.
 > - **Iron Camouflage.** Advantage on Stealth in iron-rich environments. Virtually invisible when motionless on the Ashfield.
 > **Bloodied:** Desperation sharpens hunger. Desire Sense range doubles. Bite damage increases to 1d10.
 > **Weakness:** Characters who suppress desire (meditation, emotional detachment) become invisible to the pack. DC 16 Will save to achieve this state during combat.

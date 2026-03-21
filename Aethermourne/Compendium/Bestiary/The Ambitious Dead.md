@@ -61,7 +61,7 @@ The distinction from Morrhael's undead is critical. The iron-laced undead that e
 >
 > **Special Abilities:**
 > - **Implanted Ambition:** Each Ambitious Dead has a single, specific drive (guard a door, reach a location, deliver an object). It ignores all creatures and stimuli unrelated to this ambition. Cannot be distracted, taunted, or redirected.
-> - **Ambition Fury:** When a creature directly obstructs the Dead's ambition, it gains advantage on attacks and +2 damage for 3 rounds.
+> - **Ambition Fury:** When a creature directly obstructs the Dead's ambition, it rolls twice and takes higher on attacks and gains +2 damage for 3 rounds.
 > - **Burning Purpose:** When its ambition is obstructed, the iron-orange light flares. All creatures within 2 spaces make Will save DC 13 or must move 1 space away from the Dead's path (no action lost).
 > - **Domain Persistence:** If destroyed, the Descent reanimates a new corpse with the same ambition in 1d4 days.
 >

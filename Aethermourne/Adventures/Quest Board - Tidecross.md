@@ -94,7 +94,7 @@ region: The Unwritten Lands
 > | **Quest Giver** | [[Tidecaller Mirenne]], senior priest |
 > | **Objective** | Investigate why the Tidecaller Shrine is bleeding seawater and determine if [[The Twelve#Yvenne\|Yvenne]] is manifesting or if something else is pushing through |
 > | **Difficulty** | High |
-> | **Reward** | Tidecaller blessing (advantage on ocean travel), critical information about Yvenne's mental state |
+> | **Reward** | Tidecaller blessing (roll twice take higher on ocean travel checks), critical information about Yvenne's mental state |
 > | **Complication** | The answer may require entering the ocean during a period of Yvenne's instability. |
 
 **Hook:** "Mirenne's robes are soaked. The shrine walls bleed seawater that tastes of tears. The daily rites are holding, barely. She believes Yvenne is trying to communicate, but the message is garbled by pain, madness, or interference. She needs someone to listen more closely than prayer allows."

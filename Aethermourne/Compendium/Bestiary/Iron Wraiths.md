@@ -59,7 +59,7 @@ Iron Wraiths cannot be reasoned with, but they can be outmaneuvered. Their battl
 > - **Formation Fighting.** When adjacent to another Iron Wraith, damage rolls gain +2 and attackers' damage against it is reduced by an additional die step.
 > - **Battle-Fury Aura.** Martial characters within 6 spaces must pass a DC 13 Will save or feel compelled to join the formation (stunned for 1 round on failure). Non-martial characters make the same save against fear.
 > - **Fixed Tactics.** Once committed to a maneuver, cannot change target or direction for 2 rounds. Exploitable with DC 14 Insight to predict movement.
-> - **War-Glyph Flare.** On death, releases a burst of war-essence in 2 space radius. DC 12 Will save or take 1d6 psychic damage and suffer disadvantage on Will saves for 1 minute.
+> - **War-Glyph Flare.** On death, releases a burst of war-essence in 2 space radius. DC 12 Will save or take 1d6 psychic damage and roll twice and take lower on Will saves for 1 minute.
 > **Bloodied:** War-glyphs flare permanently. Battle-Fury Aura DC increases to 15. Attacks become frenzied, dealing an additional 1d4 damage.
 > **Weakness:** Predictable battle plans. Identifying their current formation (DC 14 Insight or History) allows the party to exploit gaps and avoid their patrol routes entirely.
 > **Recommended Party Size:** 4 players of level 4-5 (per 4-6 Wraiths)

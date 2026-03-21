@@ -154,7 +154,7 @@ Support Prior Gault's proposal for controlled theological review.
 
 **Challenges:**
 - Tessara must agree to silence (Persuasion DC 14, easier if the players frame it as "patience, not surrender").
-- Brael must agree to stand down (Persuasion DC 16, Gault's presence gives advantage). Brael respects Gault but does not trust him. He agrees only if the text is placed in Gault's custody, not Tessara's.
+- Brael must agree to stand down (Persuasion DC 16, Gault's presence grants rolling twice and taking higher). Brael respects Gault but does not trust him. He agrees only if the text is placed in Gault's custody, not Tessara's.
 - The review process is genuine but slow. The Church will attempt to control the outcome. Gault is honest but not powerful enough to guarantee the result.
 
 **Outcome:** The most "responsible" path. The text survives in ecclesiastical custody. The truth has a chance, however slim, of being acknowledged through official channels. Tessara keeps her freedom but loses her discovery. The real question is whether the players trust institutions to handle uncomfortable truths.
@@ -170,7 +170,7 @@ Support Prior Gault's proposal for controlled theological review.
 > **Attack:** +7, 1d8+4 slashing + 1d6 radiant (Ashite longsword)
 > **Special Abilities:**
 > - *Ashite Ward:* Resistance to the first spell targeting him each round (the Ashite absorbs it)
-> - *Commanding Presence:* Allies within 30 ft gain +2 to saves against fear and charm
+> - *Commanding Presence:* Allies within 6 spaces gain +2 to saves against fear and charm
 > - *Solvaen's Judgment:* Once per encounter, force a target to make Wisdom save DC 15 or be paralyzed for 1 round (geometric light binds their limbs)
 > **Weakness:** Brael will not attack unarmed or surrendering opponents. He follows the law absolutely, which can be exploited.
 > **Recommended Party Size:** 4 players of level 4-5

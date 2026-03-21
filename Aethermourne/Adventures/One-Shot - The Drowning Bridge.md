@@ -107,15 +107,15 @@ The Crawlers have been feeding on the thin point created by the crystal's presen
 > [!example] Stat Block (Nimble)
 > | Name | Lvl | Armor | HP | Speed | Str | Dex | Will | Attacks |
 > |---|---|---|---|---|---|---|---|---|
-> | Threshold Crawler | 4 | M (translucent) / H (iron) | 28 | 30' | +3 | +4 | +2 | 1d6 cold (phase-touch) |
+> | Threshold Crawler | 4 | M (translucent) / H (iron) | 28 | 6 | +3 | +4 | +2 | 1d6 cold (phase-touch) |
 >
 > **Special Abilities:**
 > - **Phase Shift.** Alternates between translucent (physical damage dice only) and iron form (magic damage halved). Shifts start of turn.
 > - **Translocation Pull.** On hit, DC 14 Str save or pulled partially into another plane. Failure by 5+ = fully translocated.
-> - **Disorientation Aura.** 10 ft, disadvantage on Perception.
+> - **Disorientation Aura.** 2 spaces, roll twice take lower on Perception.
 > **Bloodied:** Phase shifting accelerates. Translocation DC increases to 16.
 
-**Tactical Note:** The Crawlers avoid the crystal figure. If a PC positions themselves adjacent to the crystal, Crawlers will not approach within 10 feet. The crystal's pre-Pattern presence disrupts their boundary-dwelling nature.
+**Tactical Note:** The Crawlers avoid the crystal figure. If a PC positions themselves adjacent to the crystal, Crawlers will not approach within 2 spaces. The crystal's pre-Pattern presence disrupts their boundary-dwelling nature.
 
 ### Room 3: The Archive
 
@@ -150,7 +150,7 @@ It does not attack. It *communicates*, but not in words. PCs in the room experie
 The remnant cannot be fought (it is not fully present). It can be:
 1. **Acknowledged.** The PCs accept its existence, answer honestly. The remnant shares a final image: a map of other Gyre-Born sites across the continent, burned into one PC's memory. Then it fades.
 2. **Rejected.** The PCs refuse to engage. The remnant withdraws. The mandala cracks. The crystal overhead dims. The ruins begin flooding again. The PCs have 10 rounds to escape.
-3. **Studied.** A PC with Arcana training attempts to understand the remnant's nature. DC 16 Arcana: gains a permanent ability to sense Gyre-Born structures within 100 feet (useful for campaign).
+3. **Studied.** A PC with Arcana training attempts to understand the remnant's nature. DC 16 Arcana: gains a permanent ability to sense Gyre-Born structures within 20 spaces (useful for campaign).
 
 ---
 

@@ -151,11 +151,11 @@ The five Pact-Broken variants function as environmental hazards as much as comba
 > | Multiplicity-Broken | 6 | — | N/A | 0 | — | — | — | none (cognitive hazard) |
 >
 > **Special Abilities:**
-> - **Temporal Fracture Aura:** All creatures within 6 spaces make Will save DC 15 at start of each turn. Failure: perceives multiple timelines (disadvantage on all attacks, checks, and saves for 1 round). Three consecutive failures: "skeinned" (incapacitated 1d4 minutes, Will save DC 16 at end of each minute to recover).
+> - **Temporal Fracture Aura:** All creatures within 6 spaces make Will save DC 15 at start of each turn. Failure: perceives multiple timelines (rolls twice and takes lower on all attacks, checks, and saves for 1 round). Three consecutive failures: "skeinned" (incapacitated 1d4 minutes, Will save DC 16 at end of each minute to recover).
 > - **Flickering Presence:** Cannot be targeted by single-target effects. Area effects hit one version but others persist.
 > - **Memory Bleed:** Creatures in the aura experience vivid memories from futures that have not occurred.
 >
-> **Weakness:** Grounding in a concrete present-moment experience grants advantage on Will saves. Thaelun pact-holders navigate safely. Yith pact-holders can communicate with the trapped consciousness.
+> **Weakness:** Grounding in a concrete present-moment experience grants rolling twice and taking higher on Will saves. Thaelun pact-holders navigate safely. Yith pact-holders can communicate with the trapped consciousness.
 >
 > **Encounter Note:** Cognitive hazard zone, not combat. Any level.
 
@@ -166,11 +166,11 @@ The five Pact-Broken variants function as environmental hazards as much as comba
 >
 > **Special Abilities:**
 > - **Invisible Edge:** Only perceived in peripheral vision. Perception DC 20 to determine approximate location.
-> - **Division Aura:** All creatures within 12 spaces make Will save DC 15 at start of each hour. Failure: convinced companions are unknowable and untrustworthy (disadvantage on group checks). 24+ hours can permanently damage relationships.
+> - **Division Aura:** All creatures within 12 spaces make Will save DC 15 at start of each hour. Failure: convinced companions are unknowable and untrustworthy (rolls twice and takes lower on group checks). 24+ hours can permanently damage relationships.
 > - **Fissure Trail:** Ground cracks along its path. Walls fracture. Sealed containers open. Locked doors unlock.
 > - **Isolation:** Creatures within 2 spaces make Will save DC 16 or are overwhelmed by absolute separation (frightened, unable to move toward another creature for 1 minute).
 >
-> **Weakness:** Bonding rituals (shared meals, oaths, physical contact) suppress Division Aura for 1 hour. Genuine bonds grant advantage on the Will save.
+> **Weakness:** Bonding rituals (shared meals, oaths, physical contact) suppress Division Aura for 1 hour. Genuine bonds grant rolling twice and taking higher on the Will save.
 >
 > **Encounter Note:** Social/environmental hazard, not combat. Any level.
 
@@ -185,6 +185,6 @@ The five Pact-Broken variants function as environmental hazards as much as comba
 > - **Dream-Field (Inner Ring, 0-6 spaces):** Reality and dream indistinguishable. Will save DC 18 each round or fall into the reverie. Recovery: ally drags them out (Str DC 14) or Yith pact-holder navigates (DC 16).
 > - **Pilgrims' Trap:** Creatures in the middle ring who ask a question receive a true but incomplete answer and are drawn 2 spaces closer to the inner ring.
 >
-> **Weakness:** Yith pact-holders navigate all rings safely. Strong waking-world anchors (pain, cold water, a loved one's voice) grant advantage on Will saves.
+> **Weakness:** Yith pact-holders navigate all rings safely. Strong waking-world anchors (pain, cold water, a loved one's voice) grant rolling twice and taking higher on Will saves.
 >
 > **Encounter Note:** Exploration/investigation hazard, not combat. Any level.
