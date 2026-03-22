@@ -55,6 +55,13 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Loom's Edge]]**, forbidden interior where Orenthas's excised fate-threads wait
 - **[[Player Primer - Unwritten Lands]]**, player-facing guide to the new continent
 
+## Landmarks & Adventure Sites
+
+- **[[The Abyssal Trench]]**, Serith's undersea prison, a vertical dungeon descending to impossible depths
+- **[[The Deep Cave]]**, the fissure beneath Mistholm where Serith's voice reaches the surface
+- **[[The Weeping Isles]]**, where Belara fell, a place of healing, grief, and encroaching corruption
+- **[[The Shattered Coast]]**, the Hollowed Reach's fractured coastline, fog-haunted and Trench-touched
+
 ## Beyond the Mortal World
 
 - **[[The Iron Descent]]**, Kaevroth's surviving domain, a nine-layered hell that feeds on ambition
@@ -136,7 +143,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 >
 > | | |
 > |---|---|
-> | **Total files** | 366 |
+> | **Total files** | 370 |
 > | **Total lines of lore** | 35,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |

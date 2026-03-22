@@ -145,11 +145,29 @@ git push
 
 **Step 6:** Report to the DM: "[Scope] complete. [N] files created/updated. Committed and pushed."
 
-**Step 7:** Run `/clear` to reset your context window, then start Phase 1 fresh. The vault is the source of truth.
+**Step 7:** Message all agents (Lorekeeper, Writer1, Writer2, Characterwriter) via AMP to run `/compact` to compress their context.
+
+**Step 8:** Run `/clear` yourself, then start Phase 1 fresh. The vault is the source of truth.
+
+### Lore Check Cycle (every 3rd cycle)
+
+**Every 3rd cycle is a lore check, not a build.** Track your cycle count (1, 2, build, build, 3 = lore check, then reset).
+
+During a lore check cycle, skip the normal Discovery/Workshop/Build flow. Instead:
+
+1. **Pick a region, faction, or theme** to audit (rotate through different areas each time)
+2. **Message the Lorekeeper** with a focused audit request: "Audit all content related to [area]. Check for contradictions, timeline inconsistencies, broken wikilinks, NPCs referenced but not created, locations mentioned but missing files, and any lore drift."
+3. **Wait for the Lorekeeper's report** (this will be substantial — be patient)
+4. **Review the findings.** Decide what needs fixing.
+5. **Delegate corrections** to the writers and Characterwriter as needed
+6. **Wait for confirmations,** then proceed to Phase 5 (Publish & Commit) as normal
+
+The lore check keeps the vault cohesive as it grows. Without it, new content will drift from established lore.
 
 ### bbqsauce Rules
 
 - **One scope per cycle.** Don't boil the ocean. Pick a focused area, build it well, commit, move on.
+- **Every 3rd cycle is a lore check.** Do not skip it.
 - **Workshop is mandatory and you MUST wait for responses.** Don't skip straight to delegation. Don't proceed until every agent you messaged has replied. The agents have expertise, use it.
 - **Never commit with outstanding tasks.** If a writer hasn't confirmed, don't commit. Check inbox, wait, follow up if needed.
 - **The DM can interrupt at any time.** If the DM gives feedback or redirects mid-cycle, adjust. If the DM says stop, stop.

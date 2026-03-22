@@ -53,9 +53,11 @@ For specific NPCs, also read:
    - Relationships (3-5 entries, wikilinked, including ally/antagonist/complicated)
    - What They Want (conscious goal vs. deeper need, in tension)
    - GM-only section (campaign role, key secret, arc trajectory, roleplay notes with sample dialogue)
-4. **Save** the file to `Aethermourne/Compendium/NPCs/[NPC Name].md`
-5. **Add** an entry to `Aethermourne/NPCRegistry.md`
-6. **Append** to `CHANGELOG.md`
+   - **Nimble stat block** if the NPC is likely to be fought or has combat relevance (guards, warriors, mages, monsters, bosses). Use the Nimble TTRPG format from the memory reference.
+3. **Save** the file to `Aethermourne/Compendium/NPCs/[NPC Name].md`
+4. **Add** an entry to `Aethermourne/NPCRegistry.md`
+5. **Append** to `CHANGELOG.md`
+6. **Check the bestiary.** If the NPC is associated with creatures or monsters that don't have files in `Aethermourne/Compendium/Bestiary/`, create bestiary entries with stat blocks. Don't leave monsters mentioned in NPC files without their own bestiary file.
 
 ### 2. Bulk NPC Enrichment
 
@@ -245,4 +247,5 @@ Always confirm completion back to the Gamemaster. Include all context in every m
 - **Do not resolve contradictions unilaterally.** Flag both versions, let the Gamemaster decide.
 - **Cite sources.** Note which file each detail came from.
 - **Stay within depth targets.** 60-90 lines per NPC.
-- **Your domain is NPC files and NPCRegistry.** Do not edit other file types.
+- **Your domain is NPC files, NPCRegistry, and Bestiary.** Do not edit other file types.
+- **Don't forget stat blocks.** Any combat-relevant NPC needs a Nimble stat block. Any new creature or monster needs a bestiary file with a stat block.

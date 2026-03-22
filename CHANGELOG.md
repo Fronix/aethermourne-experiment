@@ -1,5 +1,30 @@
 # Changelog
 
+## 2026-03-22 03:34, Cycle 7: Hollowed Reach Adventure Sites (4 Landmarks)
+
+Created 4 landmark/adventure site files for The Hollowed Reach, the campaign's Act I region. These locations were extensively referenced across settlement files, bestiary, and quest hooks but had no dedicated files.
+
+### New Content Created
+
+| File | Lines | Key Content |
+|---|---|---|
+| `The Abyssal Trench.md` | 75 | 4 depth zones (Shelf, Fog Line, Watcher's Depth, The Cage), vertical dungeon structure, Serith's prison, Watcher Below as living ward, escalating psychic hazards |
+| `The Deep Cave.md` | 67 | 3 areas (Tidal Throat, Communion Chamber, Fissure), Veil Unbound communion evidence, first direct Serith contact, Act I climax site |
+| `The Weeping Isles.md` | 69 | 4 locations (Compassion Pools, Mist Heart, Ossuary Reef, Shrine of Tender Passage), Belara's consciousness fragment, emotional hazards, Duskmantle smuggling |
+| `The Shattered Coast.md` | 80 | 5 sub-locations (Broken Teeth, Tidal Caves, Glass Pools, Fog Banks, Wreck Shore), encounter zone format, Yvenne's failing infrastructure |
+
+### Design Notes
+
+- Each site connects to a different dead god's influence: Trench (Serith), Deep Cave (Serith's communication channel), Isles (Belara), Coast (Yvenne's failing protections)
+- Trench designed as Act IV-V expedition site, feared throughout Acts I-III
+- Deep Cave is the Act I climax location where PCs first encounter direct divine contact
+- Weeping Isles tonally distinct (emotional/moral danger, not physical)
+- Shattered Coast adapted as encounter zone with named sub-locations for coastal travel
+- No new NPCs requiring registry entries
+- No contradictions with existing lore
+
+---
+
 ## 2026-03-22 03:25, Settlement Enrichment: Ur-Saethen & Draveth (Unwritten Lands)
 
 Enriched 2 Unwritten Lands settlement files with expanded landmarks, sensory detail, daily life, and new hooks.
