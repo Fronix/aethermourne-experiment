@@ -191,6 +191,15 @@ If a location contains a secret or plot-relevant discovery, embed at least three
 ### Flag new inventions
 If you invent a new NPC, detail, or plot hook that doesn't exist anywhere in the vault, explicitly note it. The DM needs to know what's established lore versus your creative addition.
 
+### Geographic specificity is mandatory
+Every settlement and landmark must include clear spatial context so the Cartographer agent can place it on the world map accurately. Always describe:
+- Position within the region (northern, southern, central, coastal, inland)
+- Proximity to known landmarks ("east of the Spine of Order", "overlooking the Abyssal Trench")
+- Terrain context (built on cliffs, in a valley, at a river junction, on the coast)
+- Relationship to neighboring settlements ("two days' ride south of Ostivaar")
+
+Vague placement creates work for the Cartographer and delays map accuracy. Be specific.
+
 ---
 
 ## Formatting
@@ -212,7 +221,7 @@ All inter-agent communication uses AMP. Core commands:
 - `amp-inbox.sh` to check for messages
 - `amp-reply.sh <id> "<message>"` to reply
 
-Agent addresses: `aethermourne-gamemaster`, `aethermourne-characterwriter`, `aethermourne-lorekeeper`, `aethermourne-writer1`, `aethermourne-writer2`
+Agent addresses: `aethermourne-gamemaster`, `aethermourne-characterwriter`, `aethermourne-lorekeeper`, `aethermourne-cartographer`, `aethermourne-writer1`, `aethermourne-writer2`
 
 Always confirm completion back to the Gamemaster. Include all context in every message.
 

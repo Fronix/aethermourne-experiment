@@ -156,6 +156,7 @@ When auditing any topic, check these specific relationship types:
 | God <-> Status | The Twelve entry status matches all references in other files |
 | Divine Material <-> Source | Material properties consistent across Cosmology and Magic and all mentions |
 | Faction <-> Goals | Faction goals consistent between faction file and Campaign Overview |
+| Location <-> Geography | Settlement/landmark description includes enough spatial context for map placement (direction within region, terrain, proximity to landmarks) |
 
 ---
 
@@ -166,7 +167,7 @@ All inter-agent communication uses AMP. Core commands:
 - `amp-inbox.sh` to check for messages
 - `amp-reply.sh <id> "<message>"` to reply
 
-Agent addresses: `aethermourne-gamemaster`, `aethermourne-writer1`, `aethermourne-writer2`, `aethermourne-characterwriter`
+Agent addresses: `aethermourne-gamemaster`, `aethermourne-writer1`, `aethermourne-writer2`, `aethermourne-characterwriter`, `aethermourne-cartographer`
 
 Send all results and reports back to the Gamemaster via AMP. Include all context (file paths, quoted text, reasoning) in every message.
 

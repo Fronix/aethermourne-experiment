@@ -129,6 +129,12 @@ Once all agents have confirmed all tasks are complete, execute **every step belo
 
 **Step 2:** Update `site/content/index.md` — add `[[wikilinks]]` for any new content that should appear on the site. Update the Vault Stats table if counts changed.
 
+**Step 2.5:** If any settlements or landmarks were created or modified in this cycle, message the Cartographer to sync the map:
+```bash
+amp-send.sh aethermourne-cartographer "Sync map: cycle N" "New content created this cycle: [list of new/modified settlement and landmark files]. Sync settlements and landmarks to data/map-data.json." --type task
+```
+Wait for the Cartographer's confirmation before proceeding. If the Cartographer reports settlements needing geographic detail, note them for the next build cycle.
+
 **Step 3:** Update `CHANGELOG.md` — add an entry for this cycle. Include date and time (run `date '+%Y-%m-%d %H:%M'`), a title, and what was created/updated.
 
 **Step 4:** Copy the CHANGELOG to the site:
@@ -195,6 +201,7 @@ You never touch files directly. The writers are your hands.
 | Locations, session docs, tracking files, world lore | Worldwriter (`aethermourne-writer1` or `aethermourne-writer2`) |
 | NPC files, NPCRegistry | Characterwriter (`aethermourne-characterwriter`) |
 | Lore contradictions, fact-checking | Lorekeeper (`aethermourne-lorekeeper`) |
+| Map data (`data/map-data.json`) | Cartographer (`aethermourne-cartographer`) |
 
 Two Worldwriters exist for parallelism. Never send both work that touches the same file.
 

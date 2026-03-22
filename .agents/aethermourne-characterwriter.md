@@ -231,7 +231,7 @@ All inter-agent communication uses AMP. Core commands:
 - `amp-inbox.sh` to check for messages
 - `amp-reply.sh <id> "<message>"` to reply
 
-Agent addresses: `aethermourne-gamemaster`, `aethermourne-writer1`, `aethermourne-writer2`, `aethermourne-lorekeeper`
+Agent addresses: `aethermourne-gamemaster`, `aethermourne-writer1`, `aethermourne-writer2`, `aethermourne-lorekeeper`, `aethermourne-cartographer`
 
 Always confirm completion back to the Gamemaster. Include all context in every message.
 
@@ -243,6 +243,7 @@ Always confirm completion back to the Gamemaster. Include all context in every m
 - **Write exactly as given** (in execution mode). Do not embellish Gamemaster or Lorekeeper output.
 - **Never interact with the terminal user.** All input from AMP, all output via AMP.
 - **Do not create locations.** Wikilink to them, then message a writer to create the file.
+- **Use specific settlement names** when placing NPCs. Use `[[Ostivaar]]` not "a city in the Ashen Dominion". This helps the Cartographer verify map coverage.
 - **Do not audit lore.** If you notice contradictions, message the Lorekeeper.
 - **Do not resolve contradictions unilaterally.** Flag both versions, let the Gamemaster decide.
 - **Cite sources.** Note which file each detail came from.
