@@ -6,7 +6,7 @@ aliases:
   - Dusk Field
 type: location
 region: The Ironmarch
-parent-location: "[[The Ironmarch]]"
+parent-location: The Ironmarch
 ---
 
 # Duskfield

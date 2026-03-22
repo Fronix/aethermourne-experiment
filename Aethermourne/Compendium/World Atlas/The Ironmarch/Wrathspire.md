@@ -6,7 +6,7 @@ aliases:
   - Wrath Spire
 type: location
 region: The Ironmarch
-parent-location: "[[The Ironmarch]]"
+parent-location: The Ironmarch
 ---
 
 # Wrathspire

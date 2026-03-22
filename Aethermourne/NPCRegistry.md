@@ -125,7 +125,7 @@ type: overview
 | [[Healer Maren]] | Town Physician | [[The Ironmarch]] | None | Alive |
 | [[Tam Redsoil]] | Head Farmer | [[The Ironmarch]] | None | Alive |
 | [[Forge-Warden Hask]] | Security Chief | [[The Ironmarch]] | None | Alive |
-| [[Marshals-Captain Torva]] | Garrison Enforcement | [[The Ironmarch]] | [[The Iron Companies]] | Alive |
+| [[Marshals-Captain Torva]] | Garrison Enforcement | [[The Ironmarch]] | [[The Quartermasters Circle]] | Alive |
 | [[Old Garrett]] | Tavern Proprietor | [[The Ironmarch]] | None | Alive |
 | [[Corren]] | Smith (Fragment-Touched) | [[The Ironmarch]] | None | Alive |
 | [[Lieutenant Sera]] | Silent Company 2IC | [[The Ironmarch]] | [[The Iron Companies]] | Alive |
@@ -334,7 +334,7 @@ type: overview
 | [[Healer Maren]] | Town Physician | [[Duskfield]] | None |
 | [[Tam Redsoil]] | Head Farmer | [[Duskfield]] | None |
 | [[Forge-Warden Hask]] | Security Chief | [[Wrathspire]] | None |
-| [[Marshals-Captain Torva]] | Garrison Enforcement | [[The Red Garrison]] | [[The Iron Companies]] |
+| [[Marshals-Captain Torva]] | Garrison Enforcement | [[The Red Garrison]] | [[The Quartermasters Circle]] |
 | [[Old Garrett]] | Tavern Proprietor | [[The Red Garrison]] | None |
 | [[Corren]] | Smith (Fragment-Touched) | [[Wrathspire]] | None |
 | [[Lieutenant Sera]] | Silent Company 2IC | Mobile | [[The Iron Companies]] |

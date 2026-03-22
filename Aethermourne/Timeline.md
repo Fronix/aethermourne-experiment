@@ -49,13 +49,14 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 
 - **Year 0:** The Triumvirate strikes. The Theomachis begins.
 - **Year 1:** Five gods fall: [[The Twelve#Solvaen|Solvaen]], [[The Twelve#Thyrea|Thyrea]], [[The Twelve#Morrhael|Morrhael]], [[The Twelve#Belara|Belara]], [[The Twelve#Thalvor|Thalvor]]. Their bodies become the land.
-- **Year 2:** [[The Twelve#Vorrhyn|Vorrhyn]] unmade (the **Maelstrom** born). [[The Twelve#Kaevroth|Kaevroth]] shattered, iron fragments scatter across the continent. Kaevroth's domain in the Empyrean folds inward rather than collapsing, anchoring to his scattered iron fragments. [[The Iron Descent]] is born.
+- **Year 2:** [[The Twelve#Vorrhyn|Vorrhyn]] unmade (the **Maelstrom** born). [[The Twelve#Kaevroth|Kaevroth]] shattered, iron fragments scatter across the continent in the **Iron Rain**, a shower of divine iron that scars the eastern reaches and creates [[The Ironmarch]]. Kaevroth's domain in the Empyrean folds inward rather than collapsing, anchoring to his scattered iron fragments. [[The Iron Descent]] is born.
 - **Year 3:** [[The Twelve#Serith|Serith]] imprisoned beneath the Abyssal Trench. [[The Twelve#Orenthas|Orenthas]] speaks his final word. [[The Twelve#Nethys|Nethys]] fragments into the Aetheric Web.
 - **~4-50 AS:** The Ash Years. Sky choked with divine ash. More than half the mortal population perishes.
 - **~100 AS:** First **Ashite** forged from crystallized divine blood.
 - **~200 AS:** First accidental mortal contact with [[The Iron Descent]] when a miner cracks a buried Kaevroth fragment.
 - **~200 AS:** [[The Greensingers]] emerge in the Verdant Marches.
 - **~280 AS:** [[The Ashen Vigil]] founded to guard against the rising dead.
+- **~300 AS:** First mercenary bands form around [[The Ironmarch|Ironmarch]] fragment deposits, fighting for control of [[Cosmology and Magic#Kaevroth's Iron|Kaevroth's Iron]].
 - **~300 AS:** [[Marchwardens Council|Marchwardens' Council]] formalized in the Verdant Marches (clan moots predate the Silence).
 - **~350 AS:** [[The Lantern-Keepers]] form along the southern coast.
 - **~400 AS:** Valdren the Founder declares [[The Ashen Dominion]].
@@ -68,6 +69,7 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 
 - **~400-500 AS:** The Dominion rises. Caste system formalized. [[Order of the Ashen Flame]] established (~450 AS).
 - **~550 AS:** [[The Ember Guild]] founded as neutral crafting guild.
+- **~600 AS:** [[The Iron Companies]] formalize as professional mercenary organizations. [[The Quartermasters Circle]] forms to manage logistics and trade across [[The Ironmarch]].
 - **~600 AS:** [[The Hollowed Reach#Tidewall|Tidewall]] founded.
 - **~600-700 AS:** The **Bone Rush**. Aggressive mining of divine materials. First **Hollow Zones** appear.
 - **~700 AS:** [[The Star-Readers]] organize across national borders.
@@ -114,6 +116,7 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 - **~2170 AS:** [[Kaelith Thornborn|Kaelith]]'s **Awakening** in Thyrea's Cradle.
 - **~2180-2190 AS:** Black Tide frequency triples.
 - **~2195 AS:** **Sleepwalker** phenomenon begins along the coast.
+- **~2199 AS:** [[Yrsa Bloodhand]] defeats Iron Thane Caul Ironfist and claims the title, unifying the largest [[The Iron Companies|Iron Company]] coalition in a generation.
 - **~2200 AS:** The **Dead Silence**, Hollowdeep goes completely quiet.
 - **~2201 AS:** [[Delric Mourne|Thane Delric Mourne]] appointed head of the Cinders.
 - **~2202 AS:** [[Elder Rosk]]'s warning: *"Shadow grows in the roots."*

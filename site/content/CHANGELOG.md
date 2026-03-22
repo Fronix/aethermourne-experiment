@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-03-22 16:59, Cycle 18: Lore Check — The Ironmarch
+
+Lore check cycle auditing The Ironmarch region. Lorekeeper audited 25 files (1 region atlas, 5 settlements, 3 landmarks, 2 factions, 8 NPCs, 3 bestiary entries) plus cross-references. Overall quality: excellent. Fixes applied:
+
+**Contradictions fixed:**
+- NPCRegistry: Marshals-Captain Torva's faction corrected from The Iron Companies to The Quartermasters Circle (she is Garrison enforcement, not a mercenary)
+
+**Gaps filled:**
+- Cosmology and Magic: Added The Ironmarch to the divine materials distribution table (Primary: Kaevroth's Iron, Secondary: Ashite, Scarce: Thyrea's Amber, Morrhaelite)
+- Timeline: Added 4 Ironmarch entries (Kaevroth's fall ~2 AS, mercenary bands ~300 AS, Iron Companies formalization ~600 AS, Yrsa's rise ~2199 AS)
+
+**Clarifications:**
+- Encounter Tables: Explained how 3 Iron Descent creatures (Iron Elementals, Rust Walkers, War Colossi) appear on the mortal Ironmarch via planar boundary thinning
+- Standardized parent-location frontmatter in 5 Ironmarch settlement files (removed wikilink format, now plain text)
+
+**Deferred (low priority):**
+- 11 Ironmarch supporting NPCs lack dedicated files (candidates for future enrich-npcs cycle)
+- Rust Coast could be a standalone landmark file
+- War-Essence DC tiering note for Travel Rules
+
 ## 2026-03-22 15:41, Cycle 17: Vault Structure Cleanup
 
 Structural/organizational cycle per DM request. Audited the vault's file and folder structure, identified misplaced files and inconsistencies, and performed cleanup. No content changes, only file moves and folder deletions.

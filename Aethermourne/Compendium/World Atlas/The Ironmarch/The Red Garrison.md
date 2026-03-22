@@ -6,7 +6,7 @@ aliases:
   - Red Garrison
 type: location
 region: The Ironmarch
-parent-location: "[[The Ironmarch]]"
+parent-location: The Ironmarch
 ---
 
 # The Red Garrison

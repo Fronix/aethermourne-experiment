@@ -380,6 +380,7 @@ The physical remains of the dead gods are the world's most valuable and dangerou
 | [[The Verdant Marches]] | Thyrea's Amber, Marrow-Water | Empyrean Shards (rare finds) | Ashite (distrusted), Morrhaelite (feared) |
 | Hollowed Reach | Empyrean Shards (coastal deposits) | Vorrhyn's Dust (Maelstrom proximity) | Ashite (scarce), Thyrea's Amber (scarce) |
 | Pale Wastes | Morrhaelite (abundant) | Kaevroth's Iron (battlefield salvage) | Thyrea's Amber (nothing grows here) |
+| [[The Ironmarch]] | Kaevroth's Iron (abundant, fragment deposits) | Ashite (traded from the Dominion) | Thyrea's Amber (nothing grows here), Morrhaelite (feared, rare) |
 
 ---
 

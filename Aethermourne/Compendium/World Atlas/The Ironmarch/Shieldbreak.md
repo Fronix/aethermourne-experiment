@@ -6,7 +6,7 @@ aliases:
   - Shield Break
 type: location
 region: The Ironmarch
-parent-location: "[[The Ironmarch]]"
+parent-location: The Ironmarch
 ---
 
 # Shieldbreak
