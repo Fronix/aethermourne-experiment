@@ -4,6 +4,8 @@ tags:
   - region/verdant-marches
   - faction/greensingers
   - campaign/second-silence
+  - status/missing
+  - role/clergy
 aliases:
   - Wildbloom
   - Greensinger Tessara

@@ -4,6 +4,8 @@ tags:
   - region/greymere-fenlands
   - faction/confluence-council
   - campaign/second-silence
+  - status/alive
+  - role/scholar
 aliases:
   - Fenris
   - The Ley-Prophet

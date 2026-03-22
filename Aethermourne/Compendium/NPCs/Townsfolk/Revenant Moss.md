@@ -3,6 +3,8 @@ tags:
   - npc
   - region/thornwild
   - campaign/second-silence
+  - status/alive
+  - role/townsfolk
 aliases:
   - Moss
 type: npc

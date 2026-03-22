@@ -4,6 +4,8 @@ tags:
   - region/emberveil
   - faction/jewelers-conclave
   - campaign/second-silence
+  - status/alive
+  - role/merchant
 aliases:
   - Gemwright Facet
   - Facet

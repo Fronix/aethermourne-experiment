@@ -3,6 +3,9 @@ tags:
   - npc
   - region/pale-wastes
   - campaign/second-silence
+  - status/alive
+  - role/ruler
+  - faction/iron-descent-holds
 aliases:
   - Holdwarden Ashken
   - Ashken

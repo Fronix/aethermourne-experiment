@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/landmark
   - region/unwritten-lands
   - oldborn
   - sacred-site

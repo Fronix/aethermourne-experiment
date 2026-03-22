@@ -3,8 +3,10 @@ tags:
   - npc
   - region/hollowed-reach
   - faction/concord-of-tides
-  - faction/the-veil-unbound
+  - faction/veil-unbound
   - campaign/second-silence
+  - status/alive
+  - role/spy
 aliases:
   - Voss
   - Officer Voss

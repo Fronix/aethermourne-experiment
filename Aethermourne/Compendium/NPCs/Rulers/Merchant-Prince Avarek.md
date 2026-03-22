@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/bound
+  - role/ruler
+  - faction/iron-descent-greedhollow
 aliases:
   - Avarek
   - The Merchant-Prince

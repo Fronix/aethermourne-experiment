@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/legendary
+  - origin/divine-construct
 aliases:
   - Iron Titans
   - Kaevroth's Siege Engines

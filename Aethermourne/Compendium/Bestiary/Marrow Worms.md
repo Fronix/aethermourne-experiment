@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/verdant-marches
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Marrow Worm
   - Bog Wyrm

@@ -3,6 +3,8 @@ tags:
   - npc
   - cosmology/iron-descent
   - faction/ember-guild
+  - status/bound
+  - role/scholar
 aliases:
   - Ashlen Hale
   - Factor Hale

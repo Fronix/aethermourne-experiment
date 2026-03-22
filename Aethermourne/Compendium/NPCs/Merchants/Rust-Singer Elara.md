@@ -2,6 +2,8 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/bound
+  - role/merchant
 aliases:
   - Elara
   - The Rust-Singer

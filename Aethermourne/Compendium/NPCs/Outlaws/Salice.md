@@ -2,8 +2,9 @@
 tags:
   - npc
   - region/unwritten-lands
-  - faction/independent
   - campaign/second-silence
+  - status/alive
+  - role/outlaw
 aliases:
   - Salice
   - The Smuggler Queen

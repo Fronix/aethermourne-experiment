@@ -2,7 +2,8 @@
 tags:
   - bestiary
   - region/unwritten-lands
-  - primordial
+  - threat/serious
+  - origin/gyre-manifestation
 aliases:
   - Gyre-Wraith
   - The Unfinished

@@ -4,6 +4,8 @@ tags:
   - region/unwritten-lands
   - faction/oldborn
   - campaign/second-silence
+  - status/alive
+  - role/spy
 aliases:
   - Vosh
   - The Observer

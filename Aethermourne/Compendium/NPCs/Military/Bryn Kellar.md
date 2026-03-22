@@ -4,6 +4,8 @@ tags:
   - region/hollowed-reach
   - faction/lantern-keepers
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Kellar
   - Sergeant Kellar

@@ -3,6 +3,9 @@ tags:
   - npc
   - region/hollowed-reach
   - campaign/second-silence
+  - status/alive
+  - role/outlaw
+  - faction/pirate-council
 aliases:
   - Rook
   - Captain Tessavar

@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/serious
+  - origin/domain-manifestation
 aliases:
   - War Banners
   - Phantom Standards

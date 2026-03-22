@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/hollowed-reach
+  - threat/legendary
+  - origin/trench-born
 aliases:
   - Depth Leviathan
   - The Deep Problem

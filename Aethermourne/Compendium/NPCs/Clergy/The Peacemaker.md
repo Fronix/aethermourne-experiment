@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/clergy
+  - faction/iron-descent-crucible-of-names
 aliases:
   - Peacemaker
 type: npc

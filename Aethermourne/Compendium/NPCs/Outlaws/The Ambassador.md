@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/outlaw
+  - faction/iron-descent-iron-court
 aliases:
   - Ambassador of the Iron Court
   - The Embassy Keeper

@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/settlement
   - region/emberveil
 aliases:
   - The Caldera City

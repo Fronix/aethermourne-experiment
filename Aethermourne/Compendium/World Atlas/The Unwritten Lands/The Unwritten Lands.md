@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/region-atlas
   - continent
   - unwritten-lands
 aliases:

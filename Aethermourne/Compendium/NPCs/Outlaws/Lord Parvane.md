@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/outlaw
+  - faction/iron-descent-hall-of-mirrors
 aliases:
   - Parvane
   - The Escaped Reflection

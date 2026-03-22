@@ -4,6 +4,8 @@ tags:
   - region/verdant-marches
   - faction/mutagenists
   - campaign/second-silence
+  - status/alive
+  - role/scholar
 aliases:
   - Sundren
   - Chief Researcher Vael Sundren

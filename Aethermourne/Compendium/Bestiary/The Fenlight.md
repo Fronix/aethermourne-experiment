@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/greymere-fenlands
+  - threat/legendary
+  - origin/divine-corruption
 aliases:
   - The Fenlight
   - Nethys's Lantern

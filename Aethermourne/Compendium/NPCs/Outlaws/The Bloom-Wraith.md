@@ -3,6 +3,8 @@ tags:
   - npc
   - region/thornwild
   - campaign/second-silence
+  - status/unknown
+  - role/outlaw
 aliases:
   - Bloom-Wraith
 type: npc

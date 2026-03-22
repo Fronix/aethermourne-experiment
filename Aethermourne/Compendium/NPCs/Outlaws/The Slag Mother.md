@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/bound
+  - role/outlaw
+  - faction/iron-descent-forge-eternal
 aliases:
   - Slag Mother
   - Mother Slag

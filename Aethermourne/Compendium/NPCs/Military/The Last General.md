@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/military
+  - faction/iron-descent-conquest
 aliases:
   - The General
   - Last General of the Conquest

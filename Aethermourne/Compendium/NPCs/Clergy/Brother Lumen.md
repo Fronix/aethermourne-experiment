@@ -4,6 +4,8 @@ tags:
   - region/greymere-fenlands
   - faction/star-readers
   - campaign/second-silence
+  - status/alive
+  - role/clergy
 aliases:
   - Lumen
   - The Defrocked Reader

@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/bound
+  - role/merchant
+  - faction/iron-descent-greedhollow
 aliases:
   - Fennwick
   - The Broker

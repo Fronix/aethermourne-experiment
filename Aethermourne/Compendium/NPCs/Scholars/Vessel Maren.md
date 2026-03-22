@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/scholar
+  - faction/iron-descent-consuming
 aliases:
   - Vessel Maren
   - Maren

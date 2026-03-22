@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/emberveil
+  - threat/minor
+  - origin/natural
 aliases:
   - Cinder Sprite
   - Forge-Motes

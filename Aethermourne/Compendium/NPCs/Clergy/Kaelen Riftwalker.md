@@ -4,6 +4,8 @@ tags:
   - region/shattered-edge
   - faction/echoists
   - campaign/second-silence
+  - status/missing
+  - role/clergy
 aliases:
   - Riftwalker
   - The Deepest Walker

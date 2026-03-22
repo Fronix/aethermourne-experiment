@@ -3,6 +3,8 @@ tags:
   - npc
   - region/shattered-edge
   - faction/echoists
+  - status/alive
+  - role/clergy
 aliases:
   - Echoes
   - The Prior

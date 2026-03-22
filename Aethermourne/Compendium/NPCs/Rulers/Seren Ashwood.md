@@ -4,6 +4,8 @@ tags:
   - region/verdant-marches
   - faction/marchwardens-council
   - campaign/second-silence
+  - status/alive
+  - role/ruler
 aliases:
   - Moot-Chair Ashwood
   - Ashwood

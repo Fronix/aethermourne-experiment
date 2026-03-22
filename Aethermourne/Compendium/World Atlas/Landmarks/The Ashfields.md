@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/landmark
   - region/ashen-dominion
 aliases:
   - Ashfields

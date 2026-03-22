@@ -2,8 +2,9 @@
 tags:
   - npc
   - region/emberveil
-  - faction/none
   - campaign/second-silence
+  - status/alive
+  - role/outlaw
 aliases:
   - Ironvow
   - Vessa

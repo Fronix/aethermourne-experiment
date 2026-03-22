@@ -4,6 +4,8 @@ tags:
   - region/pale-wastes
   - faction/ashen-vigil
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Commander Ironveil
   - Ironveil

@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/shattered-edge
+  - threat/moderate
+  - origin/maelstrom-born
 aliases:
   - Chance-Eater
   - Jinx-Knots

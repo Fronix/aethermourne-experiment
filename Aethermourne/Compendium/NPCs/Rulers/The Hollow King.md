@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/ruler
+  - faction/iron-descent-consuming
 aliases:
   - The Hollow King
   - The King of the Maw

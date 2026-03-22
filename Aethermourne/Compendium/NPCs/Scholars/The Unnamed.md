@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/bound
+  - role/scholar
+  - faction/iron-descent-heart
 aliases:
   - The Unnamed
   - The Ancient

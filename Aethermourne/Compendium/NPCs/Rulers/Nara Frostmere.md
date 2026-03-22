@@ -3,6 +3,9 @@ tags:
   - npc
   - region/pale-wastes
   - campaign/second-silence
+  - status/dead
+  - role/ruler
+  - faction/iron-descent-holds
 aliases:
   - Holdwarden Frostmere
   - Holdwarden Nara Frostmere

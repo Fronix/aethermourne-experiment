@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/settlement
   - region/unwritten-lands
   - settlement
   - loom-of-fate

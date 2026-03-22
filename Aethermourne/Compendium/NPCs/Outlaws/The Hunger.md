@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/outlaw
+  - faction/iron-descent-consuming
 aliases:
   - The Hunger
   - The Want

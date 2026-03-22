@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/ruler
+  - faction/iron-descent-heart
 aliases:
   - The Echo of Kaevroth
   - The Echo

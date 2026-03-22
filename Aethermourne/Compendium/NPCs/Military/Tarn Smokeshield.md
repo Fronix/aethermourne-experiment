@@ -4,6 +4,8 @@ tags:
   - region/emberveil
   - faction/forge-council
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Warden Smokeshield
   - Smokeshield

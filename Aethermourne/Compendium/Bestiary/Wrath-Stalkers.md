@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/ironmarch
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Wrath-Stalker
   - Rage Hound

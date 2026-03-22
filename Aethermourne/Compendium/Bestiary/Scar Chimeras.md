@@ -3,6 +3,8 @@ tags:
   - bestiary
   - region/ashen-dominion
   - region/verdant-marches
+  - threat/moderate
+  - origin/natural-mutated
 aliases:
   - Scar Chimera
   - Border Beast

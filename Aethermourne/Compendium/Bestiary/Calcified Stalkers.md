@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/ashen-dominion
+  - threat/serious
+  - origin/natural-mutated
 aliases:
   - Calcified Stalker
   - Crystal Wolves

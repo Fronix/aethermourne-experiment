@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/thornwild
+  - threat/moderate
+  - origin/cycle-born
 aliases:
   - Threshold Weaver
   - Amber-Spinners

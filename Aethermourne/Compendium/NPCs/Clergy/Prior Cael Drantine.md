@@ -4,6 +4,8 @@ tags:
   - region/unwritten-lands
   - faction/ashen-dominion
   - campaign/second-silence
+  - status/alive
+  - role/clergy
 aliases:
   - Prior Drantine
   - Cael

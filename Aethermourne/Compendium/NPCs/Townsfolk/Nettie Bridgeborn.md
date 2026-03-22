@@ -3,6 +3,8 @@ tags:
   - npc
   - region/greymere-fenlands
   - campaign/second-silence
+  - status/alive
+  - role/townsfolk
 aliases:
   - Nettie
   - Old Nettie

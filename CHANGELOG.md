@@ -1,5 +1,28 @@
 # Changelog
 
+## 2026-03-22 18:29, Cycle 22: Vault-wide Tagging Improvements
+
+Comprehensive YAML frontmatter tag cleanup and enrichment across 220 files. Improves Obsidian discoverability via tag search and Dataview queries.
+
+**NPC files (158 files):**
+- Added `status/` tags to all NPCs: alive(90), bound(34), transformed(28), unknown(3), missing(2), dead(1)
+- Added `role/` tags matching subfolder structure: military(37), ruler(28), townsfolk(20), scholar(20), outlaw(19), clergy(19), merchant(13), spy(2)
+- Added 69 missing `faction/` tags, normalized 8 existing faction tags to canonical form
+- Removed `faction/none`, `faction/independent`, and 1 name-pollution tag
+
+**Bestiary files (61 files):**
+- Added `threat/` tags: serious(26), moderate(20), minor(10), legendary(5)
+- Added `origin/` tags derived from frontmatter origin field (14 origin types)
+- Stripped 2 non-structural tags (bare `primordial` from Gyre-Wraiths and Pact-Broken)
+
+**Location files (103 files):**
+- Added `location-type/settlement` to 63 settlement files
+- Added `location-type/landmark` to 26 landmark files
+- Added `location-type/region-atlas` to 14 region overview files
+
+**Faction files (1 file):**
+- Removed bare `oldborn` name-pollution tag from The Oldborn Council.md
+
 ## 2026-03-22 18:12, Cycle 21: Shattered Edge Lore Audit and Fixes
 
 Lore check cycle. Full audit of all Shattered Edge content (6 new Cycle 20 files + existing region files). Zero contradictions found. Fixed dangling wikilinks, alias collision, encounter table gap, and missing NPC entries.

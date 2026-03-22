@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/settlement
   - region/shattered-edge
 aliases:
   - Last Certainty

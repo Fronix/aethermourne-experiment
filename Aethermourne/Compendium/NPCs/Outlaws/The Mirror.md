@@ -2,6 +2,8 @@
 tags:
   - npc
   - region/shattered-edge
+  - status/alive
+  - role/outlaw
 aliases:
   - Mirror
 type: npc

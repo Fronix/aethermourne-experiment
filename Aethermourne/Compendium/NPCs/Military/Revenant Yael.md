@@ -4,6 +4,8 @@ tags:
   - region/pale-wastes
   - faction/remnants-court
   - campaign/second-silence
+  - status/transformed
+  - role/military
 aliases:
   - Yael
   - The Revenant

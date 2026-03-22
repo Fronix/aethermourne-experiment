@@ -4,6 +4,8 @@ tags:
   - region/hollowed-reach
   - faction/veil-unbound
   - campaign/second-silence
+  - status/alive
+  - role/outlaw
 aliases:
   - The Chandler
 type: npc

@@ -4,6 +4,8 @@ tags:
   - region/hollowed-reach
   - faction/star-readers
   - campaign/second-silence
+  - status/alive
+  - role/scholar
 aliases:
   - Arch-Reader Vael
   - Vael

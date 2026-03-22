@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/hollowed-reach
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Fog Singer
   - The Singing Fog

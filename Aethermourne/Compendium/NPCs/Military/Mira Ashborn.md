@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/bound
+  - role/military
+  - faction/iron-descent-crucible-of-names
 aliases:
   - Sergeant Ashborn
   - Mira

@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/ruler
+  - faction/iron-descent-conquest
 aliases:
   - The Willing Abdicate
   - The Free King

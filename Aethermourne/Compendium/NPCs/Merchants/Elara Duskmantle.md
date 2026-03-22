@@ -3,6 +3,8 @@ tags:
   - npc
   - region/hollowed-reach
   - campaign/second-silence
+  - status/alive
+  - role/merchant
 aliases:
   - Duskmantle
   - Lady Duskmantle

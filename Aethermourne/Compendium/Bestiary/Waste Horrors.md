@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/pale-wastes
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Bone-Wraith
   - Frostbound Hunger

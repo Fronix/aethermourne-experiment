@@ -2,6 +2,8 @@
 tags:
   - npc
   - region/shattered-edge
+  - status/alive
+  - role/merchant
 aliases:
   - Blackfinger
   - Dust-Trader Oren

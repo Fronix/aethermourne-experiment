@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/hollowed-reach
+  - threat/moderate
+  - origin/natural-mutated
 aliases:
   - Tideborn Horror
   - Tideborn

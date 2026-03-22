@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/ashen-dominion
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Order Wraith
   - Solvaen's Echo

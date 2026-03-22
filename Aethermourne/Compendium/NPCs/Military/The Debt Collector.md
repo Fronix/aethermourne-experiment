@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/military
+  - faction/iron-descent-greedhollow
 aliases:
   - Debt Collector
   - The Collector

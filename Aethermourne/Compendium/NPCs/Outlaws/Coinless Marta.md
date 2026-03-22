@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/bound
+  - role/outlaw
+  - faction/iron-descent-greedhollow
 aliases:
   - Marta
   - The Coinless

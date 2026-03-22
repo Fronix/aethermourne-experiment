@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/moderate
+  - origin/divine-construct
 aliases:
   - Forgeborn
   - War-Constructs

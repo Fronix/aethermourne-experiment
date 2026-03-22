@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/emberveil
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Quenched
   - The Unfinished

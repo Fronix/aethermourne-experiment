@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/greymere-fenlands
+  - threat/minor
+  - origin/natural-mutated
 aliases:
   - Spell-Scarred Lurker
   - Fen Mutants

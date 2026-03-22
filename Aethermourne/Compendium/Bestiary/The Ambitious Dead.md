@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/moderate
+  - origin/cross-planar
 aliases:
   - Iron Undead
   - The Driven Dead

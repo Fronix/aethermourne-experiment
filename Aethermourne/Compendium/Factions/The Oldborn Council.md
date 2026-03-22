@@ -2,7 +2,6 @@
 tags:
   - faction
   - region/unwritten-lands
-  - oldborn
 aliases:
   - The Circle of Speakers
   - The Oldborn Council

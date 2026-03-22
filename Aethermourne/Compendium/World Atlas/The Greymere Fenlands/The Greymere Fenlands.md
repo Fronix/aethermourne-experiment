@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/region-atlas
   - region/greymere-fenlands
 aliases:
   - The Fenlands

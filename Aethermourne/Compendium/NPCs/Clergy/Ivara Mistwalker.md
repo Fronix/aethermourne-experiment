@@ -4,6 +4,8 @@ tags:
   - region/verdant-marches
   - faction/peak-clans
   - campaign/second-silence
+  - status/alive
+  - role/clergy
 aliases:
   - Mistwalker
   - Spore-Seer Ivara

@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/greymere-fenlands
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Echo Pool
   - Memory Pools

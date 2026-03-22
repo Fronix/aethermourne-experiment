@@ -3,8 +3,10 @@ tags:
   - npc
   - region/verdant-marches
   - faction/marchwardens-council
-  - faction/the-cinders
+  - faction/cinders
   - campaign/second-silence
+  - status/alive
+  - role/outlaw
 aliases:
   - Redthorn
   - Observer Redthorn

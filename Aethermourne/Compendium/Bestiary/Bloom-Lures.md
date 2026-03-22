@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/thornwild
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Bloom-Lure
   - Petal-Traps

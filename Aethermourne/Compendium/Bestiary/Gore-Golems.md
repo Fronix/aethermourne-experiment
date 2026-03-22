@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/serious
+  - origin/divine-construct
 aliases:
   - Gore-Golem
   - Gore Golems

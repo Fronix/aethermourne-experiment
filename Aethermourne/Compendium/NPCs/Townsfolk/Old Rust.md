@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/townsfolk
+  - faction/iron-descent-rustgate
 aliases:
   - Rust
   - The Old One

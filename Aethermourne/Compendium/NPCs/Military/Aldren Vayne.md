@@ -5,6 +5,8 @@ tags:
   - faction/concord-of-tides
   - faction/tidefleet
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Vayne
   - Master of Ships

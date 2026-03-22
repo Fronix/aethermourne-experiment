@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/serious
+  - origin/war-spirit
 aliases:
   - Iron Wraith
   - War-Spirits of the Descent

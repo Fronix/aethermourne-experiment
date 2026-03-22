@@ -2,8 +2,10 @@
 tags:
   - npc
   - region/verdant-marches
-  - faction/the-greensingers
+  - faction/greensingers
   - campaign/second-silence
+  - status/alive
+  - role/clergy
 aliases:
   - Rosk
   - Eldest Greensinger

@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/region-atlas
   - region/unwritten-lands
   - orenthas
   - loom-of-fate

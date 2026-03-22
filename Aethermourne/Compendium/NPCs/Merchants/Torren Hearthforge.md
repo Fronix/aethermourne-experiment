@@ -4,6 +4,8 @@ tags:
   - region/ashen-dominion
   - faction/ember-guild
   - campaign/second-silence
+  - status/alive
+  - role/merchant
 aliases:
   - Guildmaster Hearthforge
   - Hearthforge

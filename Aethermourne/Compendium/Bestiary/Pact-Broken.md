@@ -2,7 +2,8 @@
 tags:
   - bestiary
   - region/unwritten-lands
-  - primordial
+  - threat/serious
+  - origin/pact-failure
 aliases:
   - Pact-Broken
   - The Overdrawn

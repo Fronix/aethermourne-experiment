@@ -3,6 +3,9 @@ tags:
   - npc
   - region/thornwild
   - campaign/second-silence
+  - status/alive
+  - role/clergy
+  - faction/rootpyres-circle
 aliases:
   - Fennara
   - Root-Speaker

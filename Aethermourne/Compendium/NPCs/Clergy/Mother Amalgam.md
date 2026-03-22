@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/clergy
+  - faction/iron-descent-consuming
 aliases:
   - Mother Amalgam
   - The Amalgam

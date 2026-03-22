@@ -3,6 +3,8 @@ tags:
   - npc
   - region/hollowed-reach
   - campaign/second-silence
+  - status/alive
+  - role/townsfolk
 aliases:
   - Cell Seven
   - The Conduit

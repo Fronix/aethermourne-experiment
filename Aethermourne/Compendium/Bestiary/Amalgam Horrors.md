@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/serious
+  - origin/corrupted-soul
 aliases:
   - The Merged
   - Fused Ones

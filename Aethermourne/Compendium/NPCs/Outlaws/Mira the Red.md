@@ -3,6 +3,8 @@ tags:
   - npc
   - region/ironmarch
   - campaign/second-silence
+  - status/alive
+  - role/outlaw
 aliases:
   - Mira
   - The Red

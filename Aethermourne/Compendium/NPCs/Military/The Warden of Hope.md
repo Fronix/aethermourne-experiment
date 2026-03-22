@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/military
+  - faction/iron-descent-heart
 aliases:
   - The Warden of Hope
   - The Warden

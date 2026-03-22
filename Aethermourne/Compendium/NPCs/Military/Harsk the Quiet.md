@@ -4,6 +4,8 @@ tags:
   - region/ironmarch
   - faction/iron-companies
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Harsk
   - The Quiet

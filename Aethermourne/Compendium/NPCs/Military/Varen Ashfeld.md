@@ -4,6 +4,8 @@ tags:
   - region/ashen-dominion
   - faction/order-of-the-ashen-flame
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Captain Ashfeld
   - Ashfeld

@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/ashen-dominion
+  - threat/moderate
+  - origin/divine-corruption
 aliases:
   - Ashite Geometer
   - Crystal-Mind

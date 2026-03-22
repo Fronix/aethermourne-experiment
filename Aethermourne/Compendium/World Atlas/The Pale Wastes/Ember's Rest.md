@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/settlement
   - region/pale-wastes
 aliases:
   - Embers Rest

@@ -4,6 +4,8 @@ tags:
   - region/greymere-fenlands
   - faction/ashen-dominion
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Ashmark
   - Captain Ashmark

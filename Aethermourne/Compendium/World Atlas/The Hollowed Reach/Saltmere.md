@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/settlement
   - region/hollowed-reach
 aliases: []
 type: location

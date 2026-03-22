@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/thornwild
+  - threat/moderate
+  - origin/undead
 aliases:
   - Bone Choir
   - The Singing Dead

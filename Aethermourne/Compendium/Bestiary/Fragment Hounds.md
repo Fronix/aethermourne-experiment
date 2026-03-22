@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/moderate
+  - origin/domain-manifestation
 aliases:
   - Fragment Hound
   - Shard Hounds

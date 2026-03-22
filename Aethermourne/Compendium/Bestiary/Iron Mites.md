@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/minor
+  - origin/divine-construct
 aliases:
   - Maintenance Swarm
   - Domain Beetles

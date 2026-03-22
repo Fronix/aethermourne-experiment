@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/townsfolk
+  - faction/iron-descent-consuming
 aliases:
   - The Remnant
   - The Flickering Girl

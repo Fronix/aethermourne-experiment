@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/thornwild
+  - threat/minor
+  - origin/cycle-born
 aliases:
   - Sap-Wraith
   - Fennara's Ghosts

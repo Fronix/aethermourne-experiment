@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/pale-wastes
+  - threat/serious
+  - origin/undead
 aliases:
   - Cairn Knight
   - The Hollowdeep Legion

@@ -2,8 +2,10 @@
 tags:
   - npc
   - region/ashen-dominion
-  - faction/church-of-the-ashen-flame
+  - faction/order-of-the-ashen-flame
   - campaign/second-silence
+  - status/alive
+  - role/ruler
 aliases:
   - Valdren III
   - Valdren

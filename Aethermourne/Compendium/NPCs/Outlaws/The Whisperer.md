@@ -2,8 +2,10 @@
 tags:
   - npc
   - region/hollowed-reach
-  - faction/the-veil-unbound
+  - faction/veil-unbound
   - campaign/second-silence
+  - status/alive
+  - role/outlaw
 aliases:
   - Whisperer
 type: npc

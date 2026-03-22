@@ -3,6 +3,8 @@ tags:
   - npc
   - region/ashen-dominion
   - campaign/second-silence
+  - status/alive
+  - role/townsfolk
 aliases:
   - Lorn
 type: npc

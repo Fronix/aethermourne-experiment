@@ -3,6 +3,9 @@ tags:
   - npc
   - region/hollowed-reach
   - campaign/second-silence
+  - status/alive
+  - role/merchant
+  - faction/iron-descent-dallow
 aliases:
   - Dallow
   - Shipwright Dallow

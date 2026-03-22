@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/hollowed-reach
+  - threat/minor
+  - origin/trench-born
 aliases:
   - Trench Crawler
   - Crawler

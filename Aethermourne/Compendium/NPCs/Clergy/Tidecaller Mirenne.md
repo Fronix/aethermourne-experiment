@@ -4,6 +4,8 @@ tags:
   - region/unwritten-lands
   - faction/tidecallers
   - campaign/second-silence
+  - status/alive
+  - role/clergy
 aliases:
   - Mirenne
   - Tidecaller Mirenne

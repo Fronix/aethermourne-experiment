@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/verdant-marches
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Rootbound Sentinel
   - Bark Guardian

@@ -2,6 +2,8 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/unknown
+  - role/clergy
 aliases:
   - The Shepherd
   - The Lantern-Bearer of the Descent

@@ -3,6 +3,8 @@ tags:
   - npc
   - region/greymere-fenlands
   - campaign/second-silence
+  - status/alive
+  - role/scholar
 aliases:
   - The Prodigy
   - Wick of Glimwater

@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/landmark
   - region/emberveil
 aliases:
   - Mount Thalvor

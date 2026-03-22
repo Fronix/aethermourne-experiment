@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/minor
+  - origin/corrupted-soul
 aliases:
   - Ash Revenant
   - Iron Husks

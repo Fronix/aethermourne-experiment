@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/bound
+  - role/townsfolk
+  - faction/iron-descent-forge-eternal
 aliases:
   - Tharn
   - The Bellows-Keeper

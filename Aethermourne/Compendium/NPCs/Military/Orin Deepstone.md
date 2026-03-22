@@ -4,6 +4,8 @@ tags:
   - region/emberveil
   - faction/miners-union
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Delver-Captain Deepstone
   - Deepstone

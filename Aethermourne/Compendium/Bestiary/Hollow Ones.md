@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/moderate
+  - origin/corrupted-soul
 aliases:
   - The Hollowed
   - Empty Ones

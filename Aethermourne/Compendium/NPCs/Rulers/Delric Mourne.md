@@ -2,8 +2,10 @@
 tags:
   - npc
   - region/ashen-dominion
-  - faction/the-cinders
+  - faction/cinders
   - campaign/second-silence
+  - status/alive
+  - role/ruler
 aliases:
   - Thane Mourne
   - Mourne

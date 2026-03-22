@@ -4,6 +4,8 @@ tags:
   - region/unwritten-lands
   - faction/concord-of-tides
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Captain Vane
   - Erys

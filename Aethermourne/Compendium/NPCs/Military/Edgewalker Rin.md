@@ -4,6 +4,8 @@ tags:
   - region/shattered-edge
   - faction/accord-of-echoes
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Rin
   - The Young Edgewalker

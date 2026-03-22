@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - cosmology/iron-descent
+  - threat/minor
+  - origin/domain-manifestation
 aliases:
   - Desire Leech
   - Want-Eaters

@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/verdant-marches
+  - threat/minor
+  - origin/divine-corruption
 aliases:
   - Spore Drifter
   - Canopy Cloud

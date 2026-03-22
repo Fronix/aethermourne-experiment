@@ -4,6 +4,8 @@ tags:
   - region/hollowed-reach
   - faction/concord-of-tides
   - campaign/second-silence
+  - status/alive
+  - role/ruler
 aliases:
   - Tidekeeper Selk
   - Selk

@@ -4,6 +4,8 @@ tags:
   - region/emberveil
   - faction/ember-guild
   - campaign/second-silence
+  - status/alive
+  - role/townsfolk
 aliases:
   - Jyn
 type: npc

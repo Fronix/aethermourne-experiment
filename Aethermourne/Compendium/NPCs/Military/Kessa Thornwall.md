@@ -3,6 +3,9 @@ tags:
   - npc
   - region/shattered-edge
   - campaign/second-silence
+  - status/alive
+  - role/military
+  - faction/accord-of-echoes
 aliases:
   - Thornwall
   - Warden Thornwall

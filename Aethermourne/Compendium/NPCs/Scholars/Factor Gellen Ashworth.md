@@ -4,6 +4,8 @@ tags:
   - region/ironmarch
   - faction/ember-guild
   - campaign/second-silence
+  - status/alive
+  - role/scholar
 aliases:
   - Gellen Ashworth
   - Ashworth

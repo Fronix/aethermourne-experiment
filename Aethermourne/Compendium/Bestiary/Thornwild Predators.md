@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/verdant-marches
+  - threat/moderate
+  - origin/divine-corruption
 aliases:
   - Sorrow-Rooted
   - Bloom-Revenant

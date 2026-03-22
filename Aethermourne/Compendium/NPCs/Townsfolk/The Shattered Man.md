@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/townsfolk
+  - faction/iron-descent-hall-of-mirrors
 aliases:
   - Shattered Man
   - The Seven

@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/ironmarch
+  - threat/minor
+  - origin/divine-corruption
 aliases:
   - Iron Locust
   - Shard-Eater

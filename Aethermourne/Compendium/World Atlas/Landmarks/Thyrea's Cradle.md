@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/landmark
   - region/verdant-marches
 aliases:
   - The Cradle

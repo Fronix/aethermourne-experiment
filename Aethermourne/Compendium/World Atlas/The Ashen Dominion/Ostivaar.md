@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/settlement
   - region/ashen-dominion
 aliases:
   - The City Within the Ribs

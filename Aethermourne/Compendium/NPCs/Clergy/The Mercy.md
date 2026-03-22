@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/clergy
+  - faction/iron-descent-heart
 aliases:
   - The Mercy
   - Belara's Fragment

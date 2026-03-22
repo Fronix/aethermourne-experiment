@@ -3,6 +3,9 @@ tags:
   - npc
   - region/shattered-edge
   - campaign/second-silence
+  - status/alive
+  - role/scholar
+  - faction/last-certainty
 aliases:
   - Lysara
   - Shimmerborn

@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/ironmarch
+  - threat/serious
+  - origin/divine-corruption
 aliases:
   - Shard-Singer
   - Iron Ghost

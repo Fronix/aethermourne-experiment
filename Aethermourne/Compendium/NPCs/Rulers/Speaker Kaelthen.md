@@ -4,6 +4,8 @@ tags:
   - region/unwritten-lands
   - faction/oldborn
   - campaign/second-silence
+  - status/alive
+  - role/ruler
 aliases:
   - Kaelthen
   - Speaker Kaelthen

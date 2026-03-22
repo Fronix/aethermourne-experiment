@@ -4,6 +4,8 @@ tags:
   - region/shattered-edge
   - faction/accord-of-echoes
   - campaign/second-silence
+  - status/alive
+  - role/ruler
 aliases:
   - Vane
   - Senior Edgewalker Vane

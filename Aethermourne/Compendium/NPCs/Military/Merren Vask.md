@@ -4,6 +4,8 @@ tags:
   - region/pale-wastes
   - faction/ashen-vigil
   - campaign/second-silence
+  - status/transformed
+  - role/military
 aliases:
   - Vask
   - Scout-Captain Vask

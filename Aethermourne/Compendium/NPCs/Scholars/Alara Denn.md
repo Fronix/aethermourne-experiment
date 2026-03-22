@@ -4,6 +4,8 @@ tags:
   - region/ashen-dominion
   - faction/unbound-congregation
   - campaign/second-silence
+  - status/alive
+  - role/scholar
 aliases:
   - Denn
   - The Fugitive Scholar

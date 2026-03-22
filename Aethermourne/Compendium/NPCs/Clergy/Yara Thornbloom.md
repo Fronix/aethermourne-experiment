@@ -2,8 +2,10 @@
 tags:
   - npc
   - region/thornwild
-  - faction/the-cyclekeepers
+  - faction/cyclekeepers
   - campaign/second-silence
+  - status/alive
+  - role/clergy
 aliases:
   - Thornbloom
   - Cyclekeeper Yara

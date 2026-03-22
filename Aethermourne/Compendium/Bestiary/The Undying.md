@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/ashen-dominion
+  - threat/legendary
+  - origin/undead
 aliases:
   - Undying Commander
   - The Returned

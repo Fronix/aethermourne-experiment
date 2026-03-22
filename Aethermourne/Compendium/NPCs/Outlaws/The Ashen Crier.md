@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/outlaw
+  - faction/iron-descent-rustgate
 aliases:
   - The Crier
   - Ashfield Herald

@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/thornwild
+  - threat/serious
+  - origin/cycle-born
 aliases:
   - Cycle-Stalker
   - Wilt Wolves

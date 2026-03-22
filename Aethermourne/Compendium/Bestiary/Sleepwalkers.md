@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/hollowed-reach
+  - threat/moderate
+  - origin/divine-corruption
 aliases:
   - Sleepwalker
   - The Dreaming

@@ -2,6 +2,9 @@
 tags:
   - npc
   - cosmology/iron-descent
+  - status/transformed
+  - role/merchant
+  - faction/iron-descent-greedhollow
 aliases:
   - Syra Voss
   - The Dealmaker

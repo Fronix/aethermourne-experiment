@@ -3,6 +3,9 @@ tags:
   - npc
   - region/thornwild
   - campaign/second-silence
+  - status/alive
+  - role/merchant
+  - faction/harvesters
 aliases:
   - Boneharvest
   - Garret

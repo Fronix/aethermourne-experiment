@@ -3,6 +3,8 @@ tags:
   - npc
   - region/ironmarch
   - campaign/second-silence
+  - status/alive
+  - role/merchant
 aliases:
   - Embersteel
   - Master Smith Embersteel

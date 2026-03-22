@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/shattered-edge
+  - threat/serious
+  - origin/maelstrom-born
 aliases:
   - Recursion Stalker
   - Loop Hunters

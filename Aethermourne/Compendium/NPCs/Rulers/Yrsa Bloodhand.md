@@ -3,6 +3,9 @@ tags:
   - npc
   - region/ironmarch
   - campaign/second-silence
+  - status/alive
+  - role/ruler
+  - faction/ironmarch
 aliases:
   - Iron Thane Bloodhand
   - Bloodhand

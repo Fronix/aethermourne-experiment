@@ -4,6 +4,8 @@ tags:
   - region/hollowed-reach
   - faction/the-merciful
   - campaign/second-silence
+  - status/alive
+  - role/clergy
 aliases:
   - Cael
   - the Abbot

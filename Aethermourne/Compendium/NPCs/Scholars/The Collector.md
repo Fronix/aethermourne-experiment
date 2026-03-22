@@ -3,6 +3,8 @@ tags:
   - npc
   - cosmology/iron-descent
   - cosmology/fathom
+  - status/unknown
+  - role/scholar
 aliases:
   - The Story-Keeper
   - The Listener

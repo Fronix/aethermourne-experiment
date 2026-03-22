@@ -2,7 +2,8 @@
 tags:
   - npc
   - cosmology/iron-descent
-  - pantheon/morrhael
+  - status/transformed
+  - role/clergy
 aliases:
   - The Shadow
   - Morrhael's Footprint

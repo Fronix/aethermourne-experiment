@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/pale-wastes
+  - threat/minor
+  - origin/undead
 aliases:
   - Ashen Risen
   - Ash-Walkers

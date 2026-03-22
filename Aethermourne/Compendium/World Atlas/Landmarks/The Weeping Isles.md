@@ -1,6 +1,7 @@
 ---
 tags:
   - location
+  - location-type/landmark
   - region/hollowed-reach
 aliases:
   - Belara's Isles

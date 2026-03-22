@@ -2,6 +2,8 @@
 tags:
   - bestiary
   - region/shattered-edge
+  - threat/moderate
+  - origin/maelstrom-born
 aliases:
   - Threshold Castoff
   - Ejecta Beasts

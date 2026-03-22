@@ -2,8 +2,10 @@
 tags:
   - npc
   - region/ashen-dominion
-  - faction/ashen-flame
+  - faction/order-of-the-ashen-flame
   - campaign/second-silence
+  - status/alive
+  - role/scholar
 aliases:
   - Surveyor Ashgrove
   - Ashgrove

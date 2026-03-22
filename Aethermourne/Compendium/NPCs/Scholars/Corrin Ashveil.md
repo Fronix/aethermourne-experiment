@@ -4,6 +4,8 @@ tags:
   - region/emberveil
   - faction/ember-guild
   - campaign/second-silence
+  - status/alive
+  - role/scholar
 aliases:
   - Factor Ashveil
   - Ashveil

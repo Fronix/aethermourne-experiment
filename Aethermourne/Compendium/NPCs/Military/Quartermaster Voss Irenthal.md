@@ -4,6 +4,8 @@ tags:
   - region/ironmarch
   - faction/quartermasters-circle
   - campaign/second-silence
+  - status/alive
+  - role/military
 aliases:
   - Voss Irenthal
   - Irenthal
