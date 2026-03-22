@@ -6,6 +6,9 @@ tags:
 type: adventure
 ---
 
+> [!info]
+> This document is specific to [[Campaign Overview|The Second Silence]] campaign.
+
 # The Prophecy Fragments
 
 *The gods spoke their last words. Someone should have been listening.*

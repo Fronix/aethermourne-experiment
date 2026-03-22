@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-03-22 19:16, Cycle 24: Campaign restructure + The Iron Ascendant
+
+Restructured campaign organization so the world supports multiple campaigns. Created Aethermourne's second campaign, "The Iron Ascendant."
+
+**Structural changes:**
+- Moved Campaign Overview from `Compendium/Campaigns/` to `Adventures/Campaigns/The Second Silence/`
+- Created `Adventures/Campaigns/The Iron Ascendant/` for the new campaign
+- Tagged all Campaign Reference files (Villain Timelines, Flow Guide, Quest Chains, Prophecy Fragments) as Second Silence-specific
+- Updated index.md campaign section to show both campaigns
+
+**New campaign:**
+
+- **File:** `Aethermourne/Adventures/Campaigns/The Iron Ascendant/Campaign Overview.md` (506 lines)
+- **Concept:** 20-25 session campaign centered on Kaevroth's legacy, the Iron Descent, and the question of ambition
+- **Structure:** 5 acts across Ironmarch, Contested Corridor, and the 9-level Iron Descent
+- **Antagonist:** Mira the Red (sympathetic, possessed by dead war-god's will)
+- **Patron:** Yrsa Bloodhand (dying for clarity via Morrhaelite shard)
+- **Endgame:** The Heart of Iron beneath Ostivaar, Belara's imprisoned mercy, four-path final choice
+- **Tone:** Political thriller escalating to psychological dungeon-crawl and mythic tragedy
+- **Designed to run independently of or simultaneously with The Second Silence
+
 ## 2026-03-22 18:49, Cycle 23: Landmarks for Pale Wastes and Thornwild
 
 Created 8 landmark files for the last two regions with zero landmark coverage.

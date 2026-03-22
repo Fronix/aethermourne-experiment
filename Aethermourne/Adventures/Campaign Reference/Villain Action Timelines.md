@@ -6,6 +6,9 @@ tags:
 type: adventure
 ---
 
+> [!info]
+> This document is specific to [[Campaign Overview|The Second Silence]] campaign.
+
 # Villain Action Timelines
 
 *What happens if the players do nothing.*

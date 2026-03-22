@@ -139,9 +139,10 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Age of Fractures]]**, the splintering of nations
 - **[[The Age of Bones]]**, the present age of decline
 
-## The Campaign
+## Campaigns
 
-- **[[Campaign Overview]]**, *The Second Silence*, a five-act campaign spanning all nine regions
+- **[[Campaign Overview|The Second Silence]]**, a five-act campaign of cosmic mystery and divine conspiracy, spanning all nine regions
+- **[[Campaign Overview - The Iron Ascendant|The Iron Ascendant]]**, a campaign of war, ambition, and descent into a dead god's domain
 - **[[Villain Action Timelines]]**, session-by-session doom clocks for every antagonist
 - **[[GM Campaign Flow Guide]]**, practical session-level pacing and transition guidance
 - **[[Cross-Region Quest Chains]]**, five multi-region quest chains that connect the campaign
@@ -178,8 +179,8 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 >
 > | | |
 > |---|---|
-> | **Total files** | 444 |
-> | **Total lines of lore** | 35,000+ |
+> | **Total files** | 448 |
+> | **Total lines of lore** | 36,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |
 > | **Named NPCs** | 169 |
@@ -198,7 +199,8 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 > | **Imprisoned gods** | 1 |
 > | **Shattered gods** | 1 |
 > | **Silent gods** | 1 |
-> | **Campaign acts** | 5 |
+> | **Campaigns** | 2 |
+> | **Campaign acts (The Second Silence)** | 5 |
 > | **Cross-region quest chains** | 5 |
 > | **Prophecy fragments** | 8 |
 > | **Years of in-world history** | 2,200+ |
