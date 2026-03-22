@@ -120,12 +120,32 @@ if (SEND_HISTORY) {
   await sendHistory()
 }
 
-const watcher = watch(join(AGENTS_DIR, "*/messages/inbox/**/*.json"), {
+// Chokidar v4 doesn't support globs — watch each agent's inbox directory
+const uuids = await readdir(AGENTS_DIR).catch(() => [])
+const inboxDirs = []
+for (const uuid of uuids) {
+  const inboxDir = join(AGENTS_DIR, uuid, "messages", "inbox")
+  try {
+    await readdir(inboxDir)
+    inboxDirs.push(inboxDir)
+  } catch {}
+}
+
+if (inboxDirs.length === 0) {
+  console.error("No agent inbox directories found")
+  process.exit(1)
+}
+
+console.log(`Watching ${inboxDirs.length} agent inboxes`)
+
+const watcher = watch(inboxDirs, {
   ignoreInitial: true,
   awaitWriteFinish: { stabilityThreshold: 300, pollInterval: 100 },
 })
 
-watcher.on("add", (filePath) => sendMessage(filePath))
+watcher.on("add", (filePath) => {
+  if (filePath.endsWith(".json")) sendMessage(filePath)
+})
 
 // ── Heartbeat ───────────────────────────────────
 async function heartbeat() {
