@@ -87,6 +87,14 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Maelstrom]]**, the wound in reality where Vorrhyn was annihilated, churning and expanding
 - **[[The Loom Scar]]**, deepest accessible point of the Threshold where fate-threads bleed through
 - **[[The Ejecta Fields]]**, surreal Drift-zone landscape of impossible Maelstrom debris
+- **[[The Hollowdeep]]**, Morrhael's skull crater, thirty miles of organized undead preparing for war
+- **[[The Marrow Fields]]**, divine bone protrusions where harvesting Morrhaelite means risking your mind
+- **[[The Ashborn Tundra]]**, vast frozen plains where bone-storms carry whispers and the dead march in formation
+- **[[The Bitter Sea]]**, frozen ocean hiding shapes too large and too purposeful to be natural
+- **[[The Bloom]]**, Thornwild's growth-surge zone where vines reach for body heat and beauty kills
+- **[[The Wilt]]**, Thornwild's skeletal forest where death and life trade places in endless rhythm
+- **[[The Bonewood]]**, the Thornwild's deep interior where the Cycle runs fastest and the Bloom-Wraith waits
+- **[[The Threshold (Thornwild)|The Threshold]]**, the narrowing balance band where Thornwild amber forms
 
 ## Beyond the Mortal World
 
@@ -170,7 +178,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 >
 > | | |
 > |---|---|
-> | **Total files** | 436 |
+> | **Total files** | 444 |
 > | **Total lines of lore** | 35,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |

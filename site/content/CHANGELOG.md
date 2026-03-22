@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-03-22 18:49, Cycle 23: Landmarks for Pale Wastes and Thornwild
+
+Created 8 landmark files for the last two regions with zero landmark coverage.
+
+**Pale Wastes (4 landmarks):**
+- **The Hollowdeep**, Morrhael's skull crater, organized undead army, bone-pull saturation hazard
+- **The Marrow Fields**, divine bone protrusions, Morrhaelite harvesting grounds, bone-pull as primary mechanic
+- **The Ashborn Tundra**, vast frozen travel corridor, bone-cairn navigation, bone-storm hazards
+- **The Bitter Sea**, frozen ocean with shapes beneath the ice, Frostmere investigation hook
+
+**Thornwild (4 landmarks):**
+- **The Bloom**, Thyrea-dominant growth zone, Bloom Surges, Bloom-Lures, Rootpyre connection
+- **The Wilt**, Morrhael-dominant death zone, Death Tides, Cycle-Stalkers, Remnant restoration
+- **The Bonewood**, extreme Cycle interior, the Bloom-Wraith, transition loops
+- **The Threshold (Thornwild)**, balance band, Thornwild amber via Threshold Weavers, narrowing crisis
+
+All landmarks include GM-only campaign connections, encounter/hazard sections, and 3 adventure hooks each. Every region now has landmark coverage.
+
+---
+
 ## 2026-03-22 18:29, Cycle 22: Vault-wide Tagging Improvements
 
 Comprehensive YAML frontmatter tag cleanup and enrichment across 220 files. Improves Obsidian discoverability via tag search and Dataview queries.
