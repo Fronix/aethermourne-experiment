@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-03-22 15:41, Cycle 17: Vault Structure Cleanup
+
+Structural/organizational cycle per DM request. Audited the vault's file and folder structure, identified misplaced files and inconsistencies, and performed cleanup. No content changes, only file moves and folder deletions.
+
+**Settlement reorganization:**
+- Moved 10 Unwritten Lands settlements (Anchorseat, Ashmark, Draveth, Gyre's Maw, Hael'rune, Keth'vaal, Skeinhold, Tidecaller's Rest, Tidecross, Ur-Saethen) from generic `Settlements/` folder to `The Unwritten Lands/` folder, matching how all other regions organize their settlements
+- Removed empty `Settlements/` folder
+
+**NPC reorganization:**
+- Moved 8 orphaned NPC files from `NPCs/` root into correct subcategories: Captain Erys Vane (Military), Prior Cael Drantine (Clergy), Salice (Outlaws), Speaker Dravos (Rulers), Speaker Kaelthen (Rulers), Speaker Yavenne (Rulers), Tidecaller Mirenne (Clergy), Vosh (Spies)
+
+**Folder cleanup:**
+- Deleted 3 empty World Atlas folders (Delvaren/, Keth'saruum/, Vaelthara/) that were scaffolded during initial vault setup but never populated
+
+**Deferred:**
+- Thornwild Predators.md has a misleading filename (content is Verdant Marches, not Thornwild). Rename deferred to a future cycle to avoid wikilink churn.
+- Landmarks folder centralization vs. region distribution: keeping centralized `Landmarks/` for now.
+
 ## 2026-03-22 15:23, Cycle 16: Greymere Fenlands Landmarks (3 adventure sites)
 
 Created 3 landmark files for the Greymere Fenlands, which previously had zero landmarks despite having 5 settlements. Each landmark covers a distinct hazard type and campaign connection.
