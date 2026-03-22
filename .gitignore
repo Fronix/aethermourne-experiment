@@ -2,6 +2,8 @@
 site/node_modules/
 site/public/
 scripts/node_modules/
+scripts/watcher.log
+scripts/watcher.pid
 
 # Build artifacts
 public
