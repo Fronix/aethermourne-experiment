@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-03-22 17:57, Cycle 20: Shattered Edge Landmarks and Bestiary
+
+Build cycle filling the Shattered Edge's two biggest gaps: zero landmark files and zero bestiary entries. Workshop with all four agents produced lore constraints, creature concepts, and NPC connections.
+
+**3 landmark files created:**
+- The Maelstrom.md (75 lines), the wound in reality where Vorrhyn was annihilated, surge mechanics, GM truth consolidation (door to Loom, Serith pulling, Tarla alive, convergence vision)
+- The Loom Scar.md (74 lines), deepest accessible Threshold site where fate-threads bleed through, Foretouched origin, Kaelen Riftwalker territory, Veil Unbound cache, ley-line tap point
+- The Ejecta Fields.md (70 lines), Drift-zone harvesting grounds, surge-wave encounters, Changed emergence, Oren Blackfinger's supply chain
+
+**3 bestiary files created:**
+- Chance-Eaters.md (85 lines), probability parasites (jinx-knots), aura-based debuff creatures with Correction Burst table
+- Recursion Stalkers.md (83 lines), temporal loop predators, multi-session iterative encounter framework with anchor mechanic
+- Threshold Castoffs.md (110 lines), unique Maelstrom ejecta creatures with d8x3 generation table (body, behavior, combat effect)
+
+**Vault stats updated:** Total files 428 → 434, Creatures 58 → 61
+
 ## 2026-03-22 17:30, Cycle 19: Adventures Audit and Reorganization
 
 Adventures audit cycle per DM directive. Lorekeeper audited all 33 adventure files plus Campaign Overview and Ongoing Threads for lore consistency, broken wikilinks, formatting, campaign coherence, and file organization. Overall quality: excellent (campaign coherence across Villain Timelines, Quest Chains, Flow Guide, and Campaign Overview is near-perfect). Fixes applied:

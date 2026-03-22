@@ -84,6 +84,9 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Nethys Pools]]**, luminous arcane waters where a shattered goddess whispers through the ley lines
 - **[[The Drowned Spires]]**, Empyrean remnants phasing between planes in the Deep Fen's thinnest reality
 - **[[The Shard Bogs]]**, treacherous marshes where fragments of the collapsed divine realm surface from the mud
+- **[[The Maelstrom]]**, the wound in reality where Vorrhyn was annihilated, churning and expanding
+- **[[The Loom Scar]]**, deepest accessible point of the Threshold where fate-threads bleed through
+- **[[The Ejecta Fields]]**, surreal Drift-zone landscape of impossible Maelstrom debris
 
 ## Beyond the Mortal World
 
@@ -167,13 +170,13 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 >
 > | | |
 > |---|---|
-> | **Total files** | 428 |
+> | **Total files** | 434 |
 > | **Total lines of lore** | 35,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |
 > | **Named NPCs** | 165 |
 > | **NPC files** | 156 |
-> | **Creatures (Bestiary)** | 58 |
+> | **Creatures (Bestiary)** | 61 |
 > | **Factions** | 23 |
 > | **Campaign starters** | 7 |
 > | **One-shots** | 8 |
