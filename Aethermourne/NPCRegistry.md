@@ -28,7 +28,6 @@ type: overview
 | [[Elder Rosk]] | Eldest Greensinger | [[The Verdant Marches]] | [[The Greensingers]] | Alive |
 | [[Draven Ironbark\|Warden Draven Ironbark]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council\|Ironbark Opposition]] | Alive |
 | [[Maren Selk\|Tidekeeper Maren Selk]] | First Tidekeeper | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
-| [[Lira Ashvane\|Keeper Lira Ashvane]] | Lantern-Keeper Commander | [[The Hollowed Reach]] | [[The Lantern-Keepers]] | Alive |
 | [[The Whisperer]] | Cult Leader | [[The Hollowed Reach]] | [[The Veil Unbound]] | Alive |
 | [[Bjorn Ashken\|Holdwarden Bjorn Ashken]] | Holdwarden of Greyhold | [[The Pale Wastes]] | The Holds (Greyhold) | Alive |
 | [[Thessa Ironveil\|Commander Thessa Ironveil]] | Vigil Commander | [[The Pale Wastes]] | [[The Ashen Vigil]] | Alive |
@@ -53,7 +52,6 @@ type: overview
 | [[Torren Hearthforge\|Guildmaster Torren Hearthforge]] | Ember Guild Leader | Mobile (Ostivaar) | [[The Ember Guild]] | Alive |
 | [[Celestine Vael\|Arch-Reader Celestine Vael]] | Star-Reader Leader | [[The Hollowed Reach]] | [[The Star-Readers]] | Alive |
 | [[Cordell Raith]] | Master of Secrets | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
-| [[Aldric Voss]] | Senior Intelligence Officer | [[The Hollowed Reach]] | [[Concord of Tides]] (under [[Cordell Raith]]) | Alive |
 | [[Jessamine Kole]] | Master of Coin | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
 | [[Orenna Deepwell]] | Tidekeeper of Faith | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
 | [[Aldren Vayne\|Admiral Aldren Vayne]] | Master of Ships | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
@@ -63,8 +61,6 @@ type: overview
 | [[Captain Rook Tessavar]] | Pirate Captain | [[The Hollowed Reach]] | Pirate Council | Alive |
 | [[Sable]] | Veil Unbound Lieutenant | [[The Hollowed Reach]] | [[The Veil Unbound]] | Alive |
 | [[Abbot Cael]] | Leader of the Merciful | [[The Hollowed Reach]] | The Merciful | Alive |
-| [[Hanna Tide\|Elder Hanna Tide]] | Elder of Mistholm | [[The Hollowed Reach]] | None | Alive |
-| [[Sera Greywater\|Warden Sera Greywater]] | Toll-Warden of Bridgemere | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
 | [[Dren Halwick]] | Whisper-Cell Inmate | [[The Hollowed Reach]] | None | Alive |
 | Aldren Voss | Flame Captain, Greyfield | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
 | Archscholar Verity Dunne | Head of the Athenaeum | [[The Ashen Dominion]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
@@ -255,7 +251,6 @@ type: overview
 |-----|-------|----------|---------|
 | [[Maren Selk\|Tidekeeper Maren Selk]] | First Tidekeeper | [[Tidewall]] | [[Concord of Tides]] |
 | [[Cordell Raith]] | Master of Secrets | [[Tidewall]] | [[Concord of Tides]] |
-| [[Aldric Voss]] | Senior Intelligence Officer | [[Tidewall]] | [[Concord of Tides]] (under [[Cordell Raith]]) |
 | [[Orenna Deepwell]] | Tidekeeper of Faith | [[Tidewall]] | [[Concord of Tides]] |
 | [[Jessamine Kole]] | Master of Coin | [[Tidewall]] | [[Concord of Tides]] |
 | [[Aldren Vayne\|Admiral Aldren Vayne]] | Master of Ships | [[Tidewall]] / Tidefleet | [[Concord of Tides]] |

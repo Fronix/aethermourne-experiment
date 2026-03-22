@@ -1,5 +1,33 @@
 # Changelog
 
+## 2026-03-22 13:55, Cycle 12: Thornwild Bestiary (5 Creatures)
+
+Created 5 bestiary entries for The Thornwild, filling a critical gap (zero prior entries for this region). All creatures grounded in the Cycle, the collision of Thyrea's growth-essence and Morrhael's death-chill that defines the region.
+
+| File | Lines | Niche | NPC Hook |
+|---|---|---|---|
+| `Cycle-Stalkers.md` | 80 | Tactical Wilt pack predators that use death-and-resurrection as flanking strategy | Kael Duskborne's primary threat |
+| `Threshold Weavers.md` | 78 | Amber-producing arachnids guarding crystallization points in the Threshold | Garret Boneharvest's daily adversary |
+| `Bloom-Lures.md` | 77 | Hallucinogenic sessile predators disguised as beautiful clearings | Root-Speaker Fennara's secret farming |
+| `Bone Choir.md` | 78 | Swarm undead phenomenon carrying fragments of Morrhael's death-song | Yara Thornbloom's transcription project, campaign clue |
+| `Sap-Wraiths.md` | 80 | Transition-state entities stabilized by dual-channeling | Fennara's "heretical pets," Greensinger outrage |
+
+**Workshop contributions:** Lorekeeper (lore constraints, Bloom-Wraith NPC confirmation, divine material rules), Characterwriter (NPC-creature hooks, creature pitches), Writer2 (design patterns, naming conventions).
+
+**Lore notes:**
+- Bloom-Wraith confirmed as NPC (not bestiary), per existing file in NPCs/Outlaws/
+- Thornwild Predators.md flagged as misattributed (region tag says Verdant Marches, filename says Thornwild), deferred to future lore check
+- All creatures reference both Thyrea AND Morrhael, no Serith corruption (distinct from adjacent regions)
+- Cycle acceleration (Serith's secret influence) woven into GM notes as campaign thread
+
+## 2026-03-22 13:43, NPCRegistry Cleanup (Lore Fix from Cycle 9)
+
+Applied deferred lore fixes from Gamemaster (cycle 9, msg_1774150676339):
+
+- **Removed duplicate entries** for Maren Selk, Lira Ashvane, Hanna Tide, Sera Greywater from Quick Reference Table (kept regional section entries with specific locations)
+- **Removed Aldric Voss** from both Quick Reference Table and Hollowed Reach regional section (Cordell Raith is canonical Tidekeeper of Secrets, Aldric Voss removed from roster). No dedicated NPC file exists.
+- **Orenna Deepwell** already present in both sections, no action needed.
+
 ## 2026-03-22 13:25, Cycle 11: Lore Check, The Ashen Dominion (Audit + Fixes)
 
 Lore check cycle. Audited 31+ Ashen Dominion files across settlements, NPCs, factions, bestiary, artifacts, and campaign materials. Found 2 critical issues, 3 moderate, 1 minor. Core lore (timeline, divine connections, political structure, Ashite properties, Calculism) scored perfect. All critical and moderate fixes applied.

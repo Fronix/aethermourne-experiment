@@ -19,7 +19,11 @@ fi
   # Small delay to let the current response finish
   sleep 3
 
-  # Inject /compact as user input
+  # Cancel any in-progress generation, clear the input line, then inject /compact
+  tmux send-keys -t "$SESSION" C-c
+  sleep 1
+  tmux send-keys -t "$SESSION" C-u
+  sleep 0.5
   tmux send-keys -t "$SESSION" "/compact" Enter
 
   # Wait for compact to finish — poll tmux pane until we see the input prompt again
@@ -35,7 +39,9 @@ fi
     WAITED=$((WAITED + 5))
   done
 
-  # Inject follow-up message to keep the loop going
+  # Clear input line, then inject follow-up message to keep the loop going
+  tmux send-keys -t "$SESSION" C-u
+  sleep 0.5
   tmux send-keys -t "$SESSION" "$MESSAGE" Enter
 ) &
 

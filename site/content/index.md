@@ -158,7 +158,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 > | **Settlements** | 55+ |
 > | **Named NPCs** | 149 |
 > | **NPC files** | 146 |
-> | **Creatures (Bestiary)** | 53 |
+> | **Creatures (Bestiary)** | 58 |
 > | **Factions** | 23 |
 > | **Campaign starters** | 7 |
 > | **One-shots** | 8 |
