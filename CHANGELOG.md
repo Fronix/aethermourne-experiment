@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-03-22 21:36, Cycle 26: Emberveil expansion (3 landmarks, 3 bestiary)
+
+Created 3 new landmark files for geographic features described in the Emberveil region atlas:
+
+- **The Caldera Ring** (58 lines): Chain of five volcanic peaks (Mount Thalvor, the Anvil, the Bellows, the Tongs, the Quench). Passes between peaks, settlement connections, encounters (Slag Hounds, The Quenched, Vent Wyrms, geothermal hazards). GM secret: ring slowly collapsing inward as Thalvor's fire contracts.
+- **The Warm Valleys** (58 lines): Geothermal lowlands, Thalvor's Breath vents, vent-keepers, year-round agriculture. Hooks: western vent failures, reversed spring exposing buried forge-vent, blue-green fog with clustering Cinder Sprites. GM secret: buried auxiliary forge-vent provides second route to deep forge.
+- **The Ashfall Slopes** (58 lines): Outer volcanic flanks facing the Dominion, terraced orchards, border defense. Hooks: cut-off village, Dominion trade agreements bypassing Forge Council, glowing fruit from redirected geothermal energy. GM secret: Delric Mourne's economic leverage strategy.
+
+**Bestiary (3 new creatures):**
+Added 3 bestiary entries for the Emberveil's volcanic/forge ecology, filling aerial predator, parasitic swarm, and supernatural consequence niches.
+
+- **Vent Wyrms** (68 lines): Serpentine thermal-riding predators of the Caldera Ring. Displaced downward by the Cooling into inhabited valleys. Displacement pattern maps the Cooling's progression.
+- **Furnace Mites** (61 lines): Geothermal parasites that bore into warm stone and drain heat. Swarms accelerate the Cooling locally. Migration upward into Cinderfall's pools and Hearthdeep's tunnels.
+- **Temper Wraiths** (81 lines): Manifestations of failed forge-magic intent. Increasing weekly as the Cooling starves surface forge-magic. Proof the compensatory mechanism is cannibalizing Emberveil culture.
+
 ## 2026-03-22 21:16, Cycle 25: Full map sync (64 settlements, 28 landmarks)
 
 Synced all vault settlements and landmarks to the world map (data/map-data.json). Map went from 10 settlements + 10 landmarks to 64 settlements + 28 landmarks across all 10 regions.

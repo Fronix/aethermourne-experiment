@@ -81,6 +81,9 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Iron Fields]]**, rust-red heartland where divine fragments hum and armies gather
 - **[[Mount Thalvor]]**, sacred volcanic peak above a dead god's still-burning forge
 - **[[The Deep Warrens]]**, vast underground descent toward Thalvor's forge-chambers
+- **[[The Caldera Ring]]**, five sacred volcanic peaks encircling the Emberveil's heart, their passes slowly narrowing
+- **[[The Warm Valleys]]**, geothermal heartland where Thalvor's Breath vents are going cold
+- **[[The Ashfall Slopes]]**, volcanic outer flanks where terraced orchards meet Dominion pressure
 - **[[The Nethys Pools]]**, luminous arcane waters where a shattered goddess whispers through the ley lines
 - **[[The Drowned Spires]]**, Empyrean remnants phasing between planes in the Deep Fen's thinnest reality
 - **[[The Shard Bogs]]**, treacherous marshes where fragments of the collapsed divine realm surface from the mud
@@ -185,7 +188,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 > | **Settlements** | 55+ |
 > | **Named NPCs** | 169 |
 > | **NPC files** | 158 |
-> | **Creatures (Bestiary)** | 61 |
+> | **Creatures (Bestiary)** | 64 |
 > | **Factions** | 23 |
 > | **Campaign starters** | 7 |
 > | **One-shots** | 8 |

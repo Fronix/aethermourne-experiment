@@ -240,10 +240,11 @@
       "points": [[420, 100], [500, 80], [580, 100], [650, 130]]
     },
     {
-      "name": "Caldera Ring",
+      "name": "The Caldera Ring",
       "type": "mountains",
-      "description": "Volcanic peaks surrounding the Emberveil",
-      "points": [[600, 620], [660, 600], [720, 560], [770, 540]]
+      "description": "Chain of five volcanic peaks encircling the Emberveil: Anvil, Bellows, Tongs, Quench, centered on Mount Thalvor",
+      "points": [[560, 630], [590, 600], [640, 570], [710, 580], [770, 620], [760, 680], [700, 720], [620, 710], [570, 680], [550, 640]],
+      "region": "emberveil"
     },
     {
       "name": "The Bitter Sea",
@@ -384,6 +385,20 @@
       "type": "landmark",
       "description": "Subsurface tunnel network beneath Emberveil",
       "position": [640, 670],
+      "region": "emberveil"
+    },
+    {
+      "name": "The Warm Valleys",
+      "type": "landmark",
+      "description": "Geothermal lowlands between Caldera Ring peaks, radiating from Crucible toward Hearthdeep and Anvilrest",
+      "position": [685, 640],
+      "region": "emberveil"
+    },
+    {
+      "name": "The Ashfall Slopes",
+      "type": "landmark",
+      "description": "Outer volcanic flanks facing the Ashen Dominion and Hollowed Reach, Smokewall guards the eastern pass",
+      "position": [670, 720],
       "region": "emberveil"
     }
   ],
