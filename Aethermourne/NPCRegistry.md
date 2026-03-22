@@ -85,6 +85,10 @@ type: overview
 | Vigil Liaison Sera Vahn | Ashen Vigil Representative | [[The Ashen Dominion]] | [[The Ashen Vigil]] | Alive |
 | Warden Kael Ashford | Garrison Commander | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
 | Young Jorin | Resident (wild magic) | [[The Ashen Dominion]] | None | Alive |
+| Verity Ashgrove | Calculist Surveyor, Spine of Order | [[The Ashen Dominion]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
+| Jorik Ashsoil | Crop Warden, Ashfields | [[The Ashen Dominion]] | None (Hewn caste) | Alive |
+| Serran Ashmark | Flame Warden, Calcified Forest | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Alara Denn | Fugitive Scholar, Calcified Forest | [[The Ashen Dominion]] | [[Unbound Congregation]] | Alive |
 | [[Vael Sundren]] | Mutagenist Researcher | [[The Verdant Marches]] | Mutagenists | Alive |
 | [[Tessara Wildbloom]] | Greensinger (Missing) | [[The Verdant Marches]] | [[The Greensingers]] | Missing |
 | [[Ivara Mistwalker]] | Spore-Seer | [[The Verdant Marches]] | Peak Clans | Alive |
@@ -239,6 +243,10 @@ type: overview
 | Vigil Liaison Sera Vahn | Ashen Vigil Representative | [[Pale Sentry]] | [[The Ashen Vigil]] |
 | Warden Kael Ashford | Garrison Commander | [[Pale Sentry]] | [[Order of the Ashen Flame]] |
 | Young Jorin | Resident (wild magic) | [[Greyfield]] | None |
+| Verity Ashgrove | Calculist Surveyor | Spine of Order | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
+| Jorik Ashsoil | Crop Warden | Ashfields | None (Hewn caste) |
+| Serran Ashmark | Flame Warden, Calcified Forest Perimeter | Calcified Forest | [[Order of the Ashen Flame]] |
+| Alara Denn | Fugitive Scholar | Calcified Forest (hiding) | [[Unbound Congregation]] |
 
 ### The Verdant Marches
 

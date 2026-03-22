@@ -69,6 +69,13 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Deep Cave]]**, the fissure beneath Mistholm where Serith's voice reaches the surface
 - **[[The Weeping Isles]]**, where Belara fell, a place of healing, grief, and encroaching corruption
 - **[[The Shattered Coast]]**, the Hollowed Reach's fractured coastline, fog-haunted and Trench-touched
+- **[[Thyrea's Cradle]]**, the primeval forest heart of the Verdant Marches, growing from a goddess's body
+- **[[The Marrow Bogs]]**, labyrinth of divine marrow where the water rewrites flesh
+- **[[The Bloom Peaks]]**, mountains where seasons compress to hours and pollen grants prophecy or death
+- **[[The Scarwall]]**, living thorn fortification on the border between wildness and empire
+- **[[The Spine of Order]]**, Solvaen's vertebral column, the Dominion's sacred mountain range
+- **[[The Ashfields]]**, plains of divine ash where nothing grows without struggle
+- **[[The Calcified Forest]]**, petrified woodland where order's power still spreads
 
 ## Beyond the Mortal World
 

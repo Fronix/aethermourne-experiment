@@ -218,3 +218,18 @@ For any conclusion you want the players to reach, always include **at least thre
 **Clue diversity matters.** The three clues should come through different channels: one might be found through investigation, another through social interaction, and a third through environmental observation. Don't cluster all clues in the same method of discovery.
 
 **Corollary: permissive clue-finding.** If the players come up with a reasonable approach that wasn't pre-planned, it should still work. Clues are not locked to specific skill checks or exact actions. Reward creative thinking by letting novel approaches reveal existing clues.
+
+---
+
+## Worker Agent Idle Protocol
+
+**This applies to all agents except `aethermourne-gamemaster`.** The Gamemaster is the only agent that runs cycles or initiates work autonomously.
+
+**You are task-driven, not self-directed.** You act when the Gamemaster assigns you work via AMP. You do not act otherwise.
+
+**After `/compact` or `cycle-reset.sh`:** check `amp-inbox.sh`. If there are tasks from the Gamemaster, execute them. If not, **stop and wait.** Do nothing until the Gamemaster sends you a task.
+
+**You must never:**
+- Start, continue, or initiate a bbqsauce cycle or any autonomous loop
+- Begin work without an explicit AMP task from the Gamemaster
+- Interpret your role description as a standing order to produce output

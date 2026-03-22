@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-03-22 14:20, Cycle 13: Verdant Marches & Ashen Dominion Landmarks (7 files)
+
+Filled the landmark gap for two major regions. Before this cycle, only the Hollowed Reach and Unwritten Lands had landmark files. Now the Verdant Marches and Ashen Dominion have full coverage.
+
+**Verdant Marches landmarks (Writer1 + Writer2):**
+- [[Thyrea's Cradle]] (95 lines), the primeval forest heart, three vertical layers, Cradle Heart subsection, Thyrea's Children, shadow-root corruption
+- [[The Bloom Peaks]] (79 lines), compressed seasonal mountains, pollen/prophecy mechanics, the Frozen Peak adventure site
+- [[The Marrow Bogs]] (58 lines), divine marrow water table, tiered exposure system, despair effect, shadow-root node
+
+**Ashen Dominion landmarks (Writer2):**
+- [[The Spine of Order]] (62 lines), Solvaen's vertebral column, Ashite mines, The Hum, Order Sickness
+- [[The Ashfields]] (63 lines), divine ash plains, Solvaen's Fingers, depletion crisis, ash storms
+- [[The Calcified Forest]] (58 lines), petrified woodland, spreading calcification, Unbound fugitive
+
+**Dual-region (Writer2):**
+- [[The Scarwall]] (65 lines), living thorn fortification, tagged both verdant-marches and ashen-dominion, asymmetric behavior, Cinder agent inside
+
+**NPCRegistry:** 4 new supporting NPCs added (Verity Ashgrove, Jorik Ashsoil, Serran Ashmark, Alara Denn)
+
 ## 2026-03-22 14:02, Lore Check Cycle 12: The Ironmarch Audit
 
 Full lore audit of The Ironmarch region (6 atlas files, 8 NPC files, 2 faction files, 3 bestiary files, encounter tables, timeline). **Zero critical issues found.** The Ironmarch is one of the most internally consistent regions in the vault.
