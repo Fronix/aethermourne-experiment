@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-03-22 18:12, Cycle 21: Shattered Edge Lore Audit and Fixes
+
+Lore check cycle. Full audit of all Shattered Edge content (6 new Cycle 20 files + existing region files). Zero contradictions found. Fixed dangling wikilinks, alias collision, encounter table gap, and missing NPC entries.
+
+**Fixes applied:**
+- Recursion Stalkers.md: replaced 2 dangling `[[The Loom]]` wikilinks with correct `[[Cosmology and Magic#The Loom of Fate]]` links
+- The Ejecta Fields.md: removed "The Fields" alias (conflicted with The Iron Fields)
+- Encounter Tables.md: expanded Shattered Edge table from d6 (6 entries) to d10 (10 entries), added Chance-Eaters, Recursion Stalkers, Threshold Castoffs, and a Chance-Eater cluster encounter
+
+**2 NPC files created:**
+- Kaelen Riftwalker.md (66 lines), Echoist philosopher at the Loom Scar, 11 Threshold Walks, gone silent after perceiving a fate-thread, status: missing
+- Edgewalker Rin.md (65 lines), Born-Changed Edgewalker at Edgewatch, detected Serith's broadcast signal in Loom Scar static, making unauthorized trips
+
+**4 NPCRegistry entries added (Shattered Edge section):**
+- Kaelen Riftwalker (Echoist Philosopher, The Loom Scar, Missing)
+- Edgewalker Rin (Edgewalker, Edgewatch, Alive)
+- Tarla (Edgewatch Scout, The Maelstrom, Missing)
+- Quartermaster Dahl (Logistics Officer, Edgewatch)
+
 ## 2026-03-22 17:57, Cycle 20: Shattered Edge Landmarks and Bestiary
 
 Build cycle filling the Shattered Edge's two biggest gaps: zero landmark files and zero bestiary entries. Workshop with all four agents produced lore constraints, creature concepts, and NPC connections.

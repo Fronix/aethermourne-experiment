@@ -142,6 +142,8 @@ type: overview
 | [[The Mirror]] | Shapeshifter Spy | [[The Shattered Edge]] | None | Alive |
 | [[Kessa Thornwall\|Warden Kessa Thornwall]] | Edgewatch Commander | [[The Shattered Edge]] | [[The Accord of Echoes]] | Alive |
 | [[Prior Echoes]] | Vorrhyn Philosopher-Priest | [[The Shattered Edge]] | [[The Echoists]] | Alive |
+| [[Kaelen Riftwalker]] | Echoist Philosopher | [[The Shattered Edge]] | [[The Echoists]] | Missing |
+| [[Edgewalker Rin]] | Edgewalker, Edgewatch | [[The Shattered Edge]] | [[The Accord of Echoes]] | Alive |
 | [[Brunhild Ironheart\|Forge-Matriarch Brunhild Ironheart]] | Forge Council Head | [[The Emberveil]] | [[The Forge Council]] | Alive |
 | [[Orin Deepstone\|Delver-Captain Orin Deepstone]] | Deep Mining Commander | [[The Emberveil]] | [[The Forge Council]] | Alive |
 | [[Ashara Cinderbloom\|Mender Ashara Cinderbloom]] | Head Healer | [[The Emberveil]] | None | Alive |
@@ -362,6 +364,10 @@ type: overview
 | [[The Mirror]] | Shapeshifter Spy | Mobile | None |
 | [[Kessa Thornwall\|Warden Kessa Thornwall]] | Edgewatch Commander | [[Edgewatch]] | [[The Accord of Echoes]] |
 | [[Prior Echoes]] | Vorrhyn Philosopher-Priest | [[Riftmarket]] | [[The Echoists]] |
+| [[Kaelen Riftwalker]] | Echoist Philosopher | [[The Loom Scar]] | [[The Echoists]] |
+| [[Edgewalker Rin]] | Edgewalker | [[Edgewatch]] | [[The Accord of Echoes]] |
+| Tarla | Edgewatch Scout (Missing) | [[The Maelstrom]] (last known) | [[The Accord of Echoes]] |
+| Quartermaster Dahl | Logistics Officer | [[Edgewatch]] | None |
 
 ### The Emberveil
 

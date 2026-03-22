@@ -3,7 +3,6 @@ tags:
   - location
   - region/shattered-edge
 aliases:
-  - The Fields
   - The Harvest Grounds
 type: location
 region: The Shattered Edge

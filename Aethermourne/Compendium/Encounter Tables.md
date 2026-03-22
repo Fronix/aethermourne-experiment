@@ -118,7 +118,7 @@ type: reference
 
 *Reality is negotiable here. That is not reassuring.*
 
-| d6 | Encounter | Threat | Type | Reference |
+| d10 | Encounter | Threat | Type | Reference |
 |---|---|---|---|---|
 | 1 | A rift opens mid-trail, a window into a version of this landscape where the Theomachis never happened. The view is beautiful, terrifying, and temporary. Things on the other side notice the party looking. | Moderate | Environmental | [[The Shattered Edge]] |
 | 2 | [[Mirror Shades]] stalk the party, mimicking their movements from reflective surfaces, puddles, polished stone, glass. They cannot attack directly but can steal memories by making eye contact through reflections. | Moderate | Combat | [[Mirror Shades]] |
@@ -126,6 +126,10 @@ type: reference
 | 4 | A "rifted" settlement where time runs at half speed. The inhabitants are unaware. A day for them is two days outside. They offer hospitality, not realizing their guests will age differently while visiting. | Low | Mystery | [[The Shattered Edge]] |
 | 5 | [[Gyre-Wraiths]], entities born from Primordial energy leaking through reality fractures, drift across the landscape. They are not hostile but their proximity causes sensory distortion: colors shift, sounds delay. Contact causes Primordial Taint. | Moderate | Environmental | [[Gyre-Wraiths]] |
 | 6 | The party finds a message carved into stone, in their own handwriting, warning them not to continue. The carving is decades old. | High | Mystery | [[The Shattered Edge]] |
+| 7 | Nothing goes right. Bowstrings snap, rations spoil, footholds crumble. A DC 15 Perception check (advantage for Edgewalkers) reveals a [[Chance-Eaters|Chance-Eater]] drifting above the party, a translucent knot of bent light feeding on their probability. Destroying it requires fire, radiant, or Vorrhyn's Dust-infused weapons, and when it dies, something improbably good happens. | Low | Combat | [[Chance-Eaters]] |
+| 8 | The party finds a campfire ahead on the trail, ashes still warm, arranged exactly like their own from the night before. Boot prints in the mud match their footwear. A faint clicking-stuttering sound echoes from the tree line. A [[Recursion Stalkers|Recursion Stalker]] has begun its first iteration, observing, learning, and preparing to loop back with everything it needs to take the party apart. | High | Combat | [[Recursion Stalkers]] |
+| 9 | A [[Threshold Castoffs|Threshold Castoff]] stands in the middle of the path, a creature that should not exist, assembled from impossible materials and following behavioral logic from somewhere else entirely. It is not hostile, yet. It circles a patch of empty ground with mechanical intensity, guarding something that is not there. Approaching triggers its combat effect (roll on the generation table in the bestiary). Every Castoff is unique; the GM will never run this encounter the same way twice. | Variable | Combat | [[Threshold Castoffs]] |
+| 10 | A cluster of three [[Chance-Eaters]] has settled over a Drift-harvester camp. The harvesters are at each other's throats, blaming sabotage for a week of catastrophic luck: shattered tools, spoiled water, a broken wagon axle. The probability dead zone is so thick that cause and effect have begun to decouple, injuries appearing before the blow lands, words heard before they are spoken. Clearing the cluster triggers a cascading Correction Burst that temporarily makes everything go impossibly, giddily right. | Moderate | Environmental | [[Chance-Eaters]] |
 
 ---
 
