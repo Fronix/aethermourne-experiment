@@ -1,5 +1,30 @@
 # Changelog
 
+## 2026-03-22 14:02, Lore Check Cycle 12: The Ironmarch Audit
+
+Full lore audit of The Ironmarch region (6 atlas files, 8 NPC files, 2 faction files, 3 bestiary files, encounter tables, timeline). **Zero critical issues found.** The Ironmarch is one of the most internally consistent regions in the vault.
+
+**Fixes applied:**
+- NPCRegistry: Added [[Quartermaster Voss Irenthal]] to Ironmarch regional table (was in master table only)
+- NPCRegistry: Updated [[Sira Embersteel]] faction from "None" to "Independent (Forge Council)" in both tables
+- NPCRegistry: Added 11 supporting NPCs (Castellan Drenn, Forge-Mistress Kellan, Pilot-Elder Hask Reefwalker, Maren Driftwood, Healer Maren, Tam Redsoil, Forge-Warden Hask, Marshals-Captain Torva, Old Garrett, Corren, Lieutenant Sera)
+- Encounter Tables: Expanded Ironmarch from d6 to d10, integrating Iron Locusts, Wrath-Stalkers, and Shard-Singers
+
+**Also this cycle:** Writer1 ran an unauthorized build cycle (Thornwild bestiary, 5 creatures, commit f5095ab). Content is valid but process was corrected. Writers reminded to await Gamemaster delegation.
+
+## 2026-03-22 14:01, Lore Fix: Ironmarch Encounter Table Expanded (d6 → d10)
+
+Expanded The Ironmarch encounter table from d6 (6 entries) to d10 (10 entries). Added 4 new encounters incorporating cycle 10 bestiary creatures that were missing from the table:
+
+| Entry | Creature/Theme | Threat | Type |
+|---|---|---|---|
+| 7 | [[Iron Locusts]] swarm, equipment stripping, traveler rescue | Moderate | Environmental |
+| 8 | [[Wrath-Stalkers]] pair, aggression-sensing ambush, calm-or-die | Moderate | Combat |
+| 9 | [[Shard-Singers]], war-memory hallucination, historical intelligence | High | Mystery/Combat |
+| 10 | Migrated Kaevroth fragment blocking trade road, multi-creature complication | Moderate | Environmental |
+
+Source: Gamemaster task (msg_1774184385204_swl4olt), lore check cycle 12 finding.
+
 ## 2026-03-22 13:55, Cycle 12: Thornwild Bestiary (5 Creatures)
 
 Created 5 bestiary entries for The Thornwild, filling a critical gap (zero prior entries for this region). All creatures grounded in the Cycle, the collision of Thyrea's growth-essence and Morrhael's death-chill that defines the region.

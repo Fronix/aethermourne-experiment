@@ -105,12 +105,23 @@ type: overview
 | [[Nettie Bridgeborn]] | Information Broker | [[The Greymere Fenlands]] | None | Alive |
 | [[Yrsa Bloodhand]] | Iron Thane | [[The Ironmarch]] | None (Iron Thane) | Alive |
 | [[Quartermaster Voss Irenthal]] | Quartermasters' Circle Head | [[The Ironmarch]] | [[The Quartermasters Circle]] | Alive |
-| [[Sira Embersteel]] | Master Weaponsmith | [[The Ironmarch]] | None | Alive |
+| [[Sira Embersteel]] | Master Weaponsmith | [[The Ironmarch]] | Independent (Forge Council) | Alive |
 | [[Harsk the Quiet]] | Mercenary Captain | [[The Ironmarch]] | [[The Iron Companies]] | Alive |
 | [[Alder Brightfield]] | Mayor of Duskfield | [[The Ironmarch]] | None | Alive |
 | [[Captain Neve Stormhull]] | Harbor Master | [[The Ironmarch]] | None | Alive |
 | [[Factor Gellen Ashworth]] | Fragment Monitor | [[The Ironmarch]] | [[The Ember Guild]] | Alive |
 | [[Mira the Red]] | Warlord Challenger | [[The Ironmarch]] | None | Alive |
+| [[Castellan Drenn]] | Garrison Commander | [[The Ironmarch]] | None | Alive |
+| [[Forge-Mistress Kellan]] | Smithing Quarter Head | [[The Ironmarch]] | None | Alive |
+| [[Pilot-Elder Hask Reefwalker]] | Pilot Guild Head | [[The Ironmarch]] | None | Alive |
+| [[Maren Driftwood]] | Salvager/Information Broker | [[The Ironmarch]] | None | Alive |
+| [[Healer Maren]] | Town Physician | [[The Ironmarch]] | None | Alive |
+| [[Tam Redsoil]] | Head Farmer | [[The Ironmarch]] | None | Alive |
+| [[Forge-Warden Hask]] | Security Chief | [[The Ironmarch]] | None | Alive |
+| [[Marshals-Captain Torva]] | Garrison Enforcement | [[The Ironmarch]] | [[The Iron Companies]] | Alive |
+| [[Old Garrett]] | Tavern Proprietor | [[The Ironmarch]] | None | Alive |
+| [[Corren]] | Smith (Fragment-Touched) | [[The Ironmarch]] | None | Alive |
+| [[Lieutenant Sera]] | Silent Company 2IC | [[The Ironmarch]] | [[The Iron Companies]] | Alive |
 | [[Tyrell Vane\|Edgewalker Tyrell Vane]] | Senior Edgewalker | [[The Shattered Edge]] | [[The Accord of Echoes]] | Alive |
 | [[Lysara Shimmerborn]] | Head Researcher | [[The Shattered Edge]] | None | Alive |
 | [[Oren Blackfinger\|Dust-Trader Oren Blackfinger]] | Dust Merchant | [[The Shattered Edge]] | None | Alive |
@@ -295,12 +306,24 @@ type: overview
 | NPC | Title | Location | Faction |
 |-----|-------|----------|---------|
 | [[Yrsa Bloodhand]] | Iron Thane | [[Ironhaven]] | None (Iron Thane) |
-| [[Sira Embersteel]] | Master Weaponsmith | [[Wrathspire]] | None |
+| [[Sira Embersteel]] | Master Weaponsmith | [[Wrathspire]] | Independent (Forge Council) |
 | [[Harsk the Quiet]] | Mercenary Captain | [[The Red Garrison]] | [[The Iron Companies]] |
 | [[Alder Brightfield]] | Mayor of Duskfield | [[Duskfield]] | None |
 | [[Captain Neve Stormhull]] | Harbor Master | [[Shieldbreak]] | None |
 | [[Factor Gellen Ashworth]] | Fragment Monitor | [[Wrathspire]] | [[The Ember Guild]] |
 | [[Mira the Red]] | Warlord Challenger | Mobile | None |
+| [[Quartermaster Voss Irenthal]] | Quartermaster | [[The Red Garrison]] | [[The Quartermasters Circle]] |
+| [[Castellan Drenn]] | Garrison Commander | [[Ironhaven]] | None |
+| [[Forge-Mistress Kellan]] | Smithing Quarter Head | [[Ironhaven]] | None |
+| [[Pilot-Elder Hask Reefwalker]] | Pilot Guild Head | [[Shieldbreak]] | None |
+| [[Maren Driftwood]] | Salvager/Information Broker | [[Shieldbreak]] | None |
+| [[Healer Maren]] | Town Physician | [[Duskfield]] | None |
+| [[Tam Redsoil]] | Head Farmer | [[Duskfield]] | None |
+| [[Forge-Warden Hask]] | Security Chief | [[Wrathspire]] | None |
+| [[Marshals-Captain Torva]] | Garrison Enforcement | [[The Red Garrison]] | [[The Iron Companies]] |
+| [[Old Garrett]] | Tavern Proprietor | [[The Red Garrison]] | None |
+| [[Corren]] | Smith (Fragment-Touched) | [[Wrathspire]] | None |
+| [[Lieutenant Sera]] | Silent Company 2IC | Mobile | [[The Iron Companies]] |
 
 ### The Shattered Edge
 
