@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-03-22 15:23, Cycle 16: Greymere Fenlands Landmarks (3 adventure sites)
+
+Created 3 landmark files for the Greymere Fenlands, which previously had zero landmarks despite having 5 settlements. Each landmark covers a distinct hazard type and campaign connection.
+
+**New landmarks:**
+- **[[The Nethys Pools]]** (69 lines), luminous arcane pool network where Nethys's shattered essence is densest. Hazards: ley surges, Echo Pools, soporific mists, shifting geography. Campaign role: gateway to the Greymere's mysteries, Nethys reassembly plotline, ley-line overcompensation epicenter.
+- **[[The Drowned Spires]]** (72 lines), Empyrean remnants phasing between planes in the Deep Fen. Hazards: phase instability, reality distortion, Gyre bleed, Serith's shadow-root transit. Campaign role: relay node in the Aetheric Web, coherent Nethys fragment, shadow-root intelligence.
+- **[[The Shard Bogs]]** (69 lines), treacherous marshes where Empyrean Shards surface as the planar boundary thins. Hazards: terrain, Shard radiation/visions, ley pocket surges, Deep Fen fauna. Campaign role: physical evidence of Web destabilization, Brother Lumen's Shard anchoring, the Golden Arch discovery.
+
+**Fix:** Brother Lumen's NPCRegistry location corrected from Glimwater to Sporeling.
+
 ## 2026-03-22 15:04, Cycle 15: Lore Check — Verdant Marches Audit
 
 Full lore consistency audit of The Verdant Marches (12 files: 1 region, 7 settlements, 4 landmarks). Lorekeeper found 3 contradictions, 1 broken wikilink, 3 missing NPC registry entries, and 2 internal inconsistencies. All fixes applied.

@@ -81,6 +81,9 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Iron Fields]]**, rust-red heartland where divine fragments hum and armies gather
 - **[[Mount Thalvor]]**, sacred volcanic peak above a dead god's still-burning forge
 - **[[The Deep Warrens]]**, vast underground descent toward Thalvor's forge-chambers
+- **[[The Nethys Pools]]**, luminous arcane waters where a shattered goddess whispers through the ley lines
+- **[[The Drowned Spires]]**, Empyrean remnants phasing between planes in the Deep Fen's thinnest reality
+- **[[The Shard Bogs]]**, treacherous marshes where fragments of the collapsed divine realm surface from the mud
 
 ## Beyond the Mortal World
 

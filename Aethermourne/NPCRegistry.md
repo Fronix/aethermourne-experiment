@@ -312,7 +312,7 @@ type: overview
 | [[Old Fenris]] | Confluence Elder | [[Fenholm]] | [[The Confluence Council]] |
 | [[Captain Hale Ashmark]] | Dominion Officer | [[Ashcreek]] | [[Order of the Ashen Flame]] |
 | [[Sera Gloomhollow]] | Bandit Queen | Deep Fen | None |
-| [[Brother Lumen]] | Nethys Researcher | [[Glimwater]] | [[The Star-Readers]] (defrocked) |
+| [[Brother Lumen]] | Nethys Researcher | [[Sporeling]] | [[The Star-Readers]] (defrocked) |
 | [[Nettie Bridgeborn]] | Information Broker | [[The Drowning Bridge]] | None |
 
 ### The Ironmarch
