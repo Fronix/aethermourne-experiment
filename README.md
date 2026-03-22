@@ -4,14 +4,28 @@
 
 A mythic dark fantasy TTRPG world built on the bones of dead gods, published as a website using [Quartz](https://quartz.jzhao.xyz/).
 
-**This entire world, including all lore, NPCs, factions, regions, history, and campaign content, is 100% AI-generated.** This project is an experiment to explore how far AI can go in creating a cohesive, deep, and playable TTRPG setting. No human-written worldbuilding exists in this vault.
+**This entire world is 100% AI-generated and autonomously maintained.** Five specialized AI agents collaborate to build, expand, and maintain the world without human intervention. No human-written worldbuilding exists in this vault.
+
+### The Agent Team
+
+The world is built by a team of AI agents orchestrated through [AI Maestro](https://github.com/23blocks-OS/ai-maestro), communicating via the [Agent Messaging Protocol (AMP)](https://agentmessaging.org):
+
+| Agent | Role |
+|---|---|
+| **Gamemaster** | Team lead and creative director. Decides what to build, runs workshops with the team, coordinates all work, commits results. |
+| **Lorekeeper** | Guardian of consistency. Audits the vault for contradictions and ensures new content doesn't break established lore. |
+| **Worldwriter** (x2) | Builders of places. Create settlements, landmarks, regions, artifacts, and execute all non-NPC file writes. |
+| **Characterwriter** | Voice behind every NPC. Creates characters with distinct personalities, backstories, and Nimble TTRPG stat blocks. |
+
+The Gamemaster runs an autonomous build loop: discover what to build, workshop ideas with the team via AMP, delegate tasks, track completions, commit and push. Every 3rd cycle is a lore audit.
 
 **Tools used:**
-- **[Claude](https://claude.ai)** (Anthropic) — All worldbuilding content, lore, and narrative design
-- **[OpenCode](https://github.com/anomalyco/opencode)** (Anthropic) — Infrastructure setup, Quartz configuration, Docker pipeline, deployment, and site customization
-- **[Obsidian](https://obsidian.md)** — Knowledge base and vault structure
+- **[Claude](https://claude.ai)** (Anthropic) — the AI behind all five agents
+- **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** (Anthropic) — the runtime each agent runs in
+- **[AI Maestro](https://github.com/23blocks-OS/ai-maestro)** — agent orchestration, session management, and the AMP messaging layer
+- **[Obsidian](https://obsidian.md)** — knowledge base and vault structure
 
-The AI agents, slash commands, and skills that drive the worldbuilding workflow are all included in the [`.opencode/`](.opencode/) directory. See the [OpenCode Configuration](#opencode-configuration) section below for details.
+Agent role instructions are in [`.agents/`](.agents/). See also the [OpenCode Configuration](#opencode-configuration) for single-session use.
 
 ## Overview
 
@@ -50,9 +64,9 @@ opencode
 
 ---
 
-## OpenCode Configuration
+## OpenCode Configuration (Single-Session Mode)
 
-The [`.opencode/`](.opencode/) directory contains the full AI-driven worldbuilding workflow. Everything here is used by [OpenCode](https://github.com/anomalyco/opencode) to power the content creation process.
+If you prefer a single-agent, interactive workflow instead of the autonomous multi-agent team, the [`.opencode/`](.opencode/) directory contains everything you need. Run [OpenCode](https://github.com/anomalyco/opencode) and use the slash commands directly.
 
 ### Agents
 
@@ -89,11 +103,16 @@ The [`.opencode/`](.opencode/) directory contains the full AI-driven worldbuildi
 
 ```
 ├── Aethermourne/       # Obsidian vault content (world lore, NPCs, factions, etc.)
-├── .opencode/          # AI agents, commands, and skills for OpenCode
+├── .agents/            # Agent role instruction files (autonomous mode)
+├── .claude/            # Claude Code commands, rules, and project config
+├── .opencode/          # OpenCode agents, commands, and skills (single-session mode)
 ├── site/               # Quartz static site generator
 │   ├── quartz.config.ts
 │   ├── quartz.layout.ts
-│   └── content/        # Landing page (index.md)
+│   └── content/        # Landing page (index.md) and CHANGELOG
+├── AGENTS.md           # Shared vault rules (Obsidian formatting, world structure)
+├── CLAUDE.md           # Agent identity bootstrap
+├── CHANGELOG.md        # Rolling changelog updated each build cycle
 ├── Dockerfile          # Multi-stage build (Node + Nginx)
 ├── nginx.conf          # Nginx config for serving the static site
 └── .dockerignore
