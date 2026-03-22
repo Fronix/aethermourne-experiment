@@ -1,5 +1,31 @@
 # Changelog
 
+## 2026-03-22 03:25, Settlement Enrichment: Ur-Saethen & Draveth (Unwritten Lands)
+
+Enriched 2 Unwritten Lands settlement files with expanded landmarks, sensory detail, daily life, and new hooks.
+
+### Files Updated
+
+| File | Before | After | Key Additions |
+|---|---|---|---|
+| `Ur-Saethen.md` | 80 lines | 97 lines | +Deep Archive sensory descent, +Ink Quarter, +Scholars' Commons, +daily life rhythm, +Stranger's Quarter generational friction, +Hook 4 (missing scholar Torvael), +Seventh Vault access methods (3 routes with DCs), +Torvael GM detail (organic matrices recording him) |
+| `Draveth.md` | 82 lines | 101 lines | +Forge Basin visceral sensory detail (smith-at-work scene, resonance chimes), +The Crucible tavern, +The Deep Vents, +Trial-of-Craft three-day event, +daily life shift bells, +Hook 5 (impossible material bridging Primordial/divine), +volcanic demand analysis (curious vs hungry), +impossible material GM detail (divine bone hybrid) |
+
+---
+
+## 2026-03-22 03:11, Hael'rune Enrichment & NPCRegistry Update
+
+Enriched Hael'rune settlement file and added 6 Unwritten Lands NPCs to the registry.
+
+### Files Updated
+
+| File | Before | After | Key Additions |
+|---|---|---|---|
+| `Hael'rune.md` | 81 lines | 96 lines | +Quarantine Quarter human detail, +Border Market landmark, +Old Wardstone landmark, +daily life under Elder Dael, +sponsorship economy, +Hook 2 GM-only (Tarenne family), +Hook 3 filtering detail, +Hook 5 (Impossible Child) |
+| `NPCRegistry.md` | +6 entries | | Archivist Therune, Reader Vael-Shen, Forge-Master Kethra, Boundary Commander Sael, Ruling Elder Dael, Pact-Weaver Osshen |
+
+---
+
 ## 2026-03-22 02:58, Age of Divinity Expansion (1 File)
 
 Expanded The Age of Divinity history file from 50 to 144 lines, transforming a reference timeline into a mythic narrative.

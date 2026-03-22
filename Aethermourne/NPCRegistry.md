@@ -41,6 +41,12 @@ type: overview
 | [[Speaker Dravos]] | Ash Reclaimers Leader | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
 | [[Speaker Kaelthen]] | Sealed Gate Leader | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
 | [[Speaker Yavenne]] | Open Hand Leader | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| Archivist Therune | Deep Archive Custodian | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| Reader Vael-Shen | Young Scholar | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| Forge-Master Kethra | Senior Smith | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| Boundary Commander Sael | Rim Commander | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| [[Ruling Elder Dael]] | Current Rotation Head | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| Pact-Weaver Osshen | Anchor Maintenance | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
 | [[The Twelve#Serith\|Serith, the Veiled One]] | Goddess of Shadow | Abyssal Trench | Her own | Imprisoned |
 | [[The Twelve#Aelindra\|Aelindra, the Star-Keeper]] | Goddess of Knowledge | Celestial Sphere | [[The Star-Readers]] | Alive (diminished) |
 | [[The Twelve#Yvenne\|Yvenne, the Depth-Singer]] | Goddess of the Sea | Deep Ocean | Her own | Alive (erratic) |
@@ -383,6 +389,12 @@ type: overview
 | [[Speaker Dravos]] | Ash Reclaimers Leader | [[Draveth]] | [[The Oldborn Kingdoms]] |
 | [[Speaker Kaelthen]] | Sealed Gate Leader | [[Keth'vaal]] | [[The Oldborn Kingdoms]] |
 | [[Speaker Yavenne]] | Open Hand Leader | [[Keth'vaal]] | [[The Oldborn Kingdoms]] |
+| Archivist Therune | Deep Archive Custodian | [[Ur-Saethen]] | [[The Oldborn Kingdoms]] |
+| Reader Vael-Shen | Young Scholar | [[Ur-Saethen]] | [[The Oldborn Kingdoms]] |
+| Forge-Master Kethra | Senior Smith | [[Draveth]] | [[The Oldborn Kingdoms]] |
+| Boundary Commander Sael | Rim Commander | [[Draveth]] | [[The Oldborn Kingdoms]] |
+| [[Ruling Elder Dael]] | Current Rotation Head | [[Hael'rune]] | [[The Oldborn Kingdoms]] |
+| Pact-Weaver Osshen | Anchor Maintenance | [[Hael'rune]] | [[The Oldborn Kingdoms]] |
 
 ### Divine Figures
 
