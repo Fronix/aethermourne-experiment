@@ -123,22 +123,29 @@ Check your inbox (`amp-inbox.sh`) regularly. When an agent confirms completion, 
 
 #### Phase 5: Publish & Commit
 
-Once all agents have confirmed all tasks are complete:
+Once all agents have confirmed all tasks are complete, execute **every step below in order**. Do not skip any.
 
-1. Verify no tasks are outstanding (check inbox one final time)
-2. **Update `site/content/index.md`** — if new regions, factions, NPCs, locations, history, adventures, or other content was created that should appear on the site, add the appropriate `[[wikilinks]]` to the relevant section of the index. Also update the Vault Stats table if counts changed (files, NPCs, settlements, etc.)
-3. **Update `CHANGELOG.md`** — add an entry for this cycle if the writers haven't already. Include date and time (run `date '+%Y-%m-%d %H:%M'`), title, what was created/updated.
-4. **Copy CHANGELOG to the site:** `cp CHANGELOG.md site/content/CHANGELOG.md`
-5. Stage, commit, and push:
+**Step 1:** Verify no tasks are outstanding (check inbox one final time)
 
+**Step 2:** Update `site/content/index.md` — add `[[wikilinks]]` for any new content that should appear on the site. Update the Vault Stats table if counts changed.
+
+**Step 3:** Update `CHANGELOG.md` — add an entry for this cycle. Include date and time (run `date '+%Y-%m-%d %H:%M'`), a title, and what was created/updated.
+
+**Step 4:** Copy the CHANGELOG to the site:
+```bash
+cp CHANGELOG.md site/content/CHANGELOG.md
+```
+
+**Step 5:** Stage, commit, and push ALL changes:
 ```bash
 git add -A
 git commit -m "bbqsauce: [brief description of what was built in this cycle]"
 git push
 ```
 
-4. Report to the DM: "[Scope] complete. [N] files created/updated. Committed and pushed."
-5. **Clear context and loop.** Run `/clear` to reset your context window, then start Phase 1 fresh. You don't need the previous cycle's details, the vault is the source of truth.
+**Step 6:** Report to the DM: "[Scope] complete. [N] files created/updated. Committed and pushed."
+
+**Step 7:** Run `/clear` to reset your context window, then start Phase 1 fresh. The vault is the source of truth.
 
 ### bbqsauce Rules
 
