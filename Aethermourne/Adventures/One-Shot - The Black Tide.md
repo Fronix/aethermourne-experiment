@@ -52,7 +52,7 @@ The one-shot moves through three acts: evacuation, investigation, and confrontat
 
 **Setting:** The Bilges district. Narrow streets. Water rising at roughly a foot per ten minutes.
 
-**What happens:** Chaos. Residents are fleeing uphill toward the Coral Quarter. [[Sergeant Bryn Kellar]] is organizing the evacuation with a skeleton crew of City Watch. She spots the PCs and conscripts them: "You look capable. I need bodies. Three blocks south, the Tide Street tenements. Thirty people, at least. The water's already at their doorsteps. Get them out."
+**What happens:** Chaos. Residents are fleeing uphill toward the Coral Quarter. [[Sergeant Bryn Kellar]] is organizing the evacuation with a skeleton crew of City Watch. He spots the PCs and conscripts them: "You look capable. I need bodies. Three blocks south, the Tide Street tenements. Thirty people, at least. The water's already at their doorsteps. Get them out."
 
 **Objectives:**
 - Evacuate residents from Tide Street (social encounters: convincing the stubborn, carrying the injured, calming the panicked)

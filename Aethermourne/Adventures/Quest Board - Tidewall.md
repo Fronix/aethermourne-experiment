@@ -25,7 +25,7 @@ region: The Hollowed Reach
 > | **Reward** | 200 gold, City Watch commendation, access to restricted harbor records |
 > | **Complication** | The disappearances are connected to [[Elara Duskmantle]]'s property purchases above sea caves. She has Concord protection. |
 
-**Hook:** "Fourteen people gone from the Bilges in four weeks. The Watch says runaways. The families say otherwise. Kellar is the only officer who cares, and she's running out of time before the case is closed."
+**Hook:** "Fourteen people gone from the Bilges in four weeks. The Watch says runaways. The families say otherwise. Kellar is the only officer who cares, and he's running out of time before the case is closed."
 
 > [!warning]- GM Only
 > The missing people are being lured into sea caves beneath Duskmantle's properties, where [[The Veil Unbound]] is conducting rituals to amplify [[The Twelve#Serith\|Serith's]] whispers. Several victims are alive but Sleepwalking. Duskmantle is not Veil Unbound herself, she is a profiteer selling access to the caves. Following the money leads to [[Cordell Raith]], Master of Secrets, who is facilitating the operation.

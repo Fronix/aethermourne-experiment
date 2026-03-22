@@ -1,5 +1,33 @@
 # Changelog
 
+## 2026-03-22, Act I NPC Enrichment (6 Files)
+
+Deepened 6 critical Act I NPCs from ~63 lines to 80-90 lines each, adding backstory, relationships, appearance details, and roleplay notes with sample dialogue.
+
+### NPCs Enriched
+
+| NPC | File | Key Additions |
+|---|---|---|
+| Lira Ashvane | Military/Lira Ashvane.md | +Kellar mentorship, +Celestine intel-sharing, +Elowen friction, +voice/mannerisms |
+| Maren Selk | Rulers/Maren Selk.md | +Cordell Raith tension, +Celestine trust, +Jessamine pushback, +sister Nereva hook |
+| The Whisperer | Outlaws/The Whisperer.md | +Deepwell origin story, +Kellar as threat, +Mourne manipulation, +dual voice |
+| Celestine Vael | Scholars/Celestine Vael.md | +Whisperer suspicion, +sealed vault secret, +Jorel subordinate, +sensory details |
+| Sable | Outlaws/Sable.md | +Selk hatred backstory, +Kellar awareness, +fixed Whisperer meeting contradiction |
+| Bryn Kellar | Military/Bryn Kellar.md | +Father Aldric backstory, +Sable as 'the Ghost', +squad names, +nervous energy voice |
+
+### Contradictions Resolved
+
+- Sable/Whisperer meeting: updated Sable's file to match Whisperer's (Sable HAS met the Whisperer, rare meetings in total darkness)
+- Bryn Kellar gender: fixed she/her to he/him in 3 adventure files (Quest Board - Tidewall, Campaign Starter - Hollowed Reach, One-Shot - The Black Tide)
+
+---
+
+## 2026-03-22, Bryn Kellar Pronoun Fix
+
+Fixed she/her to he/him for Bryn Kellar in 3 adventure files: `Quest Board - Tidewall.md`, `Campaign Starter - Hollowed Reach.md`, `One-Shot - The Black Tide.md`. Vault-wide sweep confirmed no remaining misgendered references.
+
+---
+
 ## 2026-03-22, Three Divine Artifact Files
 
 Created three new divine artifact files, expanding the artifact collection beyond The Resonant Blade. Updated The Twelve.md to cross-reference The Black Lantern.

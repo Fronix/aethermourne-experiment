@@ -27,7 +27,7 @@ status: alive
 
 ## Appearance
 
-A weathered woman in her late thirties with short auburn hair streaked with grey, sea-green eyes, and hands calloused from rope and weapon alike. She wears the Lantern-Keepers' salt-stained grey coat with a single lantern pin at the collar, the only ornamentation she permits herself. She moves with the deliberate economy of someone who has learned that wasted motion can kill you underwater. Her office in [[Veil Harbor]] smells of black tea, alchemical brine, and old paper. She always looks like she slept two hours less than she needed.
+A weathered woman in her late thirties with short auburn hair streaked with grey, sea-green eyes, and weathered hands calloused from rope and weapon alike. She wears the Lantern-Keepers' salt-stiffened grey coat with a single lantern pin at the collar, the only ornamentation she permits herself. She moves with the deliberate economy of someone who has learned that wasted motion can kill you underwater, though she walks with a slight list from an old leg wound. Her office in [[Veil Harbor]] smells of black tea, alchemical brine, and old paper. She always looks like she slept two hours less than she needed. Her voice is low and measured, though it speeds up when angry.
 
 ## Personality
 
@@ -47,6 +47,9 @@ Since taking command, she has watched the Black Tides accelerate, Sleepwalker in
 - **[[Maren Selk]]**, First Tidekeeper of the [[Concord of Tides]]. Selk has been quietly reaching out to Lira for help investigating her own council, a politically dangerous alliance that both women maintain at arm's length.
 - **[[The Whisperer]]**, an unseen enemy. Lira knows someone is sabotaging her order but hasn't identified the cult or its leader. This ignorance costs her people's lives.
 - **Her Divers**, the specialists who would follow her into the Trench itself. She inspires fierce loyalty and repays it by never sending them anywhere she wouldn't go herself.
+- **[[Bryn Kellar]]**, her most trusted sergeant. She promoted him personally after seeing his instincts in the Bilges. Worries he is too reckless but values his loyalty.
+- **[[Celestine Vael]]**, cautious intelligence-sharing arrangement. Ashvane feeds the Star-Readers patrol reports; Vael shares astronomical anomaly data. Neither fully trusts the other.
+- **[[Elowen Greaves]]**, complicated. Greaves is the Hierarch's envoy in Tidewall. Ashvane finds her rigid but respects her conviction. They clash over jurisdiction.
 
 ## What They Want
 
@@ -59,4 +62,4 @@ Lira wants to find out what is happening in the Trench before it is too late. Sh
 >
 > **Arc Trajectory.** Starts desperate but composed. As the PCs bring her evidence, her composure cracks into action. If her predecessor's murder is uncovered, she gains the fury and focus to take the fight to the [[The Veil Unbound]]. Without PCs, she burns out within the year.
 >
-> **Roleplay Notes.** No-nonsense delivery. Pauses before speaking. Never raises her voice, the quiet is the authority. Shows trust through action, not warmth. If she sends the PCs somewhere dangerous, she'll say so plainly. Drinks black tea constantly. Sample line: *"I'm not going to lie to you. Three Keepers went down that shaft last month. Two came back. I need people who hear that and still volunteer."*
+> **Roleplay Notes.** No-nonsense delivery. Pauses before speaking. Never raises her voice, the quiet is the authority. Shows trust through action, not warmth. If she sends the PCs somewhere dangerous, she'll say so plainly. Drinks black tea constantly. Speaks in short declarative sentences. Rarely asks questions, makes statements and waits. Sample lines: *"I'm not going to lie to you. Three Keepers went down that shaft last month. Two came back. I need people who hear that and still volunteer."* *"The tide tells you when it's coming. People don't. That's why I watch people."*

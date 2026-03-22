@@ -75,7 +75,7 @@ That night, the Black Tide strikes. Not a storm but a wrongness. The sea goes in
 
 **Complication:** A family is trapped in a flooding ground-floor dwelling. The water is rising fast, the door is jammed, and two Trench Crawlers are between the PCs and the building.
 
-**Resolution:** Saving the family earns the Bilges' attention. [[Sergeant Bryn Kellar]] of the Lantern-Keepers arrives after the fight, impressed. She offers the PCs temporary work: shore patrol, cave surveys, "anything that doesn't require a politician's approval."
+**Resolution:** Saving the family earns the Bilges' attention. [[Sergeant Bryn Kellar]] of the Lantern-Keepers arrives after the fight, impressed. He offers the PCs temporary work: shore patrol, cave surveys, "anything that doesn't require a politician's approval."
 
 ---
 

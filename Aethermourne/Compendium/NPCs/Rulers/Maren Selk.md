@@ -27,7 +27,7 @@ status: alive
 
 ## Appearance
 
-A sharp-featured woman in her early sixties with silver hair pulled back in a severe knot, sun-bronzed skin, and calculating grey eyes that miss nothing. She dresses in the Reach's blue-and-white formal attire with an excess of jewelry, because in [[Tidewall]], wealth displayed is wealth proved. Every ring and chain is deliberate, a visual argument for her authority. She carries herself with the rigid composure of someone who has spent decades in rooms full of liars and learned never to flinch first.
+A sharp-featured woman in her early sixties with silver hair pulled back in a severe knot, sun-bronzed skin, ink-stained fingers, and calculating grey eyes that miss nothing. She dresses in the Reach's blue-and-white formal attire with an excess of jewelry, because in [[Tidewall]], wealth displayed is wealth proved. Every ring and chain is deliberate, a visual argument for her authority. She carries herself with the rigid composure of someone who has spent decades in rooms full of liars and learned never to flinch first. Reading spectacles perch on her nose, which she often forgets to remove. She smells faintly of lamp oil and old paper.
 
 ## Personality
 
@@ -39,7 +39,7 @@ Maren rose through the merchant houses of [[Tidewall]] on talent and ruthlessnes
 
 In better times, Selk was an effective leader. The Reach prospered under her stewardship. But the Black Tides have exposed the limits of pragmatism. She has spent too many years making compromises, and the weight of them has made her cautious precisely when the crisis demands decisiveness. She knows her council is fractured, suspects at least two Tidekeepers are compromised, and cannot prove it.
 
-She has a sister, Nereva, who disappeared years ago near [[Mistholm]]. Maren sent inquiries to Elder [[Hanna Tide]], who remembered a woman matching Nereva's description, quiet and intense, who visited the Deep Cave at night and was never seen again. The loss haunts Maren privately, though she rarely speaks of it.
+She has a sister, Nereva, who disappeared three years ago on a trading voyage near [[Mistholm]]. Maren sent inquiries to Elder [[Hanna Tide]], who remembered a woman matching Nereva's description, quiet and intense, who visited the Deep Cave at night and was never seen again. Maren believes Nereva is alive. This private grief drives her harder than any political crisis, though she rarely speaks of it.
 
 ## Relationships
 
@@ -48,6 +48,9 @@ She has a sister, Nereva, who disappeared years ago near [[Mistholm]]. Maren sen
 - **Aldric Voss**, Tidekeeper of Secrets. Selk does not trust him but cannot explain why. Her instincts are, again, correct.
 - **[[Hanna Tide]]**, Elder of [[Mistholm]]. A tenuous connection through Maren's search for her missing sister Nereva.
 - **[[Elara Duskmantle]]**, the coral merchant whose aggressive property acquisitions in the Bilges are creating political headaches Selk does not need.
+- **[[Cordell Raith]]**, her Tidekeeper of Commerce. She suspects he skims tariffs but can't prove it. Keeps him close because removing him would destabilize the merchant guilds.
+- **[[Celestine Vael]]**, Selk trusts Vael's intelligence more than she admits publicly. Privately consults her on the Trench readings. Their relationship is professional but warm.
+- **[[Jessamine Kole]]**, Selk's Tidekeeper of Justice. Kole pushes for harsher enforcement against smugglers; Selk resists, knowing the Bilges economy depends on gray trade.
 
 ## What They Want
 
@@ -60,4 +63,4 @@ Selk wants to protect her people and survive the crisis with the Reach's institu
 >
 > **Arc Trajectory.** Starts paralyzed by political caution. Evidence from the PCs gives her the leverage to act. The reveal of compromised Tidekeepers either galvanizes her into decisive leadership or breaks her, depending on whether the PCs have built trust. If Nereva's fate is revealed, it becomes deeply personal.
 >
-> **Roleplay Notes.** Speaks in measured, transactional terms. Treats every exchange like a trade negotiation. Fidgets with her rings when nervous, the only crack in her composure. Never says "I feel," always "the situation requires." Sample line: *"You're asking me to mobilize the Tidefleet on the word of three freelancers and a woman who talks to sea monsters. Give me something I can take to the Council, or give me nothing at all."*
+> **Roleplay Notes.** Speaks in measured, transactional terms. Treats every exchange like a trade negotiation. Fidgets with her rings when nervous, the only crack in her composure. Never says "I feel," always "the situation requires." Speaks in complete, careful paragraphs. Never raises her voice. Sample lines: *"You're asking me to mobilize the Tidefleet on the word of three freelancers and a woman who talks to sea monsters. Give me something I can take to the Council, or give me nothing at all."* *"I have read every report from the Bilges this quarter. Every one. Would you like to tell me what they do not contain?"*
