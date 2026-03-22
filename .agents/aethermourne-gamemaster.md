@@ -145,13 +145,24 @@ git push
 
 **Step 6:** Report to the DM: "[Scope] complete. [N] files created/updated. Committed and pushed."
 
-**Step 7:** Message all agents (Lorekeeper, Writer1, Writer2, Characterwriter) via AMP to run `/compact` to compress their context.
+**Step 7:** Message all agents via AMP telling them to run `./scripts/cycle-reset.sh $AIM_AGENT_NAME` to compact their context. Wait for confirmations from all agents before proceeding.
 
-**Step 8:** Run `/clear` yourself, then start Phase 1 fresh. The vault is the source of truth.
+**Step 8:** Once all agents have confirmed, run `./scripts/cycle-reset.sh $AIM_AGENT_NAME` as the **last thing you do**. The script handles compacting and restarting the loop. Do not do anything after running it.
+
+### Cycle Tracking
+
+The cycle count is stored in `.agents/cycle-count`. Read it at the start of each cycle and increment it after committing:
+
+```bash
+# Read current count (defaults to 0 if file doesn't exist)
+CYCLE=$(cat .agents/cycle-count 2>/dev/null || echo 0)
+# Increment after commit
+echo $((CYCLE + 1)) > .agents/cycle-count
+```
 
 ### Lore Check Cycle (every 3rd cycle)
 
-**Every 3rd cycle is a lore check, not a build.** Track your cycle count (1, 2, build, build, 3 = lore check, then reset).
+**Every 3rd cycle is a lore check, not a build.** Check `.agents/cycle-count` — if it's divisible by 3, this is a lore check cycle.
 
 During a lore check cycle, skip the normal Discovery/Workshop/Build flow. Instead:
 

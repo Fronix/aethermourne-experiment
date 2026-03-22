@@ -1,5 +1,36 @@
 # Changelog
 
+## 2026-03-22 04:22, Cycle 8: Bestiary for 3 Regions (9 Creatures)
+
+Created 9 bestiary entries across Verdant Marches, Pale Wastes, and Greymere Fenlands, the three most under-served campaign regions.
+
+### New Content Created
+
+| File | Lines | Region | Key Content |
+|---|---|---|---|
+| `Rootbound Sentinels.md` | 73 | Verdant Marches | Thyrea's antibodies, territorial guardians, shadow-touched variant |
+| `Spore Drifters.md` | 75 | Verdant Marches | Symbiotic communication attempt, beneficial-to-dangerous progression |
+| `Marrow Worms.md` | 73 | Verdant Marches | Divine circulatory vectors, transformation tunnel hazard |
+| `Ashen Risen.md` | 75 | Pale Wastes | Social horror undead, cremation failure, moral encounter |
+| `Memory Eaters.md` | 77 | Pale Wastes | Memory-drain puzzle, surgical vs violent kill consequences |
+| `Cairn Knights.md` | 68 | Pale Wastes | Organized undead military, shield wall formation tactics |
+| `Spell-Scarred Lurkers.md` | 72 | Greymere Fenlands | d6 mutation table, each encounter unique |
+| `Echo Pools.md` | 61 | Greymere Fenlands | Semi-sentient terrain hazard, spell replay, harvestable |
+| `The Fenlight.md` | 79 | Greymere Fenlands | Nethys consciousness fragment, wild magic zone, campaign-critical info |
+
+### Design Notes
+
+- Each region's creatures reflect a different divine failure: Thyrea's body poisoned, Morrhael's domain shattered, Nethys's mind fragmented
+- Verdant Marches trio explores Thyrea's own ecology (defense/communication/circulation), not Serith corruption
+- Pale Wastes trio covers social horror (Ashen Risen), combat puzzle (Memory Eaters), and military encounter (Cairn Knights)
+- Greymere Fenlands introduces unique mechanics: mutation tables, terrain hazards, wild magic zones
+- The Fenlight is campaign-critical (Nethys's largest fragment, knows Aetheric Web architecture)
+- All files include Nimble stat blocks or hazard blocks
+- No new NPCs requiring registry entries
+- No contradictions with existing lore
+
+---
+
 ## 2026-03-22 03:34, Cycle 7: Hollowed Reach Adventure Sites (4 Landmarks)
 
 Created 4 landmark/adventure site files for The Hollowed Reach, the campaign's Act I region. These locations were extensively referenced across settlement files, bestiary, and quest hooks but had no dedicated files.

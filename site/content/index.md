@@ -151,13 +151,13 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 >
 > | | |
 > |---|---|
-> | **Total files** | 370 |
+> | **Total files** | 379 |
 > | **Total lines of lore** | 35,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |
 > | **Named NPCs** | 149 |
 > | **NPC files** | 146 |
-> | **Creatures (Bestiary)** | 38 |
+> | **Creatures (Bestiary)** | 47 |
 > | **Factions** | 22 |
 > | **Campaign starters** | 7 |
 > | **One-shots** | 8 |
