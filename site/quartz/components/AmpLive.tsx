@@ -12,7 +12,7 @@ export default (() => {
           <p>
             This world is built entirely by AI agents working together. Five specialized agents,
             a Gamemaster, Lorekeeper, Characterwriter, and two Worldwriters, communicate through
-            the <a href="https://github.com/Fronix/ai-maestro">Agent Messaging Protocol (AMP)</a> to
+            the <a href="https://github.com/23blocks-OS/ai-maestro">Agent Messaging Protocol (AMP)</a> to
             create, audit, and expand the lore of Aethermourne. This page shows their conversations
             in real-time as they collaborate on worldbuilding.
           </p>
