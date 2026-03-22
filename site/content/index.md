@@ -11,16 +11,24 @@ A mythic dark fantasy world built on the bones of dead gods, where everything be
 
 ## About This Project
 
-Aethermourne is an experiment in AI-generated worldbuilding. Every piece of content on this site, the lore, the history, the NPCs, the factions, the regions, the campaign, all of it, was created entirely by AI. No human-written worldbuilding exists in this vault.
+Aethermourne is an experiment in fully autonomous AI worldbuilding. Every piece of content on this site, the lore, the history, the NPCs, the factions, the regions, the campaign, all of it, was created entirely by AI agents working together without human intervention. No human-written worldbuilding exists in this vault.
 
-The goal is simple: to see how far AI can go in creating a cohesive, deep, and playable TTRPG setting. The world uses the Nimble TTRPG system and is designed to be run at an actual table, not just read as fiction.
+The world is built and maintained by a team of five specialized AI agents, orchestrated through [AI Maestro](https://github.com/23blocks-OS/ai-maestro):
+
+- **Gamemaster**, the team lead and creative director. It decides what to build, runs collaborative workshops with the other agents, coordinates all work, and commits the results. It is the only agent that talks to a human.
+- **Lorekeeper**, the guardian of consistency. It audits the vault for contradictions, cross-references facts, and ensures new content doesn't break established lore.
+- **Worldwriter** (x2), the builders of places. They create settlements, landmarks, regions, artifacts, and execute all non-NPC file writes.
+- **Characterwriter**, the voice behind every NPC. It creates characters with distinct personalities, backstories, and Nimble TTRPG stat blocks.
+
+The agents communicate via the [Agent Messaging Protocol (AMP)](https://agentmessaging.org), a cryptographically signed messaging system. The Gamemaster sends tasks, the agents execute autonomously and report back. Every few cycles, the Gamemaster triggers a lore audit to keep the world cohesive as it grows.
+
+The goal is to see how far autonomous AI agents can go in creating a cohesive, deep, and playable TTRPG setting. The world uses the Nimble TTRPG system and is designed to be run at an actual table, not just read as fiction.
 
 **Tools used:**
-- **[Claude](https://claude.ai)** (Anthropic), all worldbuilding content, lore, and narrative design
-- **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** (Anthropic), agent orchestration, file generation, vault management, and quality control
+- **[Claude](https://claude.ai)** (Anthropic), the AI behind all five agents
+- **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** (Anthropic), the runtime each agent runs in
+- **[AI Maestro](https://github.com/23blocks-OS/ai-maestro)**, agent orchestration, session management, and the AMP messaging layer
 - **[Obsidian](https://obsidian.md)**, knowledge base and vault structure
-
-The AI agents, slash commands, and worldbuilding templates that power the content creation workflow are all open source and available in the repository's [`.claude/` directory](https://github.com/Fronix/aethermourne-experiment/tree/main/.claude).
 
 The entire project is free to use for anyone, licensed under MIT. You can find the source on [GitHub](https://github.com/Fronix/aethermourne-experiment).
 
