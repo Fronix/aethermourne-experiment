@@ -22,12 +22,16 @@ ENV BASE_URL=${BASE_URL}
 # Build the static site
 RUN node --no-deprecation ./quartz/bootstrap-cli.mjs build
 
-# Stage 2: Serve with Nginx
-FROM nginx:alpine
+# Stage 2: Serve with Node relay (static files + AMP live event streaming)
+FROM node:22-alpine
 
-COPY --from=builder /usr/src/app/public /usr/share/nginx/html
-COPY nginx.conf /etc/nginx/conf.d/default.conf
+WORKDIR /app
+COPY server.js .
+COPY --from=builder /usr/src/app/public ./public
+
+ENV PORT=80
+ENV AMP_INGEST_TOKEN=""
 
 EXPOSE 80
 
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["node", "server.js"]

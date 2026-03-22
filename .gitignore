@@ -1,6 +1,11 @@
 # Node
 site/node_modules/
 site/public/
+scripts/node_modules/
+
+# Build artifacts
+public
+site/quartz/.quartz-cache/
 
 # Copied vault content for local preview (only index.md should be committed)
 site/content/*
