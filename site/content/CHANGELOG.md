@@ -1,5 +1,85 @@
 # Changelog
 
+## 2026-03-22 02:58, Age of Divinity Expansion (1 File)
+
+Expanded The Age of Divinity history file from 50 to 144 lines, transforming a reference timeline into a mythic narrative.
+
+### File Modified
+
+| File | Before | After |
+|---|---|---|
+| `The Age of Divinity.md` | 50 lines | 144 lines |
+
+### New Sections Added
+
+- **The World Under the Gods**: Daily reality of divine stewardship, mortals as children under gods, paradise that did not produce resilience
+- **The Gods Among Themselves**: 8 divine relationship dynamics (Solvaen-Thyrea friendship, Morrhael-Belara tandem, Thyrea-Morrhael forgotten collaboration, Kaevroth-Thalvor tension, Serith-Orenthas dangerous pairing, Vorrhyn as disruptor, Yvenne's pride, Aelindra's distance), Kavothei's Collection reference
+- **Serith Before the Fall**: Her pre-war role as guardian of secrets, the Mirror, her prophetic insight
+- **The Erosion** (expanded from Seeds of War): First Theft details, Kaevroth's growing hunger, Thyrea sensing the wrongness, Solvaen's fatal dismissal, the Last Night
+
+### GM-Only Content Added
+
+- Serith's visit to Orenthas (kept ambiguous per Lorekeeper constraints)
+- Orenthas's possible complicity/manipulation (evidence suggests, not confirmed)
+- Serith's true motivation and current goal (Loom unraveling, mercy killing thesis)
+- Campaign moral question framing
+
+### Constraints Followed
+
+- No named pre-Theomachis mortal kingdoms or rulers
+- Serith's motivation framed as prophetic insight, not ambition
+- Thyrea-Morrhael collaboration noted as 'forgotten knowledge'
+- Orenthas's manipulation kept ambiguous
+- 'No mortal dates' framing preserved
+- No new mortal ancestries beyond established list
+
+---
+
+## 2026-03-22 02:43, Faction Enrichment: Cyclekeepers & Echoists
+
+Enriched 2 faction files with new sections, named members, inter-faction relationships, and expanded GM notes.
+
+### Files Updated
+
+| File | Before | After | Key Additions |
+|---|---|---|---|
+| `The Cyclekeepers.md` | 70 lines | 99 lines | +Dual Rites detail, +3 named Keepers, +settlement integration, +6 faction relationships, +Bloom-Wraith secret, +Rootpyre threat, +Cycle break scenarios |
+| `The Echoists.md` | 77 lines | 103 lines | +3 named adherents, +Foretouched subsection, +Threshold Walk mechanics, +Gathering scene, +3 faction relationships, +Veil infiltrator detail, +Edgewalker blind spot, +Maelstrom passage revelation |
+
+### New NPCs Referenced
+
+- [[Kael Duskborne]], [[Root-Speaker Fennara]], Watcher Fell (Cyclekeepers)
+- [[Prior Echoes]] (expanded), [[Lysara Shimmerborn]], Kaelen Riftwalker (Echoists)
+
+---
+
+## 2026-03-22 02:43, Faction Enrichment: Order of the Ashen Flame & Marchwardens Council
+
+Enriched 2 campaign-critical faction files with named NPCs, infrastructure, religious practices, political procedures, and expanded GM notes.
+
+### Files Modified
+
+| File | Before | After | Key Additions |
+|---|---|---|---|
+| `Order of the Ashen Flame.md` | 74 lines | 112 lines | Military infrastructure (Citadel, Ashguard, Watch Towers), 3 named Flame Captains, religious practices (Flame Affirmation, Flame Blessing, counter-graffiti), inter-faction relationships, Ashite warning system GM hook |
+| `Marchwardens Council.md` | 77 lines | 106 lines | Moot-Hall description and Rootspeaking ritual, 4 named undecided Marchwardens with prices, political procedures, Lakehouse venue, inter-faction relationships, Hallen Redthorn (Cinder operative), corruption-reaches-Roothold GM hook |
+
+### New NPCs Introduced
+
+- **Varen Ashfeld**, Flame Captain, Ashguard commander, hawk (Order of the Ashen Flame)
+- **Sera Ironholt**, Flame Captain, northern garrison commander, moderate (Order of the Ashen Flame)
+- **Aldren Voss**, Flame Captain, Greyfield garrison, caste-reformist (Order of the Ashen Flame)
+- **Seren Ashwood**, Moot-Chair, neutral arbiter (Marchwardens Council)
+- **Hallen Redthorn**, minor clan observer, unwitting Cinder operative (Marchwardens Council)
+
+### Notes
+
+- Maren Dulwick and Borin Thell already existed in Cinderholm settlement file, cross-referenced consistently
+- Senna Deepmoss, Torvin Ashwalker, Brannoc Stillwater, Vell Roothollow already had NPC files
+- No contradictions with existing lore detected
+
+---
+
 ## 2026-03-22, Hollowed Reach Bestiary (5 Files)
 
 Created 5 bestiary entries for the Hollowed Reach region, covering Trench fauna, Black Tide mutations, and Serith's psychic phenomena.
@@ -231,3 +311,19 @@ Massive worldbuilding expansion adding 5 new regions to Aethermourne, filling ou
 
 ### Files Modified (1)
 - `Aethermourne/NPCRegistry.md`, added 36 new NPC entries across 5 new region sections, updated naming conventions
+
+## 2026-03-22 02:49 - NPC File Creation (Faction Enrichment)
+
+**Created 5 new NPC files from writer1 faction enrichment:**
+
+- `Aethermourne/Compendium/NPCs/Military/Varen Ashfeld.md` - Flame Captain, Ashguard Commander, hawk advocating preemptive war against Verdant Marches
+- `Aethermourne/Compendium/NPCs/Military/Sera Ironholt.md` - Flame Captain, Northern Garrisons Commander, moderate advocating diplomacy to focus on Pale Wastes threat
+- `Aethermourne/Compendium/NPCs/Military/Aldren Voss.md` - Flame Captain, Greyfield Commander, sympathetic to Unbound Congregation
+- `Aethermourne/Compendium/NPCs/Rulers/Seren Ashwood.md` - Moot-Chair, Marchwardens Council neutral arbiter
+- `Aethermourne/Compendium/NPCs/Outlaws/Hallen Redthorn.md` - Minor Clan Observer, unwitting Cinder operative
+
+All NPCs follow enriched template (60-90 lines), preserve vault consistency, use [[wikilinks]].
+
+**Source:** Order of the Ashen Flame.md, Marchwardens Council.md faction enrichment cycle
+**Agent:** aethermourne-characterwriter
+**Delegated by:** aethermourne-writer1
