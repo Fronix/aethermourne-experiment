@@ -40,7 +40,7 @@ Geometers can be redirected. Presenting a mathematical problem complex enough to
 > [!warning]- GM Only
 > [[Edda Haelstrom]]'s falsified mining reports conceal how many workers have become Geometers in the deep shafts of [[Hearthstone]]. The true number is at least thirty, possibly more. Finding one is meant to be a gut-punch: these were people, colleagues, someone's parent or child. The emotional weight matters more than the combat challenge.
 >
-> **Hidden Value.** The Geometers are inadvertently mapping the [[Cosmology and Magic#Ley Lines and the Aetheric Web|Aetheric Web]]'s structure through their compulsive patterning. The geometric arrangements they create on cave floors and walls are, if interpreted correctly (DC 18 Intelligence or Arcana), a three-dimensional model of local ley line configurations. The [[Major Factions#Star-Readers|Star-Readers]] would kill for this information. The Church would kill to suppress it.
+> **Hidden Value.** The Geometers are inadvertently mapping the [[Cosmology and Magic#Ley Lines and the Aetheric Web|Aetheric Web]]'s structure through their compulsive patterning. The geometric arrangements they create on cave floors and walls are, if interpreted correctly (DC 18 Intelligence or Arcana), a three-dimensional model of local ley line configurations. The [[The Star-Readers|Star-Readers]] would kill for this information. The Church would kill to suppress it.
 >
 > **Campaign Connection.** Discovering the Geometers and tracing responsibility to Haelstrom's cover-up is a strong Act II subplot that exposes Dominion corruption and the human cost of Ashite dependency.
 

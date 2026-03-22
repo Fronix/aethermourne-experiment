@@ -49,7 +49,7 @@ Where extracted Ashite is measured, graded, and recorded before shipment to [[Os
 
 ## Key NPCs
 
-- **Foreman Edda Haelstrom** , Head of mining operations. Fifties, stocky, with hands scarred from decades of shaft work before she earned her promotion. Tough, compassionate, and carrying a secret: the real Order Sickness rates are three times what she reports to Church inspectors. She falsifies the numbers because the alternative is the Church shutting down the deep shafts, which would collapse Hearthstone's economy and leave thousands without work.
+- **Foreman [[Edda Haelstrom]]** , Head of mining operations. Fifties, stocky, with hands scarred from decades of shaft work before she earned her promotion. Tough, compassionate, and carrying a secret: the real Order Sickness rates are three times what she reports to Church inspectors. She falsifies the numbers because the alternative is the Church shutting down the deep shafts, which would collapse Hearthstone's economy and leave thousands without work.
 - **"Granite"** , A Hewn miner, real name unknown or forgotten, who has worked the deepest shafts longer than anyone alive. He should be Order-Sick by now. Instead, he claims to hear a voice in the deep tunnels that speaks in mathematical patterns, not words, but relationships between numbers that carry meaning. He says it is not hostile. He says it is sad. The other miners give him a wide berth and leave offerings at his bunk.
 
 > [!warning]- GM Only
@@ -72,4 +72,4 @@ Where extracted Ashite is measured, graded, and recorded before shipment to [[Os
 
 > [!quote]
 > "The mountain gives and the mountain takes. You just pray it gives longer than it takes."
-> , Foreman Edda Haelstrom
+> , Foreman [[Edda Haelstrom]]

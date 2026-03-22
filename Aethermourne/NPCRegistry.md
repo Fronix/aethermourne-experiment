@@ -21,7 +21,7 @@ type: overview
 | NPC | Role | Region | Faction | Status |
 |-----|------|--------|---------|--------|
 | [[Hierarch Valdren III]] | Supreme Ruler | [[The Ashen Dominion]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
-| [[Ashara Voss\|Commander Ashara Voss]] | Military Commander | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| [[Ashara Voss\|Commander Ashara Voss]] | Commander, Order of the Ashen Flame | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
 | [[Delric Mourne\|Thane Delric Mourne]] | Spymaster | [[The Ashen Dominion]] | [[The Cinders]] | Alive |
 | [[Elowen Greaves\|Speaker Elowen Greaves]] | Reform Leader | [[The Ashen Dominion]] | [[Unbound Congregation]] | Alive |
 | [[Kaelith Thornborn]] | Aspirant Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council\|Thornborn Coalition]] | Alive |
@@ -66,14 +66,29 @@ type: overview
 | [[Hanna Tide\|Elder Hanna Tide]] | Elder of Mistholm | [[The Hollowed Reach]] | None | Alive |
 | [[Sera Greywater\|Warden Sera Greywater]] | Toll-Warden of Bridgemere | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
 | [[Dren Halwick]] | Whisper-Cell Inmate | [[The Hollowed Reach]] | None | Alive |
-| [[Cassia Lorn]] | Ashless Community Leader | [[The Ashen Dominion]] | None (Ashless) | Alive |
-| [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[The Ashen Dominion]] | None | Alive |
-| [[Prior Gault Ashworth]] | Pilgrimage Master | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
-| [[Captain Daren Kolst]] | Garrison Commander | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
-| Varen Ashfeld | Flame Captain, Ashguard | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
-| Sera Ironholt | Flame Captain, Northern Garrisons | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
 | Aldren Voss | Flame Captain, Greyfield | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Archscholar Verity Dunne | Head of the Athenaeum | [[The Ashen Dominion]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
+| [[Captain Daren Kolst]] | Garrison Commander | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Captain Maren Dulwick | Adjutant to Commander Voss | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| [[Cassia Lorn]] | Ashless Community Leader | [[The Ashen Dominion]] | None (Ashless) | Alive |
+| Corporal Bren Malwick | Enlisted Leader | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[The Ashen Dominion]] | None | Alive |
+| Elder Seren Holloway | Village Leader | [[The Ashen Dominion]] | None | Alive |
+| Granite | Deep Shaft Miner | [[The Ashen Dominion]] | None | Alive |
+| Lirien Ashvane | Star-Reader | [[The Ashen Dominion]] | [[The Star-Readers]] | Alive |
+| Old Tam | Tavern Keeper | [[The Ashen Dominion]] | None | Alive |
 | [[Petra Venn]] | Congregation Organizer | [[The Ashen Dominion]] | [[Unbound Congregation]] | Alive |
+| [[Prior Gault Ashworth]] | Pilgrimage Master | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Professor Aldric Senn | Theologian | [[The Ashen Dominion]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
+| Quartermaster Borin Thell | Supply Manager | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Researcher Mila Ashgrove | Scholar | [[The Ashen Dominion]] | None | Alive |
+| Sera Ironholt | Flame Captain, Northern Garrisons | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Sergeant Lira Vane | Senior Scout | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Sister Maren Veyl | Head of Keepers of the Way | [[The Ashen Dominion]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
+| Varen Ashfeld | Flame Captain, Ashguard | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Vigil Liaison Sera Vahn | Ashen Vigil Representative | [[The Ashen Dominion]] | [[The Ashen Vigil]] | Alive |
+| Warden Kael Ashford | Garrison Commander | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Young Jorin | Resident (wild magic) | [[The Ashen Dominion]] | None | Alive |
 | [[Vael Sundren]] | Mutagenist Researcher | [[The Verdant Marches]] | Mutagenists | Alive |
 | [[Tessara Wildbloom]] | Greensinger (Missing) | [[The Verdant Marches]] | [[The Greensingers]] | Missing |
 | [[Ivara Mistwalker]] | Spore-Seer | [[The Verdant Marches]] | Peak Clans | Alive |
@@ -191,16 +206,32 @@ type: overview
 
 | NPC | Title | Location | Faction |
 |-----|-------|----------|---------|
-| [[Hierarch Valdren III]] | Supreme Ruler | [[Ostivaar]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
-| [[Delric Mourne\|Thane Delric Mourne]] | Head of the Cinders | [[Ostivaar]] | [[The Cinders]] |
-| [[Elowen Greaves\|Speaker Elowen Greaves]] | Leader of the Congregation | [[Ostivaar]] | [[Unbound Congregation]] |
-| [[Cassia Lorn]] | Ashless Community Leader | [[Ostivaar]] | None |
-| [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[Hearthstone]] | None |
-| [[Prior Gault Ashworth]] | Pilgrimage Master | [[Crown's Reach]] | [[Order of the Ashen Flame]] |
+| Aldren Voss | Flame Captain, Greyfield | [[Greyfield]] | [[Order of the Ashen Flame]] |
+| Archscholar Verity Dunne | Head of the Athenaeum | [[Ashveil]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
 | [[Captain Daren Kolst]] | Garrison Commander | [[Thornwall]] | [[Order of the Ashen Flame]] |
-| Varen Ashfeld | Flame Captain, Ashguard | [[Cinderholm]] | [[Order of the Ashen Flame]] |
-| Sera Ironholt | Flame Captain, Northern Garrisons | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] |
+| Captain Maren Dulwick | Adjutant to Commander Voss | [[Cinderholm]] | [[Order of the Ashen Flame]] |
+| [[Cassia Lorn]] | Ashless Community Leader | [[Ostivaar]] | None |
+| Corporal Bren Malwick | Enlisted Leader | [[Pale Sentry]] | [[Order of the Ashen Flame]] |
+| [[Delric Mourne\|Thane Delric Mourne]] | Head of the Cinders | [[Ostivaar]] | [[The Cinders]] |
+| [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[Hearthstone]] | None |
+| Elder Seren Holloway | Village Leader | [[Greyfield]] | None |
+| [[Elowen Greaves\|Speaker Elowen Greaves]] | Leader of the Congregation | [[Ostivaar]] | [[Unbound Congregation]] |
+| Granite | Deep Shaft Miner | [[Hearthstone]] | None |
+| [[Hierarch Valdren III]] | Supreme Ruler | [[Ostivaar]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
+| Lirien Ashvane | Star-Reader | [[Ashveil]] | [[The Star-Readers]] |
+| Old Tam | Tavern Keeper | [[Crown's Reach]] | None |
 | [[Petra Venn]] | Congregation Organizer | [[Ashveil]] | [[Unbound Congregation]] |
+| [[Prior Gault Ashworth]] | Pilgrimage Master | [[Crown's Reach]] | [[Order of the Ashen Flame]] |
+| Professor Aldric Senn | Theologian | [[Ashveil]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
+| Quartermaster Borin Thell | Supply Manager | [[Cinderholm]] | [[Order of the Ashen Flame]] |
+| Researcher Mila Ashgrove | Scholar | [[Thornwall]] | None |
+| Sera Ironholt | Flame Captain, Northern Garrisons | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] |
+| Sergeant Lira Vane | Senior Scout | [[Thornwall]] | [[Order of the Ashen Flame]] |
+| Sister Maren Veyl | Head of Keepers of the Way | [[Crown's Reach]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
+| Varen Ashfeld | Flame Captain, Ashguard | [[Cinderholm]] | [[Order of the Ashen Flame]] |
+| Vigil Liaison Sera Vahn | Ashen Vigil Representative | [[Pale Sentry]] | [[The Ashen Vigil]] |
+| Warden Kael Ashford | Garrison Commander | [[Pale Sentry]] | [[Order of the Ashen Flame]] |
+| Young Jorin | Resident (wild magic) | [[Greyfield]] | None |
 
 ### The Verdant Marches
 

@@ -23,9 +23,9 @@ These quest chains are designed to move parties between regions with clear narra
 
 ### Opening Hook
 
-[[Lira Ashvane]], Keeper of the [[Major Factions#Lantern-Keepers|Lantern-Keepers]], contacts the party after they complete any Hollowed Reach quest involving the [[The Veil Unbound]]. She has intercepted coded correspondence between a local Unbound cell and someone called "the Whisperer," but the trail leads inland, beyond Lantern-Keeper jurisdiction. She needs people she trusts to follow it.
+[[Lira Ashvane]], Keeper of the [[The Lantern-Keepers|Lantern-Keepers]], contacts the party after they complete any Hollowed Reach quest involving the [[The Veil Unbound]]. She has intercepted coded correspondence between a local Unbound cell and someone called "the Whisperer," but the trail leads inland, beyond Lantern-Keeper jurisdiction. She needs people she trusts to follow it.
 
-**What Ashvane provides:** A decoded letter fragment naming a dead-drop location in [[Ostivaar]]. A letter of introduction to [[Tessera Vane]], Arch-Reader of the [[Major Factions#Star-Readers|Star-Readers]], who maintains intelligence assets in the Dominion. Payment for travel expenses.
+**What Ashvane provides:** A decoded letter fragment naming a dead-drop location in [[Ostivaar]]. A letter of introduction to [[Tessera Vane]], Arch-Reader of the [[The Star-Readers|Star-Readers]], who maintains intelligence assets in the Dominion. Payment for travel expenses.
 
 **What Ashvane withholds:** She suspects the Whisperer is someone inside the [[Concord of Tides]], but she has no proof and cannot make that accusation without evidence. If the party pushes (Insight DC 16), she admits she has narrowed the suspects to three Tidekeepers.
 
@@ -33,7 +33,7 @@ These quest chains are designed to move parties between regions with clear narra
 
 **Connects to:** Quest Board - Ostivaar, Quest 3 (the graffiti conspiracy)
 
-The dead-drop is a merchant stall in the Ashmarket district. The party arrives to find the drop already cleared, but investigation reveals the stall owner has been receiving regular payments from a source inside the [[Major Factions#The Cinders|Cinders]]. The graffiti appearing across Ostivaar (Quest 3) is not random protest, it is coded waymarking for Unbound agents navigating the city.
+The dead-drop is a merchant stall in the Ashmarket district. The party arrives to find the drop already cleared, but investigation reveals the stall owner has been receiving regular payments from a source inside the [[The Cinders|Cinders]]. The graffiti appearing across Ostivaar (Quest 3) is not random protest, it is coded waymarking for Unbound agents navigating the city.
 
 **What the party learns:** The Cinders and the Veil Unbound are coordinating. The graffiti leads to a concealed shrine to [[The Twelve#Serith|Serith]] beneath the Ashen Quarter. The shrine contains correspondence signed by "M," which a Dominion insider can identify as [[Delric Mourne]], head of the Cinders.
 
@@ -45,7 +45,7 @@ The dead-drop is a merchant stall in the Ashmarket district. The party arrives t
 
 The "root" is literal. [[The Twelve#Serith|Serith]]'s influence has threaded through [[The Twelve#Thyrea|Thyrea]]'s decaying root network, creating shadow-root nodes that transmit her whispers across the continent. The [[Marrow Bogs]] are a primary node, the mutagenic water there is not just Thyrea's marrow, it is being corrupted by Serith's shadow.
 
-The party must locate the shadow-root node in the Bogs (Survival DC 15 to navigate, Arcana DC 16 to identify the corruption). The node is guarded by a Veil Unbound operative matching the description from Roothold Quest 6, a woman with no shadow who has been feeding false communion research to the [[Major Factions#Greensingers|Greensingers]].
+The party must locate the shadow-root node in the Bogs (Survival DC 15 to navigate, Arcana DC 16 to identify the corruption). The node is guarded by a Veil Unbound operative matching the description from Roothold Quest 6, a woman with no shadow who has been feeding false communion research to the [[The Greensingers|Greensingers]].
 
 **What the party learns:** The shadow-root network spans the continent. It runs through Thyrea's root system, through the ley lines of the [[Greymere Fenlands]], and into the deep ocean toward the [[Abyssal Trench]] where Serith is imprisoned. Destroying one node weakens the network locally but does not sever it. The network's anchor point is somewhere in the Marches, likely the [[Cradle Heart]] where Thyrea's divine essence is strongest.
 
@@ -66,7 +66,7 @@ The party must locate the shadow-root node in the Bogs (Survival DC 15 to naviga
 
 ### Opening Hook
 
-[[Torren Hearthforge]], Guildmaster of the [[Major Factions#Ember Guild|Ember Guild]], approaches the party after they encounter Kaevroth's Iron or any divine material in play. He has been researching divine material interactions for years and believes that combining stabilized materials from three dead gods could create something unprecedented: a ward, weapon, or anchor powerful enough to resist Serith's shadow. The problem is sourcing the materials, each one is controlled, restricted, or dangerous to obtain.
+[[Torren Hearthforge]], Guildmaster of the [[The Ember Guild|Ember Guild]], approaches the party after they encounter Kaevroth's Iron or any divine material in play. He has been researching divine material interactions for years and believes that combining stabilized materials from three dead gods could create something unprecedented: a ward, weapon, or anchor powerful enough to resist Serith's shadow. The problem is sourcing the materials, each one is controlled, restricted, or dangerous to obtain.
 
 **What Hearthforge needs:**
 1. Pure [[Cosmology and Magic#Divine Materials|Ashite]] from Solvaen's Spine (not the refined, diluted trade-grade)
@@ -121,7 +121,7 @@ The Warspire fragment identified by Hearthforge is one of the pieces [[Factor Ge
 
 ### Opening Hook
 
-[[Captain Erys Vane]] in [[Tidecross]] sends word back to the Hollowed Reach: the Oldborn are willing to negotiate, but only with people who have proven themselves in the Unwritten Lands. The [[Major Factions#Star-Readers|Star-Readers]] need someone to cross the sea, earn Oldborn trust, and bring back knowledge of Primordial pact magic, the only magical tradition that does not depend on the failing divine infrastructure.
+[[Captain Erys Vane]] in [[Tidecross]] sends word back to the Hollowed Reach: the Oldborn are willing to negotiate, but only with people who have proven themselves in the Unwritten Lands. The [[The Star-Readers|Star-Readers]] need someone to cross the sea, earn Oldborn trust, and bring back knowledge of Primordial pact magic, the only magical tradition that does not depend on the failing divine infrastructure.
 
 **Transition to the Unwritten Lands:** The party sails from the Reach. The crossing takes weeks and is not safe, the sea routes Orenthas sealed are open but unstable. One encounter en route: a zone where the water turns to glass for a hundred yards in every direction, a remnant of Orenthas's seal dissolving.
 
@@ -173,7 +173,7 @@ The party returns to the known continent carrying:
 
 **Connects to:** Quest Board - Greyhold, Quest 2 (The Whispering Storm)
 
-The bone-storms sweeping the Wastes (Quest 2) are not natural weather. They carry a signal, a subsonic resonance that amplifies Morrhael's death-domain. The party can track the resonance with appropriate equipment (provided by [[Thessa Ironveil]], Commander of the [[Major Factions#Ashen Vigil|Ashen Vigil]]). The signal does not originate from the Hollowdeep. It comes from the east, from somewhere beyond the Pale Wastes.
+The bone-storms sweeping the Wastes (Quest 2) are not natural weather. They carry a signal, a subsonic resonance that amplifies Morrhael's death-domain. The party can track the resonance with appropriate equipment (provided by [[Thessa Ironveil]], Commander of the [[The Ashen Vigil|Ashen Vigil]]). The signal does not originate from the Hollowdeep. It comes from the east, from somewhere beyond the Pale Wastes.
 
 **What the party learns:** The resonance follows ley lines. It enters the Wastes through the same network that carries all magic, [[The Twelve#Nethys|Nethys]]'s shattered nervous system. Someone is broadcasting through the ley lines, and the broadcast is tuned specifically to amplify death-energy.
 
@@ -214,7 +214,7 @@ The party returns to the Hollowed Reach with evidence that Serith is actively ma
 
 ### Opening Hook
 
-A [[Major Factions#Star-Readers|Star-Reader]] Lens-Bearer arrives at whatever settlement the party is in, travel-worn and frightened. She carries sealed observations from the Star-Reader station in [[Tidecross]]: Aelindra's constellations are not just dimming. They are being rewritten. Stars are moving into new positions, forming patterns that the Star-Readers have never seen. The new patterns spell something in a language older than the gods. The Lens-Bearer does not know what it says, but the Arch-Reader in [[Ashveil]] needs to see these observations immediately.
+A [[The Star-Readers|Star-Reader]] Lens-Bearer arrives at whatever settlement the party is in, travel-worn and frightened. She carries sealed observations from the Star-Reader station in [[Tidecross]]: Aelindra's constellations are not just dimming. They are being rewritten. Stars are moving into new positions, forming patterns that the Star-Readers have never seen. The new patterns spell something in a language older than the gods. The Lens-Bearer does not know what it says, but the Arch-Reader in [[Ashveil]] needs to see these observations immediately.
 
 **Complication:** The Lens-Bearer is being followed. Two Veil Unbound agents have been tracking her since the Veilshore. They want the observations destroyed before the Star-Readers can decode them.
 

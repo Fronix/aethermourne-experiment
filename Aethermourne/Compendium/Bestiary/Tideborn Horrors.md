@@ -31,7 +31,7 @@ Tideborn Horrors are what happens when Black Tide water saturates living things.
 
 They beach themselves on the Shattered Coast after Black Tides recede, flopping and dragging across tidal pools with the desperate, uncoordinated movements of creatures that do not understand their own bodies. Some are dead on arrival, their fused biology unable to sustain itself. Others survive in visible agony, vocalizing in sounds that combine the calls of every species merged within them, a chorus of distress from a single throat. The smell is unmistakable: brine, rot, and something chemical, the sharp ozonic tang of corrupted magic.
 
-The [[Major Factions#Lantern-Keepers|Lantern-Keepers]] track their frequency. Three years ago, a Tideborn washing ashore was notable enough to file a report. Now it happens after every Black Tide. The creatures are getting larger, the fusions more complex, and the survival rate is climbing.
+The [[The Lantern-Keepers|Lantern-Keepers]] track their frequency. Three years ago, a Tideborn washing ashore was notable enough to file a report. Now it happens after every Black Tide. The creatures are getting larger, the fusions more complex, and the survival rate is climbing.
 
 ## Behavior & Tactics
 

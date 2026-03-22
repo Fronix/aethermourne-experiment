@@ -28,7 +28,7 @@ estimated-duration: 3-4 hours
 > | **Setting** | [[Ashveil]], the university city of [[The Ashen Dominion]] |
 > | **Themes** | Truth vs. stability, faith vs. knowledge, who gets to control history |
 
-**Summary:** A junior scholar at the Athenaeum named **Tessara Vynn** has uncovered a pre-Theomachis text that contradicts the Church of the Ashen Flame's official account of [[The Twelve#Solvaen|Solvaen's]] death. The Church teaches that Solvaen died protecting mortals from [[The Twelve#Kaevroth|Kaevroth]], a noble sacrifice. The text suggests Solvaen was already dying before Kaevroth arrived, poisoned by another god, and that his "last stand" was not a choice but a necessity: he was too weak to flee. The [[Major Factions#Order of the Ashen Flame|Order of the Ashen Flame]] has learned of the discovery and is sending Inquisitors. The PCs must decide what happens next.
+**Summary:** A junior scholar at the Athenaeum named **Tessara Vynn** has uncovered a pre-Theomachis text that contradicts the Church of the Ashen Flame's official account of [[The Twelve#Solvaen|Solvaen's]] death. The Church teaches that Solvaen died protecting mortals from [[The Twelve#Kaevroth|Kaevroth]], a noble sacrifice. The text suggests Solvaen was already dying before Kaevroth arrived, poisoned by another god, and that his "last stand" was not a choice but a necessity: he was too weak to flee. The [[Order of the Ashen Flame|Order of the Ashen Flame]] has learned of the discovery and is sending Inquisitors. The PCs must decide what happens next.
 
 **Key NPCs:** Tessara Vynn (scholar), Inquisitor Brael (Church enforcer), Keeper Maren Ashveil (librarian), Prior Gault Ashworth (moderate priest)
 

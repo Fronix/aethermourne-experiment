@@ -54,7 +54,7 @@ The Order's power is concentrated in three key installations:
 - **Flame Captain Sera Ironholt**, commander of the northern garrisons facing [[The Pale Wastes]]. A moderate who has fought undead incursions for twenty years and counsels diplomacy with the Marches so the Order can focus on the real threat from the north.
 - **Flame Captain Aldren Voss** (no relation to the Commander), garrison commander at [[Greyfield]]. Sympathetic to the [[Unbound Congregation]]'s caste reform arguments. He has quietly declined to enforce three arrest warrants for Congregation preachers in his territory, citing insufficient evidence.
 - **Captain Maren Dulwick**, Voss's adjutant and off-books intelligence handler at [[Cinderholm]]. Loyal to Voss personally, not the Church. Runs the Commander's quiet intelligence operation parallel to [[The Cinders]].
-- **Quartermaster Borin Thell**, manages [[Cinderholm]]'s supply lines. Has noticed [[Cosmology and Magic#Divine Materials|Ashite]] shipment irregularities, consignments diverted or delayed by [[Major Factions#The Cinders|Cinder]] intermediaries, and keeps meticulous records of every discrepancy.
+- **Quartermaster Borin Thell**, manages [[Cinderholm]]'s supply lines. Has noticed [[Cosmology and Magic#Divine Materials|Ashite]] shipment irregularities, consignments diverted or delayed by [[The Cinders|Cinder]] intermediaries, and keeps meticulous records of every discrepancy.
 
 ## Religious Practices
 

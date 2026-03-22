@@ -36,7 +36,7 @@ A perimeter of divine bone fragments driven into the frozen ground at regular in
 
 ### The Factor's Office
 
-Where the money changes hands. [[Major Factions#Ember Guild|The Ember Guild]] maintains a permanent purchasing station in Bonecairn, buying Morrhaelite and divine bone at premium prices and arranging transport south. The office is the most comfortable building in the Hold, heated, furnished, stocked with southern luxuries that seem obscene in context. It is also the most resented building in the Hold, a visible reminder that the danger and suffering of bone-harvesting generates wealth that flows almost entirely out of the Wastes.
+Where the money changes hands. [[The Ember Guild|The Ember Guild]] maintains a permanent purchasing station in Bonecairn, buying Morrhaelite and divine bone at premium prices and arranging transport south. The office is the most comfortable building in the Hold, heated, furnished, stocked with southern luxuries that seem obscene in context. It is also the most resented building in the Hold, a visible reminder that the danger and suffering of bone-harvesting generates wealth that flows almost entirely out of the Wastes.
 
 ---
 
@@ -57,7 +57,7 @@ A southerner from [[Ostivaar]] who volunteered for this posting because the comm
 ## Adventure Hooks
 
 - Harvesting teams are finding bone fragments with markings that were not there before. Geometric scratches, precise and deliberate, carved into the divine bone from below, as if something inside the earth is writing.
-- Grael received a shipment request from [[Tidewall]] for an unusual quantity of Morrhaelite, enough to line a ship's hull. The request came through official [[Major Factions#Ember Guild|Ember Guild]] channels but the purpose was not specified. Grael is uneasy.
+- Grael received a shipment request from [[Tidewall]] for an unusual quantity of Morrhaelite, enough to line a ship's hull. The request came through official [[The Ember Guild|Ember Guild]] channels but the purpose was not specified. Grael is uneasy.
 - A harvesting team of three did not return from the fields. The search party found their cutting site, tools abandoned, bone-dust scattered. The fragment they had been cutting was gone, harvested by something else. The cuts on the surrounding bone were clean and precise, made with tools the team did not carry.
 - The Ward Ring failed for eleven minutes last night. No undead entered, but the failure was not caused by erosion or storm damage. The bone fragments were drained, their necromantic energy siphoned away by something that left no trace.
 

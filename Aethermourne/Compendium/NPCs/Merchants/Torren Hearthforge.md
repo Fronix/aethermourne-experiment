@@ -47,7 +47,7 @@ His personal obsession is [[Cosmology and Magic|Kaevroth's]] iron fragments. He 
 - [[Corrin Ashveil|Factor Corrin Ashveil]], The Guild's historian, personally appointed by Torren to maintain the Ember Archive. Torren trusts Corrin's loyalty absolutely but is beginning to sense that the archivist has doubts about the Guild's secrecy.
 - [[Factor Gellen Ashworth]], The Guild's fragment monitor in [[The Ironmarch]]. Gellen reveres Torren's craftsmanship but is increasingly frustrated by the Guildmaster's silence on his field reports. Torren may not even be receiving them.
 - [[Polara Facet]], One of the few people whose standards Torren considers comparable to his own. They share a mutual, unspoken respect that neither would dream of acknowledging aloud.
-- [[Elowen Greaves]], Leader of the [[Major Factions#Unbound Congregation|Unbound Congregation]]. Torren is quietly sympathetic to her cause, though he would never say so publicly. The caste system offends his conviction that skill, not birth, determines worth.
+- [[Elowen Greaves]], Leader of the [[Unbound Congregation|Unbound Congregation]]. Torren is quietly sympathetic to her cause, though he would never say so publicly. The caste system offends his conviction that skill, not birth, determines worth.
 
 ## What They Want
 

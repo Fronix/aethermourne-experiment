@@ -39,7 +39,7 @@ Depth Leviathans are drawn to magical activity. In their natural habitat, the de
 
 On the surface, they are catastrophic. A Depth Leviathan surfacing beneath a ship capsizes it through displacement alone. Their tails can shatter dock pilings. Their passage creates currents strong enough to drag swimmers under. They do not attack people deliberately, humans are too small to register as prey, but their presence in a harbor during a Black Tide turns a crisis into a disaster.
 
-The [[Major Factions#Lantern-Keepers|Lantern-Keepers]] call them "the deep problem." Commander [[Lira Ashvane]] maintains a standing order: if a Leviathan surfaces, evacuate the harbor. Do not engage. Do not attempt to drive it off. Wait for it to descend. The order is not cowardice. It is experience.
+The [[The Lantern-Keepers|Lantern-Keepers]] call them "the deep problem." Commander [[Lira Ashvane]] maintains a standing order: if a Leviathan surfaces, evacuate the harbor. Do not engage. Do not attempt to drive it off. Wait for it to descend. The order is not cowardice. It is experience.
 
 > [!warning]- GM Only
 > The Depth Leviathans are not just animals. They are descended from creatures [[The Twelve#Yvenne|Yvenne]] shaped as prison guardians during the Theomachis, living wardens bred to patrol the cage's perimeter and respond to escape attempts. Two thousand years of reproduction in the Trench's hostile environment have stripped away the divine intelligence their ancestors possessed, but the instinct remains. They patrol because their ancestors were made to patrol. They surface because they sense something is wrong with the prison.

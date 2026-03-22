@@ -42,8 +42,8 @@ The Cyclekeepers have no formal hierarchy beyond seniority of skill. Rank is det
 
 - **Senior Cyclekeeper**, the deepest reader. Currently [[Yara Thornbloom]].
 - **Full Keepers**, can read the Cycle hours in advance and perform dual rites. Roughly a dozen active.
-  - [[Kael Duskborne]]: Former [[Major Factions#Ashen Vigil|Ashen Vigil]], left after witnessing purposeful undead. Commands [[The Thornwild#Cyclethorn|Cyclethorn]]'s Thornguard militia. Receiving coded messages from a Vigil contact about Hollowdeep organized undead expanding westward.
-  - [[Root-Speaker Fennara]]: Leads [[The Thornwild#Rootpyre|Rootpyre]]'s heretical druidic order. Declared anathema by the [[Major Factions#Greensingers|Greensingers]]. Has entered transition state three times and experienced visions of Thyrea and Morrhael as pre-Theomachis collaborators.
+  - [[Kael Duskborne]]: Former [[The Ashen Vigil|Ashen Vigil]], left after witnessing purposeful undead. Commands [[The Thornwild#Cyclethorn|Cyclethorn]]'s Thornguard militia. Receiving coded messages from a Vigil contact about Hollowdeep organized undead expanding westward.
+  - [[Root-Speaker Fennara]]: Leads [[The Thornwild#Rootpyre|Rootpyre]]'s heretical druidic order. Declared anathema by the [[The Greensingers|Greensingers]]. Has entered transition state three times and experienced visions of Thyrea and Morrhael as pre-Theomachis collaborators.
   - Watcher Fell: Lone Cyclekeeper posted at [[The Thornwild#Bone Garden|Bone Garden]]. Responsible for monitoring the Wilt border.
 - **Apprentices**, learning to feel both divine pulses. Most wash out. The dual awareness is psychologically punishing.
 
@@ -73,10 +73,10 @@ The Cyclekeepers have no formal hierarchy beyond seniority of skill. Rank is det
 
 ## Inter-Faction Relationships
 
-- **[[Major Factions#Greensingers|Greensingers]]:** Complicated. [[Elder Rosk]] mentored [[Root-Speaker Fennara]] as a Greensinger, then declared her anathema for dual-channeling. Envoy Lael at [[The Thornwild#Rootpyre|Rootpyre]] is conflicted about whether dual-channeling is truly heresy or a necessary evolution.
-- **[[Major Factions#Ashen Vigil|Ashen Vigil]]:** [[Kael Duskborne]] deserted from the Vigil. [[Thessa Ironveil]] listed him as a deserter but has not enforced his return. Vigil intelligence about Hollowdeep flows to the Cyclekeepers through Kael's coded correspondence.
-- **[[Major Factions#Star-Readers|Star-Readers]]:** Research interest at [[The Thornwild#Cyclethorn|Cyclethorn]]. Would pay dearly for Cyclekeeper knowledge of divine energy interaction, knowledge the Cyclekeepers are reluctant to share with outsiders.
-- **[[Major Factions#Ember Guild|Ember Guild]]:** Smell profit in Thornwild amber. An Ember Guild agent has infiltrated a Star-Reader expedition to the region. If the Guild gains access, they could strip-mine the Threshold and destroy the Cycle's balance.
+- **[[The Greensingers|Greensingers]]:** Complicated. [[Elder Rosk]] mentored [[Root-Speaker Fennara]] as a Greensinger, then declared her anathema for dual-channeling. Envoy Lael at [[The Thornwild#Rootpyre|Rootpyre]] is conflicted about whether dual-channeling is truly heresy or a necessary evolution.
+- **[[The Ashen Vigil|Ashen Vigil]]:** [[Kael Duskborne]] deserted from the Vigil. [[Thessa Ironveil]] listed him as a deserter but has not enforced his return. Vigil intelligence about Hollowdeep flows to the Cyclekeepers through Kael's coded correspondence.
+- **[[The Star-Readers|Star-Readers]]:** Research interest at [[The Thornwild#Cyclethorn|Cyclethorn]]. Would pay dearly for Cyclekeeper knowledge of divine energy interaction, knowledge the Cyclekeepers are reluctant to share with outsiders.
+- **[[The Ember Guild|Ember Guild]]:** Smell profit in Thornwild amber. An Ember Guild agent has infiltrated a Star-Reader expedition to the region. If the Guild gains access, they could strip-mine the Threshold and destroy the Cycle's balance.
 - **[[Remnants' Court]]:** [[Revenant Yael]] and [[Revenant Moss]] share complicated solidarity. Both are Remnant leaders who care about their people, but they disagree sharply on method.
 - **Political isolation:** No relationships with any major continental factions. Completely alone. The Thornwild is too remote, too strange, and too dangerous for anyone to care about until it is too late.
 

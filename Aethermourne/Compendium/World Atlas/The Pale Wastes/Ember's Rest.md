@@ -29,7 +29,7 @@ The Hold serves a vital function. Without Ember's Rest, the Wastes would have no
 
 ### The Trade Hall
 
-The [[Major Factions#Ember Guild|Ember Guild's]] primary operation in the Wastes. A large stone building where Morrhaelite and divine bone fragments are purchased, graded, stored, and prepared for transport south. Southern goods flow the other direction: wood from [[The Verdant Marches]], iron tools, preserved food, medicines, cloth, and the occasional luxury that reminds Hold-folk that beauty still exists somewhere. The Trade Hall is always busy, always warm, and always smells of peat smoke and southern spices.
+The [[The Ember Guild|Ember Guild's]] primary operation in the Wastes. A large stone building where Morrhaelite and divine bone fragments are purchased, graded, stored, and prepared for transport south. Southern goods flow the other direction: wood from [[The Verdant Marches]], iron tools, preserved food, medicines, cloth, and the occasional luxury that reminds Hold-folk that beauty still exists somewhere. The Trade Hall is always busy, always warm, and always smells of peat smoke and southern spices.
 
 ### The South Road Inn
 
@@ -45,7 +45,7 @@ A small stone building where correspondence between Holds and the outside world 
 
 ### Trademaster Elif Corren
 
-[[Major Factions#Ember Guild|Ember Guild]] representative in Ember's Rest. A human woman of sixty who has been here for twenty years, longer than any other outsider posting in the Wastes. She is shrewd, patient, scrupulously fair in her dealings, and the only southerner the Holds trust completely. This trust was not given. It was earned over two decades of honest prices, reliable supply shipments, and a willingness to advocate for the Wastes' interests to her Guild superiors even when doing so cost her personally.
+[[The Ember Guild|Ember Guild]] representative in Ember's Rest. A human woman of sixty who has been here for twenty years, longer than any other outsider posting in the Wastes. She is shrewd, patient, scrupulously fair in her dealings, and the only southerner the Holds trust completely. This trust was not given. It was earned over two decades of honest prices, reliable supply shipments, and a willingness to advocate for the Wastes' interests to her Guild superiors even when doing so cost her personally.
 
 Elif could have transferred to a comfortable posting years ago. She stays because she has come to care about these people in a way she does not fully articulate, and because she knows that her replacement would almost certainly be worse.
 
@@ -63,6 +63,6 @@ A young woman in her early twenties, born in the Wastes, who works as a translat
 - Sera has been offered passage south by a merchant caravan, a chance to see the world she has dreamed about. She is torn. The Wastes need every capable person, and leaving feels like betrayal. She has asked the players for advice, and there is no right answer.
 
 > [!warning]- GM Only
-> The scholar Vessa Dorne is not working for the Dominion's academic institutions. She is an agent of the [[Major Factions#Athenaeum of the Unseen|Athenaeum of the Unseen]] in [[Ashveil]], investigating rumors of organized undead. The Athenaeum has its own sources and has independently concluded that something is wrong in the Hollowdeep. Dorne's mission is to confirm the threat and assess whether the Wastes can contain it. If she concludes they cannot, the Athenaeum will act on its own, and its methods will not be gentle or considerate of the Holds' autonomy.
+> The scholar Vessa Dorne is not working for the Dominion's academic institutions. She is an agent of the [[Athenaeum of the Unseen|Athenaeum of the Unseen]] in [[Ashveil]], investigating rumors of organized undead. The Athenaeum has its own sources and has independently concluded that something is wrong in the Hollowdeep. Dorne's mission is to confirm the threat and assess whether the Wastes can contain it. If she concludes they cannot, the Athenaeum will act on its own, and its methods will not be gentle or considerate of the Holds' autonomy.
 >
 > The sealed letter is from a former [[The Ashen Vigil|Vigil]] member now living in [[Ostivaar]] who has heard whispers through [[The Twelve#Serith|Serith's]] cult that the Hollowdeep army is real and nearly ready. The letter contains a date: the next midwinter. The Great Burning. The army will march while every Holdwarden is gathered at [[The Pyre]], the Holds left with skeleton garrisons.

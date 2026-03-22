@@ -35,7 +35,7 @@ Originally, [[The Twelve]]'s active will maintained the membrane. The Empyrean A
 ## Where It Is Thickest
 
 - **The Spine of Order**: [[The Twelve#Solvaen|Solvaen]]'s remains actively reinforce structure, creating the densest membrane on the continent.
-- **Dense urban areas with heavy [[Major Factions#The Ashen Dominion|Ashite]] infrastructure**: Artificial structure reinforcement through ritual, architecture, and institutional order.
+- **Dense urban areas with heavy [[The Ashen Dominion|Ashite]] infrastructure**: Artificial structure reinforcement through ritual, architecture, and institutional order.
 - **[[The Twelve#Thalvor|Thalvor]]'s Deep Forge**: The ongoing sacrifice of divine fire maintains extreme local stability, making the membrane nearly impenetrable in this region.
 
 ## The Membrane Is Failing

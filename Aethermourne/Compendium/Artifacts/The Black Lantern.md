@@ -37,7 +37,7 @@ The Black Lantern was [[The Twelve#Morrhael|Morrhael]]'s personal instrument, th
 
 [[Revenant Yael]] has held it for over a thousand years. It is the reason she retains her identity when other undead fragment. The Lantern's light preserves the dead who shelter near it, holding them in coherent form rather than letting them dissolve into mindless echoes.
 
-The [[Major Factions#Ashen Vigil|Ashen Vigil]] has searched for the Lantern for centuries, believing it lost in the Hollowdeep. They do not know that Yael has it. She has kept it hidden because she does not trust the living to use it wisely, and because she is afraid of what happens to the Remnants if the light goes out.
+The [[The Ashen Vigil|Ashen Vigil]] has searched for the Lantern for centuries, believing it lost in the Hollowdeep. They do not know that Yael has it. She has kept it hidden because she does not trust the living to use it wisely, and because she is afraid of what happens to the Remnants if the light goes out.
 
 ## Properties
 

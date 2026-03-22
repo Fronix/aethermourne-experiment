@@ -12,7 +12,7 @@ parent-location: The Ashen Dominion
 
 > [!quote]
 > "We don't guard the border. We watch two dead gods argue about where the border should be."
-> , Captain Daren Kolst
+> , [[Captain Daren Kolst]]
 
 **Population:** ~8,000
 **Role:** Military garrison in the Scar, [[The Ashen Dominion]]'s border with [[The Verdant Marches]]
@@ -53,7 +53,7 @@ Thornwall's unofficial social quarter, a cluster of makeshift taverns and bunkho
 
 ## Key NPCs
 
-- **Captain Daren Kolst** , Garrison commander. Forties, lean, weathered, with the calm pragmatism of a career soldier who has stopped being surprised by anything. Privately sympathetic to [[Ashara Voss]]'s frustration with [[Ostivaar]]. He follows orders, but he's increasingly aware that the orders he's receiving don't match the reality on the ground.
+- **[[Captain Daren Kolst]]** , Garrison commander. Forties, lean, weathered, with the calm pragmatism of a career soldier who has stopped being surprised by anything. Privately sympathetic to [[Ashara Voss]]'s frustration with [[Ostivaar]]. He follows orders, but he's increasingly aware that the orders he's receiving don't match the reality on the ground.
 - **Researcher Mila Ashgrove** , An [[Ashveil]] scholar assigned to study the Scar's ecology. Thirties, earnest, perpetually dirt-stained. She has made a discovery that no one believes: the Scarwall's growth accelerates during Black Tides in [[The Hollowed Reach]], events occurring hundreds of miles away. She has the data. She has the correlation. She has no explanation, and no one in authority will look at her charts.
 
 > [!warning]- GM Only
@@ -83,4 +83,4 @@ Thornwall's unofficial social quarter, a cluster of makeshift taverns and bunkho
 
 > [!quote]
 > "The thorns grow ten feet a year. My reports grow ten pages a year. Neither one gets read in Ostivaar."
-> , Captain Daren Kolst
+> , [[Captain Daren Kolst]]

@@ -25,7 +25,7 @@ origin: undead
 
 ## Description
 
-The Undying are not shambling corpses. They are officers. They march in formation, boots striking frozen ground in perfect cadence. They wear remnants of [[Major Factions#Order of the Ashen Flame|Ashen Flame]] armor, tarnished and frost-rimed but maintained with military precision. Their faces are grey, sunken, preserved by the cold and by Morrhael's lingering power rather than by any natural process. Their eyes burn with pale blue fire, the last flicker of consciousness trapped in dead flesh.
+The Undying are not shambling corpses. They are officers. They march in formation, boots striking frozen ground in perfect cadence. They wear remnants of [[Order of the Ashen Flame|Ashen Flame]] armor, tarnished and frost-rimed but maintained with military precision. Their faces are grey, sunken, preserved by the cold and by Morrhael's lingering power rather than by any natural process. Their eyes burn with pale blue fire, the last flicker of consciousness trapped in dead flesh.
 
 They retain their [[The Ashen Dominion#Calculist Tradition|Calculist]] training. They remember tactics, formations, siege protocols. They remember their oaths. When they speak, and they do speak, their voices are dry and distant, like wind through a stone corridor, they use ranks, call signs, and command structures that have not existed for centuries. The last incursion through [[The Ashen Dominion#Pale Sentry|Pale Sentry]] killed forty soldiers and breached the outer wall before being driven back.
 
@@ -38,7 +38,7 @@ They are confused by the living soldiers wearing the same uniforms they died in.
 > [!warning]- GM Only
 > The Undying are not random undead. They are Dominion soldiers who died at Pale Sentry over the centuries and were raised by the broken death-cycle. They retain enough identity to remember their duty, which was to defend the border. From their perspective, *they are still defending it*. The living are the intruders. This makes every encounter a moral question, not just a combat one.
 >
-> **Key Connection.** [[Revenant Yael]]'s [[The Black Lantern]] could grant them rest, a mass release that would end the Undying threat permanently. But Pale Sentry does not know the Lantern exists, and the [[Major Factions#Ashen Vigil|Ashen Vigil]] believes it lost in the Hollowdeep.
+> **Key Connection.** [[Revenant Yael]]'s [[The Black Lantern]] could grant them rest, a mass release that would end the Undying threat permanently. But Pale Sentry does not know the Lantern exists, and the [[The Ashen Vigil|Ashen Vigil]] believes it lost in the Hollowdeep.
 >
 > **Campaign Role.** The Undying incursions escalate across Acts II and III as [[The Twelve#Serith|Serith]]'s influence strengthens the death-compulsion driving them. Presenting the PCs with enemies who are simultaneously monstrous and sympathetic, who wear familiar uniforms and remember their own names, forces the moral engagement the campaign demands.
 

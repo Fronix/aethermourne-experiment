@@ -32,7 +32,7 @@ The Crown is alive in a way no mortal-crafted object can be. It breathes. Its th
 
 ## History
 
-[[The Twelve#Thyrea|Thyrea]] wore the Crown when she walked among the forests she loved. It was the conduit through which she communed with every living thing on the continent, from the smallest moss to the oldest leviathan. When she fell during the Theomachis, throwing herself across the western forests as a living shield, the Crown was driven deep into her Cradle, the divine core of what became [[The Verdant Marches]]. The [[Major Factions#Greensingers|Greensingers]] have sought it for two thousand years. [[Elder Rosk]] believes he has located it, but the path leads through territory corrupted by [[The Twelve#Serith|Serith]]'s shadow-roots.
+[[The Twelve#Thyrea|Thyrea]] wore the Crown when she walked among the forests she loved. It was the conduit through which she communed with every living thing on the continent, from the smallest moss to the oldest leviathan. When she fell during the Theomachis, throwing herself across the western forests as a living shield, the Crown was driven deep into her Cradle, the divine core of what became [[The Verdant Marches]]. The [[The Greensingers|Greensingers]] have sought it for two thousand years. [[Elder Rosk]] believes he has located it, but the path leads through territory corrupted by [[The Twelve#Serith|Serith]]'s shadow-roots.
 
 ## Properties
 

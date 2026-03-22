@@ -46,9 +46,9 @@ The God of Order fell here. Solvaen's skeleton stretches across the heartland li
 
 - The Dominion is ruled by the **Hierarch**, a theocratic monarch who claims to interpret the lingering will of Solvaen. The current Hierarch is old, and the question of succession is a quiet tension that touches everything.
 - Society is organized into a strict **caste system**: the **Anointed** (clergy and ruling class), **Flame-Bearers** (military and administrators), **Keepers** (scholars and archivists), the **Hewn** (laborers, miners, artisans), and the **Ashless** (the casteless, criminals, exiles, and the inconvenient). Movement between castes is theoretically possible. In practice, it almost never happens.
-- The [[Major Factions#Order of the Ashen Flame|Order of the Ashen Flame]] serves as both military and religious institution. They enforce the law, defend the borders, and guard Ashite mining operations. They are disciplined, well-equipped, and everywhere.
+- The [[Order of the Ashen Flame|Order of the Ashen Flame]] serves as both military and religious institution. They enforce the law, defend the borders, and guard Ashite mining operations. They are disciplined, well-equipped, and everywhere.
 - Life in the Dominion is structured and safe, in the way that a cage is safe. Crime is low. Dissent is lower. The trains run on time. The cost is freedom.
-- A growing movement called the [[Major Factions#Unbound Congregation|Unbound Congregation]] pushes for reform, loosening the caste system, questioning the Hierarch's divine authority, advocating for the Ashless. The Dominion considers them somewhere between misguided and treasonous.
+- A growing movement called the [[Unbound Congregation|Unbound Congregation]] pushes for reform, loosening the caste system, questioning the Hierarch's divine authority, advocating for the Ashless. The Dominion considers them somewhere between misguided and treasonous.
 - The capital, **Ostivaar**, is built inside Solvaen's ribcage. Massive arcs of divine bone curve over the city like the vaulting of a cathedral the size of a mountain. It is, by all accounts, breathtaking.
 
 **Who Comes From Here:** Soldiers who believe in duty. Scholars who love knowledge but chafe under censorship. Priests questioning a dead god's will. Miners who've breathed Ashite dust their whole lives. Bureaucrats, reformers, loyalists, and exiles. If structure shaped you, whether you embraced it or broke against it, you're from the Dominion.
@@ -63,7 +63,7 @@ When Thyrea, Goddess of Nature, fell, her divine essence soaked into the earth a
 **What You'd Know:**
 
 - There is no central government. The Marches are divided into clan territories, each led by a **Marchwarden**, part chieftain, part military commander, part judge. Clans cooperate, compete, and occasionally fight. This is normal.
-- The [[Major Factions#Greensingers|Greensingers]] are druids and spiritual leaders who claim to commune with the land's awareness, the dim, enormous consciousness left behind by Thyrea's decay. Whether the land is truly aware or the Greensingers are interpreting patterns as intention is a matter of heated debate. The land does seem to respond to them, though.
+- The [[The Greensingers|Greensingers]] are druids and spiritual leaders who claim to commune with the land's awareness, the dim, enormous consciousness left behind by Thyrea's decay. Whether the land is truly aware or the Greensingers are interpreting patterns as intention is a matter of heated debate. The land does seem to respond to them, though.
 - Survival is the primary virtue. The Marches don't care about your bloodline, your wealth, or your opinions. Can you endure? Can you contribute? Then you belong. If not, the forest will take you.
 - The **Marrow Bogs** are a region of mutagenic wetland where Thyrea's marrow seeped into the water table. The water there changes living things, sometimes beneficially, sometimes catastrophically. People go in desperate. They don't always come out recognizable.
 - A leader named [[NPCRegistry#Kaelith Thornborn|Kaelith Thornborn]] is attempting to unite the clans under a single banner for the first time in history. This is unprecedented, and opinions range from hopeful to violently opposed.
@@ -82,7 +82,7 @@ When Thyrea, Goddess of Nature, fell, her divine essence soaked into the earth a
 
 - The Reach is governed by the **Concord of Tides**, a council of elected merchant-princes called **Tidekeepers**. Power is theoretically democratic. In practice, it belongs to whoever controls the most trade routes.
 - This is the continent's crossroads. Goods, people, information, and trouble all flow through the Reach. If something exists in Aethermourne, someone in the Reach is buying or selling it.
-- The [[Major Factions#Lantern-Keepers|Lantern-Keepers]] are an order of coastal defenders, part lighthouse-keepers, part monster-hunters, part first responders. When things come out of the water (and things *do* come out of the water), the Lantern-Keepers are the ones standing between the coast and catastrophe.
+- The [[The Lantern-Keepers|Lantern-Keepers]] are an order of coastal defenders, part lighthouse-keepers, part monster-hunters, part first responders. When things come out of the water (and things *do* come out of the water), the Lantern-Keepers are the ones standing between the coast and catastrophe.
 - **Black Tides** are periodic events where the sea turns dark, oily, and wrong. Marine life dies or flees. Ships that sail during a Black Tide sometimes don't come back, and the ones that do carry crews who can't stop whispering. These events are getting worse, more frequent, more intense, reaching further inland.
 - People along the coast have been **sleepwalking into the sea**. They walk calmly into the water at night and disappear beneath the surface. Some come back days later, soaking wet and unable to explain where they were. Some don't come back at all.
 - An independent floating city called **Driftmere** exists in the outer islands, a lashed-together sprawl of decommissioned ships and repurposed hulls. It is a pirate haven, a free port, and exactly as lawless as you'd expect.
@@ -102,7 +102,7 @@ In [[The Pale Wastes]], the dead do not stay dead.
 **What You'd Know:**
 
 - There is no central government. Survival doesn't allow for that kind of luxury. Communities organize around fortified settlements called **Holds**, each led by a **Holdwarden**, a leader chosen for competence, not bloodline.
-- The [[Major Factions#Ashen Vigil|Ashen Vigil]] is a warrior-order devoted to one purpose: keeping the dead down. They patrol, they fight, they burn, and they endure. Joining the Vigil is considered one of the most honorable things a person can do. It is also one of the shortest career paths available.
+- The [[The Ashen Vigil|Ashen Vigil]] is a warrior-order devoted to one purpose: keeping the dead down. They patrol, they fight, they burn, and they endure. Joining the Vigil is considered one of the most honorable things a person can do. It is also one of the shortest career paths available.
 - **The dead must be burned.** This is not custom, it is survival. Any corpse left unburned in the Wastes will rise, animated by the ambient necromantic energy that saturates the region. Funerary rites are the most important cultural practice in the north. Denying someone a proper burning is the worst crime imaginable.
 - The **Hollowdeep**, the crater where Morrhael's skull rests, is the most dangerous place on the continent. Undead emerge from it in waves. The ambient death-energy there is strong enough to snuff torches, freeze water in seconds, and raise corpses within minutes of death. No expedition to the skull's interior has ever returned.
 - Some undead are different. Called **Remnants**, these are the dead who rose but retained their minds, their memories, their personalities. They are, by every meaningful measure, still the people they were, except that they are dead, they do not age, and the living are often terrified of them. Remnants seek acceptance in a world that doesn't know what to do with them. Some communities tolerate them. Others don't.
@@ -133,7 +133,7 @@ The Godfall happened two thousand years ago. The details are debated, mythologiz
 
 | God | Domain | Status |
 |-----|--------|--------|
-| **[[The Twelve#Aelindra|Aelindra]]** | Knowledge, Stars, Foresight | Retreated to the stars after the war. Still watches, her constellations shift in patterns her followers, the [[Major Factions#Star-Readers|Star-Readers]], spend their lives interpreting. She is the most actively worshipped surviving deity. |
+| **[[The Twelve#Aelindra|Aelindra]]** | Knowledge, Stars, Foresight | Retreated to the stars after the war. Still watches, her constellations shift in patterns her followers, the [[The Star-Readers|Star-Readers]], spend their lives interpreting. She is the most actively worshipped surviving deity. |
 | **[[The Twelve#Yvenne|Yvenne]]** | Sea, Tides, Storms | Lives in the deep ocean. Erratic, unpredictable, and possibly unhinged by the war. Sailors pray to her. Whether she listens is anyone's guess. |
 | **[[The Twelve#Orenthas|Orenthas]]** | Time, Fate, Inevitability | Went silent 2,200 years ago, *before* the Godfall. No one knows why. No one knows if he's alive, dead, or something else entirely. His temples stand empty. |
 | **[[The Twelve#Nethys|Nethys]]** | Magic, the Arcane, the Weave | Shattered during the war. Not dead, her consciousness is fragmented across the world's ley lines. Magic works because of her, but it works *poorly*, unpredictably, because she is broken. Every magical tradition is, in a sense, working with the pieces of a shattered mind. |
@@ -175,7 +175,7 @@ These materials are valuable, powerful, and not to be trifled with. You will enc
 
 ### The Iron Descent
 
-Miners, soldiers, and scholars occasionally speak of a place called the Iron Descent, a realm said to exist within Kaevroth's scattered iron fragments. Stories describe a domain of iron cities and impossible ambitions that lures the driven and the hungry. Most people treat it as a cautionary tale, a campfire story about what happens when ambition burns too hot. But the [[Major Factions#Ember Guild|Ember Guild]] takes the stories seriously, and expeditions that have gone looking for the truth have a poor record of coming back.
+Miners, soldiers, and scholars occasionally speak of a place called the Iron Descent, a realm said to exist within Kaevroth's scattered iron fragments. Stories describe a domain of iron cities and impossible ambitions that lures the driven and the hungry. Most people treat it as a cautionary tale, a campfire story about what happens when ambition burns too hot. But the [[The Ember Guild|Ember Guild]] takes the stories seriously, and expeditions that have gone looking for the truth have a poor record of coming back.
 
 ---
 
@@ -189,7 +189,7 @@ All standard Nimble ancestries exist in Aethermourne. Humans are the most widesp
 
 Every Nimble archetype works in Aethermourne. Here are some suggestions for how different character types might connect to the world:
 
-- **Warriors and Martial Characters** thrive everywhere. The [[Major Factions#Order of the Ashen Flame|Ashen Flame]] in the Dominion, clan warriors in the Marches, [[Major Factions#Lantern-Keepers|Lantern-Keepers]] in the Reach, and the [[Major Factions#Ashen Vigil|Ashen Vigil]] in the Wastes all need people who can fight.
+- **Warriors and Martial Characters** thrive everywhere. The [[Order of the Ashen Flame|Ashen Flame]] in the Dominion, clan warriors in the Marches, [[The Lantern-Keepers|Lantern-Keepers]] in the Reach, and the [[The Ashen Vigil|Ashen Vigil]] in the Wastes all need people who can fight.
 - **Arcane Casters** are powerful but face unique challenges depending on where they trained. A Calculist from the Dominion operates very differently from a Primal practitioner from the Marches. Choose your tradition, it shapes how your magic feels, what it costs, and what it can't do.
 - **Divine Casters** face the most interesting question in Aethermourne: your gods are dead, diminished, or silent. You can still channel divine power, the gods' remains radiate energy that faith can shape, but your relationship with the divine is complicated, personal, and potentially heretical depending on who's asking. This is a feature, not a limitation. Lean into it.
 - **Rogues and Skill-Focused Characters** find the Hollowed Reach particularly welcoming. Information, cunning, and connections are currencies there. But every region has shadows, and every society has cracks.
@@ -221,15 +221,15 @@ Consider these when building your character:
 
 These are things your character would know, the common talk of taverns, market squares, and campfires across the continent.
 
-**The stars are dimming.** [[The Twelve#Aelindra|Aelindra]]'s constellations are going dark, one by one. The [[Major Factions#Star-Readers|Star-Readers]] are alarmed. Most ordinary people haven't noticed yet, or have noticed and shrugged. Stars are far away. Rent is due now.
+**The stars are dimming.** [[The Twelve#Aelindra|Aelindra]]'s constellations are going dark, one by one. The [[The Star-Readers|Star-Readers]] are alarmed. Most ordinary people haven't noticed yet, or have noticed and shrugged. Stars are far away. Rent is due now.
 
-**The Black Tides are getting worse.** What used to be a rare coastal phenomenon is now happening monthly along the Reach's southern shore. The Tidekeepers are investing heavily in the [[Major Factions#Lantern-Keepers|Lantern-Keepers]]. Coastal towns are emptying. The sea smells wrong.
+**The Black Tides are getting worse.** What used to be a rare coastal phenomenon is now happening monthly along the Reach's southern shore. The Tidekeepers are investing heavily in the [[The Lantern-Keepers|Lantern-Keepers]]. Coastal towns are emptying. The sea smells wrong.
 
-**The Dominion is restless.** The Hierarch is aging and has named no successor. The [[Major Factions#Unbound Congregation|Unbound Congregation]] grows bolder. The [[Major Factions#Order of the Ashen Flame|Order of the Ashen Flame]] is restless, some want reform, others want to crush the reformers. The Ashless are more numerous than ever. Something is going to give.
+**The Dominion is restless.** The Hierarch is aging and has named no successor. The [[Unbound Congregation|Unbound Congregation]] grows bolder. The [[Order of the Ashen Flame|Order of the Ashen Flame]] is restless, some want reform, others want to crush the reformers. The Ashless are more numerous than ever. Something is going to give.
 
 **The Marches are stirring.** [[NPCRegistry#Kaelith Thornborn|Kaelith Thornborn]]'s attempt to unite the clans has gained real traction, and real enemies. A united Marches would change the balance of power on the continent. Not everyone wants that.
 
-**The Wastes are too quiet.** The undead haven't emerged from the Hollowdeep in significant numbers for years. The [[Major Factions#Ashen Vigil|Ashen Vigil]] should be relieved. Instead, the veterans are nervous. The dead don't stop. They've never stopped. So why did they stop? The silence feels like an indrawn breath.
+**The Wastes are too quiet.** The undead haven't emerged from the Hollowdeep in significant numbers for years. The [[The Ashen Vigil|Ashen Vigil]] should be relieved. Instead, the veterans are nervous. The dead don't stop. They've never stopped. So why did they stop? The silence feels like an indrawn breath.
 
 ---
 

@@ -1,5 +1,59 @@
 # Changelog
 
+## 2026-03-22 13:25, Cycle 11: Lore Check, The Ashen Dominion (Audit + Fixes)
+
+Lore check cycle. Audited 31+ Ashen Dominion files across settlements, NPCs, factions, bestiary, artifacts, and campaign materials. Found 2 critical issues, 3 moderate, 1 minor. Core lore (timeline, divine connections, political structure, Ashite properties, Calculism) scored perfect. All critical and moderate fixes applied.
+
+### Critical Fixes
+
+**1. Broken `[[Major Factions#...]]` Wikilinks (RESOLVED, VAULT-WIDE)**
+143 broken wikilinks across 53 files pointed to nonexistent headings in Major Factions.md (organized by region, not faction name). All replaced with direct faction file links (e.g., `[[Major Factions#Lantern-Keepers|...]]` became `[[The Lantern-Keepers|...]]`). Zero remaining instances.
+
+**2. NPCRegistry Gaps (RESOLVED)**
+15 settlement NPCs had no registry entries. All added to both Quick Reference Table and By Region sections: Archscholar Verity Dunne, Professor Aldric Senn, Lirien Ashvane, Captain Maren Dulwick, Quartermaster Borin Thell, Sister Maren Veyl, Old Tam, Elder Seren Holloway, Young Jorin, Granite, Researcher Mila Ashgrove, Sergeant Lira Vane, Warden Kael Ashford, Vigil Liaison Sera Vahn, Corporal Bren Malwick.
+
+### Moderate Fixes
+
+**3. Missing Wikilinks in Settlement Files (RESOLVED)**
+NPCs with dedicated files mentioned in plain text without `[[wikilinks]]`. Fixed in 4 files: Thornwall.md (Captain Daren Kolst, 3 instances), Hearthstone.md (Edda Haelstrom, 2 instances), Crown's Reach.md (Prior Gault Ashworth, 2 instances), The Ashen Dominion.md (Hierarch Valdren III, 1 instance).
+
+**4. NPCRegistry Title Inconsistency (RESOLVED)**
+Ashara Voss title updated from vague "Military Commander" to "Commander, Order of the Ashen Flame".
+
+**5. Naming Collision Flagged (DEFERRED)**
+Aldren Voss (Flame Captain, Ashen Dominion) vs. Aldric Voss (Intelligence Officer, Hollowed Reach) vs. Ashara Voss (Commander, Ashen Dominion). Three Vosses across the vault, with Aldren/Aldric being especially confusable. Flagged for DM decision on whether to rename.
+
+### Files Modified
+
+| Scope | Count | Details |
+|---|---|---|
+| Wikilink fixes (vault-wide) | 53 files | All `[[Major Factions#...]]` replaced with direct faction links |
+| NPCRegistry.md | 1 file | 15 NPCs added, Ashara Voss title updated |
+| Settlement wikilinks | 4 files | Thornwall, Hearthstone, Crown's Reach, The Ashen Dominion |
+
+### Deferred to Future Cycles
+- Aldren/Aldric Voss naming collision (needs DM input)
+- 15 settlement NPCs still lack dedicated NPC files (registry entries created this cycle)
+- Em dashes in 5 Iron Descent bestiary stat block tables (cosmetic, not Ashen Dominion files)
+
+## 2026-03-22 05:11, Cycle 10 (writer1): 3 Ironmarch Bestiary Files
+
+| File | Lines | Key Content |
+|---|---|---|
+| `Iron Locusts.md` | 71 | Shard-parasite swarm, equipment degradation mechanic, ecological recycler for divine iron |
+| `Wrath-Stalkers.md` | 75 | Aggression-sensing paired predators, combat-punishing mechanics, Iron Companies training tool |
+| `Shard-Singers.md` | 75 | War-memory psychic entities, battle-hallucination hazard, historical intelligence source |
+
+## 2026-03-22 05:11, Cycle 10 (writer2): 3 Emberveil Bestiary Files
+
+Created 3 bestiary entries for The Emberveil, filling the forge-ecosystem niche with creatures grounded in Thalvor's residual creative essence and the Cooling crisis.
+
+| File | Lines | Key Content |
+|---|---|---|
+| `Cinder Sprites.md` | 68 | Geothermal pollinators, environmental indicator of the Cooling, moral dilemma (harvest vs. ecosystem collapse), environmental feature block |
+| `Slag Hounds.md` | 80 | Forge-waste predators, d4 variant table (obsidian/iron/crystalline/cold-slag), metal Corrode mechanic, Nimble stat block Lvl 3 |
+| `The Quenched.md` | 78 | Incomplete humanoid constructs, absorption progression table (0-4+ items), DC 16 Crafting to finish, Nimble stat block Lvl 3 |
+
 ## 2026-03-22 04:52, Cycle 9: Lore Check — The Hollowed Reach (Audit + Fixes)
 
 Lore check cycle. Audited 60+ Hollowed Reach files across landmarks, settlements, NPCs, factions, and campaign materials. Found 3 critical issues, 4 moderate, 2 minor. Divine lore, timeline, and campaign consistency scored perfect. All critical and moderate fixes applied.

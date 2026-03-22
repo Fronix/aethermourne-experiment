@@ -35,7 +35,7 @@ The materials used by the Gyre-Born share common properties: they resonate with 
 
 ## The Implications
 
-The implications are staggering. If the Gyre-Born existed, then structured entities predated the gods. [[The Twelve]] were not the first. Creation predates them, in a proto-form that they refined rather than invented. This challenges every theological framework in Aethermourne and raises questions that no institution, not the [[Major Factions#The Ashen Dominion|Ashen Dominion]]'s orthodoxy, not the [[The Star-Readers|Star-Readers]]' celestial models, not the [[The Last Certainty|Last Certainty]]'s empiricism, is equipped to answer.
+The implications are staggering. If the Gyre-Born existed, then structured entities predated the gods. [[The Twelve]] were not the first. Creation predates them, in a proto-form that they refined rather than invented. This challenges every theological framework in Aethermourne and raises questions that no institution, not the [[The Ashen Dominion|Ashen Dominion]]'s orthodoxy, not the [[The Star-Readers|Star-Readers]]' celestial models, not the [[The Last Certainty|Last Certainty]]'s empiricism, is equipped to answer.
 
 If structure can emerge from the Gyre without divine intervention, then the Twelve's role in creation is not that of makers but of *refiners*. They did not build something from nothing. They improved something that already existed. And if structure emerged once before the gods, it could emerge again after them.
 

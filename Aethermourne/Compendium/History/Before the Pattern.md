@@ -175,10 +175,10 @@ Then begins [[The Age of Divinity]].
 >
 > ### Faction Reactions
 >
-> - **The [[Major Factions#Order of the Ashen Flame|Order of the Ashen Flame]]** would suppress this knowledge violently. Their entire theological framework rests on the Twelve as first and supreme creators. Evidence that the gods were emergent, that they displaced prior beings, that creation predates them, would undermine the Hierarch's divine mandate.
+> - **The [[Order of the Ashen Flame|Order of the Ashen Flame]]** would suppress this knowledge violently. Their entire theological framework rests on the Twelve as first and supreme creators. Evidence that the gods were emergent, that they displaced prior beings, that creation predates them, would undermine the Hierarch's divine mandate.
 > - **The [[The Star-Readers|Star-Readers]]** would be fascinated and terrified. Their cosmological models already hint at this truth. Confirmation would validate decades of heterodox research, and force them to confront what it means for the failing Boundary.
 > - **The [[The Confluence Council|Confluence Council]]** would recognize it as consistent with their ley-line readings. The "vast, slow presence" they sense beneath the Web would finally have a name.
-> - **The [[Major Factions#Veil Unbound|Veil Unbound]]** would seize upon it as proof that the Twelve's order was illegitimate, an imposed structure that displaced a prior state of being. This is dangerously close to Serith's own reasoning.
+> - **The [[The Veil Unbound|Veil Unbound]]** would seize upon it as proof that the Twelve's order was illegitimate, an imposed structure that displaced a prior state of being. This is dangerously close to Serith's own reasoning.
 > - **[[The Twelve#Serith|Serith]]** already knows all of this. She has spent two thousand years at the edge of the Boundary, at the point where creation meets the unknowable. Her plan to unmake creation and restart the divine cycle is informed by a cosmological understanding that no mortal possesses, and this history is the foundation of that understanding.
 
 ---

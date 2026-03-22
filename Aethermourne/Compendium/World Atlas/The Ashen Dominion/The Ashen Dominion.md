@@ -13,7 +13,7 @@ region: The Ashen Dominion
 
 > [!quote]
 > "We are the architecture of a dead god's will."
-> , Hierarch Valdren III, Convocation of the Flame
+> , [[Hierarch Valdren III]], Convocation of the Flame
 
 ---
 
@@ -28,9 +28,9 @@ The Ashen Dominion is the mightiest nation in Aethermourne, a vast theocratic em
 > | **Population** | 4-6 million, primarily human with dwarven and halfling minorities |
 > | **Government** | Theocratic monarchy under the Hierarch |
 > | **Ruler** | [[Hierarch Valdren III]] (aging, paranoid, losing control) |
-> | **State Religion** | [[Major Factions#Church of the Ashen Flame|Church of the Ashen Flame]] |
+> | **State Religion** | [[Order of the Ashen Flame|Church of the Ashen Flame]] |
 > | **Military** | [[Order of the Ashen Flame]] |
-> | **Secret Police** | [[Major Factions#The Cinders|The Cinders]] |
+> | **Secret Police** | [[The Cinders|The Cinders]] |
 > | **Currency** | The Obol (Ashite-alloyed coins, valued continent-wide) |
 > | **Magic** | [[Cosmology and Magic#Calculism|Calculism]], structured, formulaic, Ashite-channeled |
 
@@ -48,7 +48,7 @@ Vast plains of pale grey soil surrounding the Spine, compacted divine ash turned
 
 ### The Calcified Forest
 
-Eastern Dominion. Old-growth woodland transformed by Solvaen's lingering essence into white stone. The outer edges are merely bone-white bark and stiff leaves. Walk deeper and the trees become rigid porcelain, the forest utterly silent. At the center, fully mineralized stone pillars, lifeless cathedrals of petrified wood. Strange calcified fauna inhabit it, deer with bone-stone antlers, wolves with ceramic hides, all moving in geometric patterns. The Church considers it sacred ground. Entering without permission is a crime. In practice, this makes it an excellent hiding place for dissidents and [[Major Factions#Unbound Congregation|Unbound Congregation]] members.
+Eastern Dominion. Old-growth woodland transformed by Solvaen's lingering essence into white stone. The outer edges are merely bone-white bark and stiff leaves. Walk deeper and the trees become rigid porcelain, the forest utterly silent. At the center, fully mineralized stone pillars, lifeless cathedrals of petrified wood. Strange calcified fauna inhabit it, deer with bone-stone antlers, wolves with ceramic hides, all moving in geometric patterns. The Church considers it sacred ground. Entering without permission is a crime. In practice, this makes it an excellent hiding place for dissidents and [[Unbound Congregation|Unbound Congregation]] members.
 
 ### The Scar
 
@@ -73,7 +73,7 @@ Where the Dominion meets [[The Verdant Marches]], two dead gods' legacies collid
 
 ## Society
 
-The Dominion operates a rigid **five-caste system**: the Anointed (highest clergy), Flame-Bearers (military and administrative elite), Keepers (scholars, mages, professionals), the Hewn (miners, farmers, laborers, the vast majority), and the Ashless (those without caste or rights). The [[Major Factions#Church of the Ashen Flame|Church of the Ashen Flame]] is the state. Laws derive from scripture. The distinction between sin and crime does not exist. Daily life is structured around Dawn Prayer spoken in unison, geometric meditation, and a Confession and Correction system that ensures the Church knows about dissent before it organizes. Magic is practiced as mathematics through [[Cosmology and Magic#Calculism|Calculism]], precise, reproducible, channeled through Ashite focuses.
+The Dominion operates a rigid **five-caste system**: the Anointed (highest clergy), Flame-Bearers (military and administrative elite), Keepers (scholars, mages, professionals), the Hewn (miners, farmers, laborers, the vast majority), and the Ashless (those without caste or rights). The [[Order of the Ashen Flame|Church of the Ashen Flame]] is the state. Laws derive from scripture. The distinction between sin and crime does not exist. Daily life is structured around Dawn Prayer spoken in unison, geometric meditation, and a Confession and Correction system that ensures the Church knows about dissent before it organizes. Magic is practiced as mathematics through [[Cosmology and Magic#Calculism|Calculism]], precise, reproducible, channeled through Ashite focuses.
 
 ---
 
@@ -82,8 +82,8 @@ The Dominion operates a rigid **five-caste system**: the Anointed (highest clerg
 | Faction | Role |
 |---|---|
 | [[Order of the Ashen Flame]] | Combined military-religious order, the Dominion's army and priesthood |
-| [[Major Factions#The Cinders\|The Cinders]] | Secret police, intelligence, inquisition, answering directly to the Hierarch |
-| [[Major Factions#Unbound Congregation\|Unbound Congregation]] | Caste reform movement under [[Elowen Greaves]] |
+| [[The Cinders\|The Cinders]] | Secret police, intelligence, inquisition, answering directly to the Hierarch |
+| [[Unbound Congregation\|Unbound Congregation]] | Caste reform movement under [[Elowen Greaves]] |
 | [[Cosmology and Magic#Star-Readers\|Star-Readers]] (Ashveil chapter) | Celestial observers, increasingly agitated by the Star Fade |
 
 ---

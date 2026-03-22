@@ -31,7 +31,7 @@ Sleepwalkers are not creatures. They are people, neighbors, dockworkers, fishers
 
 They move with unsettling coordination. A single Sleepwalker walks with steady, unhurried steps. A group of them moves in formation, turning corners simultaneously, stepping over obstacles in unison, like a school of fish responding to a current only they can feel. They do not acknowledge the living. They do not respond to their names. They respond to being physically restrained with surprising strength, not violence exactly, but a calm, implacable resistance, as if the person trying to stop them is simply not important enough to notice.
 
-The phenomenon is spreading. [[Mistholm]] was the epicenter. Then [[Saltmere]]. Now cases appear in [[Tidewall]] itself, and the [[Major Factions#Lantern-Keepers|Lantern-Keepers]] are running out of beds and explanations.
+The phenomenon is spreading. [[Mistholm]] was the epicenter. Then [[Saltmere]]. Now cases appear in [[Tidewall]] itself, and the [[The Lantern-Keepers|Lantern-Keepers]] are running out of beds and explanations.
 
 ## Behavior & Tactics
 
@@ -42,7 +42,7 @@ When physically restrained, they resist with a strength that does not match thei
 Breaking the trance requires specific intervention. A DC 16 Medicine check to identify and disrupt the neural pattern. DC 14 with divine healing magic. [[The Tidemother's Bell]] grants automatic success. Waking a Sleepwalker is not gentle, they scream, as if torn from a dream that was better than waking.
 
 > [!warning]- GM Only
-> Sleepwalkers are not walking randomly. They follow specific routes that correspond to the old prayer-paths of [[The Twelve#Yvenne|Yvenne]]'s pre-Theomachis temples. Serith is using the sea goddess's own sacred geography as a highway, channeling her influence along pathways that were designed to carry divine energy. The [[Major Factions#Concord of Tides|Concord]] has not made this connection because they do not have records of the pre-Theomachis temple locations. [[Celestine Vael]] does, buried in the Archive of Tides. If the PCs provide her with mapped Sleepwalker routes, she can overlay them on the old maps and the match is unmistakable.
+> Sleepwalkers are not walking randomly. They follow specific routes that correspond to the old prayer-paths of [[The Twelve#Yvenne|Yvenne]]'s pre-Theomachis temples. Serith is using the sea goddess's own sacred geography as a highway, channeling her influence along pathways that were designed to carry divine energy. The [[Concord of Tides|Concord]] has not made this connection because they do not have records of the pre-Theomachis temple locations. [[Celestine Vael]] does, buried in the Archive of Tides. If the PCs provide her with mapped Sleepwalker routes, she can overlay them on the old maps and the match is unmistakable.
 >
 > **What they are really doing.** Sleepwalkers who reach the water and are not recovered do not all drown. Some reach the upper Trench and descend, guided by Serith's influence, to specific points along the prison's surface. There, they press their hands against the divine bone and whisper. They are not praying. They are dissolving the wards. Each Sleepwalker who reaches the prison erodes the seal by a fraction. Serith is patient. Fractions accumulate.
 >

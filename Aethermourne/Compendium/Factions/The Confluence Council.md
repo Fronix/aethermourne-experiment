@@ -72,7 +72,7 @@ The Council convenes formally on the Council Platform in [[Fenholm]] four times 
 - **[[The Star-Readers]]** , the scholarly order has a small presence in [[Fenholm]] and shares information with the Council when it suits them. The relationship is cordial but asymmetric: the Star-Readers see the Council as useful amateurs, the Council sees the Star-Readers as academics who don't understand the fen.
 - **[[The Ember Guild]]** , the Guild's [[Fenholm]] outpost trades with Council Watchers and provides metalwork for observation post maintenance. The relationship is purely transactional.
 - **[[The Ashen Dominion]]** , no formal relationship. The Dominion does not acknowledge the Council's existence. [[Captain Hale Ashmark]] has privately consulted Council Readers about ley-activity near [[Ashcreek]], which he has not reported to his superiors.
-- **[[Major Factions#Veil Unbound|The Veil Unbound]]** , no known contact, but the cult's presence in the fenlands concerns the Council. Ley-line readers have detected anomalous activity near [[The Drowning Bridge]] that doesn't match natural surge patterns.
+- **[[The Veil Unbound|The Veil Unbound]]** , no known contact, but the cult's presence in the fenlands concerns the Council. Ley-line readers have detected anomalous activity near [[The Drowning Bridge]] that doesn't match natural surge patterns.
 
 ## Hooks for Player Interaction
 

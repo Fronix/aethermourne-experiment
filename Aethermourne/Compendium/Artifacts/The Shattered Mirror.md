@@ -49,9 +49,9 @@ Before the Theomachis, the Mirror hung in Serith's sanctum in the Empyrean. It w
 Full omniscience through shadow. Serith regains her ability to see through every shadow in the world. The Mirror becomes a key to her prison's locks, because the prison's seals were designed by gods who had secrets, and the Mirror knows every one.
 
 > [!warning]- GM Only
-> **Campaign Role.** The fragments appear throughout the campaign. The [[Major Factions#Veil Unbound|Veil Unbound]] is actively collecting them. One fragment should appear in Act I (recovered from a Veil Unbound cell). Others surface in Acts II through IV. The party must decide whether to collect and guard the fragments, destroy them (is this even possible?), or use them despite the cost.
+> **Campaign Role.** The fragments appear throughout the campaign. The [[The Veil Unbound|Veil Unbound]] is actively collecting them. One fragment should appear in Act I (recovered from a Veil Unbound cell). Others surface in Acts II through IV. The party must decide whether to collect and guard the fragments, destroy them (is this even possible?), or use them despite the cost.
 >
-> **Key Secret.** The Veil Unbound has three of the seven fragments. The Cinders (unknowingly serving Serith through [[NPCRegistry#Thane Delric Mourne|Delric Mourne]]) have one. The [[Major Factions#Star-Readers|Star-Readers]] have one in their archive, not knowing what it is. One is in the [[The Hollowed Reach#The Abyssal Trench|Abyssal Trench]]. The seventh is lost, possibly in [[The Iron Descent]].
+> **Key Secret.** The Veil Unbound has three of the seven fragments. The Cinders (unknowingly serving Serith through [[NPCRegistry#Thane Delric Mourne|Delric Mourne]]) have one. The [[The Star-Readers|Star-Readers]] have one in their archive, not knowing what it is. One is in the [[The Hollowed Reach#The Abyssal Trench|Abyssal Trench]]. The seventh is lost, possibly in [[The Iron Descent]].
 >
 > **The Deeper Truth.** The Mirror was not merely shattered by the gods. Serith broke it herself as part of her imprisonment, a calculated sacrifice. She knew the fragments would be scattered, found, and used. Every mortal who uses a fragment opens a window for her. The shattering was not her defeat. It was her strategy.
 >

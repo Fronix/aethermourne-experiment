@@ -30,9 +30,9 @@ A bell roughly the size of a man's torso, cast from a single piece of [[The Twel
 
 ## History
 
-When Yvenne fought to contain Serith during the Theomachis, she shed scales in the struggle, one of which sank to the trench floor. Over centuries, the [[Major Factions#Concord of Tides|Concord of Tides]]'s ancestors found and forged it into a bell, using it to protect the coast from the worst of the Black Tides. It was mounted in [[The Hollowed Reach#Tidewall|Tidewall]]'s harbor tower for five hundred years.
+When Yvenne fought to contain Serith during the Theomachis, she shed scales in the struggle, one of which sank to the trench floor. Over centuries, the [[Concord of Tides|Concord of Tides]]'s ancestors found and forged it into a bell, using it to protect the coast from the worst of the Black Tides. It was mounted in [[The Hollowed Reach#Tidewall|Tidewall]]'s harbor tower for five hundred years.
 
-During the Black Tide of 1700 AS, the worst in recorded history, the bell was rung so hard it cracked the tower. It fell into the harbor and sank. The [[Major Factions#Lantern-Keepers|Lantern-Keepers]] have been hearing it ring on its own during recent Black Tides, deep beneath the waves, as if something, or someone, is striking it.
+During the Black Tide of 1700 AS, the worst in recorded history, the bell was rung so hard it cracked the tower. It fell into the harbor and sank. The [[The Lantern-Keepers|Lantern-Keepers]] have been hearing it ring on its own during recent Black Tides, deep beneath the waves, as if something, or someone, is striking it.
 
 ## Properties
 
@@ -48,9 +48,9 @@ During the Black Tide of 1700 AS, the worst in recorded history, the bell was ru
 > **Key Secret.** The Bell is not just ringing randomly. Yvenne is striking it. She is trying to warn the surface world about what is happening to Serith's prison. She cannot speak coherently, so she uses the Bell as a distress signal. The reason she is erratic is that Serith's corruption has reached her too.
 >
 > **Faction Interest.**
-> - The [[Major Factions#Concord of Tides|Concord of Tides]] wants it as a weapon against the Tides
-> - The [[Major Factions#Lantern-Keepers|Lantern-Keepers]] want to use it to protect Sleepwalkers
-> - The [[Major Factions#Veil Unbound|Veil Unbound]] wants to destroy it, because it is the one thing that disrupts their mistress's influence
-> - The [[Major Factions#Star-Readers|Star-Readers]] want to study the communication channel it opens
+> - The [[Concord of Tides|Concord of Tides]] wants it as a weapon against the Tides
+> - The [[The Lantern-Keepers|Lantern-Keepers]] want to use it to protect Sleepwalkers
+> - The [[The Veil Unbound|Veil Unbound]] wants to destroy it, because it is the one thing that disrupts their mistress's influence
+> - The [[The Star-Readers|Star-Readers]] want to study the communication channel it opens
 >
 > **Arc Trajectory.** If recovered, the Bell becomes the party's primary defense against Serith's ambient influence. In Act V, it can be used to reach Yvenne directly and potentially recruit the last free sea goddess to the final confrontation.

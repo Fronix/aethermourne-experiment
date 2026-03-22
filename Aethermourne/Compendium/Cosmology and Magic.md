@@ -157,7 +157,7 @@ Magic in Aethermourne takes three primary forms, shaped by region and philosophy
 **Risk, Order Sickness:** Overuse of Ashite and prolonged reliance on calculism causes the mind to become rigid, obsessive, and unable to think creatively. Sufferers become fixated on patterns and numbers, lose emotional range, and eventually cannot function outside of structured environments. Advanced cases become catatonic if confronted with genuine disorder.
 
 > [!warning]- GM Only
-> **Order Sickness** is a social control mechanism as much as a medical condition. The Dominion doesn't publicize its prevalence. Mages who show symptoms are quietly "retired" to isolated facilities. The [[Major Factions#Archonate|Archonate]] knows that Ashite dependency is a problem but considers it an acceptable cost of maintaining magical supremacy.
+> **Order Sickness** is a social control mechanism as much as a medical condition. The Dominion doesn't publicize its prevalence. Mages who show symptoms are quietly "retired" to isolated facilities. The [[Archonate|Archonate]] knows that Ashite dependency is a problem but considers it an acceptable cost of maintaining magical supremacy.
 
 ---
 
@@ -169,7 +169,7 @@ Magic in Aethermourne takes three primary forms, shaped by region and philosophy
 
 - Primal casters use emotion, instinct, and direct communion with the land's semi-sentient awareness
 - No formulas, primal magic is shaped by intent and the caster's relationship with the natural world
-- The [[Major Factions#Greensingers|Greensingers]] are the most accomplished primal casters, but anyone with the sensitivity can learn
+- The [[The Greensingers|Greensingers]] are the most accomplished primal casters, but anyone with the sensitivity can learn
 - Often involves physical rituals: singing, dancing, planting, bleeding into the soil
 
 **Strengths & Weaknesses:**
@@ -218,7 +218,7 @@ Not a "tradition" so much as an ambient reality. In [[The Pale Wastes]], necroma
 
 - **Healing magic** is unreliable, it may heal the body but attract undead attention, or briefly animate dead tissue within a living patient
 - **Necromancy** is effortless, raising the dead requires almost no effort in the Wastes, which is precisely the problem
-- The [[Major Factions#Ashen Vigil|Ashen Vigil]] uses **Morrhaelite** (Morrhael's crystallized bone) to create anti-undead wards and weapons
+- The [[The Ashen Vigil|Ashen Vigil]] uses **Morrhaelite** (Morrhael's crystallized bone) to create anti-undead wards and weapons
 - Independent necromancers ("Bone-Callers") operate outside the Vigil's authority, raising the dead for labor, warfare, or worse
 
 **Risk, Death-Touched:** Using magic in the Wastes without Morrhaelite protection can cause the caster to flicker between life and death, becoming partially undead. Symptoms include: body temperature dropping, wounds that don't bleed, brief cessation of heartbeat, and an unsettling comfort in the presence of the dead. Advanced cases stop aging, but also stop healing naturally.

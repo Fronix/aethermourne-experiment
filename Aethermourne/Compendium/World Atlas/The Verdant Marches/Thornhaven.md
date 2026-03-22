@@ -57,7 +57,7 @@ The [[Marchwardens Council]] at [[Roothold]] has become a theater of escalating 
 
 > [!tip] Hooks for Thornhaven
 > - The clearing's edges are showing the first signs of corruption: shadow-growth, spiraling root patterns, leaves darkening at the margins. The [[The Greensingers|Greensingers]] are alarmed.
-> - A [[The Ashen Dominion|Dominion]] deserter arrived with information about [[Major Factions#The Cinders|Cinder]] activity near [[The Verdant Marches#The Scarwall|the Scarwall]] but may be a plant.
+> - A [[The Ashen Dominion|Dominion]] deserter arrived with information about [[The Cinders|Cinder]] activity near [[The Verdant Marches#The Scarwall|the Scarwall]] but may be a plant.
 > - The Training Grounds' increasing organization is making [[Draven Ironbark]] aggressive in opposition. He has called for a formal challenge to Kaelith's authority at the next Moot.
 
 > [!warning]- GM Only

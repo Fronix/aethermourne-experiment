@@ -100,7 +100,7 @@ The fenlands attract people who have nowhere else to go: dissidents, criminals, 
 | [[The Confluence Council]] | Ley-line readers who advise communities, closest thing to governance |
 | [[The Star-Readers]] | Small chapter studying Nethys's fragments, based in [[Fenholm]] |
 | [[The Ember Guild]] | Craftspeople and traders, maintain forges in [[Fenholm]] and [[The Drowning Bridge]] |
-| [[Major Factions#Veil Unbound\|The Veil Unbound]] | Cells operating in the fenlands, exploiting the region's lawlessness |
+| [[The Veil Unbound\|The Veil Unbound]] | Cells operating in the fenlands, exploiting the region's lawlessness |
 | [[The Ashen Dominion]] (external) | Claims jurisdiction over northern fenlands, enforced at [[Ashcreek]] |
 | [[The Hollowed Reach]] (external) | Claims trade rights along the Smuggler's Sluice, enforced loosely |
 

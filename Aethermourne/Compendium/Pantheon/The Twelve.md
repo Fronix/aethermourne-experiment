@@ -65,7 +65,7 @@ His skeleton became the **Spine of Order** , a mountain range of divine bone, wh
 
 **His Legacy**
 
-[[The Ashen Dominion]] is built upon and around his remains. The Hierarch of the Dominion claims to channel Solvaen's will , a claim that is politically useful and theologically unverifiable. The **[[Major Factions#Order of the Ashen Flame|Order of the Ashen Flame]]** serves as his church, maintaining that Solvaen's vision of perfect order can still be achieved through mortal hands.
+[[The Ashen Dominion]] is built upon and around his remains. The Hierarch of the Dominion claims to channel Solvaen's will , a claim that is politically useful and theologically unverifiable. The **[[Order of the Ashen Flame|Order of the Ashen Flame]]** serves as his church, maintaining that Solvaen's vision of perfect order can still be achieved through mortal hands.
 
 The Spine of Order is not merely geography , it is a monument. Pilgrims walk its length. Cities are carved into its bones. The white mountains dominate every horizon in the Dominion, a constant reminder that a god died to protect what stands here.
 
@@ -157,7 +157,7 @@ The dead rise. Not as monsters , not initially. They rise as confused, frightene
 
 The **Hollowdeep** , the vast cavern system where Morrhael's skull rests , is the continent's largest concentration of undead. Thousands upon thousands of souls, layered over two millennia, packed into the dark around the skull of the god who should have guided them home.
 
-The **[[Major Factions#Ashen Vigil|Ashen Vigil]]** was founded specifically to manage this catastrophe. They are not warriors fighting evil , they are caretakers managing a tragedy.
+The **[[The Ashen Vigil|Ashen Vigil]]** was founded specifically to manage this catastrophe. They are not warriors fighting evil , they are caretakers managing a tragedy.
 
 **Lingering Influence**
 
@@ -168,7 +168,7 @@ Some Remnants have persisted for centuries. They build communities. They remembe
 Whether the Remnants are a tragedy (souls denied their rest) or a grotesque gift (a form of immortality, however diminished) is one of the great moral questions of Aethermourne.
 
 > [!warning]- GM Note, Morrhael's Lantern
-> Morrhael's black lantern, his divine artifact, was not destroyed when he died. It was found by the first of the risen dead and has been held by [[Revenant Yael]] of the [[Remnants Court|Remnants' Court]] for over a thousand years. The [[Major Factions#Ashen Vigil|Ashen Vigil]] has searched for it for centuries, believing it lost in the Hollowdeep. They do not know Yael has it.
+> Morrhael's black lantern, his divine artifact, was not destroyed when he died. It was found by the first of the risen dead and has been held by [[Revenant Yael]] of the [[Remnants Court|Remnants' Court]] for over a thousand years. The [[The Ashen Vigil|Ashen Vigil]] has searched for it for centuries, believing it lost in the Hollowdeep. They do not know Yael has it.
 >
 > If found and relit at full power, it could theoretically restore passage for the souls in the Pale Wastes, a mass release that would depopulate the region of undead almost overnight.
 >
@@ -216,7 +216,7 @@ Some fragments are known and contained. Others are sealed in vaults. Some are ce
 
 Kaevroth's influence is the hardest to quantify because it looks so much like ordinary mortal behavior. How do you distinguish natural ambition from divine contamination? How do you know if a war started because of genuine grievance or because a buried fragment was whispering to the generals?
 
-The **[[Major Factions#Ember Guild|Ember Guild]]** tracks known fragments and investigates regions of unexplained conflict escalation. They maintain a classified registry of fragment locations.
+The **[[The Ember Guild|Ember Guild]]** tracks known fragments and investigates regions of unexplained conflict escalation. They maintain a classified registry of fragment locations.
 
 **The Iron Descent**
 

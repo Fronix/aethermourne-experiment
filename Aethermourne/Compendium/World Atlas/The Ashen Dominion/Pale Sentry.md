@@ -40,7 +40,7 @@ An open courtyard behind the main gate where the remains of every undead incursi
 
 ### The Vigil House
 
-A small compound within the fortress maintained by the [[Major Factions#Ashen Vigil|Ashen Vigil]], the order that operates in the Pale Wastes themselves. The Vigil share intelligence about undead movements and occasionally request Dominion support. The relationship is uneasy. The Dominion considers the Vigil reckless. The Vigil considers the Dominion complacent.
+A small compound within the fortress maintained by the [[The Ashen Vigil|Ashen Vigil]], the order that operates in the Pale Wastes themselves. The Vigil share intelligence about undead movements and occasionally request Dominion support. The relationship is uneasy. The Dominion considers the Vigil reckless. The Vigil considers the Dominion complacent.
 
 ### The Penitent Barracks
 
@@ -70,7 +70,7 @@ An interior wall engraved with the names of every soldier killed at Pale Sentry 
 
 ## Adventure Hooks
 
-- **The Deserter's Warning.** A soldier fled south carrying a message: the Wastes' dead are organizing. Forming ranks. Moving with coordination. At the center of the most recent incursion, she saw an undead figure wearing remnants of Ashen Flame armor, commanding the dead with gestures that looked exactly like Calculist spell-forms. The [[Major Factions#The Cinders|Cinders]] have classified her as a deserter and ordered her arrest.
+- **The Deserter's Warning.** A soldier fled south carrying a message: the Wastes' dead are organizing. Forming ranks. Moving with coordination. At the center of the most recent incursion, she saw an undead figure wearing remnants of Ashen Flame armor, commanding the dead with gestures that looked exactly like Calculist spell-forms. The [[The Cinders|Cinders]] have classified her as a deserter and ordered her arrest.
 - **The Thinning Garrison.** Pale Sentry's forces have been reduced twice as troops are redeployed to the Scarwall. Warden Ashford is holding the line with half the soldiers he needs. If another Undying comes, the fortress may not hold.
 - **Something in the Dark.** A soldier on night watch saw something in the northern darkness that walked upright and wore armor. Not shambling. Walking, with purpose, like a living person. It stood at the edge of the Ashwall's glow for an hour, watching, then turned and walked back into the Wastes.
 - **The Vigil's Plea.** Sera Vahn has formally requested emergency support, citing intelligence that suggests a large-scale coordinated incursion is imminent. Her requests are being routed through Cinder channels and never reaching the Hierarch. She is desperate enough to ask outsiders for help.

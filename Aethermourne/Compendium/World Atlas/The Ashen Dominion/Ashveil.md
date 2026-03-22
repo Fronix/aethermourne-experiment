@@ -32,7 +32,7 @@ The city is beautiful in a stark, austere way. Buildings of white bone-stone wit
 
 ### The Athenaeum
 
-The Dominion's greatest library and research institution. A sprawling complex of lecture halls, laboratories, archives, and the single largest collection of written knowledge in Aethermourne. Its scholars study [[Cosmology and Magic#Ashite|Ashite]] properties, divine magic theory, theological history, and, carefully, quietly, subjects the [[Major Factions#Church of the Ashen Flame|Church]] would prefer they didn't.
+The Dominion's greatest library and research institution. A sprawling complex of lecture halls, laboratories, archives, and the single largest collection of written knowledge in Aethermourne. Its scholars study [[Cosmology and Magic#Ashite|Ashite]] properties, divine magic theory, theological history, and, carefully, quietly, subjects the [[Order of the Ashen Flame|Church]] would prefer they didn't.
 
 The Athenaeum's mages practice [[Cosmology and Magic#Calculism|Calculism]], the Dominion's characteristic magic: structured, formulaic, channeled through Ashite focuses and expressed in mathematical notation. A Dominion spell looks like an equation made real, geometric patterns of pale light, precise and reproducible. Reliable, teachable, and deeply suspicious of any magic that operates on intuition.
 
@@ -42,7 +42,7 @@ A small tower at the Athenaeum's northern edge where [[Cosmology and Magic#Star-
 
 ### The White Cloisters
 
-Dormitories and common halls for students and junior faculty. A place of fierce intellectual debate conducted in careful whispers. The [[Major Factions#Unbound Congregation|Unbound Congregation]] finds disproportionate sympathy here, education tends to make people question the system that educated them. Ideas are harder to arrest than people, but the [[Major Factions#The Cinders|Cinders]] try.
+Dormitories and common halls for students and junior faculty. A place of fierce intellectual debate conducted in careful whispers. The [[Unbound Congregation|Unbound Congregation]] finds disproportionate sympathy here, education tends to make people question the system that educated them. Ideas are harder to arrest than people, but the [[The Cinders|Cinders]] try.
 
 ### The Bone Market
 

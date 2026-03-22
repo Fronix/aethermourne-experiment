@@ -64,7 +64,7 @@ More importantly, the Reach is where Serith's influence is most visible. The Bla
 Choose the hook that best fits your party's composition and interests. Hook 1 is recommended for most groups.
 
 > [!info] Hook 1 , The Lantern-Keeper's Call (Recommended)
-> The PCs are recruited by the **[[Major Factions#Lantern-Keepers|Lantern-Keepers]]** , specifically by **[[NPCRegistry#Lira Ashvane|Keeper Lira Ashvane]]** , to investigate the increasing frequency of Black Tide events and the growing Sleepwalker phenomenon along the coast. Ashvane is pragmatic, sharp-tongued, and desperate. She doesn't trust outsiders, but she's out of options. The Lantern-Keepers' numbers are dwindling, and the tides are getting worse.
+> The PCs are recruited by the **[[The Lantern-Keepers|Lantern-Keepers]]** , specifically by **[[NPCRegistry#Lira Ashvane|Keeper Lira Ashvane]]** , to investigate the increasing frequency of Black Tide events and the growing Sleepwalker phenomenon along the coast. Ashvane is pragmatic, sharp-tongued, and desperate. She doesn't trust outsiders, but she's out of options. The Lantern-Keepers' numbers are dwindling, and the tides are getting worse.
 >
 > This hook provides immediate structure, a recurring NPC patron, and a clear investigative thread.
 
@@ -72,7 +72,7 @@ Choose the hook that best fits your party's composition and interests. Hook 1 is
 > A merchant , nervous, well-paying, and evasive about details , hires the PCs to investigate the disappearance of a trade vessel near the Abyssal Trench. The ship was carrying something the merchant won't name. The investigation uncovers far more than a lost cargo: the wreck shows signs of something rising from below, and the surviving crew member speaks in someone else's voice.
 
 > [!info] Hook 3 , Driftmere Auction
-> The PCs attend an underground auction in **[[The Hollowed Reach#Driftmere|Driftmere]]**, drawn by rumor of a map that charts the upper reaches of the Abyssal Trench. The auction is disrupted by agents of the **[[Major Factions#Veil Unbound|Veil Unbound]]** cult, who want the map for their own purposes. The PCs are drawn into the cult's orbit , as targets, infiltrators, or reluctant allies.
+> The PCs attend an underground auction in **[[The Hollowed Reach#Driftmere|Driftmere]]**, drawn by rumor of a map that charts the upper reaches of the Abyssal Trench. The auction is disrupted by agents of the **[[The Veil Unbound|Veil Unbound]]** cult, who want the map for their own purposes. The PCs are drawn into the cult's orbit , as targets, infiltrators, or reluctant allies.
 
 > [!info] Hook 4 , Personal Connection
 > A PC has a direct personal tie to the Reach's troubles: a family member who became a Sleepwalker, a debt owed to the Lantern-Keepers, a mentor who vanished investigating the Trench, or a vision that won't stop repeating. This hook works best when combined with one of the above, giving one PC a deeply personal stake while the party has a shared objective.
@@ -92,7 +92,7 @@ The campaign is divided into five acts, each set primarily in one region. The ac
 
 #### Summary
 
-The PCs are drawn into the Lantern-Keepers' investigation of the Black Tide and Sleepwalker phenomena. What begins as a local mystery deepens into something far larger as the PCs discover the [[Major Factions#Veil Unbound|Veil Unbound]] cult, glimpse the prison beneath the sea, and realize the threat extends far beyond the coast.
+The PCs are drawn into the Lantern-Keepers' investigation of the Black Tide and Sleepwalker phenomena. What begins as a local mystery deepens into something far larger as the PCs discover the [[The Veil Unbound|Veil Unbound]] cult, glimpse the prison beneath the sea, and realize the threat extends far beyond the coast.
 
 #### Key Events
 
@@ -135,7 +135,7 @@ This is the first major revelation: the prison is real, the goddess is real, and
 
 **5. The Whisperer's Trail**
 
-The PCs pursue the Whisperer , the Veil Unbound's enigmatic leader. They don't catch them (the Whisperer is too careful for low-level PCs), but they recover evidence: coded messages, a ledger of payments, and a symbol , the [[Major Factions#The Cinders|Cinders]]' sigil, the secret police of the Ashen Dominion.
+The PCs pursue the Whisperer , the Veil Unbound's enigmatic leader. They don't catch them (the Whisperer is too careful for low-level PCs), but they recover evidence: coded messages, a ledger of payments, and a symbol , the [[The Cinders|Cinders]]' sigil, the secret police of the Ashen Dominion.
 
 The implication is clear: someone in the Dominion's power structure is connected to the cult.
 
@@ -165,7 +165,7 @@ Alternatively, the PCs may pursue the Dominion lead on their own initiative, fol
 
 #### Summary
 
-The PCs enter the Ashen Dominion , a theocratic nation that appears powerful and orderly on the surface but is rotting from within. They must navigate a rigid caste system, the [[Major Factions#Church of the Eternal Flame|Church of the Eternal Flame]]'s dogma, and the Cinders' pervasive surveillance while uncovering **[[NPCRegistry#Delric Mourne|Thane Delric Mourne]]'s** conspiracy to aid Serith's release.
+The PCs enter the Ashen Dominion , a theocratic nation that appears powerful and orderly on the surface but is rotting from within. They must navigate a rigid caste system, the [[Order of the Ashen Flame|Church of the Eternal Flame]]'s dogma, and the Cinders' pervasive surveillance while uncovering **[[NPCRegistry#Delric Mourne|Thane Delric Mourne]]'s** conspiracy to aid Serith's release.
 
 #### Key Events
 
@@ -177,7 +177,7 @@ The Cinders begin watching the PCs almost immediately. Outsiders asking question
 
 **2. The Unbound Connection**
 
-The PCs make contact with the **[[Major Factions#Unbound Congregation|Unbound Congregation]]** , the underground resistance movement within the Dominion. Their likely contact is **[[NPCRegistry#Elowen Greaves|Speaker Elowen Greaves]]**, a former Church scholar who now leads the Congregation's intelligence network from the back rooms of a bookshop in [[The Ashen Dominion#Ostivaar|Ostivaar]].
+The PCs make contact with the **[[Unbound Congregation|Unbound Congregation]]** , the underground resistance movement within the Dominion. Their likely contact is **[[NPCRegistry#Elowen Greaves|Speaker Elowen Greaves]]**, a former Church scholar who now leads the Congregation's intelligence network from the back rooms of a bookshop in [[The Ashen Dominion#Ostivaar|Ostivaar]].
 
 Greaves has suspected the Cinders of corruption for years but lacks proof. She offers the PCs an alliance: her local knowledge and network in exchange for their outsider perspective and willingness to take risks no Dominion citizen can afford to take.
 
@@ -211,7 +211,7 @@ Valdren is not a villain. He is a man who built his life on the Church's teachin
 
 **5. The Ashite Revelation**
 
-The PCs discover , through the Hierarch, through their own investigation, or through the [[Major Factions#Unbound Congregation|Congregation]]'s research , that **Ashite** (the crystallized blood of Solvaen) still carries faint divine power. It is not inert mineral; it is condensed divinity.
+The PCs discover , through the Hierarch, through their own investigation, or through the [[Unbound Congregation|Congregation]]'s research , that **Ashite** (the crystallized blood of Solvaen) still carries faint divine power. It is not inert mineral; it is condensed divinity.
 
 This becomes critical later: the remnants of each dead god's essence can be gathered to create something capable of confronting a goddess. The PCs should acquire a sample of pure Ashite before leaving the Dominion.
 
@@ -256,7 +256,7 @@ The corruption must be purged. The PCs head west.
 
 #### Summary
 
-The PCs journey into the Verdant Marches , a wild, overgrown land where a dead goddess's body has become the forest itself. They must work with the fiercely independent Marcher clans, earn the trust of **[[NPCRegistry#Kaelith Thornborn|Kaelith Thornborn]]** (a young woman bearing Thyrea's divine mark), navigate the [[Major Factions#Greensingers|Greensingers]]' ancient magic, and ultimately descend into the heart of the Cradle to sever Serith's corruption from the land.
+The PCs journey into the Verdant Marches , a wild, overgrown land where a dead goddess's body has become the forest itself. They must work with the fiercely independent Marcher clans, earn the trust of **[[NPCRegistry#Kaelith Thornborn|Kaelith Thornborn]]** (a young woman bearing Thyrea's divine mark), navigate the [[The Greensingers|Greensingers]]' ancient magic, and ultimately descend into the heart of the Cradle to sever Serith's corruption from the land.
 
 #### Key Events
 
@@ -268,7 +268,7 @@ Options for crossing:
 
 - **Marcher allies:** If the PCs have made contact with Marcher traders or exiles in previous acts, they may have a guide.
 - **The Greensingers' path:** Hidden routes through the Scarwall that only those attuned to Thyrea's network can find. The PCs may stumble onto one , or be tested by the wall itself.
-- **Force or ingenuity:** The wall can be overcome through combat, magic, or clever problem-solving, but doing so alerts the [[Major Factions#Marchwardens|Marchwardens]] and starts the PCs' time in the region on hostile footing.
+- **Force or ingenuity:** The wall can be overcome through combat, magic, or clever problem-solving, but doing so alerts the [[Marchwardens Council|Marchwardens]] and starts the PCs' time in the region on hostile footing.
 
 **2. The Marchwardens' Moot**
 
@@ -330,7 +330,7 @@ But the PCs feel the consequence immediately: somewhere in the north, something 
 
 #### Transition to Act IV
 
-Word reaches the PCs from [[The Pale Wastes]]: the Hollowdeep , the massive crater that is [[The Twelve#Morrhael|Morrhael]]'s skull , has erupted. Organized undead legions are pouring from the depths. The [[Major Factions#Ashen Vigil|Ashen Vigil]]'s forward defenses at [[The Pale Wastes#Lastlight|Lastlight]] have been overwhelmed. The dead march south.
+Word reaches the PCs from [[The Pale Wastes]]: the Hollowdeep , the massive crater that is [[The Twelve#Morrhael|Morrhael]]'s skull , has erupted. Organized undead legions are pouring from the depths. The [[The Ashen Vigil|Ashen Vigil]]'s forward defenses at [[The Pale Wastes#Lastlight|Lastlight]] have been overwhelmed. The dead march south.
 
 The PCs must go north.
 
@@ -542,7 +542,7 @@ Accept Serith's argument. Allow her to unravel Orenthas's Loom. The world ends ,
 
 **Option D , Break the Loom**
 
-The PCs have learned , through Morrhael's domain, the [[Major Factions#Star-Readers|Star-Readers]]' research, and the accumulated evidence of four acts , that [[Cosmology and Magic#Orenthas's Loom|Orenthas's Loom]] still exists: the mechanism of fate that wove the Theomachis into destiny and ensured the gods' destruction. It persists in the silence Orenthas left behind , in the gaps between moments, in the architecture of time itself.
+The PCs have learned , through Morrhael's domain, the [[The Star-Readers|Star-Readers]]' research, and the accumulated evidence of four acts , that [[Cosmology and Magic#Orenthas's Loom|Orenthas's Loom]] still exists: the mechanism of fate that wove the Theomachis into destiny and ensured the gods' destruction. It persists in the silence Orenthas left behind , in the gaps between moments, in the architecture of time itself.
 
 The PCs can find it and shatter it. No more divine cycles. No more predetermined fate. The gods' age ends permanently, and mortals chart their own course.
 

@@ -57,7 +57,7 @@ Crafting with divine materials requires three things:
 
 **Mechanical Effect:** Amplifies structured magic. A calculist using Ashite as a focus gains perfect precision, spells execute exactly as designed with no deviation. Ashite can also enforce order on chaotic environments: placed in a room, it suppresses wild magic, calms emotional outbursts, and straightens crooked objects.
 
-**Acquisition:** Mined from veins in Solvaen's spine (the geological formation beneath the Dominion). The [[Major Factions#Archonate|Archonate]] controls mining rights. Black market Ashite exists but is heavily policed.
+**Acquisition:** Mined from veins in Solvaen's spine (the geological formation beneath the Dominion). The [[Archonate|Archonate]] controls mining rights. Black market Ashite exists but is heavily policed.
 
 **Cost of Use:**
 - Tier 1: Thoughts become unusually organized for hours. Mild discomfort with disorder.

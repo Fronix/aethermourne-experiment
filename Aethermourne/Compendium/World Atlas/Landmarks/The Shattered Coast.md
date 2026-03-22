@@ -42,7 +42,7 @@ A network of sea caves exposed at low tide and submerged at high, honeycombing t
 
 ### The Glass Pools
 
-Tidal pools where the water is supernaturally still and clear, like liquid glass, even when the surf crashes around them. Looking into a Glass Pool does not show your reflection. It shows something beneath the surface looking back, a pale shape, indistinct, patient. These are natural thin spots where Serith's perception reaches the surface, scrying points that function whether anyone intends them to or not. [[Major Factions#Lantern-Keepers|Lantern-Keepers]] mark known Glass Pools with warning stakes driven into the rock nearby. A DC 13 Wisdom save is required to look away once you have looked in. Failure means you stand transfixed for 1d4 rounds, during which time Serith observes you and learns what you are carrying, where you are going, and what you are afraid of. New Glass Pools appear after every Black Tide.
+Tidal pools where the water is supernaturally still and clear, like liquid glass, even when the surf crashes around them. Looking into a Glass Pool does not show your reflection. It shows something beneath the surface looking back, a pale shape, indistinct, patient. These are natural thin spots where Serith's perception reaches the surface, scrying points that function whether anyone intends them to or not. [[The Lantern-Keepers|Lantern-Keepers]] mark known Glass Pools with warning stakes driven into the rock nearby. A DC 13 Wisdom save is required to look away once you have looked in. Failure means you stand transfixed for 1d4 rounds, during which time Serith observes you and learns what you are carrying, where you are going, and what you are afraid of. New Glass Pools appear after every Black Tide.
 
 ### The Fog Banks
 
@@ -55,7 +55,7 @@ A half-mile stretch of gravel beach where currents deposit debris from ships tha
 > [!warning]- GM Only
 > The Coast is where Yvenne's protective infrastructure is failing. Each failure, a crumbled Tidal Bridge, a darkened ward, a thinned fog barrier, opens a new vector for Serith's influence. The decline is accelerating.
 >
-> **Glass Pool Proliferation.** Before the current crisis there were perhaps a dozen Glass Pools. Now there are scores. Each one is a point where Serith can observe the surface. The [[Major Factions#Lantern-Keepers|Lantern-Keepers]] cannot mark them fast enough. Some Keepers have stopped trying and simply avoid the coast entirely.
+> **Glass Pool Proliferation.** Before the current crisis there were perhaps a dozen Glass Pools. Now there are scores. Each one is a point where Serith can observe the surface. The [[The Lantern-Keepers|Lantern-Keepers]] cannot mark them fast enough. Some Keepers have stopped trying and simply avoid the coast entirely.
 >
 > **Saltmother's Mouth.** The cave connects to the same network [[The Whisperer]] uses. It is part of the [[Veil Unbound]]'s communication infrastructure linking coastal cells from [[Weeping Shore]] to [[Mistholm]] and beyond. Intercepting the dead-drop messages reveals cell locations, communion schedules, and the names of converted [[Sleepwalkers]] who now serve willingly.
 >
@@ -75,6 +75,6 @@ A half-mile stretch of gravel beach where currents deposit debris from ships tha
 
 ## Hooks
 
-1. **The New Pool.** A [[Major Factions#Lantern-Keepers|Lantern-Keeper]] patrol reports a Glass Pool showing clear images of the Trench floor, not the usual indistinct shapes but detailed architecture, a lattice of pale bone holding something vast and dark. The Keepers need someone to verify what they saw.
+1. **The New Pool.** A [[The Lantern-Keepers|Lantern-Keeper]] patrol reports a Glass Pool showing clear images of the Trench floor, not the usual indistinct shapes but detailed architecture, a lattice of pale bone holding something vast and dark. The Keepers need someone to verify what they saw.
 2. **The Dead-Drop.** Saltmother's Mouth contains a [[Veil Unbound]] message in a bone tube, written in a cipher the PCs can crack (DC 15 Intelligence). The message names the next communion date and location, and references "the offering the Depth-Singer's bell will silence."
 3. **The Scavenger's Find.** Ossa on the Wreck Shore has an artifact she cannot destroy or put down. She is calmer than she has ever been, more focused, and increasingly unable to tolerate disorder. She wants help. She also does not want to give the artifact up.

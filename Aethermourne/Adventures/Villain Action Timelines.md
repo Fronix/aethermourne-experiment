@@ -67,7 +67,7 @@ Use these to make the world feel alive between sessions. NPCs should reference e
 
 ## The Veil Unbound
 
-**Goal:** Weaken Serith's prison seals. Prepare mortal infrastructure for her liberation. Neutralize the [[Major Factions#Lantern-Keepers|Lantern-Keepers]].
+**Goal:** Weaken Serith's prison seals. Prepare mortal infrastructure for her liberation. Neutralize the [[The Lantern-Keepers|Lantern-Keepers]].
 
 **Method:** Sabotage, recruitment, ritual magic at coastal seal-sites, assassination of key investigators.
 

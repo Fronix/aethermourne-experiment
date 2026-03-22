@@ -29,7 +29,7 @@ origin: trench-born
 
 Trench Crawlers are deep-sea arthropods roughly the size of a large dog, armored in translucent chitin that shows the organs beneath, pale shapes pulsing and shifting in the blue-tinged light of their own bioluminescence. Six multi-jointed legs end in hooked points that grip stone, wood, and flesh with equal ease. Two oversized pincers, serrated along the inner edge, fold beneath the body when climbing and snap outward to strike. They smell of brine and something deeper, a mineral tang that coats the back of the throat and lingers for hours.
 
-The bioluminescence is the detail that keeps [[Major Factions#Lantern-Keepers|Lantern-Keeper]] researchers awake at night. The patterns are not random. They pulse across the Crawler's chitin in sequences that shift and rearrange, and the sequences are getting more complex over time. Early observations recorded simple rhythmic pulses. Current records show interlocking geometric configurations that change in response to proximity to other Crawlers, to magical activity, and to the Abyssal Trench's depth-currents. The patterns look almost like writing.
+The bioluminescence is the detail that keeps [[The Lantern-Keepers|Lantern-Keeper]] researchers awake at night. The patterns are not random. They pulse across the Crawler's chitin in sequences that shift and rearrange, and the sequences are getting more complex over time. Early observations recorded simple rhythmic pulses. Current records show interlocking geometric configurations that change in response to proximity to other Crawlers, to magical activity, and to the Abyssal Trench's depth-currents. The patterns look almost like writing.
 
 ## Behavior & Tactics
 
@@ -37,7 +37,7 @@ Trench Crawlers surface during Black Tides, crawling up through storm drains, se
 
 They attack with pincers and a venomous bite that numbs the wound site, a deep-sea adaptation for subduing prey in crushing pressure. The venom is not lethal to surface creatures but causes localized paralysis for several minutes, enough time for the swarm to drag a victim toward the water. They always drag toward the water.
 
-Between Black Tides they retreat to the upper Trench, but their range is expanding. Crawlers have been found in [[Tidewall]]'s sewer system during normal tides, establishing colonies in the dark, wet places beneath the city. The [[Major Factions#Concord of Tides|Concord]] insists this is a pest control issue. The Lantern-Keepers know better.
+Between Black Tides they retreat to the upper Trench, but their range is expanding. Crawlers have been found in [[Tidewall]]'s sewer system during normal tides, establishing colonies in the dark, wet places beneath the city. The [[Concord of Tides|Concord]] insists this is a pest control issue. The Lantern-Keepers know better.
 
 > [!warning]- GM Only
 > The bioluminescent patterns match fragments of the divine tongue, the language [[The Twelve#Serith|Serith]] used in her divine proclamations. The Crawlers are not communicating. They are receiving, their chitin reflecting the prison's deterioration like an antenna tuned to a frequency no one else can hear. As the prison weakens, the patterns become more complex because there is more signal to receive.
@@ -51,7 +51,7 @@ Between Black Tides they retreat to the upper Trench, but their range is expandi
 > [!example] Sample Encounter
 > A Black Tide has hit [[Tidewall]]. The Bilges district is flooding. The party is helping evacuate when blue light appears in the rising water, not one source but dozens, pulsing in synchronized patterns. Trench Crawlers pour from a storm drain, clicking, climbing walls, pincers snapping at anyone within reach. A child is trapped on a half-submerged cart. The Crawlers are between the party and the child, and the water is still rising.
 >
-> **Complication:** The Crawlers' bioluminescence is unusually intense tonight. A PC with Arcana training (DC 14) notices the patterns are forming a shape, a geometric configuration that matches the warding sigils on [[Major Factions#Lantern-Keepers|Lantern-Keeper]] equipment. The Crawlers are reacting to the wards. Removing or suppressing the wards causes the swarm to disperse, but removes the party's protection against deeper Trench phenomena.
+> **Complication:** The Crawlers' bioluminescence is unusually intense tonight. A PC with Arcana training (DC 14) notices the patterns are forming a shape, a geometric configuration that matches the warding sigils on [[The Lantern-Keepers|Lantern-Keeper]] equipment. The Crawlers are reacting to the wards. Removing or suppressing the wards causes the swarm to disperse, but removes the party's protection against deeper Trench phenomena.
 
 ---
 

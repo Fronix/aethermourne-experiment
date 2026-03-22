@@ -79,9 +79,9 @@ A new type of Changed has been emerging in the last year, and they are unlike an
 
 ## Inter-Faction Relationships
 
-- **[[Edgewalker Tyrell Vane]] / [[Major Factions#Accord of Echoes|Accord of Echoes]]:** Vane governs by probability. The Echoists teach by faith. "They disagree frequently and value each other enormously." Vane privately worries about the Threshold Walk's escalation but will not interfere with a voluntary spiritual practice, not yet.
+- **[[Edgewalker Tyrell Vane]] / [[The Accord of Echoes|Accord of Echoes]]:** Vane governs by probability. The Echoists teach by faith. "They disagree frequently and value each other enormously." Vane privately worries about the Threshold Walk's escalation but will not interfere with a voluntary spiritual practice, not yet.
 - **[[The Ashen Dominion|Dominion]]:** The Echoists resist Dominion "containment" and "cure" efforts. The Dominion views the Accord's governance as "chaos-touched madness" and the Echoists as its most dangerous expression.
-- **[[Major Factions#Star-Readers|Star-Readers]]:** Maintain a research presence at [[The Shattered Edge#The Last Certainty|The Last Certainty]]. Share intellectual interest in the Maelstrom. [[Lysara Shimmerborn]] collaborates with Star-Reader scholars, though she withholds her most alarming findings.
+- **[[The Star-Readers|Star-Readers]]:** Maintain a research presence at [[The Shattered Edge#The Last Certainty|The Last Certainty]]. Share intellectual interest in the Maelstrom. [[Lysara Shimmerborn]] collaborates with Star-Reader scholars, though she withholds her most alarming findings.
 
 ## Hooks for Player Interaction
 
@@ -96,7 +96,7 @@ A new type of Changed has been emerging in the last year, and they are unlike an
 >
 > **Veil Unbound Infiltration.** The mole is reframing Serith's goals in Echoist terms: "The Veiled One seeks to change the world, just as Vorrhyn did. To resist her is to resist change itself." This theological argument is genuinely compelling, and it is spreading among adherents who have never heard of Serith by name. The infiltrator (Aldis, embedded in [[Lysara Shimmerborn]]'s research team) feeds intelligence about the Maelstrom's structure back to the Veil Unbound while nudging the Echoists toward deeper, more frequent Walks.
 >
-> **Prior Echoes' Sensitivity.** The "wrong notes" Prior Echoes hears in the Maelstrom's rhythm are the boundary between Vorrhyn's genuine echo and Serith's parasitic overlay. With guidance (from the PCs, from the [[Major Factions#Star-Readers|Star-Readers]], or from the Foretouched), Prior Echoes could learn to distinguish the two, making them a critical asset for detecting Serith's influence across the continent.
+> **Prior Echoes' Sensitivity.** The "wrong notes" Prior Echoes hears in the Maelstrom's rhythm are the boundary between Vorrhyn's genuine echo and Serith's parasitic overlay. With guidance (from the PCs, from the [[The Star-Readers|Star-Readers]], or from the Foretouched), Prior Echoes could learn to distinguish the two, making them a critical asset for detecting Serith's influence across the continent.
 >
 > **Edgewalker's Blind Spot.** [[Edgewalker Tyrell Vane]] cannot see Serith's probability threads. Her shadow domain conceals futures from probability-readers. The Shattered Edge is probability-blind to Serith, which means the most analytically governed region on the continent has a massive intelligence gap that only faith-based perception (the Echoists) can fill.
 >

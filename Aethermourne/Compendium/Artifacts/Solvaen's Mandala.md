@@ -30,7 +30,7 @@ A disc roughly two feet across, made of Ashite so pure it is translucent. Geomet
 
 ## History
 
-[[The Twelve#Solvaen|Solvaen]] created the Mandala as the physical embodiment of his concept of law, not the law of kings but the deeper architecture of fairness, consequence, and mutual obligation. He used it to judge disputes among mortals and even among the gods. During the Theomachis, he shielded it within his own spine as he fell, sealing it in a chamber of solidified order. The [[Major Factions#Order of the Ashen Flame|Order of the Ashen Flame]] has searched for it for centuries. They have never found it. The Hierarch suspects it exists and fears what it might say about his rule.
+[[The Twelve#Solvaen|Solvaen]] created the Mandala as the physical embodiment of his concept of law, not the law of kings but the deeper architecture of fairness, consequence, and mutual obligation. He used it to judge disputes among mortals and even among the gods. During the Theomachis, he shielded it within his own spine as he fell, sealing it in a chamber of solidified order. The [[Order of the Ashen Flame|Order of the Ashen Flame]] has searched for it for centuries. They have never found it. The Hierarch suspects it exists and fears what it might say about his rule.
 
 ## Properties
 
@@ -41,13 +41,13 @@ A disc roughly two feet across, made of Ashite so pure it is translucent. Geomet
 **The Architect's Voice.** Once per day, the wielder can ask the Mandala a question about the consequences of a specific action. It answers not in words but in geometric patterns that a trained mind can interpret as probability maps. The patterns are precise but require a DC 16 Intelligence check to read correctly. Misreading the patterns is worse than not asking, the wielder acts on false certainty.
 
 > [!warning]- GM Only
-> **Campaign Role.** Appears in Act II. If the PCs find it, the Mandala becomes proof that [[The Ashen Dominion]] has strayed from Solvaen's vision. It could catalyze the [[Major Factions#Unbound Congregation|Unbound Congregation]]'s revolution or strengthen the Hierarch's hand if he seizes it and controls who sees its judgments.
+> **Campaign Role.** Appears in Act II. If the PCs find it, the Mandala becomes proof that [[The Ashen Dominion]] has strayed from Solvaen's vision. It could catalyze the [[Unbound Congregation|Unbound Congregation]]'s revolution or strengthen the Hierarch's hand if he seizes it and controls who sees its judgments.
 >
 > **Key Secret.** The Mandala's judgment patterns have been subtly shifting for decades. It is responding to [[The Twelve#Serith|Serith]]'s corruption of the [[Cosmology and Magic#Ley Lines and the Aetheric Web|Aetheric Web]]. If brought near a shadow-root, it fractures violently, its geometric patterns dissolving into chaos. This is the only known object that can detect Serith's root network from above ground.
 >
 > **Faction Interest:**
-> - The [[Major Factions#Unbound Congregation|Unbound Congregation]] wants proof the Hierarch is unjust
-> - The [[Major Factions#The Cinders|Cinders]] want it destroyed before it exposes their corruption
+> - The [[Unbound Congregation|Unbound Congregation]] wants proof the Hierarch is unjust
+> - The [[The Cinders|Cinders]] want it destroyed before it exposes their corruption
 > - [[The Star-Readers]] want to study its connection to the Aetheric Web
 >
 > **Arc Trajectory.** If left unfound, the chamber cracks open naturally as Solvaen's Spine destabilizes under the Second Silence's pressure. The Mandala emerges on its own, and its judgment of the Dominion is devastating. If the PCs find it first, they choose who wields that verdict.

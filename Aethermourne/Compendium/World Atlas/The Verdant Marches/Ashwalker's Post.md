@@ -61,7 +61,7 @@ Torvin has no interest in [[Kaelith Thornborn]]'s unification or [[Draven Ironba
 > - A [[The Ashen Dominion|Dominion]] patrol approached the gate under a white flag and asked to speak to "whoever leads here" about a shared threat from below. Torvin agreed to listen. What they described matches the corruption the [[The Greensingers]] have been sensing in the deep Cradle.
 
 > [!warning]- GM Only
-> The Thing in the Wall is a [[Major Factions#The Cinders|Cinder]] agent, one of [[Mourne]]'s operatives, enhanced with entropic energy and carrying a shard of corrupted [[Cosmology and Magic#Ashite|Ashite]]. The agent's mission is to map the Scarwall's interior for potential passage routes. [[Mourne]] is planning for the day when forces will need to cross the border in strength.
+> The Thing in the Wall is a [[The Cinders|Cinder]] agent, one of [[Mourne]]'s operatives, enhanced with entropic energy and carrying a shard of corrupted [[Cosmology and Magic#Ashite|Ashite]]. The agent's mission is to map the Scarwall's interior for potential passage routes. [[Mourne]] is planning for the day when forces will need to cross the border in strength.
 >
 > The corrupted Ashite projects a field of entropic decay that counteracts [[The Twelve#Thyrea|Thyrea]]'s vitality, killing the thorns it touches. The agent is deteriorating, the corruption eating at their body and mind, but they are driven by Mourne's commands. Capturing or killing them provides evidence of [[The Twelve#Serith|Serith]]'s influence within [[The Ashen Dominion]], a thread connecting the Marches' crisis to the Dominion's.
 >

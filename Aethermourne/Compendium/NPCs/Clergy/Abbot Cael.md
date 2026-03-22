@@ -44,7 +44,7 @@ After decades of immersion in Belara's lingering essence, Cael's empathic sensit
 ## Relationships
 
 - **[[The Merciful]]**, his order. He has shaped them into his image of Belara's legacy: fierce compassion, no martyrdom. They trust him absolutely.
-- **[[Lira Ashvane|Keeper Lira Ashvane]]**, [[Major Factions#Lantern-Keepers|Lantern-Keeper]] commander. He has sent her quiet messages about what he senses beneath the water. She is one of the few people who takes him seriously.
+- **[[Lira Ashvane|Keeper Lira Ashvane]]**, [[The Lantern-Keepers|Lantern-Keeper]] commander. He has sent her quiet messages about what he senses beneath the water. She is one of the few people who takes him seriously.
 - **Ferren Graves**, the ferryman of [[Weeping Shore]]. The two share a deep, unspoken understanding born of decades of proximity to Belara's sorrow. Cael trusts Ferren's instincts about the waters more than his own.
 - **[[Cordell Raith]]**, Tidewall's intelligence master. Cael's warnings have passed through channels Raith controls, and none have reached the people who need to hear them. Cael suspects obstruction but cannot prove it.
 - **[[The Twelve#Belara|Belara]]**, the dead goddess. Not a relationship in any conventional sense, but Cael has spent his life immersed in her grief. He knows her the way a riverbed knows the water that carved it.

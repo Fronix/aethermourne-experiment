@@ -12,7 +12,7 @@ parent-location: The Ashen Dominion
 
 > [!quote]
 > "Every pilgrim who climbs comes back certain. That's the miracle. That's the problem."
-> , Prior Gault Ashworth, in an unguarded moment
+> , [[Prior Gault Ashworth]], in an unguarded moment
 
 **Population:** ~3,000
 **Role:** Pilgrimage town in [[The Ashen Dominion]], at the base of The Crown, highest peak in the Spine of Order
@@ -21,7 +21,7 @@ parent-location: The Ashen Dominion
 
 ## Overview
 
-Crown's Reach exists because of The Crown, the topmost vertebra of [[The Twelve#Solvaen|Solvaen's]] Spine, where the god's skull would have connected to his body. The skull itself was driven into the earth on impact and has never been found, though the [[Major Factions#Church of the Ashen Flame|Church]] teaches that it rests in a sacred hollow beneath the world. What remains is the peak, the highest point in the Spine of Order, and the site of the Dominion's most sacred pilgrimage.
+Crown's Reach exists because of The Crown, the topmost vertebra of [[The Twelve#Solvaen|Solvaen's]] Spine, where the god's skull would have connected to his body. The skull itself was driven into the earth on impact and has never been found, though the [[Order of the Ashen Flame|Church]] teaches that it rests in a sacred hollow beneath the world. What remains is the peak, the highest point in the Spine of Order, and the site of the Dominion's most sacred pilgrimage.
 
 The town clusters at the mountain's base, a small, Church-controlled settlement of pilgrim hostels, supply shops, shrines, and administrative buildings. It is tidy, reverent, and bustling with a constant stream of the faithful arriving to make the climb. The economy is pilgrimage: guiding, housing, feeding, and equipping those who seek "the last thought of God."
 
@@ -58,7 +58,7 @@ The part of town where the guides, porters, cooks, and laborers live, the people
 
 ## Key NPCs
 
-- **Prior Gault Ashworth** , The Church official who manages Crown's Reach and its pilgrimages. Fifties, tall, deliberate, with the careful speech of a man who weighs every word. A true believer who has climbed The Crown twice. He came down certain both times that the Church is righteous. He also came down certain, both times, that something beneath the Spine of Order is wrong. He has never reported the second certainty. It keeps him awake at night.
+- **[[Prior Gault Ashworth]]** , The Church official who manages Crown's Reach and its pilgrimages. Fifties, tall, deliberate, with the careful speech of a man who weighs every word. A true believer who has climbed The Crown twice. He came down certain both times that the Church is righteous. He also came down certain, both times, that something beneath the Spine of Order is wrong. He has never reported the second certainty. It keeps him awake at night.
 - **Sister Maren Veyl** , Head of the Keepers of the Way. A weathered mountain woman in her forties who has climbed The Crown more than a hundred times as a guide. She has never stayed at the summit long enough for the Hum to take hold. She says this is professionalism. Her colleagues suspect it is fear.
 - **Old Tam** , A retired porter who runs the Doubt Quarter's only tavern. He has heard every pilgrim's story for thirty years and has opinions about all of them. Excellent source of local lore, rumor, and blunt common sense.
 
@@ -66,7 +66,7 @@ The part of town where the guides, porters, cooks, and laborers live, the people
 
 ## Adventure Hooks
 
-- **The Righteous Murder.** A pilgrim came down from The Crown and immediately attempted to murder a [[Major Factions#The Cinders|Cinder]] agent in the Hall of Certainty, absolutely certain the agent was a traitor to the Dominion. She was right. The Cinders have arrested the pilgrim. The dead agent's belongings contain encrypted documents that could implicate [[Delric Mourne]], if anyone can retrieve them before the Cinders clean the scene.
+- **The Righteous Murder.** A pilgrim came down from The Crown and immediately attempted to murder a [[The Cinders|Cinder]] agent in the Hall of Certainty, absolutely certain the agent was a traitor to the Dominion. She was right. The Cinders have arrested the pilgrim. The dead agent's belongings contain encrypted documents that could implicate [[Delric Mourne]], if anyone can retrieve them before the Cinders clean the scene.
 - **The Dreaming Gods.** Another pilgrim descended certain that the gods aren't dead, that they're dreaming, and that the dreams are starting to bleed into the waking world. The Church is suppressing the account. The pilgrim is being held in the Hall of Certainty under "observation." Prior Ashworth is troubled, because the pilgrim's certainty matches his own secret conviction about the Spine.
 
 > [!warning]- GM Only

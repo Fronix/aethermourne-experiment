@@ -152,14 +152,14 @@ These are ready-made hooks, not complete characters. Take what works, discard th
 ### 3. The Vigil Deserter
 
 **Region:** [[The Pale Wastes]]
-**Concept:** Served in the [[Major Factions#Ashen Vigil|Ashen Vigil]] for ten years. Left after the silence started, the dead stopped rising, and the veterans got nervous. Something is wrong in the north, and staying felt like waiting to die.
+**Concept:** Served in the [[The Ashen Vigil|Ashen Vigil]] for ten years. Left after the silence started, the dead stopped rising, and the veterans got nervous. Something is wrong in the north, and staying felt like waiting to die.
 **Hook:** They carry a Vigil badge that still glows faintly with Morrhaelite resonance. It should not do that. Morrhaelite absorbs energy, it does not produce it. Something has changed about the material, or about the god it came from.
 **Tension:** They left because they were afraid. They have not stopped being afraid. Running south did not help.
 
 ### 4. The Greensinger's Apprentice
 
 **Region:** [[The Verdant Marches]]
-**Concept:** Training under a [[Major Factions#Greensingers|Greensinger]] elder when the Rootmind surges started. The land's awareness is waking up, faster and more aggressively than anyone expected. Their mentor walked into the Thyrea's Heartwood and did not come back.
+**Concept:** Training under a [[The Greensingers|Greensinger]] elder when the Rootmind surges started. The land's awareness is waking up, faster and more aggressively than anyone expected. Their mentor walked into the Thyrea's Heartwood and did not come back.
 **Hook:** Before their mentor vanished, they said: "The Marches are not Thyrea's body. They are her *dream*. And she is having a nightmare."
 **Tension:** Primal Communion requires trust in the land. The land is behaving erratically. Trust is getting harder.
 
