@@ -1,5 +1,30 @@
 # Changelog
 
+## 2026-03-22, Three Divine Artifact Files
+
+Created three new divine artifact files, expanding the artifact collection beyond The Resonant Blade. Updated The Twelve.md to cross-reference The Black Lantern.
+
+### New Content Created
+
+| File | Associated God | Region | Campaign Role |
+|---|---|---|---|
+| `Solvaen's Mandala.md` | Solvaen (Order) | Ashen Dominion | Act II, detects Serith's shadow-root network |
+| `The Verdant Crown.md` | Thyrea (Growth) | Verdant Marches | Act III, entangled with Serith's corruption |
+| `The Black Lantern.md` | Morrhael (Death) | Pale Wastes | Act IV, key to repairing the death-cycle |
+
+### Existing Files Updated
+
+- `The Twelve.md`, updated Morrhael's Lantern GM Note to reflect Revenant Yael holding the Lantern, added wikilink to [[The Black Lantern]]
+
+### Notes
+
+- All three artifacts follow the established artifact template and match The Resonant Blade's depth/quality
+- Each artifact ties to a specific campaign act, divine material, and faction conflict
+- No new NPCs created (all referenced NPCs are existing)
+- No contradictions with established lore identified
+
+---
+
 ## 2026-03-21, The Iron Descent Expansion
 
 Major expansion adding Kaevroth's surviving divine domain as a nine-layered pocket plane within the Shattered Empyrean. The Iron Descent is the only Empyrean realm to survive the Theomachis intact, feeding on mortal ambition through scattered iron fragments.

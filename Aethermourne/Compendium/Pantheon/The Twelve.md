@@ -167,12 +167,12 @@ Some Remnants have persisted for centuries. They build communities. They remembe
 
 Whether the Remnants are a tragedy (souls denied their rest) or a grotesque gift (a form of immortality, however diminished) is one of the great moral questions of Aethermourne.
 
-> [!warning]- GM Note , Morrhael's Lantern
-> Morrhael's black lantern , his divine artifact , was not destroyed when he died. It lies somewhere in the Hollowdeep, buried beneath the accumulated dead. If found and relit, it could theoretically restore passage for the souls in the Pale Wastes , a mass release that would depopulate the region of undead almost overnight.
+> [!warning]- GM Note, Morrhael's Lantern
+> Morrhael's black lantern, his divine artifact, was not destroyed when he died. It was found by the first of the risen dead and has been held by [[Revenant Yael]] of the [[Remnants Court|Remnants' Court]] for over a thousand years. The [[Major Factions#Ashen Vigil|Ashen Vigil]] has searched for it for centuries, believing it lost in the Hollowdeep. They do not know Yael has it.
 >
-> The Ashen Vigil has been searching for the Lantern for centuries. They have never found it.
+> If found and relit at full power, it could theoretically restore passage for the souls in the Pale Wastes, a mass release that would depopulate the region of undead almost overnight.
 >
-> Serith knows where it is. She has ensured it remains buried , because the broken death-domain is useful to her. The undead are pawns she can organize and direct through Morrhael's shattered system. If the Lantern is relit, she loses her army.
+> [[The Twelve#Serith|Serith]] knows where it is. She has ensured it remains hidden, because the broken death-domain is useful to her. The undead are pawns she can organize and direct through Morrhael's shattered system. If the Lantern is relit, she loses her army.
 >
 > This is one of the campaign's most important hidden objectives: find the Lantern, relight it, and free the dead.
 
