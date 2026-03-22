@@ -1,5 +1,44 @@
 # Changelog
 
+## 2026-03-22 21:16, Cycle 25: Full map sync (64 settlements, 28 landmarks)
+
+Synced all vault settlements and landmarks to the world map (data/map-data.json). Map went from 10 settlements + 10 landmarks to 64 settlements + 28 landmarks across all 10 regions.
+
+**Map sync:**
+- Added 54 settlements to map-data.json (30 in pass 1, 24 in pass 2)
+- Added 18 landmarks to map-data.json
+- All 10 regions now fully populated on the map
+- All Unwritten Lands settlements placed
+
+**Geographic enrichment (14 settlements):**
+Added directional placement, proximity to landmarks, and terrain context to 14 settlements flagged by the Cartographer as geographically vague.
+
+**Ashen Dominion:**
+- Ashveil: placed 40mi SE of Ostivaar, at eastern edge of Calcified Forest
+- Crown's Reach: placed at Spine's northern terminus, 50mi north of Ostivaar, near Pale Wastes border
+- Greyfield: placed in western Ashfields, 20mi west of Ostivaar on the Cinderholm road
+
+**Hollowed Reach:**
+- Keel's Landing: placed in southern archipelago, half-day sail south of Tidewall, connected by Tidal Bridge
+- Driftmere: placed in northern/western outer archipelago, avoids Trench waters
+- Mistholm: placed on southern Shattered Coast, closest mainland point to the Trench, day's ride south of Tidewall
+- Saltmere: placed on northern Shattered Coast, 10mi up the coast from Mistholm
+
+**Verdant Marches:**
+- Thornhaven: placed at western edge of Thyrea's Cradle, 2 days SW of Roothold, in Bloom Peaks foothills
+
+**Pale Wastes:**
+- The Pyre: placed on central tundra, 2 days SW of Greyhold, where Marrow Fields thin
+- Ashenmere: placed 3 days NE of Greyhold, eastern Wastes, east of the Marrow Fields
+
+**Ironmarch:**
+- The Red Garrison: placed in northern Iron Fields, 1 day north of Duskfield, 2 days east of Contested Corridor
+- Duskfield: placed in central-western Iron Fields, between Ironhaven (SW) and Red Garrison (N)
+
+**Emberveil:**
+- Hearthdeep: placed in eastern Warm Valleys, half-day from Crucible, at base of the Anvil peak
+- Anvilrest: placed on western Caldera Ring arc, between Tongs and Quench peaks, 1 day from Crucible
+
 ## 2026-03-22 19:16, Cycle 24: Campaign restructure + The Iron Ascendant
 
 Restructured campaign organization so the world supports multiple campaigns. Created Aethermourne's second campaign, "The Iron Ascendant."

@@ -259,6 +259,132 @@
       "name": "The Sundering Sea",
       "type": "label",
       "position": [500, 1020]
+    },
+    {
+      "name": "Mount Thalvor",
+      "type": "landmark",
+      "description": "Sacred volcanic peak at center of Caldera Ring",
+      "position": [690, 590],
+      "region": "emberveil"
+    },
+    {
+      "name": "The Marrow Bogs",
+      "type": "landmark",
+      "description": "Thyrea's marrow seepage zone, south of the Cradle",
+      "position": [120, 620],
+      "region": "verdant-marches"
+    },
+    {
+      "name": "Thyrea's Cradle",
+      "type": "landmark",
+      "description": "Heart of the Verdant Marches, primeval forest",
+      "position": [150, 520],
+      "region": "verdant-marches"
+    },
+    {
+      "name": "The Marrow Fields",
+      "type": "landmark",
+      "description": "Scattered divine bone protrusion sites",
+      "position": [220, 480],
+      "region": "pale-wastes"
+    },
+    {
+      "name": "The Ashborn Tundra",
+      "type": "landmark",
+      "description": "Frozen plains between Pale Wastes Holds",
+      "position": [400, 200],
+      "region": "pale-wastes"
+    },
+    {
+      "name": "The Bloom",
+      "type": "landmark",
+      "description": "Southwestern Thornwild, Thyrea-dominant growth zone",
+      "position": [180, 340],
+      "region": "thornwild"
+    },
+    {
+      "name": "The Wilt",
+      "type": "landmark",
+      "description": "Northeastern Thornwild, Morrhael-dominant death zone",
+      "position": [240, 280],
+      "region": "thornwild"
+    },
+    {
+      "name": "The Bonewood",
+      "type": "landmark",
+      "description": "Deep interior Thornwild, extreme Cycle collision",
+      "position": [210, 310],
+      "region": "thornwild"
+    },
+    {
+      "name": "The Threshold",
+      "type": "landmark",
+      "description": "Central balance band between Bloom and Wilt",
+      "position": [205, 320],
+      "region": "thornwild"
+    },
+    {
+      "name": "The Shattered Coast",
+      "type": "landmark",
+      "description": "Fractured western coastline of the Hollowed Reach",
+      "position": [280, 750],
+      "region": "hollowed-reach"
+    },
+    {
+      "name": "The Weeping Isles",
+      "type": "landmark",
+      "description": "Sacred archipelago, Belara's remains",
+      "position": [230, 850],
+      "region": "hollowed-reach"
+    },
+    {
+      "name": "The Ashfields",
+      "type": "landmark",
+      "description": "Vast grey plains surrounding Spine of Order",
+      "position": [520, 440],
+      "region": "ashen-dominion"
+    },
+    {
+      "name": "The Calcified Forest",
+      "type": "landmark",
+      "description": "Eastern petrified woodland",
+      "position": [680, 340],
+      "region": "ashen-dominion"
+    },
+    {
+      "name": "The Iron Fields",
+      "type": "landmark",
+      "description": "Interior heartland, dense with Kaevroth fragments",
+      "position": [840, 450],
+      "region": "ironmarch"
+    },
+    {
+      "name": "The Shardfall",
+      "type": "landmark",
+      "description": "Southeastern fragment impact zone",
+      "position": [870, 580],
+      "region": "ironmarch"
+    },
+    {
+      "name": "The Contested Corridor",
+      "type": "landmark",
+      "description": "Strategic pass between Ironmarch and Dominion",
+      "position": [750, 380],
+      "region": "ironmarch"
+    },
+    {
+      "name": "The Nethys Pools",
+      "type": "landmark",
+      "description": "Ley-saturated pool network, center of Greymere",
+      "position": [350, 630],
+      "region": "greymere-fenlands"
+    },
+    {
+      "name": "The Deep Warrens",
+      "type": "landmark",
+      "description": "Subsurface tunnel network beneath Emberveil",
+      "position": [640, 670],
+      "region": "emberveil"
     }
   ],
   "settlements": [
@@ -271,6 +397,60 @@
     {"name": "Riftmarket", "region": "shattered-edge", "position": [450, 420], "population": 5000, "type": "capital", "description": "Largest settlement, built near the Maelstrom"},
     {"name": "Fenholm", "region": "greymere-fenlands", "position": [630, 430], "population": 6000, "type": "capital", "description": "Built on stilts above luminous marshwater"},
     {"name": "Cyclethorn", "region": "thornwild", "position": [300, 270], "population": 2000, "type": "capital", "description": "On the Threshold between Bloom and Wilt"},
-    {"name": "Tidecross", "region": "unwritten-lands", "position": [500, 1150], "population": 0, "type": "capital", "description": "Trade hub on the Veilshore"}
+    {"name": "Tidecross", "region": "unwritten-lands", "position": [500, 1150], "population": 0, "type": "capital", "description": "Trade hub on the Veilshore"},
+    {"name": "Cinderholm", "region": "ashen-dominion", "position": [320, 330], "population": 120000, "type": "city", "description": "Western border fortress facing Scarwall"},
+    {"name": "Hearthstone", "region": "ashen-dominion", "position": [490, 500], "population": 25000, "type": "city", "description": "Built into cleft between Spine vertebrae"},
+    {"name": "Pale Sentry", "region": "ashen-dominion", "position": [580, 310], "population": 15000, "type": "city", "description": "Northern border fortress watching Pale Wastes"},
+    {"name": "Thornwall", "region": "ashen-dominion", "position": [335, 350], "population": 8000, "type": "town", "description": "In the Scar, facing Scarwall directly"},
+    {"name": "Veil Harbor", "region": "hollowed-reach", "position": [270, 920], "population": 60000, "type": "city", "description": "Sea caves of Shattered Coast"},
+    {"name": "Bridgemere", "region": "hollowed-reach", "position": [430, 850], "population": 8000, "type": "town", "description": "Island at junction of three Tidal Bridges"},
+    {"name": "Weeping Shore", "region": "hollowed-reach", "position": [240, 820], "population": 500, "type": "village", "description": "Mainland coast, closest to Weeping Isles"},
+    {"name": "Mirewatch", "region": "verdant-marches", "position": [130, 650], "population": 8000, "type": "town", "description": "Floating settlement on Marrow Bogs"},
+    {"name": "Sporeheim", "region": "verdant-marches", "position": [540, 120], "population": 5000, "type": "town", "description": "High in Bloom Peaks, mountain caves"},
+    {"name": "Stillwater", "region": "verdant-marches", "position": [150, 590], "population": 3000, "type": "town", "description": "Shore of Stillwater Lake"},
+    {"name": "Ashwalker's Post", "region": "verdant-marches", "position": [310, 420], "population": 2000, "type": "town", "description": "Border settlement on Marcher side of Scarwall"},
+    {"name": "Canopy Rest", "region": "verdant-marches", "position": [165, 540], "population": 1000, "type": "village", "description": "Mid-canopy waystation 200 feet up"},
+    {"name": "Lastlight", "region": "pale-wastes", "position": [200, 420], "population": 5000, "type": "town", "description": "Rocky ridge overlooking Hollowdeep"},
+    {"name": "Ember's Rest", "region": "pale-wastes", "position": [380, 300], "population": 2000, "type": "town", "description": "Southern gateway near Pale Sentry"},
+    {"name": "Frostmere", "region": "pale-wastes", "position": [580, 130], "population": 800, "type": "village", "description": "Fishing hold on Bitter Sea, GONE SILENT"},
+    {"name": "Bonecairn", "region": "pale-wastes", "position": [180, 460], "population": 600, "type": "village", "description": "Edge of Marrow Field, near Hollowdeep"},
+    {"name": "Bone Garden", "region": "thornwild", "position": [215, 295], "population": 1200, "type": "village", "description": "The Wilt, border with Threshold"},
+    {"name": "Ashbloom", "region": "thornwild", "position": [230, 270], "population": 800, "type": "village", "description": "The Wilt"},
+    {"name": "Rootpyre", "region": "thornwild", "position": [190, 360], "population": 600, "type": "village", "description": "The Bloom"},
+    {"name": "Shimmer", "region": "shattered-edge", "position": [365, 490], "population": 2000, "type": "town", "description": "Heart of Shimmer Zone"},
+    {"name": "The Last Certainty", "region": "shattered-edge", "position": [395, 450], "population": 1500, "type": "town", "description": "Stable Ring"},
+    {"name": "Edgewatch", "region": "shattered-edge", "position": [330, 375], "population": 800, "type": "village", "description": "Threshold border"},
+    {"name": "Wrathspire", "region": "ironmarch", "position": [880, 600], "population": 8000, "type": "town", "description": "Southeastern Shardfall, shadow of Kaevroth Monolith"},
+    {"name": "Shieldbreak", "region": "ironmarch", "position": [900, 700], "population": 3000, "type": "town", "description": "Natural harbor on Rust Coast"},
+    {"name": "Cinderfall", "region": "emberveil", "position": [685, 610], "population": 8000, "type": "town", "description": "Slopes of Mount Thalvor"},
+    {"name": "Smokewall", "region": "emberveil", "position": [570, 580], "population": 3000, "type": "town", "description": "Major pass between Emberveil and Dominion"},
+    {"name": "Glimwater", "region": "greymere-fenlands", "position": [370, 640], "population": 3000, "type": "town", "description": "Eastern edge of Glimpool"},
+    {"name": "The Drowning Bridge", "region": "greymere-fenlands", "position": [330, 680], "population": 2000, "type": "town", "description": "Midpoint of Smuggler's Sluice"},
+    {"name": "Ashcreek", "region": "greymere-fenlands", "position": [400, 590], "population": 1500, "type": "village", "description": "Northern edge, Dominion border"},
+    {"name": "Sporeling", "region": "greymere-fenlands", "position": [340, 620], "population": 800, "type": "village", "description": "Deep Fen"},
+    {"name": "Ashveil", "region": "ashen-dominion", "position": [640, 380], "population": 80000, "type": "city", "description": "Eastern edge of Calcified Forest, 40mi SE of Ostivaar"},
+    {"name": "Crown's Reach", "region": "ashen-dominion", "position": [410, 450], "population": 3000, "type": "town", "description": "Northernmost vertebra of Spine of Order, 50mi N of Ostivaar"},
+    {"name": "Greyfield", "region": "ashen-dominion", "position": [350, 465], "population": 4000, "type": "town", "description": "Western Ashfields, 20mi W of Ostivaar"},
+    {"name": "Keel's Landing", "region": "hollowed-reach", "position": [580, 920], "population": 18000, "type": "city", "description": "Southern archipelago, half-day sail S of Tidewall"},
+    {"name": "Driftmere", "region": "hollowed-reach", "position": [360, 850], "population": 15000, "type": "city", "description": "Circuits northern/western outer islands"},
+    {"name": "Mistholm", "region": "hollowed-reach", "position": [290, 790], "population": 3000, "type": "town", "description": "Southern Shattered Coast, closest mainland to Trench"},
+    {"name": "Saltmere", "region": "hollowed-reach", "position": [270, 760], "population": 1500, "type": "village", "description": "Northern Shattered Coast, 10mi N of Mistholm"},
+    {"name": "Thornhaven", "region": "verdant-marches", "position": [80, 480], "population": 12000, "type": "city", "description": "Western edge Thyrea's Cradle, 2 days SW of Roothold, Bloom Peaks foothills"},
+    {"name": "The Pyre", "region": "pale-wastes", "position": [220, 520], "population": 0, "type": "landmark", "description": "Sacred site, central tundra, 2 days SW of Greyhold, where Marrow Fields thin"},
+    {"name": "Ashenmere", "region": "pale-wastes", "position": [660, 150], "population": 2000, "type": "town", "description": "3 days NE of Greyhold, eastern Wastes"},
+    {"name": "The Red Garrison", "region": "ironmarch", "position": [840, 350], "population": 15000, "type": "city", "description": "Northern Iron Fields, 1 day N of Duskfield, 2 days E of Contested Corridor"},
+    {"name": "Duskfield", "region": "ironmarch", "position": [820, 480], "population": 5000, "type": "town", "description": "Central-western Iron Fields, between Ironhaven and Red Garrison"},
+    {"name": "Hearthdeep", "region": "emberveil", "position": [710, 630], "population": 12000, "type": "city", "description": "Eastern Warm Valleys, half-day from Crucible, base of Anvil peak"},
+    {"name": "Anvilrest", "region": "emberveil", "position": [620, 580], "population": 5000, "type": "town", "description": "Western Caldera Ring arc, between Tongs and Quench peaks"},
+    {"name": "Tidecross", "region": "unwritten-lands", "position": [500, 1150], "population": 2400, "type": "city", "description": "Veilshore, only reliable harbor"},
+    {"name": "Keth'vaal", "region": "unwritten-lands", "position": [520, 1300], "population": 28000, "type": "city", "description": "Oldborn Kingdoms center, Obsidian Plateau"},
+    {"name": "Ur-Saethen", "region": "unwritten-lands", "position": [480, 1280], "population": 22000, "type": "city", "description": "Oldborn Kingdoms, central highlands"},
+    {"name": "Hael'rune", "region": "unwritten-lands", "position": [510, 1200], "population": 14000, "type": "city", "description": "Oldborn Kingdoms eastern edge near Veilshore"},
+    {"name": "Skeinhold", "region": "unwritten-lands", "position": [600, 1380], "population": 90, "type": "village", "description": "Loom's Edge southern border, mountain shelf"},
+    {"name": "Anchorseat", "region": "unwritten-lands", "position": [550, 1100], "population": 180, "type": "village", "description": "Primordia eastern edge around Primordial Anchor"},
+    {"name": "Tidecaller's Rest", "region": "unwritten-lands", "position": [560, 1140], "population": 180, "type": "village", "description": "Veilshore, 40mi south of Tidecross"},
+    {"name": "Draveth", "region": "unwritten-lands", "position": [500, 1380], "population": 18000, "type": "city", "description": "Oldborn Kingdoms, Ashfall Range caldera, western edge"},
+    {"name": "Ashmark", "region": "unwritten-lands", "position": [570, 1160], "population": 340, "type": "village", "description": "Veilshore southern coast, 3 days from Tidecross"},
+    {"name": "Gyre's Maw", "region": "unwritten-lands", "position": [520, 1120], "population": 340, "type": "village", "description": "Primordia, around Primordial vent"}
   ]
 }

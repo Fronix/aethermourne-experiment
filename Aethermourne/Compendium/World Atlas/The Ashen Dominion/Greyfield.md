@@ -22,7 +22,7 @@ parent-location: The Ashen Dominion
 
 ## Overview
 
-Greyfield is a farming village in the heart of the Ashfields, built around a particularly large and potent Solvaen's Finger, a thirty-foot shard of divine bone protruding from the grey soil like a monument. The village is, by every measurable standard, prosperous. Crops grow well. Crime is nonexistent. The streets are clean, the houses maintained, the people polite and productive.
+Greyfield is a farming village in the western Ashfields, roughly twenty miles west of [[Ostivaar]] along the grain road that connects the capital to [[Cinderholm]]. It is built around a particularly large and potent Solvaen's Finger, a thirty-foot shard of divine bone protruding from the grey soil like a monument. The village is, by every measurable standard, prosperous. Crops grow well. Crime is nonexistent. The streets are clean, the houses maintained, the people polite and productive.
 
 Something is wrong.
 

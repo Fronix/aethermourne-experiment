@@ -13,7 +13,7 @@ parent-location: The Hollowed Reach
 
 **Population:** ~1,500
 
-A fishing village on the [[The Hollowed Reach|Shattered Coast]], one of the larger coastal communities and, until two years ago, completely untouched by the Sleepwalker crisis. That changed without warning. One night, a dozen villagers rose from their beds and walked toward the shore. Three reached the water before anyone could stop them. Now it happens every night.
+A fishing village on the northern [[The Shattered Coast|Shattered Coast]], perched on a rocky headland roughly ten miles up the mainland coast from [[Mistholm]]. It is one of the larger coastal communities and, until two years ago, was completely untouched by the Sleepwalker crisis. That changed without warning. One night, a dozen villagers rose from their beds and walked toward the shore. Three reached the water before anyone could stop them. Now it happens every night.
 
 Saltmere is known for two things: excellent fishing, because the waters nearby are unusually rich, and the **binding custom**, a nightly ritual where families tie each other to bedposts, chair legs, and doorframes before sleeping. Children learn to tie knots before they learn to swim. The sound of rope being tested is Saltmere's lullaby.
 

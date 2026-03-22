@@ -30,7 +30,7 @@ parent-location: The Emberveil
 
 ## Overview
 
-Hearthdeep is not a city so much as a wound in the earth. Built vertically into a vast volcanic shaft, the settlement descends in concentric platforms bolted to the shaft walls, connected by lifts, ladders, and spiralling ramps carved from the living rock. Looking up from the lower levels, the surface is a distant circle of grey sky. Looking down is worse.
+Hearthdeep is not a city so much as a wound in the earth. Located in the eastern [[The Emberveil#The Warm Valleys|Warm Valleys]], half a day's travel from [[Crucible]] along a road that follows the base of the Caldera Ring's inner peaks, its surface entrance sits where the valley floor meets the roots of the Anvil, the second-largest peak after [[Mount Thalvor]]. Built vertically into a vast volcanic shaft, the settlement descends in concentric platforms bolted to the shaft walls, connected by lifts, ladders, and spiralling ramps carved from the living rock. Looking up from the lower levels, the surface is a distant circle of grey sky. Looking down is worse.
 
 The upper levels are comfortable enough, warm stone, well-lit workshops, communal kitchens that serve meals at all hours to accommodate the shift rotations. The middle levels are hotter, the air thick with mineral dust, the stone walls glowing faintly where geothermal veins run close to the surface. The deepest accessible levels are hostile to sustained life, so hot that workers rotate in shifts of minutes rather than hours, their skin slick with heat-resistant salve, their lungs burning through wet cloth masks. This is where forgeheart steel is found, metal seams that glow with residual divine energy, too hot to touch with bare hands, too precious to leave in the ground.
 

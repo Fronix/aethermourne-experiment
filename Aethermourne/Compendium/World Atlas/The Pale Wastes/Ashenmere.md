@@ -20,7 +20,7 @@ parent-location: "[[The Pale Wastes]]"
 
 The most controversial settlement in the [[The Pale Wastes|Pale Wastes]], and possibly in Aethermourne. A community where the living and the intelligent undead live side by side, sharing labor, resources, governance, and the persistent, unresolved question of what it means to be a person when your heart no longer beats.
 
-Ashenmere sits on the shore of a frozen lake in the eastern Wastes, built from grey stone and divine bone like every other Hold but distinguished by its architecture: buildings designed for inhabitants who do not need warmth. Remnant quarters are bare stone chambers, cold as the tundra outside, furnished with nothing more than a surface to sit and a space to think. The contrast with the living quarters, fire-warmed, insulated, full of the clutter of daily existence, is stark and unsettling.
+Ashenmere sits on the shore of a frozen lake in the eastern Wastes, three days' ride northeast of [[Greyhold]] and well east of the [[#The Marrow Fields|Marrow Fields]], where the necromantic contamination is thin enough that Remnants retain coherence more easily. Built from grey stone and divine bone like every other Hold but distinguished by its architecture: buildings designed for inhabitants who do not need warmth. Remnant quarters are bare stone chambers, cold as the tundra outside, furnished with nothing more than a surface to sit and a space to think. The contrast with the living quarters, fire-warmed, insulated, full of the clutter of daily existence, is stark and unsettling.
 
 ---
 

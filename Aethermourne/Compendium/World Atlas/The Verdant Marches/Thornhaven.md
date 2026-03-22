@@ -19,7 +19,7 @@ parent-location: "[[The Verdant Marches]]"
 
 ## Overview
 
-Thornhaven is [[Kaelith Thornborn]]'s creation, a settlement built at the edge of [[The Verdant Marches#Thyrea's Cradle|Thyrea's Cradle]] where no settlement should be possible. The deep Cradle does not permit clearing; the forest closes in on any gap within weeks. But Thornhaven sits in a clearing that the Cradle itself provided. The trees drew back, the undergrowth retreated, and a space of several acres opened like a held breath. Kaelith claims [[The Twelve#Thyrea|Thyrea]] made this space for them. [[The Greensingers]], after thorough communion, confirm the clearing was not made by mortal hands. They disagree on what that means.
+Thornhaven is [[Kaelith Thornborn]]'s creation, a settlement built at the western edge of [[Thyrea's Cradle]] where no settlement should be possible. It lies roughly two days' travel southwest of [[Roothold]], in the foothills where the Cradle's ancient canopy meets the rising ground of the [[The Bloom Peaks|Bloom Peaks]]. The deep Cradle does not permit clearing; the forest closes in on any gap within weeks. But Thornhaven sits in a clearing that the Cradle itself provided. The trees drew back, the undergrowth retreated, and a space of several acres opened like a held breath. Kaelith claims [[The Twelve#Thyrea|Thyrea]] made this space for them. [[The Greensingers]], after thorough communion, confirm the clearing was not made by mortal hands. They disagree on what that means.
 
 **Population:** ~12,000 and growing
 

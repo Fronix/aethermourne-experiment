@@ -22,7 +22,7 @@ parent-location: The Ashen Dominion
 
 ## Overview
 
-Crown's Reach exists because of The Crown, the topmost vertebra of [[The Twelve#Solvaen|Solvaen's]] Spine, where the god's skull would have connected to his body. The skull itself was driven into the earth on impact and has never been found, though the [[Order of the Ashen Flame|Church]] teaches that it rests in a sacred hollow beneath the world. What remains is the peak, the highest point in the Spine of Order, and the site of the Dominion's most sacred pilgrimage.
+Crown's Reach exists because of The Crown, the northernmost and highest vertebra of [[The Spine of Order|the Spine of Order]], where [[The Twelve#Solvaen|Solvaen's]] skull would have connected to his body. The peak rises at the Spine's northern terminus, roughly fifty miles north of [[Ostivaar]], where the mountain range narrows and climbs to its greatest elevation before dropping sharply toward [[The Pale Wastes]]. The skull itself was driven into the earth on impact and has never been found, though the [[Order of the Ashen Flame|Church]] teaches that it rests in a sacred hollow beneath the world. What remains is the peak, the highest point in the Spine of Order, and the site of the Dominion's most sacred pilgrimage.
 
 The town clusters at the mountain's base, a small, Church-controlled settlement of pilgrim hostels, supply shops, shrines, and administrative buildings. It is tidy, reverent, and bustling with a constant stream of the faithful arriving to make the climb. The economy is pilgrimage: guiding, housing, feeding, and equipping those who seek "the last thought of God."
 

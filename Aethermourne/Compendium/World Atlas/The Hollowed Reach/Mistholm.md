@@ -17,7 +17,7 @@ parent-location: The Hollowed Reach
 
 **Population:** ~3,000
 
-Mistholm sits in a deep natural cove on the [[The Hollowed Reach|Shattered Coast]], where the cliffs curve inward and trap the fog. The fog never fully lifts here. On clear days it thins to a grey haze. On bad days it swallows the town whole, and the only light comes from the lanterns strung along every rope and railing.
+Mistholm sits in a deep natural cove on the southern [[The Shattered Coast|Shattered Coast]], the mainland stretch closest to [[The Abyssal Trench]], roughly a day's ride south of [[Tidewall]] where the cliffs curve inward and trap the fog. The fog never fully lifts here. On clear days it thins to a grey haze. On bad days it swallows the town whole, and the only light comes from the lanterns strung along every rope and railing.
 
 This is where the **Sleepwalker phenomenon** is most concentrated. On bad nights, a third of the population rises from sleep and walks toward the sea. Slowly, silently, with expressions of absolute peace on their faces. The peace is the worst part. The [[Lantern-Keepers]] stationed here have learned not to look at the walkers' faces, because serenity on the face of someone walking to their death is harder to bear than screaming.
 

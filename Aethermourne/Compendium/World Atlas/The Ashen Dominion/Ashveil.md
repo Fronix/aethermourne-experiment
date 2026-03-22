@@ -23,7 +23,7 @@ parent-location: The Ashen Dominion
 
 ## Overview
 
-Ashveil sits on the eastern edge of the Calcified Forest, a university city built from white bone-stone quarried from the forest's fully mineralized core. It is the Dominion's center of learning, home to scholars, mages, theologians, and the dangerously curious.
+Ashveil sits on the eastern edge of the [[The Calcified Forest|Calcified Forest]], roughly forty miles southeast of [[Ostivaar]], where the Ashfields give way to the white stone woodland. It is the Dominion's second-largest city and its center of learning, a university settlement built from white bone-stone quarried from the forest's fully mineralized core, home to scholars, mages, theologians, and the dangerously curious.
 
 The city is beautiful in a stark, austere way. Buildings of white bone-stone with geometric facades line broad avenues. The Calcified Forest's edge forms the eastern boundary, the white trees visible from everywhere, a constant reminder that knowledge and petrification are, in this place, uncomfortably related metaphors. The air here is dry and still, carrying a faint mineral scent, and sound carries strangely between the stone facades, whispers traveling farther than they should.
 

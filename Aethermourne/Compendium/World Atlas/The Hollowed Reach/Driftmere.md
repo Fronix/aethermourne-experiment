@@ -17,7 +17,7 @@ parent-location: The Hollowed Reach
 
 **Population:** ~15,000 (fluctuates between 8,000 and 25,000 depending on season, trade, and who's running from what)
 
-Driftmere is not a city in any conventional sense. It is a floating mass of lashed-together ships, barges, platforms, and pontoons that drifts with the currents around the outer archipelago of [[The Hollowed Reach]]. It has no fixed position, no permanent foundations, and no laws. It operates on custom, reputation, and the ever-present threat of consequence.
+Driftmere is not a city in any conventional sense. It is a floating mass of lashed-together ships, barges, platforms, and pontoons that drifts with the currents around the outer archipelago of [[The Hollowed Reach]], generally circling the wilder northern and western islands where the Tidal Bridges have long since failed. On any given week it might be anchored in the lee of a different island, though it tends to avoid the waters directly above [[The Abyssal Trench]] to the east. It has no fixed position, no permanent foundations, and no laws. It operates on custom, reputation, and the ever-present threat of consequence.
 
 Governance, such as it is, falls to the **Pirate Council**, a loose assembly of the most powerful captains whose fleets protect Driftmere from external threats. The Council meets when it must and decides little, preferring to let the city govern itself through the natural pressures of trade, grudge, and self-interest.
 
