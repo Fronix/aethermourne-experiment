@@ -138,9 +138,15 @@ async function serveStatic(req, res, pathname) {
   const ext = extname(resolved).toLowerCase()
   const contentType = MIME[ext] || "application/octet-stream"
 
-  // Cache static assets
-  const isAsset = /\.(js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|webp)$/i.test(resolved)
-  const cacheControl = isAsset ? "public, max-age=2592000, immutable" : "public, max-age=0"
+  // Cache static assets (short cache for css/js since filenames don't have content hashes)
+  const isFont = /\.(woff|woff2|ttf|eot)$/i.test(resolved)
+  const isImage = /\.(png|jpg|jpeg|gif|ico|svg|webp)$/i.test(resolved)
+  const isBundledAsset = /\.(js|css)$/i.test(resolved)
+  const cacheControl = isFont || isImage
+    ? "public, max-age=2592000, immutable"
+    : isBundledAsset
+      ? "public, max-age=300"
+      : "public, max-age=0"
 
   try {
     const content = await readFile(resolved)
