@@ -66,4 +66,4 @@ Hierarchy is based on **communion depth**, how deeply a Greensinger can connect 
 > [!warning]- GM Notes
 > Rosk suspects shadow corruption in the deep Cradle but doesn't know its source is Serith. He can feel something *hungry* in the roots, something that whispers and waits. If pressed, he'll admit he's afraid, and Rosk does not frighten easily.
 >
-> The corruption in the Cradle is Serith's influence seeping through the land via a buried [[Cosmology and Magic|Kaevroth]] fragment. The land is trying to reject it, but the fragment is too powerful. Finding and removing it is a major Marches quest.
+> The corruption in the Cradle is [[The Twelve#Serith|Serith]]'s shadow-roots threading through [[The Twelve#Thyrea|Thyrea]]'s root-network, using [[Tessara Wildbloom]]'s trapped communion link as a guide. The land is trying to reject it, contracting inward as a divine immune response. Severing the shadow-roots and rescuing Tessara is a major Marches quest (Act IV).

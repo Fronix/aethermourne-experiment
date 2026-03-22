@@ -52,7 +52,7 @@ Led by [[Kaelith Thornborn]]. These Marchwardens believe unification is necessar
 **The Ironbark Opposition (~4 Marchwardens)**
 Led by [[Draven Ironbark]], the most powerful warden after Kaelith. Ironbark is proud, traditionalist, and deeply suspicious of anyone who claims divine authority. He argues that unification under one leader is just the Dominion's model with a different name. His supporters value clan independence above all.
 
-**The Undecided (~3 Marchwardens)**
+**The Undecided (~4 Marchwardens)**
 Their allegiance will tip the balance. Each has a price:
 
 - **[[Senna Deepmoss]]**, Marchwarden of Clan Deepmoss in the Southern Cradle. Analytical, evidence-focused, distrusts divine mandates. She has quietly commissioned [[Vael Sundren]] to investigate the [[The Verdant Marches#The Marrow Bogs|Marrow Bog]] expansion. Her scouts have found dark roots spreading through the southern soil in spiraling patterns that do not match any known growth. If the evidence confirms an external cause, she sides with Kaelith. If not, she blocks unification. Senna does not trade in faith. She trades in data.

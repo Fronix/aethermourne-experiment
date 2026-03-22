@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-03-22 15:04, Cycle 15: Lore Check — Verdant Marches Audit
+
+Full lore consistency audit of The Verdant Marches (12 files: 1 region, 7 settlements, 4 landmarks). Lorekeeper found 3 contradictions, 1 broken wikilink, 3 missing NPC registry entries, and 2 internal inconsistencies. All fixes applied.
+
+**Contradictions fixed:**
+- **The Twelve.md:** Scarwall age corrected from "three centuries" to "over a millennium ago, around 900 AS" (matching Timeline.md, The Scarwall.md, The Age of Bones.md)
+- **The Greensingers.md:** Corruption mechanism corrected from "buried Kaevroth fragment" to Serith's shadow-roots through Thyrea's root-network via Tessara Wildbloom's communion link (matching Campaign Overview and Thyrea's Cradle.md)
+- **Timeline.md:** Marchwardens Council founding corrected from ~500 AS to ~300 AS (matching faction file)
+
+**Other fixes:**
+- **Thyrea's Cradle.md:** Broken wikilink fixed, now points to dedicated [[The Verdant Crown]] artifact file
+- **Marchwardens Council.md:** Undecided count corrected from ~3 to ~4 (matches 4 listed members)
+- **NPCRegistry.md:** Added 3 missing NPCs (Mira Hearthswing, Tal Hearthswing, Vell Roothollow)
+
+**Verified clean:** Em dashes (0), population numbers, NPC statuses, faction references, Thyrea god-status, magic traditions, bestiary references, campaign cross-references, callout syntax, wikilinks (~30 spot-checked).
+
 ## 2026-03-22 14:42, Cycle 14: Ironmarch & Emberveil Landmarks (5 files) + Bestiary Commit (6 files)
 
 Continued the landmark push into two more regions. Also committed 6 previously-created bestiary creatures that were sitting untracked from earlier cycles.

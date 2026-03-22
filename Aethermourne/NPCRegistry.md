@@ -97,6 +97,9 @@ type: overview
 | [[Senna Deepmoss\|Warden Senna Deepmoss]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
 | Seren Ashwood | Moot-Chair | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
 | Hallen Redthorn | Minor Clan Observer | [[The Verdant Marches]] | [[Marchwardens Council]] (Cinder operative) | Alive |
+| Mira Hearthswing | Matriarch, Canopy Rest | [[The Verdant Marches]] | None | Alive |
+| Tal Hearthswing | Resident (child) | [[The Verdant Marches]] | None | Alive |
+| Vell Roothollow | Marchwarden (Roothollow) | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
 | [[Merren Vask\|Scout-Captain Merren Vask]] | Lost Scout (Remnant) | [[The Pale Wastes]] | [[The Ashen Vigil]] | Undead |
 | [[Nara Frostmere\|Holdwarden Nara Frostmere]] | Former Holdwarden | [[The Pale Wastes]] | The Holds (Frostmere) | Dead |
 | [[Maren Duskwater]] | Fenmother | [[The Greymere Fenlands]] | [[The Confluence Council]] | Alive |
@@ -263,6 +266,9 @@ type: overview
 | [[Ivara Mistwalker]] | Spore-Seer | [[Sporeheim]] | Peak Clans |
 | Seren Ashwood | Moot-Chair | [[Roothold]] | [[Marchwardens Council]] |
 | Hallen Redthorn | Minor Clan Observer | [[Roothold]] | [[Marchwardens Council]] (Cinder operative) |
+| Mira Hearthswing | Matriarch, Canopy Rest | [[Canopy Rest]] | None |
+| Tal Hearthswing | Resident (child) | [[Canopy Rest]] | None |
+| Vell Roothollow | Marchwarden (Roothollow) | Roothollow clan territory | [[Marchwardens Council]] |
 
 ### The Hollowed Reach
 

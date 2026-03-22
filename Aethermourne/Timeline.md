@@ -56,6 +56,7 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 - **~200 AS:** First accidental mortal contact with [[The Iron Descent]] when a miner cracks a buried Kaevroth fragment.
 - **~200 AS:** [[The Greensingers]] emerge in the Verdant Marches.
 - **~280 AS:** [[The Ashen Vigil]] founded to guard against the rising dead.
+- **~300 AS:** [[Marchwardens Council|Marchwardens' Council]] formalized in the Verdant Marches (clan moots predate the Silence).
 - **~350 AS:** [[The Lantern-Keepers]] form along the southern coast.
 - **~400 AS:** Valdren the Founder declares [[The Ashen Dominion]].
 
@@ -66,7 +67,6 @@ The history of the world is divided into **Five Ages**, each detailed in its own
 *Civilizations grew from the divine wreckage.*
 
 - **~400-500 AS:** The Dominion rises. Caste system formalized. [[Order of the Ashen Flame]] established (~450 AS).
-- **~500 AS:** [[Marchwardens Council|Marchwardens' Council]] formalized in the Verdant Marches.
 - **~550 AS:** [[The Ember Guild]] founded as neutral crafting guild.
 - **~600 AS:** [[The Hollowed Reach#Tidewall|Tidewall]] founded.
 - **~600-700 AS:** The **Bone Rush**. Aggressive mining of divine materials. First **Hollow Zones** appear.

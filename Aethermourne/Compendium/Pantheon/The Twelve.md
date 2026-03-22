@@ -110,7 +110,7 @@ Everything grew. Too much. Too fast. Too wild.
 
 At the heart of the Marches lies **Thyrea's Cradle** , the place where her chest cavity rests, now a cathedral of living wood and bone. Massive plant-creatures called **Thyrea's Children** dwell there, towering beings of vine and bark that may be fragments of her shattered consciousness. No outsider has entered the Cradle and returned with a coherent account.
 
-The **Scarwall** , the living wall of thorns, roots, and predatory vegetation that borders the Dominion , grew on its own. It appeared three centuries ago when the Dominion began logging the Marches' edge. Whether Thyrea's residue grew the Scarwall as a defense or it was a natural reaction of a hyper-charged ecosystem is the subject of fierce debate.
+The **Scarwall** , the living wall of thorns, roots, and predatory vegetation that borders the Dominion , grew on its own. It appeared over a millennium ago, around 900 AS, when the Dominion began logging the Marches' edge. Whether Thyrea's residue grew the Scarwall as a defense or it was a natural reaction of a hyper-charged ecosystem is the subject of fierce debate.
 
 **Lingering Influence**
 

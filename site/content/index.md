@@ -154,7 +154,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 
 ## The NPCs
 
-- **[[NPCRegistry]]**, master index of all 153 named characters
+- **[[NPCRegistry]]**, master index of all 156 named characters
 
 ---
 
@@ -168,7 +168,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 > | **Total lines of lore** | 35,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |
-> | **Named NPCs** | 153 |
+> | **Named NPCs** | 156 |
 > | **NPC files** | 156 |
 > | **Creatures (Bestiary)** | 58 |
 > | **Factions** | 23 |
