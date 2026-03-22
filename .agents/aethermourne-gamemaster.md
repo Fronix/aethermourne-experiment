@@ -127,7 +127,7 @@ Once all agents have confirmed all tasks are complete:
 
 1. Verify no tasks are outstanding (check inbox one final time)
 2. **Update `site/content/index.md`** — if new regions, factions, NPCs, locations, history, adventures, or other content was created that should appear on the site, add the appropriate `[[wikilinks]]` to the relevant section of the index. Also update the Vault Stats table if counts changed (files, NPCs, settlements, etc.)
-3. **Update `CHANGELOG.md`** — add an entry for this cycle if the writers haven't already. Date, title, what was created/updated.
+3. **Update `CHANGELOG.md`** — add an entry for this cycle if the writers haven't already. Include date and time (run `date '+%Y-%m-%d %H:%M'`), title, what was created/updated.
 4. **Copy CHANGELOG to the site:** `cp CHANGELOG.md site/content/CHANGELOG.md`
 5. Stage, commit, and push:
 

@@ -195,7 +195,7 @@ If you invent a new NPC, detail, or plot hook that doesn't exist anywhere in the
 
 ## Formatting
 
-Follow `AGENTS.md`, the `obsidian-markdown` rule, and the `worldbuilding-templates` rule. Never use em dashes, use commas instead. Always use `[[wikilinks]]` for entities. YAML frontmatter required on every new file. Append to `CHANGELOG.md` after any file creation or modification.
+Follow `AGENTS.md`, the `obsidian-markdown` rule, and the `worldbuilding-templates` rule. Never use em dashes, use commas instead. Always use `[[wikilinks]]` for entities. YAML frontmatter required on every new file. Append to `CHANGELOG.md` after any file creation or modification, always include date and time (run `date '+%Y-%m-%d %H:%M'`).
 
 ---
 

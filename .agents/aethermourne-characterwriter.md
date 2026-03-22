@@ -212,7 +212,7 @@ Check existing NPCs in the same region and faction before naming anyone new. Eac
 
 ## Formatting
 
-Follow `AGENTS.md`, the `obsidian-markdown` rule, and the `worldbuilding-templates` rule for the Enriched NPC template. Never use em dashes, use commas instead. Always use `[[wikilinks]]` for entities. YAML frontmatter required on every NPC file. Append to `CHANGELOG.md` after any file creation or modification.
+Follow `AGENTS.md`, the `obsidian-markdown` rule, and the `worldbuilding-templates` rule for the Enriched NPC template. Never use em dashes, use commas instead. Always use `[[wikilinks]]` for entities. YAML frontmatter required on every NPC file. Append to `CHANGELOG.md` after any file creation or modification, always include date and time (run `date '+%Y-%m-%d %H:%M'`).
 
 ---
 

@@ -62,6 +62,9 @@ type: overview
 | [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[The Ashen Dominion]] | None | Alive |
 | [[Prior Gault Ashworth]] | Pilgrimage Master | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
 | [[Captain Daren Kolst]] | Garrison Commander | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Varen Ashfeld | Flame Captain, Ashguard | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Sera Ironholt | Flame Captain, Northern Garrisons | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
+| Aldren Voss | Flame Captain, Greyfield | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
 | [[Petra Venn]] | Congregation Organizer | [[The Ashen Dominion]] | [[Unbound Congregation]] | Alive |
 | [[Vael Sundren]] | Mutagenist Researcher | [[The Verdant Marches]] | Mutagenists | Alive |
 | [[Tessara Wildbloom]] | Greensinger (Missing) | [[The Verdant Marches]] | [[The Greensingers]] | Missing |
@@ -69,6 +72,8 @@ type: overview
 | [[Torvin Ashwalker\|Warden Torvin Ashwalker]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
 | [[Brannoc Stillwater\|Warden Brannoc Stillwater]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
 | [[Senna Deepmoss\|Warden Senna Deepmoss]] | Marchwarden | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
+| Seren Ashwood | Moot-Chair | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
+| Hallen Redthorn | Minor Clan Observer | [[The Verdant Marches]] | [[Marchwardens Council]] (Cinder operative) | Alive |
 | [[Merren Vask\|Scout-Captain Merren Vask]] | Lost Scout (Remnant) | [[The Pale Wastes]] | [[The Ashen Vigil]] | Undead |
 | [[Nara Frostmere\|Holdwarden Nara Frostmere]] | Former Holdwarden | [[The Pale Wastes]] | The Holds (Frostmere) | Dead |
 | [[Maren Duskwater]] | Fenmother | [[The Greymere Fenlands]] | [[The Confluence Council]] | Alive |
@@ -186,6 +191,9 @@ type: overview
 | [[Edda Haelstrom\|Foreman Edda Haelstrom]] | Mine Foreman | [[Hearthstone]] | None |
 | [[Prior Gault Ashworth]] | Pilgrimage Master | [[Crown's Reach]] | [[Order of the Ashen Flame]] |
 | [[Captain Daren Kolst]] | Garrison Commander | [[Thornwall]] | [[Order of the Ashen Flame]] |
+| Varen Ashfeld | Flame Captain, Ashguard | [[Cinderholm]] | [[Order of the Ashen Flame]] |
+| Sera Ironholt | Flame Captain, Northern Garrisons | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] |
+| Aldren Voss | Flame Captain, Greyfield | [[Greyfield]] | [[Order of the Ashen Flame]] |
 | [[Petra Venn]] | Congregation Organizer | [[Ashveil]] | [[Unbound Congregation]] |
 
 ### The Verdant Marches
@@ -201,6 +209,8 @@ type: overview
 | [[Vael Sundren]] | Mutagenist Researcher | [[Mirewatch]] | Mutagenists |
 | [[Tessara Wildbloom]] | Greensinger (Missing) | Deep Cradle | [[The Greensingers]] |
 | [[Ivara Mistwalker]] | Spore-Seer | [[Sporeheim]] | Peak Clans |
+| Seren Ashwood | Moot-Chair | [[Roothold]] | [[Marchwardens Council]] |
+| Hallen Redthorn | Minor Clan Observer | [[Roothold]] | [[Marchwardens Council]] (Cinder operative) |
 
 ### The Hollowed Reach
 

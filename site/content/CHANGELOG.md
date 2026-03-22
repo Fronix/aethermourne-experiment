@@ -1,5 +1,52 @@
 # Changelog
 
+## 2026-03-22, Hollowed Reach Bestiary (5 Files)
+
+Created 5 bestiary entries for the Hollowed Reach region, covering Trench fauna, Black Tide mutations, and Serith's psychic phenomena.
+
+### New Content Created
+
+| File | Origin | Threat | Primary Use |
+|---|---|---|---|
+| `Trench Crawlers.md` | Trench-born | Minor/swarm | Act I cannon fodder, bioluminescent pattern plot hook |
+| `Sleepwalkers.md` | Divine-corruption | Moderate | Act I moral encounters, rescue scenarios |
+| `Tideborn Horrors.md` | Natural-mutated | Moderate | Post-Black Tide atmospheric horror |
+| `Fog Singers.md` | Divine-corruption | Insidious | Non-combat cumulative threat, Sleepwalker precursor |
+| `Depth Leviathans.md` | Trench-born | Legendary | Set-piece disaster encounters, prison-failure indicator |
+
+### Notes
+
+- All five files include stat blocks (or mechanics reference for Fog Singers) in Nimble format
+- Trench Crawlers and Tideborn Horrors share a mathematical pattern connection (Serith's grammar of corruption)
+- Fog Singers serve as the entry point to the Sleepwalker phenomenon
+- Depth Leviathans are descended from Yvenne's prison guardians
+- No new NPCs created
+
+---
+
+## 2026-03-22, Ashen Dominion Bestiary (5 Files)
+
+Created 5 bestiary entries for the Ashen Dominion region, covering threats from divine corruption, natural mutation, and undead incursion.
+
+### New Content Created
+
+| File | Origin | Threat | Key Hook |
+|---|---|---|---|
+| `Calcified Stalkers.md` | natural-mutated | serious | Sacred to Ashen Flame, killing is blasphemy; erratic patterns signal Web destabilization |
+| `Ashite Geometers.md` | divine-corruption | moderate-serious | Terminal Order Sickness miners; Haelstrom cover-up; inadvertently mapping the Aetheric Web |
+| `The Undying.md` | undead | legendary | Fallen Dominion commanders who think they are still defending the border; moral combat |
+| `Order Wraiths.md` | divine-corruption | serious | Solvaen's dying thoughts; calcification petrification; lost student rescue mission |
+| `Scar Chimeras.md` | natural-mutated | variable | Bellwether for Solvaen/Thyrea divine balance; Serith corruption indicator in Act III |
+
+### Notes
+
+- All files follow the creature template (frontmatter, info box, Description, Behavior & Tactics, GM Only, Encounter Notes)
+- No new NPCs created (all referenced NPCs already exist)
+- Cross-references to Edda Haelstrom, Revenant Yael, The Black Lantern, Kaelith Thornborn, The Verdant Crown
+- No contradictions with existing lore detected
+
+---
+
 ## 2026-03-22, Act I NPC Enrichment (6 Files)
 
 Deepened 6 critical Act I NPCs from ~63 lines to 80-90 lines each, adding backstory, relationships, appearance details, and roleplay notes with sample dialogue.
