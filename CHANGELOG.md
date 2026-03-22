@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-03-22 14:42, Cycle 14: Ironmarch & Emberveil Landmarks (5 files) + Bestiary Commit (6 files)
+
+Continued the landmark push into two more regions. Also committed 6 previously-created bestiary creatures that were sitting untracked from earlier cycles.
+
+**Ironmarch landmarks (Writer1 + Writer2):**
+- [[The Shardfall]] (79 lines), the monolith zone where Kaevroth's largest fragments drive madness, fragment migration, war-essence contamination gradient
+- [[The Contested Corridor]] (61 lines), dual-region pass between Ironmarch and the Ashen Dominion, layered fortification archaeology, trade chokepoint
+- [[The Iron Fields]] (64 lines), rust-red heartland with The Drumheart as central resonance node, Mira the Red's staging ground
+
+**Emberveil landmarks (Writer1 + Writer2):**
+- [[Mount Thalvor]] (58 lines), sacred volcanic peak, the Cooling visible from summit, Ember Stairs pilgrim route, reversed thermal vents
+- [[The Deep Warrens]] (93 lines), vast underground network descending toward Thalvor's forge-chambers, the Deep Sound, Vessa Ironvow's illegal tunnels
+
+**Bestiary (previously created, now committed):**
+- [[Cinder Sprites]] (Emberveil), [[Slag Hounds]] (Emberveil), [[The Quenched]] (Emberveil)
+- [[Iron Locusts]] (Ironmarch), [[Shard-Singers]] (Ironmarch), [[Wrath-Stalkers]] (Ironmarch)
+
+**Vault Stats:** Total files 428, NPC files 156, landmarks now covering 5 of 9 regions.
+
 ## 2026-03-22 14:20, Cycle 13: Verdant Marches & Ashen Dominion Landmarks (7 files)
 
 Filled the landmark gap for two major regions. Before this cycle, only the Hollowed Reach and Unwritten Lands had landmark files. Now the Verdant Marches and Ashen Dominion have full coverage.

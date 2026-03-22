@@ -76,6 +76,11 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Spine of Order]]**, Solvaen's vertebral column, the Dominion's sacred mountain range
 - **[[The Ashfields]]**, plains of divine ash where nothing grows without struggle
 - **[[The Calcified Forest]]**, petrified woodland where order's power still spreads
+- **[[The Shardfall]]**, southeastern Ironmarch where Kaevroth's largest monoliths drive madness and war
+- **[[The Contested Corridor]]**, the most fought-over pass on the continent, layered in centuries of ruins
+- **[[The Iron Fields]]**, rust-red heartland where divine fragments hum and armies gather
+- **[[Mount Thalvor]]**, sacred volcanic peak above a dead god's still-burning forge
+- **[[The Deep Warrens]]**, vast underground descent toward Thalvor's forge-chambers
 
 ## Beyond the Mortal World
 
@@ -149,7 +154,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 
 ## The NPCs
 
-- **[[NPCRegistry]]**, master index of all 149 named characters
+- **[[NPCRegistry]]**, master index of all 153 named characters
 
 ---
 
@@ -159,12 +164,12 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 >
 > | | |
 > |---|---|
-> | **Total files** | 386 |
+> | **Total files** | 428 |
 > | **Total lines of lore** | 35,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |
-> | **Named NPCs** | 149 |
-> | **NPC files** | 146 |
+> | **Named NPCs** | 153 |
+> | **NPC files** | 156 |
 > | **Creatures (Bestiary)** | 58 |
 > | **Factions** | 23 |
 > | **Campaign starters** | 7 |
