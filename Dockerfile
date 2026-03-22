@@ -30,7 +30,7 @@ COPY server.js .
 COPY --from=builder /usr/src/app/public ./public
 
 ENV PORT=80
-ENV AMP_INGEST_TOKEN=""
+# AMP_INGEST_TOKEN is set at runtime via Coolify environment variables
 
 EXPOSE 80
 
