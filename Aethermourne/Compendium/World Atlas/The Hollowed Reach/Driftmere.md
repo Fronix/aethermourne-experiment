@@ -22,7 +22,7 @@ Governance, such as it is, falls to the **Pirate Council**, a loose assembly of 
 
 The city smells of tar, brine, and frying fish. Rope bridges connect the larger vessels, swaying with every swell. At night, hundreds of lanterns turn Driftmere into a constellation on the water, visible for miles. The sound never stops: hulls creaking, ropes groaning, someone always arguing, singing, or fighting. Children grow up knowing how to swim before they can walk, and the old joke is that Driftmere's graveyard is the ocean floor.
 
-The [[Reach Concord]] considers Driftmere a nuisance but tolerates it, because the Pirate Council keeps the outer shipping lanes clear of unaffiliated raiders. This arrangement is informal, unwritten, and both sides pretend it doesn't exist.
+The [[Concord of Tides]] considers Driftmere a nuisance but tolerates it, because the Pirate Council keeps the outer shipping lanes clear of unaffiliated raiders. This arrangement is informal, unwritten, and both sides pretend it doesn't exist.
 
 ---
 
@@ -82,6 +82,6 @@ A newcomer arrived in Driftmere last week claiming to be from a ship that sailed
 
 ## Relationships
 
-Driftmere maintains uneasy connections with the rest of [[The Hollowed Reach]]. The [[Reach Concord]] officially condemns it as a haven for criminals. Unofficially, Concord merchants buy Driftmere's salvage and the Pirate Council's protection. [[Tidewall]] sends no diplomats but tolerates Driftmere's existence because the alternative, a unified pirate fleet with nothing to lose, is worse.
+Driftmere maintains uneasy connections with the rest of [[The Hollowed Reach]]. The [[Concord of Tides]] officially condemns it as a haven for criminals. Unofficially, Concord merchants buy Driftmere's salvage and the Pirate Council's protection. [[Tidewall]] sends no diplomats but tolerates Driftmere's existence because the alternative, a unified pirate fleet with nothing to lose, is worse.
 
 The [[The Veil Unbound|Veil Unbound]] finds Driftmere useful: a place with no records, no authority, and no one asking questions. [[Sable]]'s presence here is no accident. The [[Lantern-Keepers]] have a single informant in the city, a debt-ridden captain who reports to [[Tidewall]] in exchange for amnesty on old warrants. The informant's information is mostly accurate, always late, and never about the things that matter most.

@@ -22,7 +22,7 @@ region: The Hollowed Reach
 
 ## Description
 
-The Hollowed Reach runs on trade, and the Concord of Tides runs the Hollowed Reach. Seven elected Tidekeepers, each drawn from the Reach's wealthiest merchant families, manage the nation's fleet, treasury, trade agreements, and governance. They are the closest thing the Reach has to a government, and they are exactly as competent and corrupt as you'd expect from politicians who bought their positions.
+The Hollowed Reach runs on trade, and the Concord of Tides runs the Hollowed Reach. Eight elected Tidekeepers, each drawn from the Reach's wealthiest merchant families, manage the nation's fleet, treasury, trade agreements, and governance. They are the closest thing the Reach has to a government, and they are exactly as competent and corrupt as you'd expect from politicians who bought their positions.
 
 In better times, the Concord was a reasonably effective oligarchy. Merchant-princes competed, but the competition drove innovation, exploration, and prosperity. The system worked because the sea provided enough wealth for everyone.
 
@@ -34,15 +34,15 @@ First Tidekeeper [[Maren Selk]] is the best of a mediocre lot, intelligent, prag
 
 Seven Tidekeepers, each with a portfolio:
 
-- **Ships**, Controls the Tidefleet (naval and merchant)
-- **Coin**, Treasury and taxation
-- **Secrets**, Intelligence and counter-espionage
-- **Trade**, Foreign and domestic commerce
-- **Law**, Courts and enforcement
-- **Defense**, Military (land forces, harbor fortifications)
-- **Faith**, Religious institutions and relations with temples
+- **Ships** ([[Aldren Vayne]]), Controls the Tidefleet (naval and merchant)
+- **Coin** ([[Jessamine Kole]]), Treasury and taxation
+- **Secrets** ([[Cordell Raith]]), Intelligence and counter-espionage
+- **Trade** (Orin Blackwater), Foreign and domestic commerce
+- **The Coast** (Suranna Mist), Coastal law enforcement and courts
+- **The Isles** (Fenn Dalloway), Island defense and harbor fortifications
+- **Faith** ([[Orenna Deepwell]]), Religious institutions and relations with temples
 
-The **First Tidekeeper** is elected from among the seven and serves as head of state. [[Maren Selk]] currently holds this position.
+The **First Tidekeeper** is elected from among the eight and serves as head of state. [[Maren Selk]] currently holds this position.
 
 ## Goals
 
@@ -73,6 +73,12 @@ The **First Tidekeeper** is elected from among the seven and serves as head of s
 - **Corruption Investigations.** Which Tidekeepers are compromised? By whom? And what would happen if they were exposed?
 
 > [!warning]- GM Notes
-> The Tidekeeper of Secrets (Aldric Voss, no relation to Ashara) and the Tidekeeper of Faith (Orenna Deepwell) are both compromised by the [[The Veil Unbound|Veil Unbound]]. Aldric knowingly; Orenna through manipulation of her genuine religious devotion to [[The Twelve#Yvenne|Yvenne]] (the Veil Unbound has convinced her that Serith's freedom would strengthen Yvenne, not destroy her).
+> Aldric Voss, senior intelligence officer under [[Cordell Raith]], is knowingly compromised by the [[The Veil Unbound|Veil Unbound]]. He feeds cult-favorable intelligence to Raith, who in turn suppresses reports out of fatalism.
 >
-> Selk suspects something is wrong with her council but can't prove it. She's been quietly reaching out to [[The Lantern-Keepers]] for help, a politically dangerous move that the compromised Tidekeepers are working to prevent.
+> The Tidekeeper of Secrets ([[Cordell Raith]]) is not [[The Veil Unbound]], but he is a sympathizer. He believes [[The Twelve#Serith|Serith's]] release is inevitable and has begun quietly suppressing intelligence reports that might lead to the cult's disruption. He acts out of fatalism, not malice.
+>
+> The Tidekeeper of Faith ([[Orenna Deepwell]]) is compromised by the [[The Veil Unbound|Veil Unbound]] through manipulation of her genuine religious devotion to [[The Twelve#Yvenne|Yvenne]]. The cult has convinced her that Serith's freedom would strengthen Yvenne, not destroy her. She is [[The Whisperer]].
+>
+> The Tidekeeper of the Isles (Fenn Dalloway) is actively funding [[The Veil Unbound]] through a network of shell companies registered in [[Driftmere]]. He believes he is buying future influence. He is wrong.
+>
+> [[Maren Selk|Selk]] suspects something is wrong with her council but can't prove it. She's been quietly reaching out to [[The Lantern-Keepers]] for help, a politically dangerous move that the compromised Tidekeepers are working to prevent.

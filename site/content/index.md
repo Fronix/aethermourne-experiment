@@ -84,6 +84,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[The Lantern-Keepers]]**, coastal wardens against the dark
 - **[[Concord of Tides]]**, the Reach's governing council
 - **[[The Veil Unbound]]**, the cult that worships what sleeps beneath the sea
+- **[[The Merciful]]**, healers tending Belara's wounded on the Weeping Isles
 - **[[The Cinders]]**, the Dominion's secret police
 - **[[Marchwardens Council]]**, the Marches' fractured leadership
 - **[[The Greensingers]]**, druids who commune with the living land
@@ -151,14 +152,14 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 >
 > | | |
 > |---|---|
-> | **Total files** | 379 |
+> | **Total files** | 380 |
 > | **Total lines of lore** | 35,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |
 > | **Named NPCs** | 149 |
 > | **NPC files** | 146 |
 > | **Creatures (Bestiary)** | 47 |
-> | **Factions** | 22 |
+> | **Factions** | 23 |
 > | **Campaign starters** | 7 |
 > | **One-shots** | 8 |
 > | **Quest boards** | 10 |

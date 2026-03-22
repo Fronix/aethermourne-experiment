@@ -1,5 +1,56 @@
 # Changelog
 
+## 2026-03-22 04:52, Cycle 9: Lore Check — The Hollowed Reach (Audit + Fixes)
+
+Lore check cycle. Audited 60+ Hollowed Reach files across landmarks, settlements, NPCs, factions, and campaign materials. Found 3 critical issues, 4 moderate, 2 minor. Divine lore, timeline, and campaign consistency scored perfect. All critical and moderate fixes applied.
+
+### Critical Fixes
+
+**1. Tidekeeper Roster Contradiction (RESOLVED)**
+Concord of Tides.md and Tidewall.md listed different people in the same positions. Canonical 8-member roster established. Aldric Voss demoted from Tidekeeper to senior intelligence officer under Cordell Raith. Dual title convention preserved (formal "Tidekeeper of X" in faction file, colloquial "Master of X" in settlement file).
+
+**2. Broken Wikilinks (RESOLVED)**
+`[[Major Factions#The Merciful]]` pointed to a nonexistent heading. Created dedicated The Merciful faction file. Fixed all broken wikilinks across 5 files.
+
+**3. Broken `[[Reach Concord]]` Links (RESOLVED)**
+Fixed in 4 settlement files (Keel's Landing, Saltmere, Bridgemere, Driftmere).
+
+### Moderate Fixes
+
+**4. NPCRegistry Duplicates (RESOLVED)** — Removed duplicate entries, cleaned By Region sections.
+
+**5. NPCRegistry Gaps (PARTIALLY RESOLVED)** — Added Orenna Deepwell (Tidekeeper of Faith). 21 settlement NPCs still lack entries (deferred to enrichment cycle).
+
+### New Content
+
+| File | Lines | Type |
+|---|---|---|
+| `The Merciful.md` | 70 | Faction file for Belara's healing order |
+| `Aldric Voss.md` | 87 | NPC file for demoted intelligence officer |
+
+### Files Modified
+
+| File | Changes |
+|---|---|
+| `Concord of Tides.md` | 7→8 Tidekeepers, named holders, GM Notes rewritten with Cordell Raith as Secrets holder |
+| `Tidewall.md` | Added Orenna Deepwell row, added GM callouts for Deepwell and Kole |
+| `Maren Selk.md` | Fixed wrong titles (Commerce→Secrets, Justice→Coin), removed Aldric Voss |
+| `Faction Relationships.md` | Aldric Voss title updated |
+| `NPCRegistry.md` | Duplicates removed, Orenna Deepwell added, Aldric Voss updated |
+| `The Weeping Isles.md` | Fixed Merciful wikilinks |
+| `The Hollowed Reach.md` | Fixed Merciful wikilinks |
+| `Weeping Shore.md` | Fixed Merciful + Concord wikilinks |
+| `Abbot Cael.md` | Fixed Merciful wikilinks |
+| `Keel's Landing.md` | `[[Reach Concord]]` → `[[Concord of Tides]]` |
+| `Saltmere.md` | `[[Reach Concord]]` → `[[Concord of Tides]]` |
+| `Bridgemere.md` | `[[Reach Concord]]` → `[[Concord of Tides]]` |
+| `Driftmere.md` | `[[Reach Concord]]` → `[[Concord of Tides]]` (2 instances) |
+
+### Deferred to Future Cycles
+- 8 settlement info box tables (template compliance, not lore)
+- 21 settlement NPCs without registry entries or files
+- ~23 missing wikilinks for unlinked NPC names in settlement files
+
 ## 2026-03-22 04:22, Cycle 8: Bestiary for 3 Regions (9 Creatures)
 
 Created 9 bestiary entries across Verdant Marches, Pale Wastes, and Greymere Fenlands, the three most under-served campaign regions.

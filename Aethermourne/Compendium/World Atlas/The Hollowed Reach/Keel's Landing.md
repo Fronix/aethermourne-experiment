@@ -18,7 +18,7 @@ parent-location: The Hollowed Reach
 
 The Reach's premier shipyard town, where the Tidefleet's warships are built, repaired, and fitted. Keel's Landing occupies a sheltered inner island with deep natural harbors perfect for launching large vessels, and the ring of surrounding islets breaks the worst of the ocean swells before they reach the docks.
 
-The town is dominated by three shipwright dynasties, the **Dallows**, the **Tyrens**, and the **Kaels**, who have competed for [[Reach Concord]] contracts for generations. Their rivalry defines the town's culture, economy, and politics. Everyone in Keel's Landing works for one of the three families, or works to stay out of their way.
+The town is dominated by three shipwright dynasties, the **Dallows**, the **Tyrens**, and the **Kaels**, who have competed for [[Concord of Tides]] contracts for generations. Their rivalry defines the town's culture, economy, and politics. Everyone in Keel's Landing works for one of the three families, or works to stay out of their way.
 
 ---
 

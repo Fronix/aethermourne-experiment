@@ -90,7 +90,7 @@ type: reference
 ### [[The Veil Unbound]]
 
 > [!warning]- GM Only
-> **The Whisperer is [[Orenna Deepwell]]**, Tidekeeper of Faith in the Concord of Tides. A second Tidekeeper, [[Aldric Voss]] (Tidekeeper of Secrets), is also compromised. [[Maren Selk]] suspects infiltration but cannot prove it.
+> **The Whisperer is [[Orenna Deepwell]]**, Tidekeeper of Faith in the Concord of Tides. Aldric Voss (senior intelligence officer under [[Cordell Raith]]) is also compromised. [[Maren Selk]] suspects infiltration but cannot prove it.
 
 | Faction | Relationship | Details |
 |---|---|---|

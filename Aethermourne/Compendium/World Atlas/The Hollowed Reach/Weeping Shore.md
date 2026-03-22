@@ -13,7 +13,7 @@ parent-location: The Hollowed Reach
 *A tiny settlement on the mainland coast, the closest point on the Shattered Coast to the [[The Hollowed Reach#The Weeping Isles|Weeping Isles]]. The air here is damp and faintly sweet, and on days when the wind blows east, the warm mist of the Isles reaches the shore and settles on everything like a blessing no one asked for.*
 
 **Population:** ~500
-**Government:** Administered by a branch of [[Major Factions#The Merciful|the Merciful]], under the distant authority of [[Abbot Cael]]
+**Government:** Administered by a branch of [[The Merciful|the Merciful]], under the distant authority of [[Abbot Cael]]
 **Purpose:** Departure point for pilgrims seeking healing on the [[The Hollowed Reach#The Weeping Isles|Weeping Isles]]
 
 ---
@@ -46,7 +46,7 @@ A single sturdy dock of salt-darkened timber, maintained by **Ferren Graves**, w
 
 ## Key People
 
-**Sister Callista** (born Callista Venn), thirties. A [[Major Factions#The Merciful|Merciful]] acolyte who volunteered for this posting. Gentle, attentive, already touched by the Isles' melancholy despite having visited only twice. She believes everyone deserves access to Belara's healing, not just those who can afford the [[Major Factions#Concord of Tides|Concord's]] "suggested donation." She keeps meticulous records of every pilgrim who passes through, names, origins, ailments, dates of crossing, dates of return. She does this out of care, but the records are potentially very valuable to anyone studying patterns.
+**Sister Callista** (born Callista Venn), thirties. A [[The Merciful|Merciful]] acolyte who volunteered for this posting. Gentle, attentive, already touched by the Isles' melancholy despite having visited only twice. She believes everyone deserves access to Belara's healing, not just those who can afford the [[Concord of Tides|Concord's]] "suggested donation." She keeps meticulous records of every pilgrim who passes through, names, origins, ailments, dates of crossing, dates of return. She does this out of care, but the records are potentially very valuable to anyone studying patterns.
 
 **Ferren Graves**, sixties. The ferryman. Weathered beyond his years by a thousand crossings to the Isles. He carries a deep, permanent melancholy from accumulated exposure to Belara's mist, far deeper than any pilgrim's. He speaks softly, rarely smiles, but is infinitely kind. He has seen more grief and more hope than anyone in the Reach. He knows the waters around the Isles better than anyone alive, including the Merciful themselves.
 

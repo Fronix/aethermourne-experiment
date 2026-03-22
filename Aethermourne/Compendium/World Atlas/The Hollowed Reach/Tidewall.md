@@ -58,11 +58,14 @@ A library and observatory housing the Reach's maritime knowledge, navigational r
 | Master of Trade | Orin Blackwater | Ambitious, wants Selk's seat |
 | Keeper of the Coast | Suranna Mist | Honest, overwhelmed |
 | Keeper of the Isles | Fenn Dalloway | Corrupt, takes pirate bribes |
+| Tidekeeper of Faith | [[Orenna Deepwell]] | Devout, community-minded |
 
 > [!warning]- GM Only
 > **[[Cordell Raith]]** is not [[The Veil Unbound]], but he is a sympathizer. He believes [[The Twelve#Serith|Serith's]] release is inevitable and has begun quietly suppressing intelligence reports that might lead to the cult's disruption. He acts out of fatalism, not malice.
 >
 > **Fenn Dalloway** is actively funding [[The Veil Unbound]] through a network of shell companies registered in [[Driftmere]]. He believes he is buying future influence. He is wrong.
+>
+> **[[Orenna Deepwell]]** is [[The Whisperer]], leader of the [[The Veil Unbound|Veil Unbound]]. Her genuine devotion to [[The Twelve#Yvenne|Yvenne]] was manipulated by the cult into believing Serith's freedom would strengthen Yvenne. She is the most dangerous Tidekeeper because she believes she is doing good.
 >
 > **[[Jessamine Kole]]** is loyal to the city's economy above all else. If forced to choose, she would sacrifice the Bilges and every soul in them to protect trade revenue. She has contingency plans for exactly this.
 

@@ -90,7 +90,7 @@ The defining phenomenon of the region is the **Black Tides**, events where the s
 | [[Major Factions#Lantern-Keepers|The Lantern-Keepers]] | Monster hunters and investigators, headquartered in [[Veil Harbor]] |
 | [[Major Factions#Veil Unbound|The Veil Unbound]] | Cult seeking to free [[The Twelve#Serith|Serith]], growing rapidly |
 | [[Major Factions#The Tidefleet|The Tidefleet]] | Regional navy, stretched thin by increasing threats |
-| [[Major Factions#The Merciful|The Merciful]] | Healers tending the [[#The Weeping Isles|Weeping Isles]], led by [[Abbot Cael]] |
+| [[The Merciful]] | Healers tending the [[#The Weeping Isles|Weeping Isles]], led by [[Abbot Cael]] |
 
 ---
 

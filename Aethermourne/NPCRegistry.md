@@ -53,7 +53,9 @@ type: overview
 | [[Torren Hearthforge\|Guildmaster Torren Hearthforge]] | Ember Guild Leader | Mobile (Ostivaar) | [[The Ember Guild]] | Alive |
 | [[Celestine Vael\|Arch-Reader Celestine Vael]] | Star-Reader Leader | [[The Hollowed Reach]] | [[The Star-Readers]] | Alive |
 | [[Cordell Raith]] | Master of Secrets | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
+| [[Aldric Voss]] | Senior Intelligence Officer | [[The Hollowed Reach]] | [[Concord of Tides]] (under [[Cordell Raith]]) | Alive |
 | [[Jessamine Kole]] | Master of Coin | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
+| [[Orenna Deepwell]] | Tidekeeper of Faith | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
 | [[Aldren Vayne\|Admiral Aldren Vayne]] | Master of Ships | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
 | [[Elara Duskmantle]] | Coral Merchant Matriarch | [[The Hollowed Reach]] | Duskmantle House | Alive |
 | [[Orna Dallow\|Shipwright Orna Dallow]] | Master Shipwright | [[The Hollowed Reach]] | Dallow Family | Alive |
@@ -190,7 +192,6 @@ type: overview
 | NPC | Title | Location | Faction |
 |-----|-------|----------|---------|
 | [[Hierarch Valdren III]] | Supreme Ruler | [[Ostivaar]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
-| [[Ashara Voss\|Commander Ashara Voss]] | Commander of the Order | [[Cinderholm]] | [[Order of the Ashen Flame]] |
 | [[Delric Mourne\|Thane Delric Mourne]] | Head of the Cinders | [[Ostivaar]] | [[The Cinders]] |
 | [[Elowen Greaves\|Speaker Elowen Greaves]] | Leader of the Congregation | [[Ostivaar]] | [[Unbound Congregation]] |
 | [[Cassia Lorn]] | Ashless Community Leader | [[Ostivaar]] | None |
@@ -199,7 +200,6 @@ type: overview
 | [[Captain Daren Kolst]] | Garrison Commander | [[Thornwall]] | [[Order of the Ashen Flame]] |
 | Varen Ashfeld | Flame Captain, Ashguard | [[Cinderholm]] | [[Order of the Ashen Flame]] |
 | Sera Ironholt | Flame Captain, Northern Garrisons | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] |
-| Aldren Voss | Flame Captain, Greyfield | [[Greyfield]] | [[Order of the Ashen Flame]] |
 | [[Petra Venn]] | Congregation Organizer | [[Ashveil]] | [[Unbound Congregation]] |
 
 ### The Verdant Marches
@@ -224,6 +224,8 @@ type: overview
 |-----|-------|----------|---------|
 | [[Maren Selk\|Tidekeeper Maren Selk]] | First Tidekeeper | [[Tidewall]] | [[Concord of Tides]] |
 | [[Cordell Raith]] | Master of Secrets | [[Tidewall]] | [[Concord of Tides]] |
+| [[Aldric Voss]] | Senior Intelligence Officer | [[Tidewall]] | [[Concord of Tides]] (under [[Cordell Raith]]) |
+| [[Orenna Deepwell]] | Tidekeeper of Faith | [[Tidewall]] | [[Concord of Tides]] |
 | [[Jessamine Kole]] | Master of Coin | [[Tidewall]] | [[Concord of Tides]] |
 | [[Aldren Vayne\|Admiral Aldren Vayne]] | Master of Ships | [[Tidewall]] / Tidefleet | [[Concord of Tides]] |
 | [[Elara Duskmantle]] | Coral Merchant Matriarch | [[Tidewall]] | Duskmantle House |
@@ -267,7 +269,6 @@ type: overview
 | NPC | Title | Location | Faction |
 |-----|-------|----------|---------|
 | [[Yrsa Bloodhand]] | Iron Thane | [[Ironhaven]] | None (Iron Thane) |
-| [[Quartermaster Voss Irenthal]] | Quartermasters' Circle Head | [[The Red Garrison]] | [[The Quartermasters Circle]] |
 | [[Sira Embersteel]] | Master Weaponsmith | [[Wrathspire]] | None |
 | [[Harsk the Quiet]] | Mercenary Captain | [[The Red Garrison]] | [[The Iron Companies]] |
 | [[Alder Brightfield]] | Mayor of Duskfield | [[Duskfield]] | None |
@@ -327,7 +328,6 @@ type: overview
 | [[The Peacemaker]] | Self-appointed Mediator | Level 2: The Proving Grounds | None |
 | [[Pit-Master Grenn]] | Pit-Master of the Arena of Echoes | Level 2: The Proving Grounds | The Crucible of Names |
 | [[Merchant-Prince Avarek]] | Merchant-Prince of Greedhollow | Level 3: The Iron Market | The Iron Market |
-| [[Dealmaker Syra Voss]] | Dealmaker | Level 3: The Iron Market | The Iron Market |
 | [[The Assessor]] | Assessor | Level 3: The Iron Market | The Iron Market |
 | [[Ren Twice-Sold]] | Guide | Level 3: The Iron Market | None |
 | [[Coinless Marta]] | Thief | Level 3: The Iron Market | None |

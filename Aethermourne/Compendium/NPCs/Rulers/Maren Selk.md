@@ -44,13 +44,12 @@ She has a sister, Nereva, who disappeared three years ago on a trading voyage ne
 ## Relationships
 
 - **[[Lira Ashvane]]**, Commander of the [[The Lantern-Keepers]]. Selk has been quietly reaching out to Ashvane for help investigating her own council, a politically dangerous alliance. She respects Ashvane's competence but finds her directness uncomfortable.
-- **Orenna Deepwell**, Tidekeeper of Faith. A colleague Selk considers pious but harmless. She is wrong about the "harmless" part.
-- **Aldric Voss**, Tidekeeper of Secrets. Selk does not trust him but cannot explain why. Her instincts are, again, correct.
+- **[[Orenna Deepwell]]**, Tidekeeper of Faith. A colleague Selk considers pious but harmless. She is wrong about the "harmless" part.
+- **[[Cordell Raith]]**, her Master of Secrets. Selk does not trust him but cannot explain why. Her instincts are, again, correct.
 - **[[Hanna Tide]]**, Elder of [[Mistholm]]. A tenuous connection through Maren's search for her missing sister Nereva.
 - **[[Elara Duskmantle]]**, the coral merchant whose aggressive property acquisitions in the Bilges are creating political headaches Selk does not need.
-- **[[Cordell Raith]]**, her Tidekeeper of Commerce. She suspects he skims tariffs but can't prove it. Keeps him close because removing him would destabilize the merchant guilds.
 - **[[Celestine Vael]]**, Selk trusts Vael's intelligence more than she admits publicly. Privately consults her on the Trench readings. Their relationship is professional but warm.
-- **[[Jessamine Kole]]**, Selk's Tidekeeper of Justice. Kole pushes for harsher enforcement against smugglers; Selk resists, knowing the Bilges economy depends on gray trade.
+- **[[Jessamine Kole]]**, Selk's Master of Coin. Brilliant and amoral, she protects trade revenue above all else.
 
 ## What They Want
 

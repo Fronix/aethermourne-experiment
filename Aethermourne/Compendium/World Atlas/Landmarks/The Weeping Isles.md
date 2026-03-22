@@ -18,13 +18,13 @@ parent-location: The Hollowed Reach
 > | **Region** | [[The Hollowed Reach]] |
 > | **Type** | Sacred site / divine remains |
 > | **Associated God** | [[The Twelve#Belara|Belara]] |
-> | **Current Status** | Restricted (access via [[Weeping Shore]], administered by [[Major Factions#The Merciful|the Merciful]]) |
+> | **Current Status** | Restricted (access via [[Weeping Shore]], administered by [[The Merciful|the Merciful]]) |
 
 ---
 
 ## Description
 
-The Weeping Isles rise from the sea like offerings held in open hands, a small archipelago of pale stone wreathed in warm mist that never lifts. The mist is Belara's, the last physical trace of the Goddess of Compassion, who fell here during the Silence. It carries her warmth, her grief, and a faint floral scent that no botanist has been able to identify and no visitor has ever forgotten. The waters surrounding the Isles possess extraordinary healing properties, capable of mending wounds that resist conventional medicine and easing afflictions of the mind that no other treatment can touch. Pilgrims arrive via ferry from [[Weeping Shore]], transported by the ferryman Ferren Graves, and are received by [[Major Factions#The Merciful|the Merciful]], the contemplative order that tends the Isles under [[Abbot Cael]]'s guidance.
+The Weeping Isles rise from the sea like offerings held in open hands, a small archipelago of pale stone wreathed in warm mist that never lifts. The mist is Belara's, the last physical trace of the Goddess of Compassion, who fell here during the Silence. It carries her warmth, her grief, and a faint floral scent that no botanist has been able to identify and no visitor has ever forgotten. The waters surrounding the Isles possess extraordinary healing properties, capable of mending wounds that resist conventional medicine and easing afflictions of the mind that no other treatment can touch. Pilgrims arrive via ferry from [[Weeping Shore]], transported by the ferryman Ferren Graves, and are received by [[The Merciful|the Merciful]], the contemplative order that tends the Isles under [[Abbot Cael]]'s guidance.
 
 But healing here carries a cost. Prolonged exposure to the Isles' mist marks visitors with a permanent, gentle melancholy, a softening of the heart that never fully reverses. The Merciful themselves are deeply touched by it, speaking softly, moving slowly, their eyes holding a tenderness that borders on sorrow even in moments of joy. This is not corruption. It is compassion without limit, felt so deeply that it saturates the soul. The terminally ill who come to the Isles to die report warmth, comfort, the feeling of being held by something vast and gentle. Those who come to heal leave with their bodies restored and their hearts heavier than when they arrived. The Isles do not take. They give too much.
 

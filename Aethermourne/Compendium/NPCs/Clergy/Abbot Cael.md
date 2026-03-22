@@ -18,9 +18,9 @@ status: alive
 
 |||
 |---|---|
-| **Title** | Abbot of [[Major Factions#The Merciful|The Merciful]] |
+| **Title** | Abbot of [[The Merciful]] |
 | **Location** | [[The Hollowed Reach#The Weeping Isles|Weeping Isles]], [[The Hollowed Reach]] |
-| **Faction** | [[Major Factions#The Merciful|The Merciful]] |
+| **Faction** | [[The Merciful]] |
 | **Status** | Alive |
 
 ---
@@ -43,7 +43,7 @@ After decades of immersion in Belara's lingering essence, Cael's empathic sensit
 
 ## Relationships
 
-- **[[Major Factions#The Merciful|The Merciful]]**, his order. He has shaped them into his image of Belara's legacy: fierce compassion, no martyrdom. They trust him absolutely.
+- **[[The Merciful]]**, his order. He has shaped them into his image of Belara's legacy: fierce compassion, no martyrdom. They trust him absolutely.
 - **[[Lira Ashvane|Keeper Lira Ashvane]]**, [[Major Factions#Lantern-Keepers|Lantern-Keeper]] commander. He has sent her quiet messages about what he senses beneath the water. She is one of the few people who takes him seriously.
 - **Ferren Graves**, the ferryman of [[Weeping Shore]]. The two share a deep, unspoken understanding born of decades of proximity to Belara's sorrow. Cael trusts Ferren's instincts about the waters more than his own.
 - **[[Cordell Raith]]**, Tidewall's intelligence master. Cael's warnings have passed through channels Raith controls, and none have reached the people who need to hear them. Cael suspects obstruction but cannot prove it.

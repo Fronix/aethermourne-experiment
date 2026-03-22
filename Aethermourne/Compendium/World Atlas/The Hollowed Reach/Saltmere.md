@@ -75,6 +75,6 @@ Fishing boats have been returning with their nets full of a translucent, jellyfi
 
 ## Relationships
 
-Saltmere has petitioned the [[Reach Concord]] for aid three times. The first request was acknowledged. The second was ignored. The third received a reply stating that "resources are allocated to priority settlements," which Nessa Corwen pinned to the wall of Corwen House without comment. The [[Lantern-Keepers]] sent Wynn Marsh, one junior soldier, as their response. He is the entirety of the Concord's investment in Saltmere's survival.
+Saltmere has petitioned the [[Concord of Tides]] for aid three times. The first request was acknowledged. The second was ignored. The third received a reply stating that "resources are allocated to priority settlements," which Nessa Corwen pinned to the wall of Corwen House without comment. The [[Lantern-Keepers]] sent Wynn Marsh, one junior soldier, as their response. He is the entirety of the Concord's investment in Saltmere's survival.
 
 [[Mistholm]] is the nearest settlement also affected by the Sleepwalker crisis, and the two communities share what little knowledge they have. Nessa has corresponded with [[Hanna Tide]], and both women agree on one thing: the phenomenon is getting worse, not better, and nobody with the power to help is paying attention.
