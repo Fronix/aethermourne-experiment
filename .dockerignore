@@ -10,6 +10,7 @@
 
 # Node modules (we install fresh in Docker)
 site/node_modules/
+scripts/node_modules/
 
 # Build output
 site/public/

@@ -8,11 +8,11 @@ scripts/watcher.pid
 # Build artifacts
 public
 site/quartz/.quartz-cache/
-
-# Copied vault content for local preview (only index.md should be committed)
+# Copied vault content for local preview
 site/content/*
 !site/content/index.md
 !site/content/CHANGELOG.md
+!site/content/Map.md
 
 # Obsidian
 .obsidian/workspace.json

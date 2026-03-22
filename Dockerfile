@@ -1,5 +1,5 @@
-# Stage 1: Build the static site
-FROM node:22-alpine AS builder
+# Stage 1: Build the Quartz static site
+FROM node:22-alpine AS quartz-builder
 
 RUN corepack enable && corepack prepare pnpm@latest --activate
 
@@ -22,12 +22,16 @@ ENV BASE_URL=${BASE_URL}
 # Build the static site
 RUN node --no-deprecation ./quartz/bootstrap-cli.mjs build
 
-# Stage 2: Serve with Node relay (static files + AMP live event streaming)
+# Stage 2: Serve with Node relay (static files + AMP live streaming + map viewer)
 FROM node:22-alpine
 
 WORKDIR /app
 COPY server.js .
-COPY --from=builder /usr/src/app/public ./public
+COPY --from=quartz-builder /usr/src/app/public ./public
+
+# Copy the Leaflet map viewer and data
+COPY map/ ./public/map/
+COPY data/map-data.json ./public/map/map-data.json
 
 ENV PORT=80
 # AMP_INGEST_TOKEN is set at runtime via Coolify environment variables

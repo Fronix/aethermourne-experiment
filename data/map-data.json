@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "name": "Aethermourne",
+    "description": "A world built on the bones of dead gods",
+    "version": 3
+  },
+  "continent": {
+    "outline": [
+      [50, 200], [30, 350], [20, 500], [30, 650], [50, 800],
+      [100, 900], [160, 950], [240, 970],
+      [320, 950], [380, 970], [440, 980], [500, 970],
+      [560, 950], [620, 970], [700, 950],
+      [780, 900], [850, 830], [900, 750],
+      [930, 650], [950, 550], [950, 450], [930, 350],
+      [900, 250], [850, 170], [780, 110],
+      [700, 70], [600, 50], [500, 40],
+      [400, 50], [300, 70], [200, 100], [130, 150]
+    ]
+  },
+  "unwrittenLands": {
+    "outline": [
+      [350, 1150], [320, 1220], [310, 1300], [320, 1380],
+      [360, 1440], [420, 1480], [500, 1490],
+      [580, 1480], [640, 1440], [680, 1380],
+      [690, 1300], [680, 1220], [650, 1150],
+      [600, 1100], [530, 1080], [460, 1080], [400, 1100]
+    ]
+  },
+  "regions": [
+    {
+      "id": "pale-wastes",
+      "name": "The Pale Wastes",
+      "god": "Morrhael, God of Death",
+      "terrain": "Frozen tundra and necromantic wasteland",
+      "color": "#9e978e",
+      "polygon": [
+        [130, 150], [200, 100], [300, 70], [400, 50],
+        [500, 40], [600, 50], [700, 70], [780, 110],
+        [750, 200], [680, 260], [580, 290],
+        [500, 300], [420, 290], [340, 270],
+        [260, 240], [200, 200]
+      ],
+      "labelPos": [160, 500],
+      "capital": "Greyhold",
+      "population": "~40,000"
+    },
+    {
+      "id": "thornwild",
+      "name": "The Thornwild",
+      "god": "Thyrea + Morrhael",
+      "terrain": "Cycling ecosystem of rapid life and death",
+      "color": "#5c6b3a",
+      "polygon": [
+        [130, 150], [200, 200], [260, 240], [340, 270],
+        [330, 350], [290, 400], [230, 410],
+        [170, 380], [120, 320], [80, 260],
+        [50, 200]
+      ],
+      "labelPos": [300, 260],
+      "capital": "Cyclethorn",
+      "population": "~5,000"
+    },
+    {
+      "id": "verdant-marches",
+      "name": "The Verdant Marches",
+      "god": "Thyrea, Goddess of Nature",
+      "terrain": "Extreme jungle ecosystem",
+      "color": "#2d6e1e",
+      "polygon": [
+        [50, 200], [80, 260], [120, 320],
+        [170, 380], [230, 410], [290, 400],
+        [280, 500], [260, 600], [220, 680],
+        [160, 750], [100, 780],
+        [50, 750], [30, 650], [20, 550], [20, 450],
+        [30, 350]
+      ],
+      "labelPos": [500, 150],
+      "capital": "Roothold",
+      "population": "800K-1.2M"
+    },
+    {
+      "id": "shattered-edge",
+      "name": "The Shattered Edge",
+      "god": "Vorrhyn, God of Chaos",
+      "terrain": "Reality-distorted zones around central wound",
+      "color": "#6b3fa0",
+      "polygon": [
+        [290, 400], [330, 350], [400, 340],
+        [430, 400], [420, 480], [380, 540],
+        [320, 540], [280, 500]
+      ],
+      "labelPos": [450, 410],
+      "capital": "Riftmarket",
+      "population": "12K-15K"
+    },
+    {
+      "id": "ashen-dominion",
+      "name": "The Ashen Dominion",
+      "god": "Solvaen, God of Order",
+      "terrain": "Mountain spine with surrounding plains",
+      "color": "#8b7355",
+      "polygon": [
+        [340, 270], [420, 290], [500, 300],
+        [580, 290], [680, 260], [750, 200],
+        [780, 280], [770, 380], [740, 460],
+        [700, 530], [640, 580], [560, 600],
+        [480, 600], [420, 580], [380, 540],
+        [420, 480], [430, 400], [400, 340],
+        [330, 350]
+      ],
+      "labelPos": [400, 500],
+      "capital": "Ostivaar",
+      "population": "4-6 million"
+    },
+    {
+      "id": "ironmarch",
+      "name": "The Ironmarch",
+      "god": "Kaevroth, God of War",
+      "terrain": "Rust-colored plains with eastern coast",
+      "color": "#8b5e3c",
+      "polygon": [
+        [750, 200], [780, 110], [850, 170],
+        [900, 250], [930, 350], [950, 450],
+        [950, 550], [930, 630],
+        [890, 700], [830, 640], [780, 570],
+        [740, 460], [770, 380], [780, 280]
+      ],
+      "labelPos": [400, 870],
+      "capital": "Ironhaven",
+      "population": "~80,000"
+    },
+    {
+      "id": "greymere-fenlands",
+      "name": "The Greymere Fenlands",
+      "god": "Nethys, Goddess of Magic",
+      "terrain": "Waterlogged marshland with ley-line saturation",
+      "color": "#4a6e5c",
+      "polygon": [
+        [380, 540], [420, 580], [480, 600],
+        [470, 660], [430, 710], [370, 720],
+        [320, 700], [280, 650], [260, 600],
+        [280, 540], [320, 540]
+      ],
+      "labelPos": [630, 420],
+      "capital": "Fenholm",
+      "population": "~15,000"
+    },
+    {
+      "id": "emberveil",
+      "name": "The Emberveil",
+      "god": "Thalvor, God of the Ember-Smith",
+      "terrain": "Volcanic highlands with geothermal valleys",
+      "color": "#8b3a3a",
+      "polygon": [
+        [560, 600], [640, 580], [700, 530],
+        [740, 460], [780, 570], [830, 640],
+        [800, 720], [740, 760],
+        [660, 760], [590, 730], [530, 680],
+        [480, 600]
+      ],
+      "labelPos": [640, 640],
+      "capital": "Crucible",
+      "population": "~200,000"
+    },
+    {
+      "id": "hollowed-reach",
+      "name": "The Hollowed Reach",
+      "god": "Serith, Goddess of Shadow",
+      "terrain": "Maritime archipelago and coastal cliffs",
+      "color": "#3a5a7c",
+      "polygon": [
+        [220, 680], [260, 650], [280, 650],
+        [320, 700], [370, 720], [430, 710],
+        [470, 660], [530, 680], [590, 730],
+        [660, 760], [740, 760], [800, 720],
+        [850, 780], [780, 860],
+        [700, 910], [620, 950], [540, 970],
+        [440, 970], [360, 950], [300, 920],
+        [240, 880], [200, 830], [160, 780]
+      ],
+      "labelPos": [830, 500],
+      "capital": "Tidewall",
+      "population": "~370,000"
+    },
+    {
+      "id": "unwritten-lands",
+      "name": "The Unwritten Lands",
+      "god": "Primordials (not gods)",
+      "terrain": "Pre-Pattern elemental chaos",
+      "color": "#7a6b5a",
+      "polygon": [
+        [350, 1150], [320, 1220], [310, 1300], [320, 1380],
+        [360, 1440], [420, 1480], [500, 1490],
+        [580, 1480], [640, 1440], [680, 1380],
+        [690, 1300], [680, 1220], [650, 1150],
+        [600, 1100], [530, 1080], [460, 1080], [400, 1100]
+      ],
+      "labelPos": [500, 1290],
+      "capital": "Tidecross",
+      "population": "Unknown"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Spine of Order",
+      "type": "mountains",
+      "description": "Solvaen's vertebral column, a luminous divine bone mountain range",
+      "points": [[310, 500], [370, 490], [430, 480], [490, 500], [550, 540], [590, 580]]
+    },
+    {
+      "name": "The Abyssal Trench",
+      "type": "trench",
+      "description": "Massive undersea rift, prison of Serith",
+      "points": [[920, 350], [960, 500], [950, 650], [900, 780]]
+    },
+    {
+      "name": "The Hollowdeep",
+      "type": "crater",
+      "description": "30-mile crater where Morrhael's skull struck",
+      "position": [140, 500],
+      "radius": 30
+    },
+    {
+      "name": "The Maelstrom",
+      "type": "vortex",
+      "description": "Central wound where Vorrhyn was unmade",
+      "position": [450, 410],
+      "radius": 20
+    },
+    {
+      "name": "The Scarwall",
+      "type": "wall",
+      "description": "Living thorn fortification between Dominion and Marches",
+      "points": [[340, 280], [330, 370], [300, 460], [280, 530]]
+    },
+    {
+      "name": "Bloom Peaks",
+      "type": "mountains",
+      "description": "Western mountains with rapid seasonal cycles",
+      "points": [[420, 100], [500, 80], [580, 100], [650, 130]]
+    },
+    {
+      "name": "Caldera Ring",
+      "type": "mountains",
+      "description": "Volcanic peaks surrounding the Emberveil",
+      "points": [[600, 620], [660, 600], [720, 560], [770, 540]]
+    },
+    {
+      "name": "The Bitter Sea",
+      "type": "label",
+      "position": [10, 500]
+    },
+    {
+      "name": "The Western Ocean",
+      "type": "label",
+      "position": [500, 30]
+    },
+    {
+      "name": "The Sundering Sea",
+      "type": "label",
+      "position": [500, 1020]
+    }
+  ],
+  "settlements": [
+    {"name": "Ostivaar", "region": "ashen-dominion", "position": [400, 500], "population": 500000, "type": "capital", "description": "Built within Solvaen's ribcage, capital of the Dominion"},
+    {"name": "Roothold", "region": "verdant-marches", "position": [500, 150], "population": 30000, "type": "capital", "description": "De facto capital in roots of Grandfather titan-tree"},
+    {"name": "Tidewall", "region": "hollowed-reach", "position": [830, 500], "population": 250000, "type": "capital", "description": "Largest port in Aethermourne"},
+    {"name": "Greyhold", "region": "pale-wastes", "position": [160, 500], "population": 20000, "type": "capital", "description": "De facto center, fortified hold"},
+    {"name": "Crucible", "region": "emberveil", "position": [660, 650], "population": 35000, "type": "capital", "description": "Built in an extinct volcanic caldera"},
+    {"name": "Ironhaven", "region": "ironmarch", "position": [400, 870], "population": 40000, "type": "capital", "description": "Seat of the Iron Thane"},
+    {"name": "Riftmarket", "region": "shattered-edge", "position": [450, 420], "population": 5000, "type": "capital", "description": "Largest settlement, built near the Maelstrom"},
+    {"name": "Fenholm", "region": "greymere-fenlands", "position": [630, 430], "population": 6000, "type": "capital", "description": "Built on stilts above luminous marshwater"},
+    {"name": "Cyclethorn", "region": "thornwild", "position": [300, 270], "population": 2000, "type": "capital", "description": "On the Threshold between Bloom and Wilt"},
+    {"name": "Tidecross", "region": "unwritten-lands", "position": [500, 1150], "population": 0, "type": "capital", "description": "Trade hub on the Veilshore"}
+  ]
+}

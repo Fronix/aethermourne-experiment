@@ -33,6 +33,8 @@ const MIME = {
   ".xml": "application/xml; charset=utf-8",
   ".webp": "image/webp",
   ".webmanifest": "application/manifest+json",
+  ".map": "application/octet-stream",
+  ".gz": "application/gzip",
 }
 
 function friendlyName(address) {
@@ -166,6 +168,13 @@ async function serveStatic(req, res, pathname) {
 const server = createServer(async (req, res) => {
   const url = new URL(req.url, `http://${req.headers.host}`)
   const pathname = decodeURIComponent(url.pathname)
+
+  // ── Redirect /map to /map/ for correct relative path resolution ─
+  if (pathname === "/map") {
+    res.writeHead(301, { Location: "/map/" + url.search })
+    res.end()
+    return
+  }
 
   // ── POST /api/amp/ingest ──────────────────────────────────────
   if (req.method === "POST" && pathname === "/api/amp/ingest") {
