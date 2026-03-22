@@ -1,5 +1,39 @@
 # Changelog
 
+## 2026-03-22 17:30, Cycle 19: Adventures Audit and Reorganization
+
+Adventures audit cycle per DM directive. Lorekeeper audited all 33 adventure files plus Campaign Overview and Ongoing Threads for lore consistency, broken wikilinks, formatting, campaign coherence, and file organization. Overall quality: excellent (campaign coherence across Villain Timelines, Quest Chains, Flow Guide, and Campaign Overview is near-perfect). Fixes applied:
+
+**Folder reorganization (33 files moved into 5 subfolders):**
+- Adventures/Campaign Starters/ (7 files)
+- Adventures/One-Shots/ (8 files)
+- Adventures/Quest Boards/ (10 files)
+- Adventures/Campaign Reference/ (4 files)
+- Adventures/GM Tools/ (4 files)
+
+**File renames (4 one-shots given consistent prefix):**
+- The Ashfield Heresy.md → One-Shot - The Ashfield Heresy.md
+- The Breathing Pass.md → One-Shot - The Breathing Pass.md
+- The Crystalline Grandmother.md → One-Shot - The Crystalline Grandmother.md
+- Tidecross Heist.md → One-Shot - Tidecross Heist.md
+
+**Formatting fixes:**
+- Player Handouts.md: replaced em dash with comma (line 203)
+- Quest Board - Tidecross.md: fixed wikilink target (The Hollowed Reach → Concord of Tides)
+
+**Frontmatter standardization:**
+- Quest Board - Crucible.md: tag `quests` → `quest-board`
+- Quest Board - Roothold.md: tag `quests` → `quest-board`
+- Session Toolkits.md: type `adventure` → `reference`
+
+**NPCRegistry: 9 missing NPCs added (both Quick Reference and By Region):**
+- Salt, Fen, Master Gronn, Scout-Captain Edda Voss, Brother Aldis, Brother Aldren, Fenn Dalloway, Archivist Vel, Tessera Vane
+
+**Deferred (not this cycle):**
+- ~20 entity mentions without wikilinks (minor, large scope)
+- 3 Campaign Starters (Ironmarch, Emberveil, Unwritten Lands) undocumented in Campaign Overview's 5-act structure (design decision, needs DM input)
+- Missing NPC files for 16+ adventure-referenced NPCs (ongoing backlog)
+
 ## 2026-03-22 16:59, Cycle 18: Lore Check — The Ironmarch
 
 Lore check cycle auditing The Ironmarch region. Lorekeeper audited 25 files (1 region atlas, 5 settlements, 3 landmarks, 2 factions, 8 NPCs, 3 bestiary entries) plus cross-references. Overall quality: excellent. Fixes applied:

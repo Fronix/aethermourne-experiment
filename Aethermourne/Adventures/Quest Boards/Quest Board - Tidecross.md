@@ -110,7 +110,7 @@ region: The Unwritten Lands
 > | | |
 > |---|---|
 > | **Quest Giver** | [[Salice]], smuggler queen of the Wrack |
-> | **Objective** | Escort a shipment of stolen Oldborn resonance crystals to a buyer on an incoming [[The Hollowed Reach\|Concord]] vessel |
+> | **Objective** | Escort a shipment of stolen Oldborn resonance crystals to a buyer on an incoming [[Concord of Tides\|Concord]] vessel |
 > | **Difficulty** | Low |
 > | **Reward** | 250 gold, a resonance crystal of the party's own, Wrack safe-passage token |
 > | **Complication** | The Oldborn know the crystals were stolen. A patrol is searching the harbor. And the buyer may not be who Salice thinks they are. |

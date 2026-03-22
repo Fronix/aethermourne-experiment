@@ -46,6 +46,8 @@ type: overview
 | Boundary Commander Sael | Rim Commander | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
 | [[Ruling Elder Dael]] | Current Rotation Head | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
 | Pact-Weaver Osshen | Anchor Maintenance | [[The Unwritten Lands]] | [[The Oldborn Kingdoms]] | Alive |
+| Archivist Vel | Deep Library Keeper | [[The Unwritten Lands]] | Independent | Alive |
+| Brother Aldis | Missionary | [[The Unwritten Lands]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
 | [[The Twelve#Serith\|Serith, the Veiled One]] | Goddess of Shadow | Abyssal Trench | Her own | Imprisoned |
 | [[The Twelve#Aelindra\|Aelindra, the Star-Keeper]] | Goddess of Knowledge | Celestial Sphere | [[The Star-Readers]] | Alive (diminished) |
 | [[The Twelve#Yvenne\|Yvenne, the Depth-Singer]] | Goddess of the Sea | Deep Ocean | Her own | Alive (erratic) |
@@ -62,6 +64,8 @@ type: overview
 | [[Sable]] | Veil Unbound Lieutenant | [[The Hollowed Reach]] | [[The Veil Unbound]] | Alive |
 | [[Abbot Cael]] | Leader of the Merciful | [[The Hollowed Reach]] | The Merciful | Alive |
 | [[Dren Halwick]] | Whisper-Cell Inmate | [[The Hollowed Reach]] | None | Alive |
+| Fenn Dalloway | Tidekeeper | [[The Hollowed Reach]] | [[Concord of Tides]] | Alive |
+| Salt | Former Sleepwalker, Preacher | [[The Hollowed Reach]] | None | Alive |
 | Aldren Voss | Flame Captain, Greyfield | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
 | Archscholar Verity Dunne | Head of the Athenaeum | [[The Ashen Dominion]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
 | [[Captain Daren Kolst]] | Garrison Commander | [[The Ashen Dominion]] | [[Order of the Ashen Flame]] | Alive |
@@ -100,8 +104,11 @@ type: overview
 | Mira Hearthswing | Matriarch, Canopy Rest | [[The Verdant Marches]] | None | Alive |
 | Tal Hearthswing | Resident (child) | [[The Verdant Marches]] | None | Alive |
 | Vell Roothollow | Marchwarden (Roothollow) | [[The Verdant Marches]] | [[Marchwardens Council]] | Alive |
+| Fen | Greensinger Seedling | [[The Verdant Marches]] | [[The Greensingers]] | Alive |
+| Brother Aldren | Dominion Priest/Assessor | [[The Pale Wastes]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] | Alive |
 | [[Merren Vask\|Scout-Captain Merren Vask]] | Lost Scout (Remnant) | [[The Pale Wastes]] | [[The Ashen Vigil]] | Undead |
 | [[Nara Frostmere\|Holdwarden Nara Frostmere]] | Former Holdwarden | [[The Pale Wastes]] | The Holds (Frostmere) | Dead |
+| Scout-Captain Edda Voss | Undead Scout (Vigil Protocols) | [[The Pale Wastes]] | [[The Ashen Vigil]] | Undead |
 | [[Maren Duskwater]] | Fenmother | [[The Greymere Fenlands]] | [[The Confluence Council]] | Alive |
 | [[Wick]] | Fencrafter Prodigy | [[The Greymere Fenlands]] | None | Alive |
 | [[Torben Greaves]] | Master Smuggler | [[The Greymere Fenlands]] | None | Alive |
@@ -143,6 +150,7 @@ type: overview
 | [[Apprentice Jyn]] | Grand Forge Apprentice | [[The Emberveil]] | [[The Ember Guild]] | Alive |
 | [[Corrin Ashveil\|Factor Corrin Ashveil]] | Ember Guild Historian | [[The Emberveil]] | [[The Ember Guild]] | Alive |
 | [[Vessa Ironvow]] | Rogue Miner | [[The Emberveil]] | None | Alive |
+| Master Gronn | Traditionalist Guild Member | [[The Emberveil]] | [[The Forge Council]] | Alive |
 | [[Yara Thornbloom\|Cyclekeeper Yara Thornbloom]] | Senior Cyclekeeper | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
 | [[Kael Duskborne\|Warden Kael Duskborne]] | Military Leader | [[The Thornwild]] | [[The Cyclekeepers]] | Alive |
 | [[Revenant Moss]] | Community Leader | [[The Thornwild]] | None | Alive |
@@ -269,6 +277,7 @@ type: overview
 | Mira Hearthswing | Matriarch, Canopy Rest | [[Canopy Rest]] | None |
 | Tal Hearthswing | Resident (child) | [[Canopy Rest]] | None |
 | Vell Roothollow | Marchwarden (Roothollow) | Roothollow clan territory | [[Marchwardens Council]] |
+| Fen | Greensinger Seedling | [[The Verdant Marches]] | [[The Greensingers]] |
 
 ### The Hollowed Reach
 
@@ -291,6 +300,8 @@ type: overview
 | [[Sera Greywater\|Warden Sera Greywater]] | Toll-Warden | [[Bridgemere]] | [[Concord of Tides]] |
 | [[Abbot Cael]] | Leader of the Merciful | Weeping Isles | The Merciful |
 | [[Celestine Vael\|Arch-Reader Celestine Vael]] | Star-Reader Leader | [[Tidewall]] | [[The Star-Readers]] |
+| Fenn Dalloway | Tidekeeper | [[Tidewall]] | [[Concord of Tides]] |
+| Salt | Former Sleepwalker, Preacher | [[Tidewall]] area | None |
 
 ### The Pale Wastes
 
@@ -299,8 +310,10 @@ type: overview
 | [[Bjorn Ashken\|Holdwarden Bjorn Ashken]] | Holdwarden of Greyhold | [[Greyhold]] | The Holds |
 | [[Thessa Ironveil\|Commander Thessa Ironveil]] | Vigil Commander | [[Lastlight]] | [[The Ashen Vigil]] |
 | [[Revenant Yael]] | Remnant Leader | [[Ashenmere]] | [[Remnants Court\|The Remnants' Court]] |
+| Brother Aldren | Dominion Priest/Assessor | [[Greyhold]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
 | [[Merren Vask\|Scout-Captain Merren Vask]] | Lost Scout (Remnant) | Hollowdeep | [[The Ashen Vigil]] |
 | [[Nara Frostmere\|Holdwarden Nara Frostmere]] | Former Holdwarden | [[Frostmere]] | The Holds |
+| Scout-Captain Edda Voss | Undead Scout (Vigil Protocols) | [[The Pale Wastes]] | [[The Ashen Vigil]] |
 
 ### The Greymere Fenlands
 
@@ -362,6 +375,7 @@ type: overview
 | [[Apprentice Jyn]] | Grand Forge Apprentice | [[Crucible]] | [[The Ember Guild]] |
 | [[Corrin Ashveil\|Factor Corrin Ashveil]] | Ember Guild Historian | [[Crucible]] | [[The Ember Guild]] |
 | [[Vessa Ironvow]] | Rogue Miner | Outer Warrens | None |
+| Master Gronn | Traditionalist Guild Member | [[Crucible]] | [[The Forge Council]] |
 
 ### The Thornwild
 
@@ -458,6 +472,8 @@ type: overview
 | Boundary Commander Sael | Rim Commander | [[Draveth]] | [[The Oldborn Kingdoms]] |
 | [[Ruling Elder Dael]] | Current Rotation Head | [[Hael'rune]] | [[The Oldborn Kingdoms]] |
 | Pact-Weaver Osshen | Anchor Maintenance | [[Hael'rune]] | [[The Oldborn Kingdoms]] |
+| Archivist Vel | Deep Library Keeper | [[Keth'vaal]] | Independent |
+| Brother Aldis | Missionary | [[Tidecross]] | [[Order of the Ashen Flame\|Church of the Ashen Flame]] |
 
 ### Divine Figures
 
@@ -474,6 +490,7 @@ type: overview
 | NPC | Title | Faction |
 |-----|-------|---------|
 | [[Torren Hearthforge\|Guildmaster Torren Hearthforge]] | Ember Guild Leader | [[The Ember Guild]] |
+| Tessera Vane | Star-Reader Arch-Reader | [[The Star-Readers]] |
 
 ---
 

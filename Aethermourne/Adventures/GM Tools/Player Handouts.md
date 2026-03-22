@@ -200,7 +200,7 @@ type: reference
 > *Spark-Captain Tessam, Seventh Ember*
 >
 > [A note in different handwriting at the bottom, partially burned:]
-> *The Thane approved. Move to Phase Three. Include the schools. — D.M.*
+> *The Thane approved. Move to Phase Three. Include the schools, D.M.*
 
 ---
 

@@ -2,7 +2,7 @@
 tags:
   - adventure
   - region/verdant-marches
-  - quests
+  - quest-board
 type: adventure
 region: The Verdant Marches
 location: Roothold

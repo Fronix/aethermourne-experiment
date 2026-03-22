@@ -2,7 +2,7 @@
 tags:
   - adventure
   - region/emberveil
-  - quests
+  - quest-board
 type: adventure
 region: The Emberveil
 location: Crucible

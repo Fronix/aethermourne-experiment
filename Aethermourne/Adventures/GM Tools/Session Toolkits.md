@@ -3,7 +3,7 @@ tags:
   - adventure
   - toolkit
   - gm-reference
-type: adventure
+type: reference
 estimated-duration: n/a
 ---
 
