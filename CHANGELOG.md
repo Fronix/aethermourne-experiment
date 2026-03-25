@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-03-25 23:49, Adventure audit fixes: quest boards + Iron Ascendant Flow Guide
+
+**Task from Gamemaster.** Three audit fixes applied:
+
+1. **Quest Board - Crucible.md**: Reformatted all 6 quests from bold markdown headers to info-box callout table format matching Tidecross reference. Mapped Recommended Level to Difficulty (3-5 = Moderate, 5-7 = High, 7-9 = Very High, 6-8 = High). Preserved all content, wikilinks, and GM Only callouts.
+2. **Quest Board - Roothold.md**: Same reformat applied to all 6 quests. Mapped Recommended Level to Difficulty (4-6 = Moderate, 5-7 = High, 8-10 = Very High). Preserved all content, wikilinks, and GM Only callouts.
+3. **GM Campaign Flow Guide - Iron Ascendant.md** (NEW): Created full GM flow guide for The Iron Ascendant campaign. ASCII flow diagram showing 5-act progression. Session-by-session tables for all 5 acts with Focus and "What the Players Should Feel" columns. Key GM Decisions after each act. Transition hooks. GM Only fallback callouts. Iron Tithe Tracking section (what to take at each depth, how to play losses at the table). Between-Session Checklist. Common GM Questions (6 entries: refusing the Descent, Mirror acceptance, saving Mira early, split on Four Paths, Emberveil detour, Hollowdeep crossover). Quick Reference connection table.
+
+## 2026-03-25 23:45, Adventure audit fixes: one-shots + Iron Ascendant Villain Timeline
+
+**Task from Gamemaster.** Three audit fixes applied:
+
+1. **One-Shot - The Hollowdeep Perimeter.md**: Added "What You Need" section (players, setting, tone, key NPCs, factions, music, handouts) between tagline and Overview.
+2. **One-Shot - The Drowning Bridge.md**: Added "What You Need" section (players, setting, tone, key NPCs, factions, music, handouts) between tagline and Overview.
+3. **Villain Action Timelines - Iron Ascendant.md** (NEW): Created full villain action timeline document for The Iron Ascendant campaign. Four timelines: Mira the Red (master clock, sessions 1-25, fragment collection to Heart merging), Fragment Migration (environmental clock, ambient to continental crisis), Yrsa Bloodhand's Transformation (Morrhaelite deterioration to Remnant), The Echo of Kaevroth (dormant to fully conscious). Includes GM-only strategic notes, intervention points, and "Using These Timelines" reference section.
+
 ## 2026-03-22 21:36, Cycle 26: Emberveil expansion (3 landmarks, 3 bestiary)
 
 Created 3 new landmark files for geographic features described in the Emberveil region atlas:

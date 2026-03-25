@@ -15,6 +15,18 @@ estimated-duration: 3-4 hours
 
 ---
 
+## What You Need
+
+- **Players:** 3-5 characters, levels 3-5
+- **Setting:** [[The Drowning Bridge]], [[The Greymere Fenlands]]
+- **Tone:** Ancient mystery, cosmic horror, the unknown before the known
+- **Key NPCs:** [[Nettie Bridgeborn]] (information broker), Reva (missing smuggler), Gyre-Born Remnant
+- **Key Factions:** [[Confluence Council]], Gyre-Born remnants
+- **Music:** Dripping water, stone echoes, low resonant hums. Build from silence to unsettling vibration in the ruins.
+- **Handouts:** Nettie's map of the Underbridge, Gallery carvings sketch, Archive tablet transcription fragment
+
+---
+
 ## Overview
 
 A 3-4 hour dungeon crawl set beneath [[The Drowning Bridge]] in [[The Greymere Fenlands]]. The pre-divine ruins sealed beneath the bridge are accessible for the first time in centuries, exposed by a catastrophic ley surge that cracked the southern chambers open. The PCs explore flooded corridors of impossible architecture, face Gyre-Born remnants waking from millennia of dormancy, and discover evidence that rewrites the world's theological history: creation existed before the gods.

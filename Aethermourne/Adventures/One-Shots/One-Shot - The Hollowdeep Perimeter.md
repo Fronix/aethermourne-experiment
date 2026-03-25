@@ -15,6 +15,18 @@ estimated-duration: 3-4 hours
 
 ---
 
+## What You Need
+
+- **Players:** 3-5 characters, levels 4-6
+- **Setting:** [[Hollowdeep]] crater perimeter, [[The Pale Wastes]]
+- **Tone:** Survival horror, military reconnaissance, dread
+- **Key NPCs:** [[Thessa Ironveil|Commander Thessa Ironveil]], Scout Edda Voss (deceased), Scout Vask (deceased)
+- **Key Factions:** [[The Ashen Vigil]], Serith's organized undead
+- **Music:** Low wind ambience, distant percussion. Silence is more effective than score. Save any crescendo for the bone-storm.
+- **Handouts:** Ironveil's mission briefing map, Vask's journal page, Morrhaelite lens sketch
+
+---
+
 ## Overview
 
 A 3-4 hour survival horror one-shot set on the edge of the [[Hollowdeep]] crater in [[The Pale Wastes]]. [[Thessa Ironveil|Commander Thessa Ironveil]] of the [[The Ashen Vigil|Ashen Vigil]] has hired the PCs to scout the perimeter of the crater and report what they observe. The mission is intelligence gathering, not combat. The goal is to get close, document what the organized undead are doing inside the crater, and get out alive.
