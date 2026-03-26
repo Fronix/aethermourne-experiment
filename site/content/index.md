@@ -189,7 +189,7 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 > | **NPC files** | 159 |
 > | **Creatures (Bestiary)** | 64 |
 > | **Factions** | 23 |
-> | **Campaign starters** | 8 |
+> | **Campaign starters** | 9 |
 > | **One-shots** | 8 |
 > | **Quest boards** | 11 |
 > | **Gods (The Twelve)** | 12 |

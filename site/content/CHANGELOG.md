@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-03-26 19:51, New file: Campaign Starter - Greymere Fenlands
+
+**Task from Gamemaster (Cycle 29).** Created `Aethermourne/Adventures/Campaign Starters/Campaign Starter - Greymere Fenlands.md`. 3-session starter arc set in [[Fenholm]], [[The Greymere Fenlands]]. 4 hooks (hired muscle, fugitive's refuge, scholarly expedition, personal connection to Brother Lumen). Session 1: arrival during ley-surge crisis, meet Maren Duskwater/Old Fenris, Confluence Council fragmentation, choose investigation path. Session 2: three parallel branches (Glimwater/Drowning Bridge/Ashcreek), each with unique encounters and NPCs, all converging on Sporeling. Session 3: Deep Fen travel, Sporeling's mycelial network, Brother Lumen's fragment convergence experiment, moral dilemma with no clean answer. 8 NPCs referenced, 6 encounters. Format matches Campaign Starter - Thornwild.md.
+
 ## 2026-03-26 19:24, New file: Campaign Starter - Thornwild
 
 **Task from Gamemaster (Cycle 28).** Created `Aethermourne/Adventures/Campaign Starters/Campaign Starter - Thornwild.md`. 3-session starter arc set in [[Cyclethorn]], [[The Thornwild]]. 4 hooks (hired escort, exile's refuge, scholarly investigation, Remnant connection). Session 1: arrival during Cycle event, meet Garret/Kael/Yara, missing harvester mission. Session 2: Threshold travel, Cycle-Stalker encounter, transition loop puzzle with 3 independent solutions. Session 3: crisis defense, Bloom-Wraith first approach, Yara's revelation about the third pulse and campaign-opening cliffhanger. Format matches Campaign Starter - Hollowed Reach.md.
