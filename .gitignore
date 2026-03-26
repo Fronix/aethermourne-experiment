@@ -8,6 +8,7 @@ scripts/watcher.pid
 # Build artifacts
 public
 site/quartz/.quartz-cache/
+map-data.backup*.json
 # Copied vault content for local preview
 site/content/*
 !site/content/index.md
