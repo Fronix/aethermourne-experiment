@@ -218,12 +218,29 @@ When in infinite mode, you run continuous 8-phase improvement cycles:
 - Fast capture using persistent server (2-3 seconds vs 15 seconds)
 
 ### Phase 4: Visual Analysis
-Read snapshot and identify:
-- Spacing violations (markers < 20 units)
-- Label collisions (region names overlapping settlements)
-- Polygon mismatches (coastal regions not touching ocean)
-- Label displacement (outside polygon boundaries)
+
+**First, view reference map:** Read `data/reference-maps/fantasy-map-reference-1.jpg` to see example of high-quality map with:
+- Excellent settlement spacing (50+ pixels between markers)
+- Zero label collisions
+- Region labels centered in territories
+- Settlement labels offset consistently from markers
+- Natural polygon boundaries following terrain
+- Clear visual hierarchy (capitals > cities > towns)
+
+**Then analyze current snapshot and identify:**
+- Spacing violations (markers < 20 units) - compare to reference's generous spacing
+- Label collisions (region names overlapping settlements) - reference has zero overlaps
+- Polygon mismatches (coastal regions not touching ocean) - reference follows coastlines
+- Label displacement (outside polygon boundaries) - reference labels centered in regions
 - Positioning errors (settlements in wrong region)
+
+**Comparison questions:**
+- Are my region labels as clearly centered as the reference?
+- Is my settlement spacing as clean as the reference?
+- Do my region boundaries follow geographic logic like the reference?
+- Is my label hierarchy as clear as the reference?
+
+See `data/reference-maps/README.md` for detailed quality benchmarks.
 
 ### Phase 5: Make Improvements
 Rate limits per iteration:

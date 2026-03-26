@@ -9,6 +9,8 @@ scripts/watcher.pid
 public
 site/quartz/.quartz-cache/
 map-data.backup*.json
+*.pid
+data/data
 # Copied vault content for local preview
 site/content/*
 !site/content/index.md
@@ -35,3 +37,11 @@ Thumbs.db
 nul
 *.log
 .wolf/
+
+# Cartographer
+data/reference-maps/*.jpg
+data/reference-maps/*.png
+data/*-iteration-*.png
+data/map-backups/
+data/snapshot-server.log
+data/cartographer-infinite-progress.log

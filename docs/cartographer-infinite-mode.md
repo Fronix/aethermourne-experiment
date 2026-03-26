@@ -34,12 +34,19 @@ Per iteration maximums prevent runaway changes:
 
 ### Visual Analysis
 
-The Cartographer analyzes map snapshots to identify:
+The Cartographer first views reference maps (`data/reference-maps/`) to understand what high-quality cartography looks like, then analyzes current snapshots to identify:
+
 - ✗ Settlement markers < 20 units apart (spacing violations)
 - ✗ Region labels overlapping settlements (label collisions)
 - ✗ Coastal regions not touching ocean (polygon mismatches)
 - ✗ Region labels outside polygon boundaries (label displacement)
 - ✗ Settlements rendered outside assigned region (positioning errors)
+
+**Reference benchmarks:**
+- Settlement spacing: 50+ pixels (reference standard) vs 20+ units (Aethermourne minimum)
+- Label collisions: Zero (reference achieves this consistently)
+- Region labels: Centered in territory (reference best practice)
+- Visual hierarchy: Clear capital > city > town distinction
 
 ---
 
@@ -175,6 +182,8 @@ The Gamemaster can still send one-off map sync tasks via AMP while Cartographer 
 | `data/map-backups/` | Backup storage (last 5 versions) |
 | `data/cartographer-infinite-progress.log` | Iteration log with timestamps |
 | `data/snapshot-server.log` | Snapshot server log |
+| `data/reference-maps/` | High-quality map examples for learning |
+| `data/reference-maps/README.md` | Reference map documentation and quality benchmarks |
 | `data/pre-iteration-N.png` | Pre-improvement snapshots (last 5 kept) |
 | `data/post-iteration-N.png` | Post-improvement snapshots (last 5 kept) |
 | `data/map-data.json` | Live map data (modified during iterations) |
