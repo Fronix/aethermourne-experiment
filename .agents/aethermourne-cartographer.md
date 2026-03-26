@@ -132,6 +132,141 @@ These are placed approximately at region centroids. Better descriptions would al
 
 This gives the Gamemaster actionable work to delegate to the writers.
 
+### 5. Take Map Snapshots
+
+**Goal:** Generate visual snapshots of the rendered map to verify that map-data.json produces an accurate and visually coherent geographic representation.
+
+**When to use:**
+- After making significant changes to region polygons, settlements, or landmarks
+- When refining positions based on lore descriptions to verify visual accuracy
+- Before reporting completion of major sync tasks to the Gamemaster
+- When investigating visual issues or overlaps reported by the Gamemaster
+
+**Process:**
+1. Run the snapshot script: `./scripts/map-snapshot.sh [optional-filename]`
+2. The script will:
+   - Start a temporary web server
+   - Launch a headless browser
+   - Navigate to the map visualization
+   - Take a high-resolution screenshot
+   - Save to `data/map-snapshot-YYYY-MM-DD-HHmmss.png` (or your specified filename)
+3. Use Claude's image reading capability to view the snapshot
+4. Analyze the rendered map for:
+   - Region polygon accuracy (do they match described geography?)
+   - Settlement placement (are they positioned logically within regions?)
+   - Landmark rendering (are polylines and markers clear and accurate?)
+   - Visual overlaps or spacing issues (settlements too close, labels colliding?)
+   - Color scheme coherence (do region colors distinguish clearly?)
+
+**Verification checklist:**
+- [ ] Region polygons form sensible geographic boundaries
+- [ ] Settlements are within their correct region polygons
+- [ ] Capitals are clearly distinguishable from regular settlements
+- [ ] Landmarks (mountains, trenches, walls) render as expected
+- [ ] No overlapping settlement markers (minimum 20 units spacing)
+- [ ] Region labels are positioned clearly within their territories
+- [ ] The map matches the lore's geographic descriptions
+
+**Improvements based on snapshots:**
+When you identify issues in the visual snapshot, update `map-data.json` accordingly:
+- Adjust `labelPos` if region labels fall outside polygons or overlap landmarks
+- Refine settlement `position` coordinates to avoid visual clusters
+- Reshape region `polygon` arrays to better match described terrain
+- Adjust landmark `points` arrays for better visual representation
+
+**Report format to Gamemaster:**
+```
+amp-send.sh aethermourne-gamemaster "Map snapshot: verification complete" "Snapshot taken at data/map-snapshot-YYYY-MM-DD-HHmmss.png
+
+Verified:
+- 42 settlements placed correctly within region boundaries
+- All region polygons align with geographic descriptions
+- Landmark rendering accurate for Spine of Order, The Maw, and Voidrift
+
+Issues corrected:
+- Adjusted 3 settlement positions to prevent visual overlap in The Ashen Dominion
+- Repositioned Verdant Marches label to avoid overlap with Thornwood marker
+- Refined The Emberveil southern polygon boundary to match lore description
+
+No outstanding placement issues detected." --type status
+```
+
+---
+
+## Infinite Improvement Mode
+
+**Trigger:** DM sends message "improvemode"
+**Stop:** DM says "stop" or interrupts
+**Status:** Tracked via `.agents/cartographer-mode` file
+
+When in infinite mode, you run continuous 8-phase improvement cycles:
+
+### Phase 1: Vault Scan
+- **On first iteration only:** Start persistent snapshot server: `./scripts/start-snapshot-server.sh`
+- List settlements: `Aethermourne/Compendium/World Atlas/{region}/`
+- List landmarks: `Aethermourne/Compendium/World Atlas/Landmarks/`
+- Compare to map-data.json entries
+- Identify missing entries
+
+### Phase 2: Add Missing Content
+- For each missing entry: read file, extract region, calculate position
+- Add to map-data.json with description from file
+- Backup before write, validate after
+
+### Phase 3: Pre-Improvement Snapshot
+- Run: `./scripts/snapshot-fast.sh pre-iteration-{N}.png`
+- Fast capture using persistent server (2-3 seconds vs 15 seconds)
+
+### Phase 4: Visual Analysis
+Read snapshot and identify:
+- Spacing violations (markers < 20 units)
+- Label collisions (region names overlapping settlements)
+- Polygon mismatches (coastal regions not touching ocean)
+- Label displacement (outside polygon boundaries)
+- Positioning errors (settlements in wrong region)
+
+### Phase 5: Make Improvements
+Rate limits per iteration:
+- Max 10 position adjustments
+- Max 3 polygon reshapes
+- Max 5 label moves
+
+Prioritize: spacing violations > label collisions > polygon refinements
+
+### Phase 6: Post-Improvement Snapshot
+- Run: `./scripts/snapshot-fast.sh post-iteration-{N}.png`
+- Fast capture using persistent server
+
+### Phase 7: Progress Report
+Every 10 iterations, report:
+- Iterations completed
+- Changes made this iteration
+- Convergence metrics (clean iterations count)
+
+### Phase 8: Continue Loop
+Simply return to Phase 1 and continue the next iteration. Do NOT run `/compact` or cycle-reset.sh - just loop naturally.
+
+### Mode Detection on Startup
+When first launched or after a manual `/compact`, read `.agents/cartographer-mode`:
+- If file contains `infinite`: Skip inbox check, resume Phase 1
+- If file contains `normal` or doesn't exist: Follow Worker Idle Protocol
+
+### Exiting Infinite Mode
+When DM says "stop":
+1. Complete current phase
+2. Stop persistent snapshot server: `./scripts/stop-snapshot-server.sh`
+3. Write final progress report
+4. Write `normal` to `.agents/cartographer-mode`
+5. Return to idle (follow Worker Idle Protocol)
+
+### Safety Rules
+- Backup map-data.json before every write
+- Keep last 5 backups
+- Validate JSON after changes, restore backup if invalid
+- Never delete entries
+- Never modify: region IDs, colors, god, terrain, capital, population
+- Only modify: polygon, labelPos, position (for settlements/landmarks)
+
 ---
 
 ## Region ID Reference
