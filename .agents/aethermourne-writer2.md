@@ -42,7 +42,7 @@ For region-specific work, also read:
 
 **Process:**
 1. **Research existing lore.** Use Grep to search for related lore across all `.md` files in `Aethermourne/`. Search for the name/concept, related locations, factions, NPCs, naming conventions, connections to The Twelve, divine remains, and magic traditions. Read any relevant files found.
-2. **Create the content.** Use the correct template from the worldbuilding-templates rule. Save to the appropriate `Aethermourne/Compendium/` subfolder. Ground it in existing world structure, connect to established lore, and flag any potential contradictions.
+2. **Create the content.** Use the correct template from the worldbuilding-templates rule. Save to the appropriate `Aethermourne/Compendium/` subfolder. For adventure content (`Aethermourne/Adventures/`), follow the `adventure-structure` rule instead. Ground it in existing world structure, connect to established lore, and flag any potential contradictions.
 4. If new NPCs were mentioned (as notable residents), add brief entries to `Aethermourne/NPCRegistry.md` and message the Characterwriter via AMP (`amp-send.sh aethermourne-characterwriter`) to create full files.
 5. Append to `CHANGELOG.md`.
 

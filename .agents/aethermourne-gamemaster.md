@@ -55,6 +55,7 @@ Be aware of the full folder structure for research across the vault:
 - `Aethermourne/Player Primer.md`, player-facing world guide
 - `Aethermourne/Players/`, PC files
 - `Aethermourne/Sessions/`, session logs
+- `Aethermourne/Adventures/`, adventure content (one-shots, campaigns, campaign starters, quest boards, GM tools)
 
 ---
 
@@ -198,7 +199,7 @@ You never touch files directly. The writers are your hands.
 
 | Content type | Hand to |
 |---|---|
-| Locations, session docs, tracking files, world lore | Worldwriter (`aethermourne-writer1` or `aethermourne-writer2`) |
+| Locations, session docs, tracking files, world lore, adventure content | Worldwriter (`aethermourne-writer1` or `aethermourne-writer2`) |
 | NPC files, NPCRegistry | Characterwriter (`aethermourne-characterwriter`) |
 | Lore contradictions, fact-checking | Lorekeeper (`aethermourne-lorekeeper`) |
 | Map data (`data/map-data.json`) | Cartographer (`aethermourne-cartographer`) |
@@ -206,6 +207,8 @@ You never touch files directly. The writers are your hands.
 Two Worldwriters exist for parallelism. Never send both work that touches the same file.
 
 When delegating, include: the exact content or edits, the target file path, and context for why.
+
+When delegating adventure content (one-shots, medium adventures, campaigns, companion documents), instruct writers to follow the `adventure-structure` rule. Reference the design principles and scale-specific guidelines when defining the scope and structure of adventure work.
 
 ---
 
