@@ -29,7 +29,7 @@ const gamemasterRoot = resolve(__dirname, '..');
 const MAP_PORT = 3778;      // Serves the map HTML
 const CONTROL_PORT = 3779;   // Control API for captures
 const STATE_FILE = resolve(gamemasterRoot, '.agents', 'snapshot-server.pid');
-const dataDir = resolve(gamemasterRoot, 'data');
+const dataDir = resolve(gamemasterRoot, 'data', 'snapshots');
 
 if (!fs.existsSync(dataDir)) {
   fs.mkdirSync(dataDir, { recursive: true });
@@ -51,15 +51,33 @@ async function cleanupOldSnapshots() {
       .map(f => ({ name: f, iteration: parseInt(f.match(/\d+/)[0]) }))
       .sort((a, b) => b.iteration - a.iteration);
 
+    let cleaned = 0;
+
     for (const snapshot of preSnapshots.slice(MAX_ITERATIONS)) {
-      fs.unlinkSync(join(dataDir, snapshot.name));
+      try {
+        fs.unlinkSync(join(dataDir, snapshot.name));
+        cleaned++;
+        console.log(`  Cleaned: ${snapshot.name}`);
+      } catch (e) {
+        console.warn(`  Failed to clean ${snapshot.name}: ${e.message}`);
+      }
     }
 
     for (const snapshot of postSnapshots.slice(MAX_ITERATIONS)) {
-      fs.unlinkSync(join(dataDir, snapshot.name));
+      try {
+        fs.unlinkSync(join(dataDir, snapshot.name));
+        cleaned++;
+        console.log(`  Cleaned: ${snapshot.name}`);
+      } catch (e) {
+        console.warn(`  Failed to clean ${snapshot.name}: ${e.message}`);
+      }
+    }
+
+    if (cleaned > 0) {
+      console.log(`  ✓ Cleaned ${cleaned} old snapshot(s), keeping last ${MAX_ITERATIONS} iterations`);
     }
   } catch (err) {
-    // Non-fatal
+    console.warn(`Warning: Snapshot cleanup failed: ${err.message}`);
   }
 }
 

@@ -97,7 +97,7 @@ Format:
 
 ### Snapshots
 
-Pre/post-improvement snapshots saved to: `/home/aethermourne/gamemaster/data/`
+Pre/post-improvement snapshots saved to: `/home/aethermourne/gamemaster/data/snapshots/`
 
 Naming convention:
 - `pre-iteration-1.png`, `post-iteration-1.png`
@@ -184,8 +184,9 @@ The Gamemaster can still send one-off map sync tasks via AMP while Cartographer 
 | `data/snapshot-server.log` | Snapshot server log |
 | `data/reference-maps/` | High-quality map examples for learning |
 | `data/reference-maps/README.md` | Reference map documentation and quality benchmarks |
-| `data/pre-iteration-N.png` | Pre-improvement snapshots (last 5 kept) |
-| `data/post-iteration-N.png` | Post-improvement snapshots (last 5 kept) |
+| `data/snapshots/` | Snapshot images directory |
+| `data/snapshots/pre-iteration-N.png` | Pre-improvement snapshots (last 5 kept) |
+| `data/snapshots/post-iteration-N.png` | Post-improvement snapshots (last 5 kept) |
 | `data/map-data.json` | Live map data (modified during iterations) |
 | `scripts/start-snapshot-server.sh` | Start persistent server |
 | `scripts/stop-snapshot-server.sh` | Stop persistent server |

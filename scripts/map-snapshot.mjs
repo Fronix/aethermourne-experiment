@@ -25,12 +25,12 @@ const gamemasterRoot = resolve(__dirname, '..');
 // Parse arguments
 const args = process.argv.slice(2);
 const outputFilename = args[0] || `map-snapshot-${new Date().toISOString().replace(/[:.]/g, '-').slice(0, -5)}.png`;
-const outputPath = resolve(gamemasterRoot, 'data', outputFilename);
+const snapshotsDir = resolve(gamemasterRoot, 'data', 'snapshots');
+const outputPath = resolve(snapshotsDir, outputFilename);
 
-// Ensure data directory exists
-const dataDir = resolve(gamemasterRoot, 'data');
-if (!fs.existsSync(dataDir)) {
-  fs.mkdirSync(dataDir, { recursive: true });
+// Ensure snapshots directory exists
+if (!fs.existsSync(snapshotsDir)) {
+  fs.mkdirSync(snapshotsDir, { recursive: true });
 }
 
 async function startServer() {

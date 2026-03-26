@@ -41,7 +41,7 @@ nul
 # Cartographer
 data/reference-maps/*.jpg
 data/reference-maps/*.png
-data/*-iteration-*.png
+data/snapshots/
 data/map-backups/
 data/snapshot-server.log
 data/cartographer-infinite-progress.log
