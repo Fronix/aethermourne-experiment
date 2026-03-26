@@ -5,7 +5,6 @@ tags:
   - campaign/second-silence
   - status/alive
   - role/military
-  - faction/concord-of-tides
 aliases:
   - Neve Stormhull
   - Stormhull

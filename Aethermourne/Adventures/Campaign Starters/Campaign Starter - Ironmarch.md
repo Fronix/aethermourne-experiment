@@ -133,7 +133,7 @@ While the PCs are on the Warspire (or immediately after), Mira's herald arrives 
 
 ### Scene 3: Yrsa's Secret
 
-In her private quarters, Yrsa removes her armor's gorget to reveal a Morrhaelite shard pressed against her collarbone. The skin around it is grey and cold, spreading slowly. She has been using the shard to resist Kaevroth's war-essence influence for years. It works. It is also killing her.
+In her private quarters, Yrsa removes her armor's gorget to reveal a Morrhaelite shard pressed against the skin over her heart. The skin around it is grey and cold, spreading slowly. She has been using the shard to resist Kaevroth's war-essence influence for years. It works. It is also killing her.
 
 **Yrsa's Truth:**
 - The shard replaces war-essence with death-essence. It keeps her mind clear but is slowly converting her living tissue to something else. If she continues wearing it, she will eventually become undead, a Remnant, immune to Kaevroth but no longer alive.

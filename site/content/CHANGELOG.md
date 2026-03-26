@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-03-26 19:09, Lore fix: Neve Stormhull faction tag
+
+**Task from Gamemaster.** Removed `faction/concord-of-tides` tag from `Captain Neve Stormhull.md` frontmatter. Neve deserted/was separated from the Concord after the Black Tide destroyed her ship and now serves as Harbor Master at Shieldbreak. The tag implied current membership which was inaccurate.
+
+## 2026-03-26 19:09, Lore fix: Belara essence terminology note
+
+**Task from Gamemaster.** Added `> [!tip] Terminology Note` callout to `Laws of the Descent.md` (The Mercy Exception section) clarifying that 'capacity for hope' (in-world theological term) and 'mercy' (campaign documents) describe the same stolen essence of Belara. Helps GMs understand the distinction is intentional layered truth, not a contradiction.
+
+## 2026-03-26 19:09, Cycle 27 lore fixes: Yrsa shard + Harsk one-shot
+
+**Task from Gamemaster.** Two lore corrections:
+
+1. **Campaign Starter - Ironmarch.md**: Changed Yrsa's Morrhaelite shard location from "collarbone" to "the skin over her heart" to match canonical NPC file (Yrsa Bloodhand.md).
+2. **One-Shot - The Iron Thane's Challenge.md**: Added GM Only timeline note after Harsk's champion scene (line 131), clarifying that this one-shot depicts Harsk under magical coercion via Kaevroth's Iron amulet, and advising placement in Act I (Sessions 2-4) if used within The Iron Ascendant campaign.
+
 ## 2026-03-26 18:43, Restructure: move Second Silence files + cleanup
 
 **Task from Gamemaster.** Adventure directory restructure.

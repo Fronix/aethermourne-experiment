@@ -130,6 +130,9 @@ Castellan Drenn intervenes, but the winner resists, eyes iron-grey, foam at the 
 - **Mira's Champion:** A veteran mercenary named **Harsk the Quiet** (a known NPC from the Ironmarch roster). He is wearing a raw iron amulet that has turned his eyes completely grey. He does not speak. He fights with terrifying precision and no mercy. Defeating him requires either overwhelming force or removing the amulet (DC 16 Athletics grapple, then DC 14 to remove it while he thrashes).
 - When the amulet is removed, Harsk collapses, weeping. "I couldn't stop. She promised me it would just make me stronger. She promised." He means Mira.
 
+> [!warning]- GM Only: Timeline Note
+> This one-shot depicts a scenario where [[Mira the Red]] has already turned [[Harsk the Quiet]] using a Kaevroth's Iron amulet, magical coercion rather than the voluntary offer of army command described in Harsk's main arc. If running this as a standalone, no adjustment needed. If slotting into [[Adventures/Campaigns/The Iron Ascendant/Campaign Overview|The Iron Ascendant]] campaign, place this in Act I (Sessions 2-4), before Harsk has made his own choice about Mira's offer.
+
 ### Scene 7: The Thane's Judgment
 
 **Setting:** The Iron Seat, after the tournament.

@@ -110,6 +110,9 @@ This creates a narrow exception to the domain's rules. Those who genuinely seek 
 
 Pure selflessness is the closest thing to armor this place allows. It is also extraordinarily difficult to maintain, because the Descent is designed to convert every noble impulse into self-interest. The moment a selfless actor begins to feel pride in their selflessness, or to desire recognition for their sacrifice, the exception collapses and the domain's full weight reasserts itself.
 
+> [!tip] Terminology Note
+> In-world theologians describe what Kaevroth stole as Belara's 'capacity for hope.' The campaign documents use 'mercy,' which aligns with Belara's title as Goddess of Mercy. Both terms describe the same stolen essence. Use whichever resonates at your table, the distinction is a matter of theological interpretation within the world, not a contradiction.
+
 > [!warning]- GM Only
 > **The Mercy Exception is the key to the Descent.** If the PCs ever need to reach Level 9, whether to recover Belara's stolen essence or to confront whatever remains of Kaevroth, the Mercy Exception is how they survive the journey. But it requires genuine selflessness, which means the player must commit to acting against their character's interests without expectation of reward. This should feel like a sacrifice, not a strategy. If a player treats it as a gameplay optimization ("I'll just be selfless to get the buff"), the domain sees through it instantly.
 >
