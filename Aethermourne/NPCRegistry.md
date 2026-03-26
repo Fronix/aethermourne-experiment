@@ -393,6 +393,7 @@ type: overview
 | [[Root-Speaker Fennara]] | Heretical Druid Leader | [[Rootpyre]] | [[The Cyclekeepers]] |
 | [[Garret Boneharvest]] | Cycle-Material Trader | [[Bone Garden]] | None |
 | [[The Bloom-Wraith]] | Cycle Entity | The Bonewood | None |
+| [[Seedling Vera]] | Dual-Channeling Student | [[Rootpyre]] | Rootpyre's Circle |
 
 ### The Iron Descent
 

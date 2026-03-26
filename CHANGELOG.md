@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-03-26 19:24, New file: Campaign Starter - Thornwild
+
+**Task from Gamemaster (Cycle 28).** Created `Aethermourne/Adventures/Campaign Starters/Campaign Starter - Thornwild.md`. 3-session starter arc set in [[Cyclethorn]], [[The Thornwild]]. 4 hooks (hired escort, exile's refuge, scholarly investigation, Remnant connection). Session 1: arrival during Cycle event, meet Garret/Kael/Yara, missing harvester mission. Session 2: Threshold travel, Cycle-Stalker encounter, transition loop puzzle with 3 independent solutions. Session 3: crisis defense, Bloom-Wraith first approach, Yara's revelation about the third pulse and campaign-opening cliffhanger. Format matches Campaign Starter - Hollowed Reach.md.
+
+## 2026-03-26 19:21, NPC creation: Seedling Vera
+
+**Task from Gamemaster (Cycle 28).** Created `Seedling Vera.md` in `NPCs/Scholars/`. Fennara's most talented dual-channeling student, obsessively drawn to the Bloom-Wraith. Quest objective (Bonewood rescue) and potential PC ally. Added registry entry in the Thornwild section. Sources: Root-Speaker Fennara.md, The Bloom-Wraith.md, Thornwild region atlas.
+
+## 2026-03-26 19:22, New file: Quest Board - Cyclethorn
+
+**Task from Gamemaster (Cycle 28).** Created `Aethermourne/Adventures/Quest Boards/Quest Board - Cyclethorn.md`. Six quests spanning Low to Very High difficulty, hub is [[Cyclethorn]] in [[The Thornwild]]. Quests: The Narrowing Watch (boundary survey), Harvest Run to Bone Garden (escort + investigation), The Lost Pilgrims (Remnant rescue in the Wilt), Fennara's Request (Bonewood rescue of Seedling Vera), The Ember Guild's Interest (infiltrator investigation), The Bloom-Wraith's Whisper (campaign-level endgame hook). Format matches Quest Board - Tidecross.md. No new NPCs created (Factor Hallen referenced by role only per instructions).
+
 ## 2026-03-26 19:09, Lore fix: Neve Stormhull faction tag
 
 **Task from Gamemaster.** Removed `faction/concord-of-tides` tag from `Captain Neve Stormhull.md` frontmatter. Neve deserted/was separated from the Concord after the Black Tide destroyed her ship and now serves as Harbor Master at Shieldbreak. The tag implied current membership which was inaccurate.

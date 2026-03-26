@@ -159,7 +159,6 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 - **[[Player Handouts]]**, in-world documents ready to print
 - **[[Session Toolkits]]**, tavern encounters, downtime activities, social scenes, slice-of-life
 - **[[Location Encounter Tables]]**, d6/d8 encounter tables for 6 settlements
-- **[[Random NPC Tables]]**, name, occupation, motivation, secret, and rumor generators
 - **[[Travel Rules and Hazards]]**, movement, distances, regional hazards, weather, foraging
 
 ## GM Reference
@@ -186,13 +185,13 @@ The entire project is free to use for anyone, licensed under MIT. You can find t
 > | **Total lines of lore** | 36,000+ |
 > | **Regions** | 9 (+1 new continent: The Unwritten Lands) |
 > | **Settlements** | 55+ |
-> | **Named NPCs** | 169 |
-> | **NPC files** | 158 |
+> | **Named NPCs** | 170 |
+> | **NPC files** | 159 |
 > | **Creatures (Bestiary)** | 64 |
 > | **Factions** | 23 |
-> | **Campaign starters** | 7 |
+> | **Campaign starters** | 8 |
 > | **One-shots** | 8 |
-> | **Quest boards** | 10 |
+> | **Quest boards** | 11 |
 > | **Gods (The Twelve)** | 12 |
 > | **Primordials** | 10 |
 > | **Outer Planes** | 3 (The Iron Descent, The Gyre, The Fathom) |
