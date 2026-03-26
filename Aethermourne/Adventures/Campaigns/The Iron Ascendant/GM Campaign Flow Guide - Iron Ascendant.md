@@ -6,9 +6,6 @@ tags:
 type: adventure
 ---
 
-> [!info]
-> This document is specific to [[Adventures/Campaigns/The Iron Ascendant/Campaign Overview|The Iron Ascendant]] campaign.
-
 # GM Campaign Flow Guide , The Iron Ascendant
 
 *Practical session-level guidance for running The Iron Ascendant.*

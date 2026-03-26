@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-03-26 18:43, Restructure: move Second Silence files + cleanup
+
+**Task from Gamemaster.** Adventure directory restructure.
+
+1. **Moved 5 files** into `Adventures/Campaigns/The Second Silence/`:
+   - Villain Action Timelines.md (from Campaign Reference/)
+   - GM Campaign Flow Guide.md (from Campaign Reference/)
+   - Cross-Region Quest Chains.md (from Campaign Reference/)
+   - The Prophecy Fragments.md (from Campaign Reference/)
+   - Player Handouts.md (from GM Tools/)
+2. **Removed redundant callouts** from the 4 Campaign Reference files (info callout stating "This document is specific to The Second Silence campaign", now redundant since files live in the campaign folder).
+3. **Deleted** `Adventures/GM Tools/Random NPC Tables.md` (canon NPC name collision risk, DM-approved removal).
+4. **Updated** `.claude/rules/adventure-structure.md` Companion Documents table with new file paths.
+
 ## 2026-03-25 23:49, Adventure audit fixes: quest boards + Iron Ascendant Flow Guide
 
 **Task from Gamemaster.** Three audit fixes applied:

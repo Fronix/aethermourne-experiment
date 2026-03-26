@@ -6,9 +6,6 @@ tags:
 type: adventure
 ---
 
-> [!info]
-> This document is specific to [[Adventures/Campaigns/The Iron Ascendant/Campaign Overview|The Iron Ascendant]] campaign.
-
 # Villain Action Timelines, The Iron Ascendant
 
 *What happens if the players do nothing.*

@@ -6,9 +6,6 @@ tags:
 type: adventure
 ---
 
-> [!info]
-> This document is specific to [[Campaign Overview|The Second Silence]] campaign.
-
 # GM Campaign Flow Guide
 
 *Practical session-level guidance for running The Second Silence.*

@@ -7,9 +7,6 @@ type: adventure
 scope: continental
 ---
 
-> [!info]
-> This document is specific to [[Campaign Overview|The Second Silence]] campaign.
-
 # Cross-Region Quest Chains
 
 *The threads that pull the world together, or unravel it.*
