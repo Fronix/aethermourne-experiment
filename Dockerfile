@@ -29,6 +29,7 @@ FROM node:22-alpine
 WORKDIR /app
 
 COPY server.js .
+COPY landing.html .
 
 # Copy all world builds to separate directories
 COPY --from=quartz-aethermourne /usr/src/app/public ./public/aethermourne

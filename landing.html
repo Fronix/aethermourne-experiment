@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gamemaster - World Portal</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      color: #e0e0e0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+
+    .container {
+      max-width: 900px;
+      width: 100%;
+    }
+
+    h1 {
+      font-size: 3rem;
+      text-align: center;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: 2px;
+    }
+
+    .subtitle {
+      text-align: center;
+      color: #a0a0a0;
+      font-size: 1.1rem;
+      margin-bottom: 3rem;
+      font-style: italic;
+    }
+
+    .worlds-grid {
+      display: grid;
+      gap: 1.5rem;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+
+    .world-card {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 2rem;
+      transition: all 0.3s ease;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      backdrop-filter: blur(10px);
+    }
+
+    .world-card:hover {
+      transform: translateY(-5px);
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(245, 87, 108, 0.5);
+      box-shadow: 0 10px 30px rgba(245, 87, 108, 0.2);
+    }
+
+    .world-name {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+      color: #f5576c;
+      font-weight: bold;
+    }
+
+    .world-campaign {
+      font-size: 1rem;
+      color: #b0b0b0;
+      margin-bottom: 1rem;
+      font-style: italic;
+    }
+
+    .world-tone {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: #d0d0d0;
+      border-left: 3px solid rgba(245, 87, 108, 0.5);
+      padding-left: 1rem;
+      margin-top: 1rem;
+    }
+
+    .loading {
+      text-align: center;
+      font-size: 1.2rem;
+      color: #a0a0a0;
+      padding: 3rem;
+    }
+
+    .error {
+      text-align: center;
+      color: #f5576c;
+      padding: 2rem;
+      background: rgba(245, 87, 108, 0.1);
+      border-radius: 8px;
+      border: 1px solid rgba(245, 87, 108, 0.3);
+    }
+
+    .footer {
+      margin-top: 3rem;
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+    }
+
+    .footer a {
+      color: #f5576c;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      .subtitle {
+        font-size: 1rem;
+      }
+
+      .world-card {
+        padding: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>World Portal</h1>
+    <p class="subtitle">Choose your realm of adventure</p>
+
+    <div id="worlds-container" class="loading">
+      Loading worlds...
+    </div>
+
+    <div class="footer">
+      Powered by <a href="https://claude.ai/code" target="_blank">Claude Code</a> + Quartz
+    </div>
+  </div>
+
+  <script>
+    async function loadWorlds() {
+      const container = document.getElementById('worlds-container');
+
+      try {
+        const response = await fetch('/api/worlds');
+        if (!response.ok) throw new Error('Failed to load worlds');
+
+        const worlds = await response.json();
+
+        if (worlds.length === 0) {
+          container.innerHTML = '<div class="error">No worlds available yet.</div>';
+          return;
+        }
+
+        container.className = 'worlds-grid';
+        container.innerHTML = worlds.map(world => `
+          <a href="${world.url}" class="world-card">
+            <div class="world-name">${world.name}</div>
+            <div class="world-campaign">${world.campaign}</div>
+            <div class="world-tone">${world.tone}</div>
+          </a>
+        `).join('');
+
+      } catch (error) {
+        container.className = '';
+        container.innerHTML = `
+          <div class="error">
+            <strong>Error loading worlds</strong><br>
+            ${error.message}
+          </div>
+        `;
+      }
+    }
+
+    // Load worlds on page load
+    loadWorlds();
+  </script>
+</body>
+</html>

@@ -198,11 +198,23 @@ const server = createServer(async (req, res) => {
   const url = new URL(req.url, `http://${req.headers.host}`)
   const pathname = decodeURIComponent(url.pathname)
 
-  // ── Root redirect to default world (Aethermourne) ────────────────
+  // ── Root landing page ─────────────────────────────────────────────
   if (pathname === "/") {
-    res.writeHead(302, { Location: "/aethermourne/" })
-    res.end()
-    return
+    try {
+      const landing = await readFile(join(import.meta.dirname, "landing.html"))
+      res.writeHead(200, {
+        "Content-Type": "text/html; charset=utf-8",
+        "Content-Length": landing.length,
+        "Cache-Control": "public, max-age=300"
+      })
+      res.end(landing)
+      return
+    } catch (err) {
+      // Fallback to redirect if landing page doesn't exist
+      res.writeHead(302, { Location: "/aethermourne/" })
+      res.end()
+      return
+    }
   }
 
   // ── World-specific map data serving ───────────────────────────────
