@@ -1,16 +1,35 @@
 #!/bin/bash
-# Build single container with all worlds
+# Build single container with all worlds (auto-discovers from worlds/ directory)
 echo "Building multi-world gamemaster container..."
+echo ""
 echo "Scanning worlds/ directory..."
 
-for world in worlds/*/; do
-  world_name=$(basename "$world")
-  echo "  - Found: $world_name"
+if [ ! -d "worlds" ]; then
+  echo "Error: worlds/ directory not found"
+  exit 1
+fi
+
+WORLDS=$(ls -1 worlds/ 2>/dev/null || echo "")
+
+if [ -z "$WORLDS" ]; then
+  echo "Error: No worlds found in worlds/ directory"
+  exit 1
+fi
+
+echo "Worlds to build:"
+for world in $WORLDS; do
+  echo "  - $world"
 done
+echo ""
 
 docker build -t gamemaster .
+
+echo ""
 echo "✓ Built gamemaster (serves all worlds)"
 echo ""
 echo "Worlds available at:"
-echo "  http://aethermourne.fronix.se/aethermourne/"
-echo "  http://aethermourne.fronix.se/newworld/"
+for world in $WORLDS; do
+  echo "  http://aethermourne.fronix.se/$world/"
+done
+echo ""
+echo "Landing page: http://aethermourne.fronix.se/"

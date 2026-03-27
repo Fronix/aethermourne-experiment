@@ -1,7 +1,10 @@
-# Stage 1a: Build Aethermourne Quartz site
-FROM node:22-alpine AS quartz-aethermourne
+# Stage 1: Build all Quartz sites (auto-discovers worlds)
+FROM node:22-alpine AS quartz-builder
 
 RUN corepack enable && corepack prepare pnpm@latest --activate
+
+# Install jq for JSON parsing
+RUN apk add --no-cache jq bash
 
 WORKDIR /usr/src/app
 
@@ -9,21 +12,17 @@ WORKDIR /usr/src/app
 COPY site/package.json site/pnpm-lock.yaml ./
 RUN pnpm install --frozen-lockfile
 
-# Copy the rest of the Quartz source
+# Copy the Quartz source
 COPY site/ .
 
-# Copy entire vault (includes CHANGELOG.md, no separate copy needed)
-COPY worlds/aethermourne/vault/ content/
+# Copy all worlds and build script
+COPY worlds/ /usr/src/app/worlds/
+COPY scripts/build-all-worlds.sh /usr/src/app/scripts/
 
-# Set baseUrl with /aethermourne prefix
-RUN sed -i 's|baseUrl:.*|baseUrl: "aethermourne.fronix.se/aethermourne",|' quartz.config.ts
-RUN sed -i 's|pageTitle:.*|pageTitle: "Aethermourne",|' quartz.config.ts
-
-# Build the static site
-RUN node --no-deprecation ./quartz/bootstrap-cli.mjs build
+# Build all discovered worlds
+RUN bash /usr/src/app/scripts/build-all-worlds.sh
 
 # Stage 2: Runtime - Multi-world server
-# Note: When you create a new world, add a new build stage above and copy it below
 FROM node:22-alpine
 
 WORKDIR /app
@@ -31,14 +30,14 @@ WORKDIR /app
 COPY server.js .
 COPY landing.html .
 
-# Copy all world builds to separate directories
-COPY --from=quartz-aethermourne /usr/src/app/public ./public/aethermourne
+# Copy all built worlds from the builder
+COPY --from=quartz-builder /usr/src/app/public-multiworld ./public/
 
 # Copy map viewer (shared across worlds)
 COPY map/ ./public/map/
 
-# Copy all world data
-COPY data/aethermourne/ ./data/aethermourne/
+# Copy all world data directories
+COPY data/ ./data/
 
 # Copy worlds directory for config reading
 COPY worlds/ ./worlds/
