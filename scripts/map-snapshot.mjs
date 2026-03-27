@@ -21,11 +21,12 @@ import fs from 'fs';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const gamemasterRoot = resolve(__dirname, '..');
+const WORLD_NAME = process.env.WORLD_NAME || 'aethermourne';
 
 // Parse arguments
 const args = process.argv.slice(2);
 const outputFilename = args[0] || `map-snapshot-${new Date().toISOString().replace(/[:.]/g, '-').slice(0, -5)}.png`;
-const snapshotsDir = resolve(gamemasterRoot, 'data', 'snapshots');
+const snapshotsDir = resolve(gamemasterRoot, 'data', WORLD_NAME, 'snapshots');
 const outputPath = resolve(snapshotsDir, outputFilename);
 
 // Ensure snapshots directory exists

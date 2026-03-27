@@ -25,11 +25,12 @@ import fs from 'fs';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const gamemasterRoot = resolve(__dirname, '..');
+const WORLD_NAME = process.env.WORLD_NAME || 'aethermourne';
 
 const MAP_PORT = 3778;      // Serves the map HTML
 const CONTROL_PORT = 3779;   // Control API for captures
-const STATE_FILE = resolve(gamemasterRoot, '.agents', 'snapshot-server.pid');
-const dataDir = resolve(gamemasterRoot, 'data', 'snapshots');
+const STATE_FILE = resolve(gamemasterRoot, '.agents-' + WORLD_NAME, 'snapshot-server.pid');
+const dataDir = resolve(gamemasterRoot, 'data', WORLD_NAME, 'snapshots');
 
 if (!fs.existsSync(dataDir)) {
   fs.mkdirSync(dataDir, { recursive: true });

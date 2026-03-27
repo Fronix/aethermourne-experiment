@@ -1,12 +1,41 @@
 import { createServer } from "node:http"
-import { readFile, stat } from "node:fs/promises"
+import { readFile, stat, readdir } from "node:fs/promises"
 import { join, extname } from "node:path"
 import { URL } from "node:url"
+import { existsSync } from "node:fs"
 
 const PORT = parseInt(process.env.PORT || "3777", 10)
 const INGEST_TOKEN = process.env.AMP_INGEST_TOKEN || ""
 const PUBLIC_DIR = join(import.meta.dirname, "public")
+const WORLDS_DIR = join(import.meta.dirname, "worlds")
+const DATA_DIR = join(import.meta.dirname, "data")
 const MAX_MESSAGES = 500
+
+// ── World Discovery ─────────────────────────────────────────────────
+// Discover available worlds by scanning worlds/ directory
+const availableWorlds = []
+try {
+  if (existsSync(WORLDS_DIR)) {
+    const entries = await readdir(WORLDS_DIR, { withFileTypes: true })
+    for (const entry of entries) {
+      if (entry.isDirectory()) {
+        const configPath = join(WORLDS_DIR, entry.name, "world.config.json")
+        if (existsSync(configPath)) {
+          const configContent = await readFile(configPath, "utf-8")
+          const config = JSON.parse(configContent)
+          availableWorlds.push({ slug: entry.name, config })
+          console.log(`Discovered world: ${config.name} (/${entry.name}/)`)
+        }
+      }
+    }
+  }
+} catch (err) {
+  console.warn("World discovery failed:", err.message)
+}
+
+if (availableWorlds.length === 0) {
+  console.warn("No worlds discovered. Multi-world serving disabled.")
+}
 
 // ── State ───────────────────────────────────────────────────────────
 const messages = []
@@ -168,6 +197,53 @@ async function serveStatic(req, res, pathname) {
 const server = createServer(async (req, res) => {
   const url = new URL(req.url, `http://${req.headers.host}`)
   const pathname = decodeURIComponent(url.pathname)
+
+  // ── Root redirect to default world (Aethermourne) ────────────────
+  if (pathname === "/") {
+    res.writeHead(302, { Location: "/aethermourne/" })
+    res.end()
+    return
+  }
+
+  // ── World-specific map data serving ───────────────────────────────
+  const mapDataMatch = pathname.match(/^\/([^/]+)\/map\/map-data\.json$/)
+  if (mapDataMatch && req.method === "GET") {
+    const worldSlug = mapDataMatch[1]
+    const mapDataPath = join(DATA_DIR, worldSlug, "map-data.json")
+
+    if (existsSync(mapDataPath)) {
+      try {
+        const mapData = await readFile(mapDataPath)
+        res.writeHead(200, {
+          "Content-Type": "application/json; charset=utf-8",
+          "Content-Length": mapData.length,
+          "Cache-Control": "public, max-age=300",
+        })
+        res.end(mapData)
+        return
+      } catch (err) {
+        res.writeHead(500)
+        res.end("Error reading map data")
+        return
+      }
+    } else {
+      res.writeHead(404)
+      res.end("Map data not found")
+      return
+    }
+  }
+
+  // ── World list API ────────────────────────────────────────────────
+  if (req.method === "GET" && pathname === "/api/worlds") {
+    const worldsList = availableWorlds.map(w => ({
+      name: w.config.name,
+      slug: w.slug,
+      url: `/${w.slug}/`,
+      campaign: w.config.campaign,
+      tone: w.config.tone
+    }))
+    return json(res, 200, worldsList)
+  }
 
   // ── Redirect /map to /map/ for correct relative path resolution ─
   if (pathname === "/map") {

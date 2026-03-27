@@ -38,10 +38,18 @@ nul
 *.log
 .wolf/
 
-# Cartographer
+# Cartographer - world-specific data
+data/*/snapshots/
+data/*/map-backups/
+data/*/map-data.json.backup-iter*
+data/*/*.log
 data/reference-maps/*.jpg
 data/reference-maps/*.png
-data/snapshots/
-data/map-data.json.backup-iter*
 data/snapshot-server.log
 data/cartographer-infinite-progress.log
+
+# World-specific agent runtime
+.agents-*/snapshot-server.pid
+.agents-*/watcher.pid
+.agents-*/cartographer-mode
+.agents-*/cycle-count

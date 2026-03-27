@@ -1,0 +1,2515 @@
+{
+  "meta": {
+    "name": "Aethermourne",
+    "description": "A world built on the bones of dead gods",
+    "version": 3
+  },
+  "continent": {
+    "outline": [
+      [
+        50,
+        200
+      ],
+      [
+        30,
+        350
+      ],
+      [
+        20,
+        500
+      ],
+      [
+        30,
+        650
+      ],
+      [
+        50,
+        800
+      ],
+      [
+        100,
+        900
+      ],
+      [
+        160,
+        950
+      ],
+      [
+        240,
+        970
+      ],
+      [
+        320,
+        950
+      ],
+      [
+        380,
+        970
+      ],
+      [
+        440,
+        980
+      ],
+      [
+        500,
+        970
+      ],
+      [
+        560,
+        950
+      ],
+      [
+        620,
+        970
+      ],
+      [
+        700,
+        950
+      ],
+      [
+        780,
+        900
+      ],
+      [
+        850,
+        830
+      ],
+      [
+        900,
+        750
+      ],
+      [
+        930,
+        650
+      ],
+      [
+        950,
+        550
+      ],
+      [
+        950,
+        450
+      ],
+      [
+        930,
+        350
+      ],
+      [
+        900,
+        250
+      ],
+      [
+        850,
+        170
+      ],
+      [
+        780,
+        110
+      ],
+      [
+        700,
+        70
+      ],
+      [
+        600,
+        50
+      ],
+      [
+        500,
+        40
+      ],
+      [
+        400,
+        50
+      ],
+      [
+        300,
+        70
+      ],
+      [
+        200,
+        100
+      ],
+      [
+        130,
+        150
+      ]
+    ]
+  },
+  "unwrittenLands": {
+    "outline": [
+      [
+        350,
+        1150
+      ],
+      [
+        320,
+        1220
+      ],
+      [
+        310,
+        1300
+      ],
+      [
+        320,
+        1380
+      ],
+      [
+        360,
+        1440
+      ],
+      [
+        420,
+        1480
+      ],
+      [
+        500,
+        1490
+      ],
+      [
+        580,
+        1480
+      ],
+      [
+        640,
+        1440
+      ],
+      [
+        680,
+        1380
+      ],
+      [
+        690,
+        1300
+      ],
+      [
+        680,
+        1220
+      ],
+      [
+        650,
+        1150
+      ],
+      [
+        600,
+        1100
+      ],
+      [
+        530,
+        1080
+      ],
+      [
+        460,
+        1080
+      ],
+      [
+        400,
+        1100
+      ]
+    ]
+  },
+  "regions": [
+    {
+      "id": "pale-wastes",
+      "name": "The Pale Wastes",
+      "god": "Morrhael, God of Death",
+      "terrain": "Frozen tundra and necromantic wasteland",
+      "color": "#9e978e",
+      "polygon": [
+        [
+          130,
+          150
+        ],
+        [
+          150,
+          128
+        ],
+        [
+          165,
+          115
+        ],
+        [
+          183,
+          105
+        ],
+        [
+          200,
+          100
+        ],
+        [
+          225,
+          88
+        ],
+        [
+          250,
+          80
+        ],
+        [
+          275,
+          72
+        ],
+        [
+          300,
+          70
+        ],
+        [
+          325,
+          63
+        ],
+        [
+          350,
+          55
+        ],
+        [
+          375,
+          52
+        ],
+        [
+          400,
+          50
+        ],
+        [
+          425,
+          47
+        ],
+        [
+          450,
+          45
+        ],
+        [
+          475,
+          42
+        ],
+        [
+          500,
+          40
+        ],
+        [
+          525,
+          42
+        ],
+        [
+          550,
+          45
+        ],
+        [
+          575,
+          48
+        ],
+        [
+          600,
+          50
+        ],
+        [
+          625,
+          56
+        ],
+        [
+          650,
+          60
+        ],
+        [
+          675,
+          66
+        ],
+        [
+          700,
+          70
+        ],
+        [
+          720,
+          78
+        ],
+        [
+          740,
+          90
+        ],
+        [
+          760,
+          100
+        ],
+        [
+          780,
+          110
+        ],
+        [
+          750,
+          200
+        ],
+        [
+          680,
+          260
+        ],
+        [
+          580,
+          290
+        ],
+        [
+          500,
+          300
+        ],
+        [
+          420,
+          290
+        ],
+        [
+          340,
+          270
+        ],
+        [
+          260,
+          240
+        ],
+        [
+          200,
+          200
+        ]
+      ],
+      "labelPos": [
+        470,
+        175
+      ],
+      "capital": "Greyhold",
+      "population": "~40,000"
+    },
+    {
+      "id": "thornwild",
+      "name": "The Thornwild",
+      "god": "Thyrea + Morrhael",
+      "terrain": "Cycling ecosystem of rapid life and death",
+      "color": "#5c6b3a",
+      "polygon": [
+        [
+          130,
+          150
+        ],
+        [
+          200,
+          200
+        ],
+        [
+          260,
+          240
+        ],
+        [
+          340,
+          270
+        ],
+        [
+          330,
+          350
+        ],
+        [
+          290,
+          400
+        ],
+        [
+          230,
+          410
+        ],
+        [
+          170,
+          380
+        ],
+        [
+          120,
+          320
+        ],
+        [
+          80,
+          260
+        ],
+        [
+          50,
+          200
+        ]
+      ],
+      "labelPos": [
+        280,
+        270
+      ],
+      "capital": "Cyclethorn",
+      "population": "~5,000"
+    },
+    {
+      "id": "verdant-marches",
+      "name": "The Verdant Marches",
+      "god": "Thyrea, Goddess of Nature",
+      "terrain": "Extreme jungle ecosystem",
+      "color": "#2d6e1e",
+      "polygon": [
+        [
+          50,
+          200
+        ],
+        [
+          80,
+          260
+        ],
+        [
+          120,
+          320
+        ],
+        [
+          170,
+          380
+        ],
+        [
+          230,
+          410
+        ],
+        [
+          290,
+          400
+        ],
+        [
+          280,
+          500
+        ],
+        [
+          260,
+          600
+        ],
+        [
+          220,
+          680
+        ],
+        [
+          160,
+          750
+        ],
+        [
+          100,
+          780
+        ],
+        [
+          50,
+          750
+        ],
+        [
+          30,
+          650
+        ],
+        [
+          20,
+          550
+        ],
+        [
+          20,
+          450
+        ],
+        [
+          30,
+          350
+        ]
+      ],
+      "labelPos": [
+        150,
+        520
+      ],
+      "capital": "Roothold",
+      "population": "800K-1.2M"
+    },
+    {
+      "id": "shattered-edge",
+      "name": "The Shattered Edge",
+      "god": "Vorrhyn, God of Chaos",
+      "terrain": "Reality-distorted zones around central wound",
+      "color": "#6b3fa0",
+      "polygon": [
+        [
+          290,
+          400
+        ],
+        [
+          330,
+          350
+        ],
+        [
+          400,
+          340
+        ],
+        [
+          430,
+          400
+        ],
+        [
+          420,
+          480
+        ],
+        [
+          380,
+          540
+        ],
+        [
+          320,
+          540
+        ],
+        [
+          280,
+          500
+        ]
+      ],
+      "labelPos": [
+        345,
+        415
+      ],
+      "capital": "Riftmarket",
+      "population": "12K-15K"
+    },
+    {
+      "id": "ashen-dominion",
+      "name": "The Ashen Dominion",
+      "god": "Solvaen, God of Order",
+      "terrain": "Mountain spine with surrounding plains",
+      "color": "#8b7355",
+      "polygon": [
+        [
+          340,
+          270
+        ],
+        [
+          420,
+          290
+        ],
+        [
+          500,
+          300
+        ],
+        [
+          580,
+          290
+        ],
+        [
+          680,
+          260
+        ],
+        [
+          750,
+          200
+        ],
+        [
+          780,
+          280
+        ],
+        [
+          770,
+          380
+        ],
+        [
+          740,
+          460
+        ],
+        [
+          700,
+          530
+        ],
+        [
+          640,
+          580
+        ],
+        [
+          560,
+          600
+        ],
+        [
+          480,
+          600
+        ],
+        [
+          420,
+          580
+        ],
+        [
+          380,
+          540
+        ],
+        [
+          420,
+          480
+        ],
+        [
+          430,
+          400
+        ],
+        [
+          400,
+          340
+        ],
+        [
+          330,
+          350
+        ]
+      ],
+      "labelPos": [
+        530,
+        400
+      ],
+      "capital": "Ostivaar",
+      "population": "4-6 million"
+    },
+    {
+      "id": "ironmarch",
+      "name": "The Ironmarch",
+      "god": "Kaevroth, God of War",
+      "terrain": "Rust-colored plains with eastern coast",
+      "color": "#8b5e3c",
+      "polygon": [
+        [
+          750,
+          200
+        ],
+        [
+          780,
+          110
+        ],
+        [
+          800,
+          125
+        ],
+        [
+          815,
+          140
+        ],
+        [
+          835,
+          155
+        ],
+        [
+          850,
+          170
+        ],
+        [
+          865,
+          190
+        ],
+        [
+          875,
+          210
+        ],
+        [
+          888,
+          230
+        ],
+        [
+          900,
+          250
+        ],
+        [
+          910,
+          275
+        ],
+        [
+          915,
+          300
+        ],
+        [
+          923,
+          325
+        ],
+        [
+          930,
+          350
+        ],
+        [
+          935,
+          375
+        ],
+        [
+          940,
+          400
+        ],
+        [
+          945,
+          425
+        ],
+        [
+          950,
+          450
+        ],
+        [
+          950,
+          475
+        ],
+        [
+          948,
+          500
+        ],
+        [
+          948,
+          525
+        ],
+        [
+          950,
+          550
+        ],
+        [
+          946,
+          575
+        ],
+        [
+          940,
+          590
+        ],
+        [
+          935,
+          610
+        ],
+        [
+          930,
+          630
+        ],
+        [
+          920,
+          650
+        ],
+        [
+          910,
+          665
+        ],
+        [
+          898,
+          683
+        ],
+        [
+          890,
+          700
+        ],
+        [
+          830,
+          640
+        ],
+        [
+          780,
+          570
+        ],
+        [
+          740,
+          460
+        ],
+        [
+          770,
+          380
+        ],
+        [
+          780,
+          280
+        ]
+      ],
+      "labelPos": [
+        860,
+        420
+      ],
+      "capital": "Ironhaven",
+      "population": "~80,000"
+    },
+    {
+      "id": "greymere-fenlands",
+      "name": "The Greymere Fenlands",
+      "god": "Nethys, Goddess of Magic",
+      "terrain": "Waterlogged marshland with ley-line saturation",
+      "color": "#4a6e5c",
+      "polygon": [
+        [
+          380,
+          540
+        ],
+        [
+          420,
+          580
+        ],
+        [
+          480,
+          600
+        ],
+        [
+          470,
+          660
+        ],
+        [
+          430,
+          710
+        ],
+        [
+          370,
+          720
+        ],
+        [
+          320,
+          700
+        ],
+        [
+          280,
+          650
+        ],
+        [
+          260,
+          600
+        ],
+        [
+          280,
+          540
+        ],
+        [
+          320,
+          540
+        ]
+      ],
+      "labelPos": [
+        375,
+        645
+      ],
+      "capital": "Fenholm",
+      "population": "~15,000"
+    },
+    {
+      "id": "emberveil",
+      "name": "The Emberveil",
+      "god": "Thalvor, God of the Ember-Smith",
+      "terrain": "Volcanic highlands with geothermal valleys",
+      "color": "#8b3a3a",
+      "polygon": [
+        [
+          560,
+          600
+        ],
+        [
+          640,
+          580
+        ],
+        [
+          700,
+          530
+        ],
+        [
+          740,
+          460
+        ],
+        [
+          780,
+          570
+        ],
+        [
+          830,
+          640
+        ],
+        [
+          800,
+          720
+        ],
+        [
+          740,
+          760
+        ],
+        [
+          660,
+          760
+        ],
+        [
+          590,
+          730
+        ],
+        [
+          530,
+          680
+        ],
+        [
+          480,
+          600
+        ]
+      ],
+      "labelPos": [
+        665,
+        665
+      ],
+      "capital": "Crucible",
+      "population": "~200,000"
+    },
+    {
+      "id": "hollowed-reach",
+      "name": "The Hollowed Reach",
+      "god": "Serith, Goddess of Shadow",
+      "terrain": "Maritime archipelago and coastal cliffs",
+      "color": "#3a5a7c",
+      "polygon": [
+        [
+          220,
+          680
+        ],
+        [
+          260,
+          650
+        ],
+        [
+          280,
+          650
+        ],
+        [
+          320,
+          700
+        ],
+        [
+          370,
+          720
+        ],
+        [
+          430,
+          710
+        ],
+        [
+          470,
+          660
+        ],
+        [
+          530,
+          680
+        ],
+        [
+          590,
+          730
+        ],
+        [
+          660,
+          760
+        ],
+        [
+          740,
+          760
+        ],
+        [
+          800,
+          720
+        ],
+        [
+          850,
+          780
+        ],
+        [
+          835,
+          805
+        ],
+        [
+          820,
+          820
+        ],
+        [
+          795,
+          850
+        ],
+        [
+          780,
+          860
+        ],
+        [
+          760,
+          885
+        ],
+        [
+          750,
+          895
+        ],
+        [
+          725,
+          915
+        ],
+        [
+          700,
+          910
+        ],
+        [
+          675,
+          925
+        ],
+        [
+          660,
+          935
+        ],
+        [
+          640,
+          945
+        ],
+        [
+          620,
+          950
+        ],
+        [
+          600,
+          958
+        ],
+        [
+          580,
+          965
+        ],
+        [
+          560,
+          968
+        ],
+        [
+          540,
+          970
+        ],
+        [
+          520,
+          970
+        ],
+        [
+          500,
+          968
+        ],
+        [
+          480,
+          963
+        ],
+        [
+          460,
+          965
+        ],
+        [
+          440,
+          970
+        ],
+        [
+          420,
+          968
+        ],
+        [
+          400,
+          965
+        ],
+        [
+          380,
+          960
+        ],
+        [
+          360,
+          950
+        ],
+        [
+          340,
+          938
+        ],
+        [
+          320,
+          930
+        ],
+        [
+          300,
+          920
+        ],
+        [
+          280,
+          908
+        ],
+        [
+          270,
+          900
+        ],
+        [
+          255,
+          890
+        ],
+        [
+          240,
+          880
+        ],
+        [
+          225,
+          865
+        ],
+        [
+          210,
+          850
+        ],
+        [
+          200,
+          830
+        ],
+        [
+          160,
+          780
+        ]
+      ],
+      "labelPos": [
+        455,
+        825
+      ],
+      "capital": "Tidewall",
+      "population": "~370,000"
+    },
+    {
+      "id": "unwritten-lands",
+      "name": "The Unwritten Lands",
+      "god": "Primordials (not gods)",
+      "terrain": "Pre-Pattern elemental chaos",
+      "color": "#7a6b5a",
+      "polygon": [
+        [
+          360,
+          1080
+        ],
+        [
+          345,
+          1100
+        ],
+        [
+          330,
+          1120
+        ],
+        [
+          320,
+          1150
+        ],
+        [
+          315,
+          1180
+        ],
+        [
+          312,
+          1215
+        ],
+        [
+          310,
+          1250
+        ],
+        [
+          312,
+          1285
+        ],
+        [
+          315,
+          1320
+        ],
+        [
+          322,
+          1355
+        ],
+        [
+          330,
+          1390
+        ],
+        [
+          345,
+          1420
+        ],
+        [
+          360,
+          1450
+        ],
+        [
+          380,
+          1470
+        ],
+        [
+          400,
+          1485
+        ],
+        [
+          425,
+          1490
+        ],
+        [
+          450,
+          1490
+        ],
+        [
+          485,
+          1485
+        ],
+        [
+          510,
+          1480
+        ],
+        [
+          540,
+          1465
+        ],
+        [
+          570,
+          1450
+        ],
+        [
+          595,
+          1425
+        ],
+        [
+          620,
+          1400
+        ],
+        [
+          645,
+          1370
+        ],
+        [
+          660,
+          1340
+        ],
+        [
+          675,
+          1305
+        ],
+        [
+          685,
+          1270
+        ],
+        [
+          688,
+          1235
+        ],
+        [
+          690,
+          1200
+        ],
+        [
+          688,
+          1165
+        ],
+        [
+          685,
+          1130
+        ],
+        [
+          675,
+          1100
+        ],
+        [
+          660,
+          1080
+        ],
+        [
+          640,
+          1062
+        ],
+        [
+          620,
+          1050
+        ],
+        [
+          595,
+          1040
+        ],
+        [
+          570,
+          1030
+        ],
+        [
+          545,
+          1027
+        ],
+        [
+          510,
+          1025
+        ],
+        [
+          475,
+          1030
+        ],
+        [
+          450,
+          1035
+        ],
+        [
+          425,
+          1045
+        ],
+        [
+          400,
+          1055
+        ]
+      ],
+      "labelPos": [
+        520,
+        1280
+      ],
+      "capital": "Tidecross",
+      "population": "Unknown"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "The Spine of Order",
+      "type": "mountains",
+      "description": "Solvaen's vertebral column, a luminous divine bone mountain range",
+      "points": [
+        [
+          310,
+          500
+        ],
+        [
+          370,
+          490
+        ],
+        [
+          430,
+          480
+        ],
+        [
+          490,
+          500
+        ],
+        [
+          550,
+          540
+        ],
+        [
+          590,
+          580
+        ]
+      ]
+    },
+    {
+      "name": "The Abyssal Trench",
+      "type": "trench",
+      "description": "Massive undersea rift, prison of Serith",
+      "points": [
+        [
+          920,
+          350
+        ],
+        [
+          960,
+          500
+        ],
+        [
+          950,
+          650
+        ],
+        [
+          900,
+          780
+        ]
+      ]
+    },
+    {
+      "name": "The Hollowdeep",
+      "type": "crater",
+      "description": "30-mile crater where Morrhael's skull struck",
+      "position": [
+        140,
+        500
+      ],
+      "radius": 30
+    },
+    {
+      "name": "The Maelstrom",
+      "type": "vortex",
+      "description": "Central wound where Vorrhyn was unmade",
+      "position": [
+        450,
+        410
+      ],
+      "radius": 20
+    },
+    {
+      "name": "The Scarwall",
+      "type": "wall",
+      "description": "Living thorn fortification between Dominion and Marches",
+      "points": [
+        [
+          340,
+          280
+        ],
+        [
+          330,
+          370
+        ],
+        [
+          300,
+          460
+        ],
+        [
+          280,
+          530
+        ]
+      ]
+    },
+    {
+      "name": "The Bloom Peaks",
+      "type": "mountains",
+      "description": "Western mountains with rapid seasonal cycles",
+      "points": [
+        [
+          420,
+          100
+        ],
+        [
+          500,
+          80
+        ],
+        [
+          580,
+          100
+        ],
+        [
+          650,
+          130
+        ]
+      ]
+    },
+    {
+      "name": "The Caldera Ring",
+      "type": "mountains",
+      "description": "Chain of five volcanic peaks encircling the Emberveil: Anvil, Bellows, Tongs, Quench, centered on Mount Thalvor",
+      "points": [
+        [
+          560,
+          630
+        ],
+        [
+          590,
+          600
+        ],
+        [
+          640,
+          570
+        ],
+        [
+          710,
+          580
+        ],
+        [
+          770,
+          620
+        ],
+        [
+          760,
+          680
+        ],
+        [
+          700,
+          720
+        ],
+        [
+          620,
+          710
+        ],
+        [
+          570,
+          680
+        ],
+        [
+          550,
+          640
+        ]
+      ],
+      "region": "emberveil"
+    },
+    {
+      "name": "The Bitter Sea",
+      "type": "label",
+      "position": [
+        10,
+        500
+      ]
+    },
+    {
+      "name": "The Western Ocean",
+      "type": "label",
+      "position": [
+        500,
+        30
+      ]
+    },
+    {
+      "name": "The Sundering Sea",
+      "type": "label",
+      "position": [
+        500,
+        1020
+      ]
+    },
+    {
+      "name": "Mount Thalvor",
+      "type": "landmark",
+      "description": "Sacred volcanic peak at center of Caldera Ring",
+      "position": [
+        690,
+        590
+      ],
+      "region": "emberveil"
+    },
+    {
+      "name": "The Marrow Bogs",
+      "type": "landmark",
+      "description": "Thyrea's marrow seepage zone, south of the Cradle",
+      "position": [
+        120,
+        620
+      ],
+      "region": "verdant-marches"
+    },
+    {
+      "name": "Thyrea's Cradle",
+      "type": "landmark",
+      "description": "Heart of the Verdant Marches, primeval forest",
+      "position": [
+        150,
+        520
+      ],
+      "region": "verdant-marches"
+    },
+    {
+      "name": "The Marrow Fields",
+      "type": "landmark",
+      "description": "Scattered divine bone protrusion sites",
+      "position": [
+        220,
+        480
+      ],
+      "region": "pale-wastes"
+    },
+    {
+      "name": "The Ashborn Tundra",
+      "type": "landmark",
+      "description": "Frozen plains between Pale Wastes Holds",
+      "position": [
+        400,
+        200
+      ],
+      "region": "pale-wastes"
+    },
+    {
+      "name": "The Bloom",
+      "type": "landmark",
+      "description": "Southwestern Thornwild, Thyrea-dominant growth zone",
+      "position": [
+        180,
+        340
+      ],
+      "region": "thornwild"
+    },
+    {
+      "name": "The Wilt",
+      "type": "landmark",
+      "description": "Northeastern Thornwild, Morrhael-dominant death zone",
+      "position": [
+        240,
+        280
+      ],
+      "region": "thornwild"
+    },
+    {
+      "name": "The Bonewood",
+      "type": "landmark",
+      "description": "Deep interior Thornwild, extreme Cycle collision",
+      "position": [
+        210,
+        310
+      ],
+      "region": "thornwild"
+    },
+    {
+      "name": "The Threshold",
+      "type": "landmark",
+      "description": "Central balance band between Bloom and Wilt",
+      "position": [
+        205,
+        320
+      ],
+      "region": "thornwild"
+    },
+    {
+      "name": "The Shattered Coast",
+      "type": "landmark",
+      "description": "Fractured western coastline of the Hollowed Reach",
+      "position": [
+        280,
+        750
+      ],
+      "region": "hollowed-reach"
+    },
+    {
+      "name": "The Weeping Isles",
+      "type": "landmark",
+      "description": "Sacred archipelago, Belara's remains",
+      "position": [
+        230,
+        850
+      ],
+      "region": "hollowed-reach"
+    },
+    {
+      "name": "The Ashfields",
+      "type": "landmark",
+      "description": "Vast grey plains surrounding Spine of Order",
+      "position": [
+        520,
+        440
+      ],
+      "region": "ashen-dominion"
+    },
+    {
+      "name": "The Calcified Forest",
+      "type": "landmark",
+      "description": "Eastern petrified woodland",
+      "position": [
+        680,
+        340
+      ],
+      "region": "ashen-dominion"
+    },
+    {
+      "name": "The Iron Fields",
+      "type": "landmark",
+      "description": "Interior heartland, dense with Kaevroth fragments",
+      "position": [
+        840,
+        450
+      ],
+      "region": "ironmarch"
+    },
+    {
+      "name": "The Shardfall",
+      "type": "landmark",
+      "description": "Southeastern fragment impact zone",
+      "position": [
+        870,
+        580
+      ],
+      "region": "ironmarch"
+    },
+    {
+      "name": "The Contested Corridor",
+      "type": "landmark",
+      "description": "Strategic pass between Ironmarch and Dominion",
+      "position": [
+        750,
+        380
+      ],
+      "region": "ironmarch"
+    },
+    {
+      "name": "The Nethys Pools",
+      "type": "landmark",
+      "description": "Ley-saturated pool network, center of Greymere",
+      "position": [
+        350,
+        630
+      ],
+      "region": "greymere-fenlands"
+    },
+    {
+      "name": "The Deep Warrens",
+      "type": "landmark",
+      "description": "Subsurface tunnel network beneath Emberveil",
+      "position": [
+        640,
+        670
+      ],
+      "region": "emberveil"
+    },
+    {
+      "name": "The Warm Valleys",
+      "type": "landmark",
+      "description": "Geothermal lowlands between Caldera Ring peaks, radiating from Crucible toward Hearthdeep and Anvilrest",
+      "position": [
+        685,
+        640
+      ],
+      "region": "emberveil"
+    },
+    {
+      "name": "The Ashfall Slopes",
+      "type": "landmark",
+      "description": "Outer volcanic flanks facing the Ashen Dominion and Hollowed Reach, Smokewall guards the eastern pass",
+      "position": [
+        670,
+        720
+      ],
+      "region": "emberveil"
+    },
+    {
+      "name": "The Breathing Mountains",
+      "type": "landmark",
+      "description": "Mountain range that rises and falls in a cycle, expressing Thaelun's dreaming",
+      "position": [
+        520,
+        1150
+      ],
+      "region": "unwritten-lands"
+    },
+    {
+      "name": "The Covenant Spire",
+      "type": "landmark",
+      "description": "Obsidian spire marking the Oldborn's pact with Ur-Ghael, three hours south of Keth'vaal",
+      "position": [
+        540,
+        1300
+      ],
+      "region": "unwritten-lands"
+    },
+    {
+      "name": "The Deep Cave",
+      "type": "landmark",
+      "description": "Sea cave beneath Mistholm with fissure to Abyssal Trench, Serith communion site",
+      "position": [
+        295,
+        800
+      ],
+      "region": "hollowed-reach"
+    },
+    {
+      "name": "The Drowned Spires",
+      "type": "landmark",
+      "description": "Empyrean remnants that phase into visibility during ley surges, Deep Fen interior",
+      "position": [
+        340,
+        650
+      ],
+      "region": "greymere-fenlands"
+    },
+    {
+      "name": "The Ejecta Fields",
+      "type": "landmark",
+      "description": "Maelstrom debris field in outermost Drift zone, harvesting grounds",
+      "position": [
+        445,
+        425
+      ],
+      "region": "shattered-edge"
+    },
+    {
+      "name": "The Loom Scar",
+      "type": "landmark",
+      "description": "Deepest accessible Threshold point, fate-thread bleed site near Maelstrom",
+      "position": [
+        455,
+        405
+      ],
+      "region": "shattered-edge"
+    },
+    {
+      "name": "The Shard Bogs",
+      "type": "landmark",
+      "description": "Empyrean Shard surfacing zone beyond Sporeling, Deep Fen hazard area",
+      "position": [
+        350,
+        660
+      ],
+      "region": "greymere-fenlands"
+    },
+    {
+      "name": "The Shimmer",
+      "type": "landmark",
+      "description": "40-mile zone where reality thins, exposing the Gyre, western Primordia",
+      "position": [
+        480,
+        1130
+      ],
+      "region": "unwritten-lands"
+    },
+    {
+      "name": "The Skein",
+      "type": "landmark",
+      "description": "High plateau with exposed fate-threads, heart of the Loom's Edge",
+      "position": [
+        570,
+        1370
+      ],
+      "region": "unwritten-lands"
+    },
+    {
+      "name": "The Threshold (Thornwild)",
+      "type": "label",
+      "description": "Equilibrium zone where the Bloom and Wilt meet, narrowing dangerously",
+      "position": [
+        280,
+        195
+      ]
+    }
+  ],
+  "settlements": [
+    {
+      "name": "Ostivaar",
+      "region": "ashen-dominion",
+      "position": [
+        515,
+        375
+      ],
+      "population": 500000,
+      "type": "capital",
+      "description": "Built within Solvaen's ribcage, capital of the Dominion"
+    },
+    {
+      "name": "Roothold",
+      "region": "verdant-marches",
+      "position": [
+        125,
+        495
+      ],
+      "population": 30000,
+      "type": "capital",
+      "description": "De facto capital in roots of Grandfather titan-tree"
+    },
+    {
+      "name": "Tidewall",
+      "region": "hollowed-reach",
+      "position": [
+        475,
+        795
+      ],
+      "population": 250000,
+      "type": "capital",
+      "description": "Largest port in Aethermourne"
+    },
+    {
+      "name": "Greyhold",
+      "region": "pale-wastes",
+      "position": [
+        435,
+        175
+      ],
+      "population": 20000,
+      "type": "capital",
+      "description": "De facto center, fortified hold"
+    },
+    {
+      "name": "Crucible",
+      "region": "emberveil",
+      "position": [
+        635,
+        675
+      ],
+      "population": 35000,
+      "type": "capital",
+      "description": "Built in an extinct volcanic caldera"
+    },
+    {
+      "name": "Ironhaven",
+      "region": "ironmarch",
+      "position": [
+        815,
+        385
+      ],
+      "population": 40000,
+      "type": "capital",
+      "description": "Seat of the Iron Thane"
+    },
+    {
+      "name": "Riftmarket",
+      "region": "shattered-edge",
+      "position": [
+        350,
+        440
+      ],
+      "population": 5000,
+      "type": "capital",
+      "description": "Largest settlement, built near the Maelstrom"
+    },
+    {
+      "name": "Fenholm",
+      "region": "greymere-fenlands",
+      "position": [
+        395,
+        595
+      ],
+      "population": 6000,
+      "type": "capital",
+      "description": "Built on stilts above luminous marshwater"
+    },
+    {
+      "name": "Cyclethorn",
+      "region": "thornwild",
+      "position": [
+        325,
+        245
+      ],
+      "population": 2000,
+      "type": "capital",
+      "description": "On the Threshold between Bloom and Wilt"
+    },
+    {
+      "name": "Cinderholm",
+      "region": "ashen-dominion",
+      "position": [
+        625,
+        435
+      ],
+      "population": 120000,
+      "type": "city",
+      "description": "Western border fortress facing Scarwall"
+    },
+    {
+      "name": "Hearthstone",
+      "region": "ashen-dominion",
+      "position": [
+        470,
+        515
+      ],
+      "population": 25000,
+      "type": "city",
+      "description": "Built into cleft between Spine vertebrae"
+    },
+    {
+      "name": "Pale Sentry",
+      "region": "ashen-dominion",
+      "position": [
+        585,
+        305
+      ],
+      "population": 15000,
+      "type": "city",
+      "description": "Northern border fortress watching Pale Wastes"
+    },
+    {
+      "name": "Thornwall",
+      "region": "ashen-dominion",
+      "position": [
+        530,
+        460
+      ],
+      "population": 8000,
+      "type": "town",
+      "description": "In the Scar, facing Scarwall directly"
+    },
+    {
+      "name": "Veil Harbor",
+      "region": "hollowed-reach",
+      "position": [
+        565,
+        805
+      ],
+      "population": 60000,
+      "type": "city",
+      "description": "Sea caves of Shattered Coast"
+    },
+    {
+      "name": "Bridgemere",
+      "region": "hollowed-reach",
+      "position": [
+        440,
+        895
+      ],
+      "population": 8000,
+      "type": "town",
+      "description": "Island at junction of three Tidal Bridges"
+    },
+    {
+      "name": "Weeping Shore",
+      "region": "hollowed-reach",
+      "position": [
+        230,
+        805
+      ],
+      "population": 500,
+      "type": "village",
+      "description": "Mainland coast, closest to Weeping Isles"
+    },
+    {
+      "name": "Mirewatch",
+      "region": "verdant-marches",
+      "position": [
+        125,
+        655
+      ],
+      "population": 8000,
+      "type": "town",
+      "description": "Floating settlement on Marrow Bogs"
+    },
+    {
+      "name": "Sporeheim",
+      "region": "verdant-marches",
+      "position": [
+        205,
+        415
+      ],
+      "population": 5000,
+      "type": "town",
+      "description": "High in Bloom Peaks, mountain caves"
+    },
+    {
+      "name": "Stillwater",
+      "region": "verdant-marches",
+      "position": [
+        175,
+        655
+      ],
+      "population": 3000,
+      "type": "town",
+      "description": "Shore of Stillwater Lake"
+    },
+    {
+      "name": "Ashwalker's Post",
+      "region": "verdant-marches",
+      "position": [
+        135,
+        515
+      ],
+      "population": 2000,
+      "type": "town",
+      "description": "Border settlement on Marcher side of Scarwall"
+    },
+    {
+      "name": "Canopy Rest",
+      "region": "verdant-marches",
+      "position": [
+        195,
+        605
+      ],
+      "population": 1000,
+      "type": "village",
+      "description": "Mid-canopy waystation 200 feet up"
+    },
+    {
+      "name": "Lastlight",
+      "region": "pale-wastes",
+      "position": [
+        545,
+        145
+      ],
+      "population": 5000,
+      "type": "town",
+      "description": "Rocky ridge overlooking Hollowdeep"
+    },
+    {
+      "name": "Ember's Rest",
+      "region": "pale-wastes",
+      "position": [
+        415,
+        250
+      ],
+      "population": 2000,
+      "type": "town",
+      "description": "Southern gateway near Pale Sentry"
+    },
+    {
+      "name": "Frostmere",
+      "region": "pale-wastes",
+      "position": [
+        575,
+        125
+      ],
+      "population": 800,
+      "type": "village",
+      "description": "Fishing hold on Bitter Sea, GONE SILENT"
+    },
+    {
+      "name": "Bonecairn",
+      "region": "pale-wastes",
+      "position": [
+        370,
+        200
+      ],
+      "population": 600,
+      "type": "village",
+      "description": "Edge of Marrow Field, near Hollowdeep"
+    },
+    {
+      "name": "Bone Garden",
+      "region": "thornwild",
+      "position": [
+        135,
+        325
+      ],
+      "population": 1200,
+      "type": "village",
+      "description": "The Wilt, border with Threshold"
+    },
+    {
+      "name": "Ashbloom",
+      "region": "thornwild",
+      "position": [
+        200,
+        300
+      ],
+      "population": 800,
+      "type": "village",
+      "description": "The Wilt"
+    },
+    {
+      "name": "Rootpyre",
+      "region": "thornwild",
+      "position": [
+        155,
+        395
+      ],
+      "population": 600,
+      "type": "village",
+      "description": "The Bloom"
+    },
+    {
+      "name": "Shimmer",
+      "region": "shattered-edge",
+      "position": [
+        340,
+        505
+      ],
+      "population": 2000,
+      "type": "town",
+      "description": "Heart of Shimmer Zone"
+    },
+    {
+      "name": "The Last Certainty",
+      "region": "shattered-edge",
+      "position": [
+        415,
+        445
+      ],
+      "population": 1500,
+      "type": "town",
+      "description": "Stable Ring"
+    },
+    {
+      "name": "Edgewatch",
+      "region": "shattered-edge",
+      "position": [
+        325,
+        370
+      ],
+      "population": 800,
+      "type": "village",
+      "description": "Threshold border"
+    },
+    {
+      "name": "Wrathspire",
+      "region": "ironmarch",
+      "position": [
+        885,
+        605
+      ],
+      "population": 8000,
+      "type": "town",
+      "description": "Southeastern Shardfall, shadow of Kaevroth Monolith"
+    },
+    {
+      "name": "Shieldbreak",
+      "region": "ironmarch",
+      "position": [
+        935,
+        435
+      ],
+      "population": 3000,
+      "type": "town",
+      "description": "Natural harbor on Rust Coast"
+    },
+    {
+      "name": "Cinderfall",
+      "region": "emberveil",
+      "position": [
+        705,
+        565
+      ],
+      "population": 8000,
+      "type": "town",
+      "description": "Slopes of Mount Thalvor"
+    },
+    {
+      "name": "Smokewall",
+      "region": "emberveil",
+      "position": [
+        595,
+        595
+      ],
+      "population": 3000,
+      "type": "town",
+      "description": "Major pass between Emberveil and Dominion"
+    },
+    {
+      "name": "Glimwater",
+      "region": "greymere-fenlands",
+      "position": [
+        405,
+        685
+      ],
+      "population": 3000,
+      "type": "town",
+      "description": "Eastern edge of Glimpool"
+    },
+    {
+      "name": "The Drowning Bridge",
+      "region": "greymere-fenlands",
+      "position": [
+        305,
+        705
+      ],
+      "population": 2000,
+      "type": "town",
+      "description": "Midpoint of Smuggler's Sluice"
+    },
+    {
+      "name": "Ashcreek",
+      "region": "greymere-fenlands",
+      "position": [
+        460,
+        570
+      ],
+      "population": 1500,
+      "type": "village",
+      "description": "Northern edge, Dominion border"
+    },
+    {
+      "name": "Sporeling",
+      "region": "greymere-fenlands",
+      "position": [
+        280,
+        635
+      ],
+      "population": 800,
+      "type": "village",
+      "description": "Deep Fen"
+    },
+    {
+      "name": "Ashveil",
+      "region": "ashen-dominion",
+      "position": [
+        645,
+        375
+      ],
+      "population": 80000,
+      "type": "city",
+      "description": "Eastern edge of Calcified Forest, 40mi SE of Ostivaar"
+    },
+    {
+      "name": "Crown's Reach",
+      "region": "ashen-dominion",
+      "position": [
+        465,
+        425
+      ],
+      "population": 3000,
+      "type": "town",
+      "description": "Northernmost vertebra of Spine of Order, 50mi N of Ostivaar"
+    },
+    {
+      "name": "Greyfield",
+      "region": "ashen-dominion",
+      "position": [
+        565,
+        325
+      ],
+      "population": 4000,
+      "type": "town",
+      "description": "Western Ashfields, 20mi W of Ostivaar"
+    },
+    {
+      "name": "Keel's Landing",
+      "region": "hollowed-reach",
+      "position": [
+        585,
+        925
+      ],
+      "population": 18000,
+      "type": "city",
+      "description": "Southern archipelago, half-day sail S of Tidewall"
+    },
+    {
+      "name": "Driftmere",
+      "region": "hollowed-reach",
+      "position": [
+        350,
+        840
+      ],
+      "population": 15000,
+      "type": "city",
+      "description": "Circuits northern/western outer islands"
+    },
+    {
+      "name": "Mistholm",
+      "region": "hollowed-reach",
+      "position": [
+        295,
+        755
+      ],
+      "population": 3000,
+      "type": "town",
+      "description": "Southern Shattered Coast, closest mainland to Trench"
+    },
+    {
+      "name": "Saltmere",
+      "region": "hollowed-reach",
+      "position": [
+        245,
+        725
+      ],
+      "population": 1500,
+      "type": "village",
+      "description": "Northern Shattered Coast, 10mi N of Mistholm"
+    },
+    {
+      "name": "Thornhaven",
+      "region": "verdant-marches",
+      "position": [
+        95,
+        345
+      ],
+      "population": 12000,
+      "type": "city",
+      "description": "Western edge Thyrea's Cradle, 2 days SW of Roothold, Bloom Peaks foothills"
+    },
+    {
+      "name": "The Pyre",
+      "region": "pale-wastes",
+      "position": [
+        485,
+        95
+      ],
+      "population": 0,
+      "type": "landmark",
+      "description": "Sacred site, central tundra, 2 days SW of Greyhold, where Marrow Fields thin"
+    },
+    {
+      "name": "Ashenmere",
+      "region": "pale-wastes",
+      "position": [
+        670,
+        140
+      ],
+      "population": 2000,
+      "type": "town",
+      "description": "3 days NE of Greyhold, eastern Wastes"
+    },
+    {
+      "name": "The Red Garrison",
+      "region": "ironmarch",
+      "position": [
+        860,
+        320
+      ],
+      "population": 15000,
+      "type": "city",
+      "description": "Northern Iron Fields, 1 day N of Duskfield, 2 days E of Contested Corridor"
+    },
+    {
+      "name": "Duskfield",
+      "region": "ironmarch",
+      "position": [
+        795,
+        505
+      ],
+      "population": 5000,
+      "type": "town",
+      "description": "Central-western Iron Fields, between Ironhaven and Red Garrison"
+    },
+    {
+      "name": "Hearthdeep",
+      "region": "emberveil",
+      "position": [
+        740,
+        610
+      ],
+      "population": 12000,
+      "type": "city",
+      "description": "Eastern Warm Valleys, half-day from Crucible, base of Anvil peak"
+    },
+    {
+      "name": "Anvilrest",
+      "region": "emberveil",
+      "position": [
+        685,
+        700
+      ],
+      "population": 5000,
+      "type": "town",
+      "description": "Western Caldera Ring arc, between Tongs and Quench peaks"
+    },
+    {
+      "name": "Tidecross",
+      "region": "unwritten-lands",
+      "position": [
+        480,
+        1165
+      ],
+      "population": 2400,
+      "type": "city",
+      "description": "Veilshore, only reliable harbor"
+    },
+    {
+      "name": "Keth'vaal",
+      "region": "unwritten-lands",
+      "position": [
+        555,
+        1330
+      ],
+      "population": 28000,
+      "type": "city",
+      "description": "Oldborn Kingdoms center, Obsidian Plateau"
+    },
+    {
+      "name": "Ur-Saethen",
+      "region": "unwritten-lands",
+      "position": [
+        445,
+        1310
+      ],
+      "population": 22000,
+      "type": "city",
+      "description": "Oldborn Kingdoms, central highlands"
+    },
+    {
+      "name": "Hael'rune",
+      "region": "unwritten-lands",
+      "position": [
+        490,
+        1220
+      ],
+      "population": 14000,
+      "type": "city",
+      "description": "Oldborn Kingdoms eastern edge near Veilshore"
+    },
+    {
+      "name": "Skeinhold",
+      "region": "unwritten-lands",
+      "position": [
+        605,
+        1385
+      ],
+      "population": 90,
+      "type": "village",
+      "description": "Loom's Edge southern border, mountain shelf"
+    },
+    {
+      "name": "Anchorseat",
+      "region": "unwritten-lands",
+      "position": [
+        555,
+        1105
+      ],
+      "population": 180,
+      "type": "village",
+      "description": "Primordia eastern edge around Primordial Anchor"
+    },
+    {
+      "name": "Tidecaller's Rest",
+      "region": "unwritten-lands",
+      "position": [
+        610,
+        1130
+      ],
+      "population": 180,
+      "type": "village",
+      "description": "Veilshore, 40mi south of Tidecross"
+    },
+    {
+      "name": "Draveth",
+      "region": "unwritten-lands",
+      "position": [
+        505,
+        1385
+      ],
+      "population": 18000,
+      "type": "city",
+      "description": "Oldborn Kingdoms, Ashfall Range caldera, western edge"
+    },
+    {
+      "name": "Ashmark",
+      "region": "unwritten-lands",
+      "position": [
+        595,
+        1175
+      ],
+      "population": 340,
+      "type": "village",
+      "description": "Veilshore southern coast, 3 days from Tidecross"
+    },
+    {
+      "name": "Gyre's Maw",
+      "region": "unwritten-lands",
+      "position": [
+        525,
+        1080
+      ],
+      "population": 340,
+      "type": "village",
+      "description": "Primordia, around Primordial vent"
+    }
+  ]
+}

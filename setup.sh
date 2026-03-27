@@ -8,9 +8,40 @@ echo "  Powered by OpenCode + Claude"
 echo "==================================="
 echo ""
 
+# --- Parse arguments ---
+
+EXISTING_REPO=false
+for arg in "$@"; do
+  case $arg in
+    --existing-repo)
+      EXISTING_REPO=true
+      shift
+      ;;
+    --world=*)
+      WORLD_NAME="${arg#*=}"
+      shift
+      ;;
+    -h|--help)
+      echo "Usage: ./setup.sh [OPTIONS]"
+      echo ""
+      echo "Options:"
+      echo "  --existing-repo        Add a new world to existing gamemaster repo"
+      echo "  --world=NAME          Specify world name (used with --existing-repo)"
+      echo "  -h, --help            Show this help message"
+      echo ""
+      echo "Examples:"
+      echo "  ./setup.sh                                  # Fresh setup (interactive)"
+      echo "  ./setup.sh --existing-repo --world=myworld  # Add world to existing repo"
+      exit 0
+      ;;
+  esac
+done
+
 # --- Gather info ---
 
-read -p "World name (e.g. Aethermourne): " WORLD_NAME
+if [ -z "$WORLD_NAME" ]; then
+  read -p "World name (e.g. Aethermourne): " WORLD_NAME
+fi
 if [ -z "$WORLD_NAME" ]; then
   echo "Error: World name is required."
   exit 1
@@ -22,8 +53,26 @@ if [ -z "$CAMPAIGN_NAME" ]; then
   exit 1
 fi
 
-read -p "Vault folder name (default: $WORLD_NAME): " VAULT_FOLDER
-VAULT_FOLDER="${VAULT_FOLDER:-$WORLD_NAME}"
+# Detect multi-world mode
+if [ -d "worlds" ]; then
+  MULTIWORLD=true
+  WORLD_SLUG=$(echo "$WORLD_NAME" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g')
+  VAULT_FOLDER="worlds/$WORLD_SLUG/vault"
+  AGENTS_DIR=".agents-$WORLD_SLUG"
+  OPENCODE_DIR=".opencode-$WORLD_SLUG"
+  DATA_DIR="data/$WORLD_SLUG"
+  echo "Multi-world mode detected. Using structure:"
+  echo "  Vault: $VAULT_FOLDER"
+  echo "  Agents: $AGENTS_DIR"
+  echo "  Data: $DATA_DIR"
+else
+  MULTIWORLD=false
+  read -p "Vault folder name (default: $WORLD_NAME): " VAULT_FOLDER
+  VAULT_FOLDER="${VAULT_FOLDER:-$WORLD_NAME}"
+  AGENTS_DIR=".agents"
+  OPENCODE_DIR=".opencode"
+  DATA_DIR="data"
+fi
 
 echo ""
 echo "Describe the tone of your world in 1-2 sentences."
@@ -133,6 +182,23 @@ Master index of all named NPCs in $WORLD_NAME.
 | | | | | |
 MDEOF
 
+  # Create CHANGELOG.md (world-specific)
+  cat > "$VAULT_FOLDER/CHANGELOG.md" << MDEOF
+---
+tags:
+  - meta
+type: changelog
+---
+
+# Changelog for $WORLD_NAME
+
+## $(date +%Y-%m-%d) - World Created
+
+- Initial world structure generated
+- Campaign: $CAMPAIGN_NAME
+- Tone: $TONE
+MDEOF
+
   cat > "$VAULT_FOLDER/PartyState.md" << MDEOF
 ---
 tags:
@@ -207,13 +273,47 @@ MDEOF
   echo "  Created vault structure in $VAULT_FOLDER/"
 fi
 
+# --- Create world.config.json and data directory (multi-world mode) ---
+
+if [ "$MULTIWORLD" = true ]; then
+  echo "Creating world configuration..."
+
+  # Create world.config.json
+  WORLD_DIR="worlds/$WORLD_SLUG"
+  mkdir -p "$WORLD_DIR"
+
+  cat > "$WORLD_DIR/world.config.json" << JSONEOF
+{
+  "name": "$WORLD_NAME",
+  "slug": "$WORLD_SLUG",
+  "campaign": "$CAMPAIGN_NAME",
+  "tone": "$TONE",
+  "vaultPath": "$VAULT_FOLDER",
+  "dataPath": "$DATA_DIR",
+  "agentsPath": "$AGENTS_DIR",
+  "buildConfig": {
+    "quartzTitle": "$WORLD_NAME",
+    "baseUrl": "aethermourne.fronix.se"
+  }
+}
+JSONEOF
+
+  echo "  Created $WORLD_DIR/world.config.json"
+
+  # Create data directory structure
+  mkdir -p "$DATA_DIR"
+  mkdir -p "$DATA_DIR/snapshots"
+  mkdir -p "$DATA_DIR/reference-maps"
+  echo "  Created $DATA_DIR/"
+fi
+
 # --- Generate .opencode files from templates ---
 
 echo "Generating OpenCode configuration..."
 
-if [ -d ".opencode/agents" ] || [ -d ".opencode/commands" ] || [ -d ".opencode/skills" ]; then
+if [ -d "$OPENCODE_DIR/agents" ] || [ -d "$OPENCODE_DIR/commands" ] || [ -d "$OPENCODE_DIR/skills" ]; then
   echo ""
-  echo "Warning: .opencode/ already has content."
+  echo "Warning: $OPENCODE_DIR/ already has content."
   read -p "Overwrite agents, commands, and skills? (y/n): " CONFIRM3
   if [ "$CONFIRM3" != "y" ] && [ "$CONFIRM3" != "Y" ]; then
     echo "Skipping OpenCode generation."
@@ -223,17 +323,17 @@ if [ -d ".opencode/agents" ] || [ -d ".opencode/commands" ] || [ -d ".opencode/s
   fi
 fi
 
-mkdir -p .opencode/agents
-mkdir -p .opencode/commands
-mkdir -p .opencode/skills/obsidian-markdown
-mkdir -p .opencode/skills/session-template
-mkdir -p .opencode/skills/worldbuilding-templates
+mkdir -p "$OPENCODE_DIR/agents"
+mkdir -p "$OPENCODE_DIR/commands"
+mkdir -p "$OPENCODE_DIR/skills/obsidian-markdown"
+mkdir -p "$OPENCODE_DIR/skills/session-template"
+mkdir -p "$OPENCODE_DIR/skills/worldbuilding-templates"
 
 # Copy and replace placeholders
 find templates/opencode -type f -name "*.md" | while read -r template; do
   # Compute relative path within templates/opencode/
   rel_path="${template#templates/opencode/}"
-  dest=".opencode/$rel_path"
+  dest="$OPENCODE_DIR/$rel_path"
 
   mkdir -p "$(dirname "$dest")"
 
@@ -243,10 +343,11 @@ find templates/opencode -type f -name "*.md" | while read -r template; do
     -e "s|{{CAMPAIGN_SLUG}}|$CAMPAIGN_SLUG|g" \
     -e "s|{{VAULT_FOLDER}}|$VAULT_FOLDER|g" \
     -e "s|{{TONE}}|$TONE|g" \
+    -e "s|{{WORLD_TONE}}|$TONE|g" \
     "$template" > "$dest"
 done
 
-echo "  Generated OpenCode agents, commands, and skills in .opencode/"
+echo "  Generated OpenCode agents, commands, and skills in $OPENCODE_DIR/"
 
 # --- Update Quartz config ---
 

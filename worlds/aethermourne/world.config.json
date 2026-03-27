@@ -1,0 +1,13 @@
+{
+  "name": "Aethermourne",
+  "slug": "aethermourne",
+  "campaign": "The Second Silence",
+  "tone": "Mythic dark fantasy. Decayed majesty. A world built on the bones of dead gods.",
+  "vaultPath": "worlds/aethermourne/vault",
+  "dataPath": "data/aethermourne",
+  "agentsPath": ".agents-aethermourne",
+  "buildConfig": {
+    "quartzTitle": "Aethermourne",
+    "baseUrl": "aethermourne.fronix.se"
+  }
+}
