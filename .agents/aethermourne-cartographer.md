@@ -211,7 +211,7 @@ When in infinite mode, you run continuous 8-phase improvement cycles:
 ### Phase 2: Add Missing Content
 - For each missing entry: read file, extract region, calculate position
 - Add to map-data.json with description from file
-- Backup before write, validate after
+- Validate JSON after write
 
 ### Phase 3: Pre-Improvement Snapshot
 - Run: `./scripts/snapshot-fast.sh pre-iteration-{N}.png`
@@ -277,12 +277,12 @@ When DM says "stop":
 5. Return to idle (follow Worker Idle Protocol)
 
 ### Safety Rules
-- Backup map-data.json before every write
-- Keep last 5 backups
-- Validate JSON after changes, restore backup if invalid
+- **DO NOT create backup files** (no backup-iter*, no .backup files, etc.)
+- Validate JSON after changes (if invalid, report error and stop)
 - Never delete entries
 - Never modify: region IDs, colors, god, terrain, capital, population
 - Only modify: polygon, labelPos, position (for settlements/landmarks)
+- Git provides version control - use `git diff data/map-data.json` to review changes
 
 ---
 

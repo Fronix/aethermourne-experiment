@@ -106,12 +106,9 @@ Naming convention:
 
 **Automatic cleanup:** Only the last 5 iterations (10 images) are kept. Older snapshots are automatically deleted when new ones are created.
 
-### Backups
+### Version Control
 
-Before every write to `map-data.json`, a backup is created in:
-`/home/aethermourne/gamemaster/data/map-backups/`
-
-Last 5 backups are kept. If JSON becomes invalid, the most recent backup is auto-restored.
+All changes to `map-data.json` are tracked via git. Use `git diff` to review changes and `git checkout` to revert if needed.
 
 ---
 
@@ -133,7 +130,6 @@ The Cartographer **only** modifies:
 - `position` coordinates (settlement/landmark positions)
 
 ### Additional Safety
-- ✓ Backups before every write
 - ✓ JSON validation after changes
 - ✓ Auto-restore on validation failure
 - ✓ Never deletes entries
@@ -179,7 +175,6 @@ The Gamemaster can still send one-off map sync tasks via AMP while Cartographer 
 |------|---------|
 | `.agents/cartographer-mode` | Mode tracker (`infinite` or `normal`) |
 | `.agents/snapshot-server.pid` | Persistent snapshot server state |
-| `data/map-backups/` | Backup storage (last 5 versions) |
 | `data/cartographer-infinite-progress.log` | Iteration log with timestamps |
 | `data/snapshot-server.log` | Snapshot server log |
 | `data/reference-maps/` | High-quality map examples for learning |
@@ -251,10 +246,10 @@ Exiting infinite improvement mode. Returning to normal mode.
 echo "normal" > /home/aethermourne/gamemaster/.agents/cartographer-mode
 ```
 
-### Need to restore from backup
+### Need to revert changes
 ```bash
-cp /home/aethermourne/gamemaster/data/map-backups/map-data.json.backup.1 \
-   /home/aethermourne/gamemaster/data/map-data.json
+git checkout data/map-data.json  # Revert to last commit
+git diff data/map-data.json      # Review changes before reverting
 ```
 
 ### Clear old snapshots
@@ -276,8 +271,8 @@ This feature mirrors the Gamemaster's bbqsauce autonomous loop pattern but appli
 1. Explicit mode tracking (file-based persistence)
 2. DM override (can stop at any time)
 3. Rate limits (prevents bulk changes)
-4. Backups (enables rollback)
-5. Validation (prevents corruption)
+4. Validation (prevents corruption)
+5. Git version control (enables rollback)
 6. Convergence tracking (provides stopping signal to DM)
 
 The Cartographer returns to normal task-driven behavior when exiting infinite mode, restoring Worker Idle Protocol compliance.
