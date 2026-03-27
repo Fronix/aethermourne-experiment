@@ -29,18 +29,21 @@ Each iteration performs a complete improvement cycle:
 
 Per iteration maximums prevent runaway changes:
 - **10 position adjustments** (settlements/landmarks)
-- **3 polygon reshapes** (region boundaries)
+- **20 polygon reshapes** (region boundaries - higher limit for aggressive natural shaping)
 - **5 label moves** (region labelPos)
 
 ### Visual Analysis
 
 The Cartographer first views reference maps (`data/reference-maps/`) to understand what high-quality cartography looks like, then analyzes current snapshots to identify:
 
+- ✗ **Shape problems (HIGHEST PRIORITY):** Circular/blob-shaped regions that don't look like real geography
 - ✗ Settlement markers < 20 units apart (spacing violations)
 - ✗ Region labels overlapping settlements (label collisions)
 - ✗ Coastal regions not touching ocean (polygon mismatches)
 - ✗ Region labels outside polygon boundaries (label displacement)
 - ✗ Settlements rendered outside assigned region (positioning errors)
+
+**Primary goal:** Make the map look natural and realistic with varied coastlines, terrain-following borders, and complex geography like the reference map - not simple circular regions.
 
 **Reference benchmarks:**
 - Settlement spacing: 50+ pixels (reference standard) vs 20+ units (Aethermourne minimum)

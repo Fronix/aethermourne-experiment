@@ -228,27 +228,67 @@ When in infinite mode, you run continuous 8-phase improvement cycles:
 - Clear visual hierarchy (capitals > cities > towns)
 
 **Then analyze current snapshot and identify:**
-- Spacing violations (markers < 20 units) - compare to reference's generous spacing
-- Label collisions (region names overlapping settlements) - reference has zero overlaps
-- Polygon mismatches (coastal regions not touching ocean) - reference follows coastlines
-- Label displacement (outside polygon boundaries) - reference labels centered in regions
-- Positioning errors (settlements in wrong region)
+- **Shape problems (HIGHEST PRIORITY):**
+  - Circular/blob-shaped regions (should be irregular, natural)
+  - Boring, geometric boundaries (should follow terrain logic)
+  - Regions that don't look like real geographic territories
+  - Missing peninsulas, bays, inlets, mountain-defined borders
+  - Compare to reference: Aeropa has complex coastlines, Sukatar has varied shape
 
-**Comparison questions:**
-- Are my region labels as clearly centered as the reference?
-- Is my settlement spacing as clean as the reference?
-- Do my region boundaries follow geographic logic like the reference?
-- Is my label hierarchy as clear as the reference?
+- **Spacing violations:** Markers < 20 units - reference has generous spacing
+- **Label collisions:** Region names overlapping settlements - reference has zero
+- **Polygon mismatches:** Coastal regions not touching ocean properly
+- **Label displacement:** Outside polygon boundaries
+- **Positioning errors:** Settlements in wrong region
+
+**Critical comparison questions:**
+- **Does my map look like a REAL world or just circles?** (Reference has natural shapes)
+- Do my coastlines have variation, bays, peninsulas like the reference?
+- Do region boundaries follow logical terrain (mountains, rivers, forests)?
+- Are there interesting geographic features or is everything smooth and boring?
+- Would someone believe this is a real continent or does it look generated?
+
+**Your goal:** Make the map look like the reference - natural, varied, believable geography. Not circular blobs.
 
 See `data/reference-maps/README.md` for detailed quality benchmarks.
 
 ### Phase 5: Make Improvements
-Rate limits per iteration:
-- Max 10 position adjustments
-- Max 3 polygon reshapes
+
+**Rate limits per iteration:**
+- Max 10 position adjustments (settlements/landmarks)
+- **Max 20 polygon reshapes** (regions need dramatic reshaping to look natural)
 - Max 5 label moves
 
-Prioritize: spacing violations > label collisions > polygon refinements
+**Priority order:**
+1. **POLYGON RESHAPING (highest priority)** - The map needs to look real, not circular
+2. Spacing violations - Fix overlapping settlements
+3. Label collisions - Clear up overlapping text
+4. Label displacement - Center region names
+
+**Polygon reshaping guidelines:**
+
+**What makes natural-looking boundaries:**
+- **Coastlines:** Irregular with bays, peninsulas, inlets (see reference map)
+- **Mountain borders:** Jagged, following terrain (not smooth curves)
+- **River borders:** Winding, natural flow patterns
+- **Forest edges:** Organic, irregular (not perfect arcs)
+- **Avoid:** Perfect circles, smooth arcs, geometric shapes, boring blobs
+
+**How to reshape regions:**
+1. Study the reference map's Aeropa coastline - see the complexity, variation, natural shapes
+2. Add points to create peninsulas, bays, coastal variation
+3. Remove points that create unnatural smoothness
+4. Follow lore descriptions: "coastal," "mountainous border," "forest edge"
+5. Make adjacent regions fit together naturally (shared borders should make geographic sense)
+6. Think: "Would a real continent look like this?" If no, reshape more aggressively
+
+**Examples of good reshaping:**
+- Coastal region: Add 5-10 points to create bays and peninsulas along ocean edge
+- Mountain border: Make it jagged and irregular, following mountain range logic
+- Forest region: Organic, irregular boundary that follows vegetation patterns
+- Island regions: Varied shapes with natural coastlines, not perfect ovals
+
+**Be aggressive:** The map currently looks too simple/circular. Make DRAMATIC changes to create natural geography. Compare every iteration to the reference map's complexity.
 
 ### Phase 6: Post-Improvement Snapshot
 - Run: `./scripts/snapshot-fast.sh post-iteration-{N}.png`
