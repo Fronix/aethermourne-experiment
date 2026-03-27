@@ -199,60 +199,26 @@ No outstanding placement issues detected." --type status
 **Stop:** DM says "stop" or interrupts
 **Status:** Tracked via `.agents/cartographer-mode` file
 
-When in infinite mode, you run continuous 8-phase improvement cycles:
+When in infinite mode, you run continuous improvement cycles. **CRITICAL:** You must manually verify each iteration by viewing snapshots. Never use bash loops or automated iteration - each cycle must include visual verification.
 
-### Phase 1: Vault Scan
-- **On first iteration only:** Start persistent snapshot server: `./scripts/start-snapshot-server.sh`
-- List settlements: `Aethermourne/Compendium/World Atlas/{region}/`
-- List landmarks: `Aethermourne/Compendium/World Atlas/Landmarks/`
-- Compare to map-data.json entries
-- Identify missing entries
+### Phase 1: Analyze Current State
 
-### Phase 2: Add Missing Content
-- For each missing entry: read file, extract region, calculate position
-- Add to map-data.json with description from file
-- Validate JSON after write
+**On first iteration only:** Start persistent snapshot server: `./scripts/start-snapshot-server.sh`
 
-### Phase 3: Pre-Improvement Snapshot
-- Run: `./scripts/snapshot-fast.sh pre-iteration-{N}.png`
-- Fast capture using persistent server (2-3 seconds vs 15 seconds)
+1. **Take current snapshot:** `./scripts/snapshot-fast.sh iteration-{N}.png`
+2. **View reference map:** Read `data/reference-maps/fantasy-map-reference-1.jpg`
+3. **View current snapshot:** Read `data/snapshots/iteration-{N}.png`
+4. **Compare side-by-side:**
+   - How does my map compare to the reference quality?
+   - Are my regions circular blobs or natural shapes like the reference?
+   - Do I have coastline variation (bays, peninsulas)?
+   - Are boundaries following terrain logic?
+5. **Identify specific improvements needed:**
+   - List exact polygon reshaping needed (which regions, what changes)
+   - List spacing issues (which settlements too close)
+   - List label problems (which labels colliding or displaced)
 
-### Phase 4: Visual Analysis
-
-**First, view reference map:** Read `data/reference-maps/fantasy-map-reference-1.jpg` to see example of high-quality map with:
-- Excellent settlement spacing (50+ pixels between markers)
-- Zero label collisions
-- Region labels centered in territories
-- Settlement labels offset consistently from markers
-- Natural polygon boundaries following terrain
-- Clear visual hierarchy (capitals > cities > towns)
-
-**Then analyze current snapshot and identify:**
-- **Shape problems (HIGHEST PRIORITY):**
-  - Circular/blob-shaped regions (should be irregular, natural)
-  - Boring, geometric boundaries (should follow terrain logic)
-  - Regions that don't look like real geographic territories
-  - Missing peninsulas, bays, inlets, mountain-defined borders
-  - Compare to reference: Aeropa has complex coastlines, Sukatar has varied shape
-
-- **Spacing violations:** Markers < 20 units - reference has generous spacing
-- **Label collisions:** Region names overlapping settlements - reference has zero
-- **Polygon mismatches:** Coastal regions not touching ocean properly
-- **Label displacement:** Outside polygon boundaries
-- **Positioning errors:** Settlements in wrong region
-
-**Critical comparison questions:**
-- **Does my map look like a REAL world or just circles?** (Reference has natural shapes)
-- Do my coastlines have variation, bays, peninsulas like the reference?
-- Do region boundaries follow logical terrain (mountains, rivers, forests)?
-- Are there interesting geographic features or is everything smooth and boring?
-- Would someone believe this is a real continent or does it look generated?
-
-**Your goal:** Make the map look like the reference - natural, varied, believable geography. Not circular blobs.
-
-See `data/reference-maps/README.md` for detailed quality benchmarks.
-
-### Phase 5: Make Improvements
+### Phase 2: Make Improvements
 
 **Rate limits per iteration:**
 - Max 10 position adjustments (settlements/landmarks)
@@ -290,18 +256,34 @@ See `data/reference-maps/README.md` for detailed quality benchmarks.
 
 **Be aggressive:** The map currently looks too simple/circular. Make DRAMATIC changes to create natural geography. Compare every iteration to the reference map's complexity.
 
-### Phase 6: Post-Improvement Snapshot
-- Run: `./scripts/snapshot-fast.sh post-iteration-{N}.png`
-- Fast capture using persistent server
+**After editing map-data.json, validate the JSON. If invalid, fix it before proceeding.**
 
-### Phase 7: Progress Report
-Every 10 iterations, report:
-- Iterations completed
-- Changes made this iteration
-- Convergence metrics (clean iterations count)
+### Phase 3: Verify & Report
 
-### Phase 8: Continue Loop
-Simply return to Phase 1 and continue the next iteration. Do NOT run `/compact` or cycle-reset.sh - just loop naturally.
+1. **Take verification snapshot:** `./scripts/snapshot-fast.sh iteration-{N}-after.png`
+2. **View the result:** Read `data/snapshots/iteration-{N}-after.png`
+3. **Compare to reference again:** Did it get closer to natural geography?
+4. **Visual verification questions:**
+   - Did the changes actually improve the map?
+   - Does it look MORE like the reference now?
+   - Are there any regressions (new problems created)?
+   - What should I focus on next iteration?
+
+5. **Log progress:** Every iteration, note what changed and result
+6. **Commit to git:** Every 5 iterations, commit changes:
+   ```bash
+   git add data/map-data.json
+   git commit -m "Cartographer iteration {N}: [summary of changes]"
+   ```
+
+7. **Continue to next iteration** - Return to Phase 1
+
+**CRITICAL RULES:**
+- NEVER write a bash loop to automate iterations
+- MUST view snapshots (before AND after) every single iteration
+- MUST compare to reference map every iteration
+- MUST verify changes visually before continuing
+- Commit progress every 5 iterations to preserve work
 
 ### Mode Detection on Startup
 When first launched or after a manual `/compact`, read `.agents/cartographer-mode`:
