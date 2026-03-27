@@ -206,17 +206,32 @@ When in infinite mode, you run continuous improvement cycles. **CRITICAL:** You 
 **On first iteration only:** Start persistent snapshot server: `./scripts/start-snapshot-server.sh`
 
 1. **Take current snapshot:** `./scripts/snapshot-fast.sh iteration-{N}.png`
-2. **View reference map:** Read `data/reference-maps/fantasy-map-reference-1.jpg`
-3. **View current snapshot:** Read `data/snapshots/iteration-{N}.png`
-4. **Compare side-by-side:**
-   - How does my map compare to the reference quality?
-   - Are my regions circular blobs or natural shapes like the reference?
-   - Do I have coastline variation (bays, peninsulas)?
-   - Are boundaries following terrain logic?
-5. **Identify specific improvements needed:**
-   - List exact polygon reshaping needed (which regions, what changes)
-   - List spacing issues (which settlements too close)
-   - List label problems (which labels colliding or displaced)
+
+2. **Understand what the map SHOULD look like:**
+   - Read region files: `Aethermourne/Compendium/World Atlas/The [Region Name].md`
+   - Read settlement files for geographic context
+   - Extract lore details:
+     - Is the region coastal or landlocked?
+     - What terrain defines its borders? (mountains, rivers, forests)
+     - What are the geographic features mentioned? (bays, peninsulas, valleys)
+     - How is the region described? ("windswept coast," "dense forest," "mountain range")
+   - **The Compendium tells you what geography exists, not the reference map**
+
+3. **View reference map for QUALITY standards:** Read `data/reference-maps/fantasy-map-reference-1.jpg`
+   - How should natural coastlines look? (varied, with bays/peninsulas)
+   - How should mountain borders look? (jagged, irregular)
+   - How should spacing and labels look? (clean, no collisions)
+   - **The reference shows HOW to make it look good, not WHAT it should be**
+
+4. **View current snapshot:** Read `data/snapshots/iteration-{N}.png`
+
+5. **Compare and identify improvements:**
+   - Does my map match the Compendium lore? (correct coastlines, terrain features)
+   - Does my map have the reference's quality? (natural shapes, good spacing)
+   - Specific changes needed:
+     - Which regions need reshaping to match lore descriptions?
+     - Which coastlines need detail to match "coastal region" descriptions?
+     - Which borders need to follow described terrain (mountains, rivers)?
 
 ### Phase 2: Make Improvements
 
@@ -249,12 +264,19 @@ When in infinite mode, you run continuous improvement cycles. **CRITICAL:** You 
 6. Think: "Would a real continent look like this?" If no, reshape more aggressively
 
 **Examples of good reshaping:**
-- Coastal region: Add 5-10 points to create bays and peninsulas along ocean edge
-- Mountain border: Make it jagged and irregular, following mountain range logic
-- Forest region: Organic, irregular boundary that follows vegetation patterns
-- Island regions: Varied shapes with natural coastlines, not perfect ovals
+- Coastal region (per Compendium): Add 5-10 points to create bays and peninsulas along ocean edge (use reference map's style)
+- Mountain border (per Compendium): Make it jagged and irregular, following the lore's mountain range description
+- Forest region (per Compendium): Organic, irregular boundary matching forest extent described in lore
+- Island regions (per Compendium): Varied shapes with natural coastlines per lore, styled like reference quality
 
-**Be aggressive:** The map currently looks too simple/circular. Make DRAMATIC changes to create natural geography. Compare every iteration to the reference map's complexity.
+**Critical process:**
+1. Read the Compendium to learn what geography EXISTS (coastal vs landlocked, mountains, forests, etc.)
+2. Use the reference map to learn what QUALITY looks like (natural shapes, good spacing)
+3. Make the map match Compendium lore AND reference quality
+4. **Never add geography not in the Compendium** (don't invent coastlines just because reference has them)
+5. **Always make described geography look natural** (use reference as style guide)
+
+**Be aggressive:** The map currently looks too simple/circular. Make DRAMATIC changes to match Compendium descriptions with reference-quality natural geography.
 
 **After editing map-data.json, validate the JSON. If invalid, fix it before proceeding.**
 
