@@ -282,8 +282,8 @@
         ]
       ],
       "labelPos": [
-        458,
-        168
+        470,
+        175
       ],
       "capital": "Greyhold",
       "population": "~40,000"
@@ -341,8 +341,8 @@
         ]
       ],
       "labelPos": [
-        300,
-        260
+        280,
+        270
       ],
       "capital": "Cyclethorn",
       "population": "~5,000"
@@ -420,8 +420,8 @@
         ]
       ],
       "labelPos": [
-        131,
-        501
+        150,
+        520
       ],
       "capital": "Roothold",
       "population": "800K-1.2M"
@@ -467,8 +467,8 @@
         ]
       ],
       "labelPos": [
-        356,
-        443
+        345,
+        415
       ],
       "capital": "Riftmarket",
       "population": "12K-15K"
@@ -558,8 +558,8 @@
         ]
       ],
       "labelPos": [
-        543,
-        406
+        530,
+        400
       ],
       "capital": "Ostivaar",
       "population": "4-6 million"
@@ -629,8 +629,8 @@
         ]
       ],
       "labelPos": [
-        845,
-        410
+        860,
+        420
       ],
       "capital": "Ironhaven",
       "population": "~80,000"
@@ -688,8 +688,8 @@
         ]
       ],
       "labelPos": [
-        364,
-        621
+        375,
+        645
       ],
       "capital": "Fenholm",
       "population": "~15,000"
@@ -751,8 +751,8 @@
         ]
       ],
       "labelPos": [
-        640,
-        640
+        665,
+        665
       ],
       "capital": "Crucible",
       "population": "~200,000"
@@ -858,8 +858,8 @@
         ]
       ],
       "labelPos": [
-        472,
-        792
+        455,
+        825
       ],
       "capital": "Tidewall",
       "population": "~370,000"
@@ -941,8 +941,8 @@
         ]
       ],
       "labelPos": [
-        500,
-        1290
+        520,
+        1280
       ],
       "capital": "Tidecross",
       "population": "Unknown"
@@ -1446,8 +1446,8 @@
       "name": "Ostivaar",
       "region": "ashen-dominion",
       "position": [
-        543,
-        406
+        515,
+        375
       ],
       "population": 500000,
       "type": "capital",
@@ -1457,8 +1457,8 @@
       "name": "Roothold",
       "region": "verdant-marches",
       "position": [
-        131,
-        501
+        125,
+        495
       ],
       "population": 30000,
       "type": "capital",
@@ -1468,8 +1468,8 @@
       "name": "Tidewall",
       "region": "hollowed-reach",
       "position": [
-        472,
-        792
+        475,
+        795
       ],
       "population": 250000,
       "type": "capital",
@@ -1479,8 +1479,8 @@
       "name": "Greyhold",
       "region": "pale-wastes",
       "position": [
-        458,
-        168
+        435,
+        175
       ],
       "population": 20000,
       "type": "capital",
@@ -1490,8 +1490,8 @@
       "name": "Crucible",
       "region": "emberveil",
       "position": [
-        660,
-        650
+        635,
+        675
       ],
       "population": 35000,
       "type": "capital",
@@ -1501,8 +1501,8 @@
       "name": "Ironhaven",
       "region": "ironmarch",
       "position": [
-        845,
-        410
+        815,
+        385
       ],
       "population": 40000,
       "type": "capital",
@@ -1512,8 +1512,8 @@
       "name": "Riftmarket",
       "region": "shattered-edge",
       "position": [
-        356,
-        443
+        350,
+        440
       ],
       "population": 5000,
       "type": "capital",
@@ -1523,8 +1523,8 @@
       "name": "Fenholm",
       "region": "greymere-fenlands",
       "position": [
-        374,
-        611
+        395,
+        595
       ],
       "population": 6000,
       "type": "capital",
@@ -1534,8 +1534,8 @@
       "name": "Cyclethorn",
       "region": "thornwild",
       "position": [
-        300,
-        270
+        325,
+        245
       ],
       "population": 2000,
       "type": "capital",
@@ -1545,8 +1545,8 @@
       "name": "Cinderholm",
       "region": "ashen-dominion",
       "position": [
-        563,
-        406
+        625,
+        435
       ],
       "population": 120000,
       "type": "city",
@@ -1556,8 +1556,8 @@
       "name": "Hearthstone",
       "region": "ashen-dominion",
       "position": [
-        490,
-        500
+        470,
+        515
       ],
       "population": 25000,
       "type": "city",
@@ -1567,8 +1567,8 @@
       "name": "Pale Sentry",
       "region": "ashen-dominion",
       "position": [
-        580,
-        310
+        585,
+        305
       ],
       "population": 15000,
       "type": "city",
@@ -1578,8 +1578,8 @@
       "name": "Thornwall",
       "region": "ashen-dominion",
       "position": [
-        543,
-        426
+        530,
+        460
       ],
       "population": 8000,
       "type": "town",
@@ -1589,8 +1589,8 @@
       "name": "Veil Harbor",
       "region": "hollowed-reach",
       "position": [
-        492,
-        792
+        565,
+        805
       ],
       "population": 60000,
       "type": "city",
@@ -1600,8 +1600,8 @@
       "name": "Bridgemere",
       "region": "hollowed-reach",
       "position": [
-        430,
-        850
+        440,
+        895
       ],
       "population": 8000,
       "type": "town",
@@ -1611,8 +1611,8 @@
       "name": "Weeping Shore",
       "region": "hollowed-reach",
       "position": [
-        240,
-        820
+        230,
+        805
       ],
       "population": 500,
       "type": "village",
@@ -1622,8 +1622,8 @@
       "name": "Mirewatch",
       "region": "verdant-marches",
       "position": [
-        130,
-        650
+        125,
+        655
       ],
       "population": 8000,
       "type": "town",
@@ -1633,8 +1633,8 @@
       "name": "Sporeheim",
       "region": "verdant-marches",
       "position": [
-        151,
-        501
+        205,
+        415
       ],
       "population": 5000,
       "type": "town",
@@ -1644,8 +1644,8 @@
       "name": "Stillwater",
       "region": "verdant-marches",
       "position": [
-        150,
-        590
+        175,
+        655
       ],
       "population": 3000,
       "type": "town",
@@ -1655,8 +1655,8 @@
       "name": "Ashwalker's Post",
       "region": "verdant-marches",
       "position": [
-        131,
-        521
+        135,
+        515
       ],
       "population": 2000,
       "type": "town",
@@ -1666,8 +1666,8 @@
       "name": "Canopy Rest",
       "region": "verdant-marches",
       "position": [
-        165,
-        540
+        195,
+        605
       ],
       "population": 1000,
       "type": "village",
@@ -1677,8 +1677,8 @@
       "name": "Lastlight",
       "region": "pale-wastes",
       "position": [
-        478,
-        168
+        545,
+        145
       ],
       "population": 5000,
       "type": "town",
@@ -1688,8 +1688,8 @@
       "name": "Ember's Rest",
       "region": "pale-wastes",
       "position": [
-        458,
-        188
+        415,
+        250
       ],
       "population": 2000,
       "type": "town",
@@ -1699,8 +1699,8 @@
       "name": "Frostmere",
       "region": "pale-wastes",
       "position": [
-        580,
-        130
+        575,
+        125
       ],
       "population": 800,
       "type": "village",
@@ -1710,8 +1710,8 @@
       "name": "Bonecairn",
       "region": "pale-wastes",
       "position": [
-        438,
-        168
+        370,
+        200
       ],
       "population": 600,
       "type": "village",
@@ -1721,8 +1721,8 @@
       "name": "Bone Garden",
       "region": "thornwild",
       "position": [
-        215,
-        295
+        135,
+        325
       ],
       "population": 1200,
       "type": "village",
@@ -1732,8 +1732,8 @@
       "name": "Ashbloom",
       "region": "thornwild",
       "position": [
-        230,
-        270
+        200,
+        300
       ],
       "population": 800,
       "type": "village",
@@ -1743,8 +1743,8 @@
       "name": "Rootpyre",
       "region": "thornwild",
       "position": [
-        190,
-        360
+        155,
+        395
       ],
       "population": 600,
       "type": "village",
@@ -1754,8 +1754,8 @@
       "name": "Shimmer",
       "region": "shattered-edge",
       "position": [
-        365,
-        490
+        340,
+        505
       ],
       "population": 2000,
       "type": "town",
@@ -1765,8 +1765,8 @@
       "name": "The Last Certainty",
       "region": "shattered-edge",
       "position": [
-        390,
-        460
+        415,
+        445
       ],
       "population": 1500,
       "type": "town",
@@ -1776,8 +1776,8 @@
       "name": "Edgewatch",
       "region": "shattered-edge",
       "position": [
-        330,
-        375
+        325,
+        370
       ],
       "population": 800,
       "type": "village",
@@ -1787,8 +1787,8 @@
       "name": "Wrathspire",
       "region": "ironmarch",
       "position": [
-        880,
-        600
+        885,
+        605
       ],
       "population": 8000,
       "type": "town",
@@ -1798,8 +1798,8 @@
       "name": "Shieldbreak",
       "region": "ironmarch",
       "position": [
-        875,
-        410
+        935,
+        435
       ],
       "population": 3000,
       "type": "town",
@@ -1809,8 +1809,8 @@
       "name": "Cinderfall",
       "region": "emberveil",
       "position": [
-        685,
-        610
+        705,
+        565
       ],
       "population": 8000,
       "type": "town",
@@ -1820,8 +1820,8 @@
       "name": "Smokewall",
       "region": "emberveil",
       "position": [
-        650,
-        615
+        595,
+        595
       ],
       "population": 3000,
       "type": "town",
@@ -1831,8 +1831,8 @@
       "name": "Glimwater",
       "region": "greymere-fenlands",
       "position": [
-        370,
-        640
+        405,
+        685
       ],
       "population": 3000,
       "type": "town",
@@ -1842,8 +1842,8 @@
       "name": "The Drowning Bridge",
       "region": "greymere-fenlands",
       "position": [
-        330,
-        680
+        305,
+        705
       ],
       "population": 2000,
       "type": "town",
@@ -1853,8 +1853,8 @@
       "name": "Ashcreek",
       "region": "greymere-fenlands",
       "position": [
-        400,
-        590
+        460,
+        570
       ],
       "population": 1500,
       "type": "village",
@@ -1864,8 +1864,8 @@
       "name": "Sporeling",
       "region": "greymere-fenlands",
       "position": [
-        340,
-        620
+        280,
+        635
       ],
       "population": 800,
       "type": "village",
@@ -1875,8 +1875,8 @@
       "name": "Ashveil",
       "region": "ashen-dominion",
       "position": [
-        640,
-        380
+        645,
+        375
       ],
       "population": 80000,
       "type": "city",
@@ -1886,8 +1886,8 @@
       "name": "Crown's Reach",
       "region": "ashen-dominion",
       "position": [
-        513,
-        406
+        465,
+        425
       ],
       "population": 3000,
       "type": "town",
@@ -1897,8 +1897,8 @@
       "name": "Greyfield",
       "region": "ashen-dominion",
       "position": [
-        543,
-        376
+        565,
+        325
       ],
       "population": 4000,
       "type": "town",
@@ -1908,8 +1908,8 @@
       "name": "Keel's Landing",
       "region": "hollowed-reach",
       "position": [
-        580,
-        920
+        585,
+        925
       ],
       "population": 18000,
       "type": "city",
@@ -1919,8 +1919,8 @@
       "name": "Driftmere",
       "region": "hollowed-reach",
       "position": [
-        360,
-        850
+        350,
+        840
       ],
       "population": 15000,
       "type": "city",
@@ -1930,8 +1930,8 @@
       "name": "Mistholm",
       "region": "hollowed-reach",
       "position": [
-        290,
-        790
+        295,
+        755
       ],
       "population": 3000,
       "type": "town",
@@ -1941,8 +1941,8 @@
       "name": "Saltmere",
       "region": "hollowed-reach",
       "position": [
-        270,
-        760
+        245,
+        725
       ],
       "population": 1500,
       "type": "village",
@@ -1952,8 +1952,8 @@
       "name": "Thornhaven",
       "region": "verdant-marches",
       "position": [
-        80,
-        480
+        95,
+        345
       ],
       "population": 12000,
       "type": "city",
@@ -1963,8 +1963,8 @@
       "name": "The Pyre",
       "region": "pale-wastes",
       "position": [
-        458,
-        138
+        485,
+        95
       ],
       "population": 0,
       "type": "landmark",
@@ -1974,8 +1974,8 @@
       "name": "Ashenmere",
       "region": "pale-wastes",
       "position": [
-        660,
-        150
+        670,
+        140
       ],
       "population": 2000,
       "type": "town",
@@ -1985,8 +1985,8 @@
       "name": "The Red Garrison",
       "region": "ironmarch",
       "position": [
-        840,
-        350
+        860,
+        320
       ],
       "population": 15000,
       "type": "city",
@@ -1996,8 +1996,8 @@
       "name": "Duskfield",
       "region": "ironmarch",
       "position": [
-        820,
-        480
+        795,
+        505
       ],
       "population": 5000,
       "type": "town",
@@ -2007,8 +2007,8 @@
       "name": "Hearthdeep",
       "region": "emberveil",
       "position": [
-        710,
-        630
+        740,
+        610
       ],
       "population": 12000,
       "type": "city",
@@ -2018,8 +2018,8 @@
       "name": "Anvilrest",
       "region": "emberveil",
       "position": [
-        690,
-        655
+        685,
+        700
       ],
       "population": 5000,
       "type": "town",
@@ -2029,8 +2029,8 @@
       "name": "Tidecross",
       "region": "unwritten-lands",
       "position": [
-        500,
-        1150
+        480,
+        1165
       ],
       "population": 2400,
       "type": "city",
@@ -2040,8 +2040,8 @@
       "name": "Keth'vaal",
       "region": "unwritten-lands",
       "position": [
-        520,
-        1300
+        555,
+        1330
       ],
       "population": 28000,
       "type": "city",
@@ -2051,8 +2051,8 @@
       "name": "Ur-Saethen",
       "region": "unwritten-lands",
       "position": [
-        480,
-        1280
+        445,
+        1310
       ],
       "population": 22000,
       "type": "city",
@@ -2062,8 +2062,8 @@
       "name": "Hael'rune",
       "region": "unwritten-lands",
       "position": [
-        510,
-        1200
+        490,
+        1220
       ],
       "population": 14000,
       "type": "city",
@@ -2073,8 +2073,8 @@
       "name": "Skeinhold",
       "region": "unwritten-lands",
       "position": [
-        600,
-        1380
+        605,
+        1385
       ],
       "population": 90,
       "type": "village",
@@ -2084,8 +2084,8 @@
       "name": "Anchorseat",
       "region": "unwritten-lands",
       "position": [
-        550,
-        1100
+        555,
+        1105
       ],
       "population": 180,
       "type": "village",
@@ -2095,8 +2095,8 @@
       "name": "Tidecaller's Rest",
       "region": "unwritten-lands",
       "position": [
-        560,
-        1140
+        610,
+        1130
       ],
       "population": 180,
       "type": "village",
@@ -2106,8 +2106,8 @@
       "name": "Draveth",
       "region": "unwritten-lands",
       "position": [
-        500,
-        1380
+        505,
+        1385
       ],
       "population": 18000,
       "type": "city",
@@ -2117,8 +2117,8 @@
       "name": "Ashmark",
       "region": "unwritten-lands",
       "position": [
-        570,
-        1160
+        595,
+        1175
       ],
       "population": 340,
       "type": "village",
@@ -2128,8 +2128,8 @@
       "name": "Gyre's Maw",
       "region": "unwritten-lands",
       "position": [
-        520,
-        1120
+        525,
+        1080
       ],
       "population": 340,
       "type": "village",
