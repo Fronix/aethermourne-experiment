@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "name": "Wylderan",
+    "version": 1
+  },
+  "continent": {
+    "outline": [
+      [100, 200],
+      [150, 150],
+      [200, 120],
+      [300, 100],
+      [450, 120],
+      [600, 150],
+      [720, 200],
+      [800, 280],
+      [850, 400],
+      [870, 550],
+      [850, 700],
+      [800, 820],
+      [700, 880],
+      [550, 900],
+      [400, 890],
+      [280, 850],
+      [180, 780],
+      [120, 650],
+      [100, 500],
+      [80, 350]
+    ]
+  },
+  "regions": [
+    {
+      "id": "the-riverlands",
+      "name": "The Riverlands",
+      "god": "Unknown",
+      "terrain": "River valleys, highland borders, fertile lowlands",
+      "color": "#4A7C59",
+      "polygon": [
+        [300, 350],
+        [400, 320],
+        [500, 340],
+        [550, 400],
+        [530, 480],
+        [480, 550],
+        [400, 570],
+        [320, 540],
+        [280, 480],
+        [270, 410]
+      ],
+      "labelPos": [420, 450],
+      "capital": "Millford",
+      "population": "~600"
+    }
+  ],
+  "landmarks": [],
+  "settlements": [
+    {
+      "name": "Millford",
+      "region": "the-riverlands",
+      "position": [450, 420],
+      "population": 600,
+      "type": "village",
+      "description": "Trading town at a river ford with three competing mills"
+    }
+  ]
+}
