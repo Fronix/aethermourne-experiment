@@ -104,8 +104,10 @@
     {
       "name": "Cold Run",
       "type": "river",
-      "description": "Highland stream flowing from the northwest into The Confluence",
+      "description": "Highland stream flowing from Ironhollow south to The Confluence",
       "points": [
+        [220, 260],
+        [230, 270],
         [240, 280],
         [260, 300],
         [280, 320]
@@ -164,6 +166,14 @@
     }
   ],
   "settlements": [
+    {
+      "name": "Ironhollow",
+      "region": "the-stone-heights",
+      "position": [222, 262],
+      "population": 175,
+      "type": "hamlet",
+      "description": "Mining camp supplying highland forge iron, controlled by cartel"
+    },
     {
       "name": "Ashcrag",
       "region": "the-stone-heights",
