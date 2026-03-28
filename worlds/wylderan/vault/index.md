@@ -23,6 +23,7 @@ Welcome to Wylderan. This world is being built from the ground up through bottom
 - [[Millford]] - River town with three competing water mills
 - [[Saltmere]] - Delta port controlling highland grain distribution
 - [[Ashcrag]] - Highland market town at the river's source
+- [[Ironhollow]] - Mining camp extracting iron ore for highland forges
 
 ---
 
@@ -36,18 +37,20 @@ See the full roster in [[NPCRegistry]].
 - [[Corwin Marsh]] - Merchant house head, Saltmere
 - [[Myra Cadros]] - Master smith, Forge Council head, Ashcrag
 - [[Aldric Harth]] - Grain lord, Ashcrag
-- [[Tallow Breck]] - Cartel factor, Dace's creditor, Ashcrag
+- [[Tallow Breck]] - Cartel factor, Ashcrag
 - [[Orrin Pike]] - Tenant farmer organizer, Ashcrag
+- [[Caden Wroth]] - Mining Factor, Ironhollow
+- [[Senna Kade]] - Labor organizer, Ironhollow
 
 ---
 
 > [!info] Vault Stats
 > | | |
 > |---|---|
-> | **Total files** | 22 |
-> | **Settlements** | 3 |
-> | **Named NPCs** | 19 |
-> | **NPC files** | 19 |
+> | **Total files** | 28 |
+> | **Settlements** | 4 |
+> | **Named NPCs** | 24 |
+> | **NPC files** | 24 |
 > | **Factions** | 2 |
 > | **Campaign** | Unknown |
 > | **Status** | Emerging |

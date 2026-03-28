@@ -184,3 +184,44 @@ type: changelog
 - Competitive with Saltmere's Merchant Assembly (especially Corwin Marsh)
 - Cooperative with Forge Council
 - Leverage over independent traders through debt
+
+## 2026-03-28 05:17 - Cycle 4: Ironhollow Created
+
+**Created by:** wylderan-writer1
+**Implication:** Iron ore deposits in hills north of Ashcrag (source of forge iron)
+
+- Created `Compendium/World Atlas/Settlements/Ironhollow.md` (177 lines)
+- Added 5 NPCs to NPCRegistry: Caden Wroth, Senna Kade, Halven Mir, Jorin Velk, Marna Tess
+- Established mining settlement 8 miles north of Ashcrag
+- Location: Cold Run headwaters in The Stone Heights
+- Highland Merchant Cartel company town, no independent governance
+
+**Key features:**
+- Population ~175 permanent + seasonal workers from Ashcrag
+- Iron ore pit mines scattered on hillsides (surface extraction)
+- Company town structure: ore yard, company store, boarding houses, scattered pits
+- Three-tier labor system: contract miners (debt-bound), independent prospectors (rare), seasonal workers (farmers)
+- Winter isolation even more severe than Ashcrag (ore stockpiles, no wages for months)
+- Cartel control through Mining Factor (Caden Wroth)
+
+**Implications revealed:**
+- Highland Merchant Cartel's direct economic control (not just debt leverage, full ownership)
+- Mining Factor as cartel enforcer role (to be detailed by characterwriter)
+- Labor organizing across settlements (Senna Kade + Orrin Pike alliance forming)
+- Resource depletion threat (surface ore thinning, need deeper/more dangerous mining)
+- Claim conflicts (independent prospectors vs cartel seizure)
+- Charcoal shortage upstream impact (Ironhollow needs charcoal for ore testing)
+- Ore price leverage (Myra Cadros dependent on cartel supply, no alternative source)
+- Winter as debt weapon (no wages for months, forced to take cartel loans)
+- Safety exploitation (cave-ins, no rescue, dead miners replaced)
+
+**Connections established:**
+- Caden Wroth enforces cartel control over all ore extraction
+- Senna Kade organizing with [[Orrin Pike]] in [[Ashcrag]] (cross-settlement strike)
+- Halven Mir operates rigged scales (cartel profit extraction)
+- Jorin Velk sells ore to [[Grett Voss]], bypassing cartel (target for seizure)
+- Marna Tess runs company store (debt accumulation engine)
+- [[Myra Cadros]] as primary buyer (price leverage over miners, wants cartel control broken)
+- [[Tallow Breck]] as cartel financier (equipment loans, foreclosures)
+- Charcoal from [[Orrin Pike]]'s family (sabotage thread, fuel shortage as resistance)
+- Winter ore stockpile crisis (road closes, no payment, forced loans)

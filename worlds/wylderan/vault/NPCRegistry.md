@@ -33,3 +33,8 @@ Master index of all named NPCs in wylderan.
 | [[Grett Voss]] | Market Factor | Ashcrag | | alive |
 | [[Tallow Breck]] | River Trader, Cartel Factor | Ashcrag | Highland Merchant Cartel | alive |
 | [[Orrin Pike]] | Tenant Farmer, Labor Organizer | Ashcrag | | alive |
+| [[Caden Wroth]] | Mining Factor | Ironhollow | Highland Merchant Cartel | alive |
+| [[Senna Kade]] | Contract Miner, Labor Organizer | Ironhollow | | alive |
+| [[Halven Mir]] | Weighmaster | Ironhollow | Highland Merchant Cartel | alive |
+| [[Jorin Velk]] | Independent Prospector | Ironhollow | | alive |
+| [[Marna Tess]] | Company Store Operator | Ironhollow | Highland Merchant Cartel | alive |
