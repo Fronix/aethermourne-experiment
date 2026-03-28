@@ -47,10 +47,10 @@ See the full roster in [[NPCRegistry]].
 > [!info] Vault Stats
 > | | |
 > |---|---|
-> | **Total files** | 28 |
+> | **Total files** | 36 |
 > | **Settlements** | 4 |
-> | **Named NPCs** | 24 |
-> | **NPC files** | 24 |
-> | **Factions** | 2 |
+> | **Named NPCs** | 30 |
+> | **NPC files** | 30 |
+> | **Factions** | 3 |
 > | **Campaign** | Unknown |
 > | **Status** | Emerging |

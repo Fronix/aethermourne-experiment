@@ -38,3 +38,9 @@ Master index of all named NPCs in wylderan.
 | [[Halven Mir]] | Weighmaster | Ironhollow | Highland Merchant Cartel | alive |
 | [[Jorin Velk]] | Independent Prospector | Ironhollow | | alive |
 | [[Marna Tess]] | Company Store Operator | Ironhollow | Highland Merchant Cartel | alive |
+| [[Kael Torrn]] | Message Runner, River Worker | Ironhollow/Ashcrag | Highland Workers Coalition | alive |
+| [[Lira Venn]] | Charcoal Hauler, Message Runner | Ironhollow/Ashcrag | | alive |
+| [[Torvin Marks]] | Veteran Miner, Ironhollow Lieutenant | Ironhollow | Highland Workers Coalition | alive |
+| [[Dessa Kord]] | Boarding House Cook, Ironhollow Lieutenant | Ironhollow | Highland Workers Coalition | alive |
+| [[Halden Cray]] | Tenant Farmer, Ashcrag Lieutenant | Ashcrag | Highland Workers Coalition | alive |
+| [[Mira Voss]] | Grain Sorter, Ashcrag Lieutenant | Ashcrag | Highland Workers Coalition | alive |

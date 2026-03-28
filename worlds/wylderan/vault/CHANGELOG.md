@@ -225,3 +225,49 @@ type: changelog
 - [[Tallow Breck]] as cartel financier (equipment loans, foreclosures)
 - Charcoal from [[Orrin Pike]]'s family (sabotage thread, fuel shortage as resistance)
 - Winter ore stockpile crisis (road closes, no payment, forced loans)
+
+## 2026-03-28 05:58 - Cycle 5: Highland Workers Coalition
+
+**Created by:** wylderan-writer1, wylderan-characterwriter, wylderan-cartographer
+**Implication:** Cross-settlement labor organizing between Senna Kade (Ironhollow) and Orrin Pike (Ashcrag)
+
+- Created `Compendium/Factions/Highland Workers Coalition.md` (146 lines) - proto-faction
+- Created `Compendium/World Atlas/Landmarks/Halfway Burn Site.md` (81 lines)
+- Added 6 NPCs to NPCRegistry: Kael Torrn, Lira Venn, Torvin Marks, Dessa Kord, Halden Cray, Mira Voss
+- Created 6 NPC detail files (390 total lines)
+- Map updates: 3 new landmarks (North Barracks, Timber Yards, Halfway Burn Site)
+
+**Key features:**
+- Highland Workers Coalition: nascent proto-faction, not yet real organization
+- Dual leadership: [[Senna Kade]] (miners), [[Orrin Pike]] (farmers)
+- Network structure: 27 committed members (12 miners, 15 farmers), cell structure aspirational
+- Message runners: [[Kael Torrn]] (river worker), [[Lira Venn]] (charcoal hauler)
+- Ironhollow lieutenants: [[Torvin Marks]] (veteran miner), [[Dessa Kord]] (boarding house cook)
+- Ashcrag lieutenants: [[Halden Cray]] (tenant farmer), [[Mira Voss]] (grain sorter)
+- [[Halfway Burn Site]]: abandoned charcoal burn site as neutral meeting ground
+- Charcoal leverage: Orrin withholding fuel to sabotage cartel ore testing
+- Internal tensions: goal misalignment (debt relief vs land reform), class friction, geographic distance
+- Opposition: [[Highland Merchant Cartel]], Forge Council, informants (Rennic Vale, Thom Harrow)
+- Symbolism: charcoal smudge on left wrist as recognition signal
+
+**Implications revealed:**
+- Forge Council faction file (gap identified, needs creation in future cycle)
+- Strike mechanics (dual-target coordinated action: miners vs cartel, farmers vs council)
+- Informant network (Rennic Vale → Caden Wroth, Thom Harrow → Tallow Breck)
+- Leadership succession crisis (if Senna arrested → Dessa leads, if Orrin arrested → Halden leads)
+- Coalition trajectories (could become real faction with PC help, or collapse from arrests/betrayal)
+- Winter organizing strategy (front-load autumn, use isolation to entrench, strike in spring)
+- Synchronized disruption (work stoppage + charcoal cutoff = highland economy stalls)
+- Goal split risk (if cartel/council offers targeted concessions, coalition fractures)
+
+**Connections established:**
+- [[Kael Torrn]] nephew of [[Dace Torrn]] (Millford river trader)
+- [[Lira Venn]] widow of miner killed in cave-in (bitter sympathizer)
+- [[Torvin Marks]] fatalistic but loyal to [[Senna Kade]]
+- [[Dessa Kord]] strategic advisor to [[Senna Kade]], suspects Rennic Vale is informant
+- [[Halden Cray]] works [[Aldric Harth]]'s northern fields, reckless but inspiring
+- [[Mira Voss]] grain sorter for [[Grett Voss]], feeds intel to [[Orrin Pike]]
+- [[Halfway Burn Site]] 4 miles from both [[Ironhollow]] and [[Ashcrag]] along Cold Run
+- Coalition uses seasonal workers (Ashcrag farmers work Ironhollow pits) as couriers
+- Charcoal shipments from [[Orrin Pike]]'s family to [[Ironhollow]] as message cover
+- Winter isolation weakens cartel oversight ([[Tallow Breck]] cannot reach [[Ironhollow]])
