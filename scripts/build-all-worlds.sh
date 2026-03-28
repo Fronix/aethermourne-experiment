@@ -87,9 +87,9 @@ for world_slug in $WORLDS; do
   sed -i "s|baseUrl:.*|baseUrl: \"$BASE_URL/$world_slug\",|" "$QUARTZ_DIR/quartz.config.ts"
   sed -i "s|pageTitle:.*|pageTitle: \"$WORLD_NAME\",|" "$QUARTZ_DIR/quartz.config.ts"
 
-  # Build Quartz site
+  # Build Quartz site (must run from QUARTZ_DIR)
   echo "  Running Quartz build..."
-  node --no-deprecation ./quartz/bootstrap-cli.mjs build
+  (cd "$QUARTZ_DIR" && node --no-deprecation ./quartz/bootstrap-cli.mjs build)
 
   # Move built site to world-specific directory
   mkdir -p "$OUTPUT_BASE/$world_slug"
