@@ -49,9 +49,56 @@
       "labelPos": [420, 450],
       "capital": "Millford",
       "population": "~600"
+    },
+    {
+      "id": "the-lower-reach",
+      "name": "The Lower Reach",
+      "god": "Unknown",
+      "terrain": "River delta, coastal lowlands, salt marshes",
+      "color": "#5B8BA0",
+      "polygon": [
+        [600, 200],
+        [600, 600],
+        [750, 650],
+        [850, 600],
+        [850, 400],
+        [800, 250]
+      ],
+      "labelPos": [720, 520],
+      "capital": "Saltmere",
+      "population": "~1200"
     }
   ],
-  "landmarks": [],
+  "landmarks": [
+    {
+      "name": "Millrun River",
+      "type": "river",
+      "description": "Major river flowing from northern highlands through The Riverlands to the delta",
+      "points": [
+        [350, 400],
+        [380, 420],
+        [420, 430],
+        [450, 420],
+        [470, 450],
+        [480, 500],
+        [490, 550],
+        [500, 600],
+        [510, 650],
+        [520, 700],
+        [530, 750],
+        [540, 780],
+        [545, 810],
+        [548, 835]
+      ]
+    },
+    {
+      "name": "The Pull",
+      "type": "hazard",
+      "description": "Mysterious supernatural current that appears in the river delta during low water",
+      "position": [560, 800],
+      "radius": 25
+    }
+  ],
   "settlements": [
     {
       "name": "Millford",
@@ -60,6 +107,14 @@
       "population": 600,
       "type": "village",
       "description": "Trading town at a river ford with three competing mills"
+    },
+    {
+      "name": "Saltmere",
+      "region": "the-lower-reach",
+      "position": [540, 780],
+      "population": 1200,
+      "type": "town",
+      "description": "Delta port town, grain market hub, and salt production center"
     }
   ]
 }
