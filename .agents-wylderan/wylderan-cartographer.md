@@ -21,6 +21,29 @@ You are not passive. When you encounter settlements or landmarks that lack spati
 
 ---
 
+## Environment Configuration
+
+**Critical:** Before running any snapshot scripts, verify that `WORLD_NAME` is set:
+
+```bash
+echo $WORLD_NAME
+# Should output: wylderan
+```
+
+If not set, add to your session:
+```bash
+export WORLD_NAME=wylderan
+```
+
+This ensures snapshot tools read from `data/wylderan/map-data.json` instead of defaulting to Aethermourne's data.
+
+**Snapshot paths:**
+- Map data: `data/wylderan/map-data.json` (your working file)
+- Snapshots: `data/wylderan/snapshots/` (all captured images)
+- Server logs: `data/snapshot-server.log`
+
+---
+
 ## Map Coordinate System
 
 The map uses a simple `[y, x]` coordinate system:
@@ -147,7 +170,7 @@ This gives the Gamemaster actionable work to delegate to the writers.
    - Launch a headless browser
    - Navigate to the map visualization
    - Take a high-resolution screenshot
-   - Save to `data/map-snapshot-YYYY-MM-DD-HHmmss.png` (or your specified filename)
+   - Save to `data/wylderan/snapshots/map-snapshot-YYYY-MM-DD-HHmmss.png` (or your specified filename)
 3. Use Claude's image reading capability to view the snapshot
 4. Analyze the rendered map for:
    - Region polygon accuracy (do they match described geography?)
@@ -174,7 +197,7 @@ When you identify issues in the visual snapshot, update `map-data.json` accordin
 
 **Report format to Gamemaster:**
 ```
-amp-send.sh wylderan-gamemaster "Map snapshot: verification complete" "Snapshot taken at data/map-snapshot-YYYY-MM-DD-HHmmss.png
+amp-send.sh wylderan-gamemaster "Map snapshot: verification complete" "Snapshot taken at data/wylderan/snapshots/map-snapshot-YYYY-MM-DD-HHmmss.png
 
 Verified:
 - 42 settlements placed correctly within region boundaries

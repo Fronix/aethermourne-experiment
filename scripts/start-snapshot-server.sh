@@ -21,9 +21,12 @@ if [ -f "$STATE_FILE" ]; then
   fi
 fi
 
+# Set WORLD_NAME if not already set (defaults to aethermourne for backward compatibility)
+export WORLD_NAME="${WORLD_NAME:-aethermourne}"
+
 # Start server in background
-echo "Starting snapshot server..."
-nohup node snapshot-server.mjs > ../data/snapshot-server.log 2>&1 &
+echo "Starting snapshot server for world: $WORLD_NAME"
+WORLD_NAME="$WORLD_NAME" nohup node snapshot-server.mjs > ../data/snapshot-server.log 2>&1 &
 
 # Wait for startup
 sleep 3

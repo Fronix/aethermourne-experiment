@@ -16,5 +16,8 @@ if [ ! -d "node_modules/playwright" ]; then
   npx playwright install chromium
 fi
 
+# Set WORLD_NAME if not already set (defaults to aethermourne for backward compatibility)
+export WORLD_NAME="${WORLD_NAME:-aethermourne}"
+
 # Run the snapshot script
 node map-snapshot.mjs "$@"

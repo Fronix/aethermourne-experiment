@@ -2,7 +2,9 @@
 
 ## Overview
 
-The Cartographer can now run in **infinite improvement mode**, continuously refining the Aethermourne world map through autonomous cycles of scanning, adding, analyzing, and improving.
+The Cartographer can now run in **infinite improvement mode**, continuously refining world maps through autonomous cycles of scanning, adding, analyzing, and improving.
+
+**Multi-World Support:** This mode works for both Aethermourne and Wylderan. The cartographer uses the `WORLD_NAME` environment variable to determine which world's data to work with.
 
 This mode enables hands-off map refinement that runs independently of the Gamemaster's bbqsauce workflow.
 
@@ -55,9 +57,27 @@ The Cartographer first views reference maps (`data/reference-maps/`) to understa
 
 ## Usage
 
+### Prerequisites
+
+**CRITICAL:** Before starting infinite mode, ensure `WORLD_NAME` is set in the cartographer's environment:
+
+For Aethermourne:
+```bash
+export WORLD_NAME=aethermourne
+```
+
+For Wylderan:
+```bash
+export WORLD_NAME=wylderan
+```
+
+This determines which world's data the cartographer works with:
+- Map data: `data/{WORLD_NAME}/map-data.json`
+- Snapshots: `data/{WORLD_NAME}/snapshots/`
+
 ### Starting Infinite Mode
 
-1. Launch the Cartographer agent in Claude Code
+1. Launch the Cartographer agent in Claude Code (with `WORLD_NAME` set)
 2. Send the message: **"improvemode"**
 3. The Cartographer will:
    - Write `infinite` to `.agents/cartographer-mode`
@@ -176,20 +196,20 @@ The Gamemaster can still send one-off map sync tasks via AMP while Cartographer 
 
 | File | Purpose |
 |------|---------|
-| `.agents/cartographer-mode` | Mode tracker (`infinite` or `normal`) |
-| `.agents/snapshot-server.pid` | Persistent snapshot server state |
+| `.agents-{world}/cartographer-mode` | Mode tracker (`infinite` or `normal`) - world-specific |
+| `.agents-{world}/snapshot-server.pid` | Persistent snapshot server state - world-specific |
 | `data/cartographer-infinite-progress.log` | Iteration log with timestamps |
 | `data/snapshot-server.log` | Snapshot server log |
-| `data/reference-maps/` | High-quality map examples for learning |
-| `data/reference-maps/README.md` | Reference map documentation and quality benchmarks |
-| `data/snapshots/` | Snapshot images directory |
-| `data/snapshots/pre-iteration-N.png` | Pre-improvement snapshots (last 5 kept) |
-| `data/snapshots/post-iteration-N.png` | Post-improvement snapshots (last 5 kept) |
-| `data/map-data.json` | Live map data (modified during iterations) |
-| `scripts/start-snapshot-server.sh` | Start persistent server |
+| `data/{world}/reference-maps/` | High-quality map examples for learning - world-specific |
+| `data/{world}/reference-maps/README.md` | Reference map documentation and quality benchmarks |
+| `data/{world}/snapshots/` | Snapshot images directory - world-specific |
+| `data/{world}/snapshots/pre-iteration-N.png` | Pre-improvement snapshots (last 5 kept) |
+| `data/{world}/snapshots/post-iteration-N.png` | Post-improvement snapshots (last 5 kept) |
+| `data/{world}/map-data.json` | Live map data (modified during iterations) - world-specific |
+| `scripts/start-snapshot-server.sh` | Start persistent server (uses `$WORLD_NAME`) |
 | `scripts/stop-snapshot-server.sh` | Stop persistent server |
 | `scripts/snapshot-fast.sh` | Fast snapshot via HTTP API |
-| `scripts/snapshot-server.mjs` | Persistent server implementation |
+| `scripts/snapshot-server.mjs` | Persistent server implementation (reads `$WORLD_NAME`) |
 
 ---
 
@@ -246,23 +266,40 @@ Exiting infinite improvement mode. Returning to normal mode.
 
 ### Mode stuck on "infinite" after crash
 ```bash
-echo "normal" > /home/aethermourne/gamemaster/.agents/cartographer-mode
+# For Aethermourne cartographer
+echo "normal" > /home/aethermourne/gamemaster/.agents-aethermourne/cartographer-mode
+
+# For Wylderan cartographer
+echo "normal" > /home/aethermourne/gamemaster/.agents-wylderan/cartographer-mode
 ```
 
 ### Need to revert changes
 ```bash
-git checkout data/map-data.json  # Revert to last commit
-git diff data/map-data.json      # Review changes before reverting
+# For Aethermourne
+git checkout data/aethermourne/map-data.json
+git diff data/aethermourne/map-data.json
+
+# For Wylderan
+git checkout data/wylderan/map-data.json
+git diff data/wylderan/map-data.json
 ```
 
 ### Clear old snapshots
 ```bash
-rm /home/aethermourne/gamemaster/data/*-iteration-*.png
+# For Aethermourne
+rm /home/aethermourne/gamemaster/data/aethermourne/snapshots/*-iteration-*.png
+
+# For Wylderan
+rm /home/aethermourne/gamemaster/data/wylderan/snapshots/*-iteration-*.png
 ```
 
 ### View current mode
 ```bash
-cat /home/aethermourne/gamemaster/.agents/cartographer-mode
+# For Aethermourne cartographer
+cat /home/aethermourne/gamemaster/.agents-aethermourne/cartographer-mode
+
+# For Wylderan cartographer
+cat /home/aethermourne/gamemaster/.agents-wylderan/cartographer-mode
 ```
 
 ---
