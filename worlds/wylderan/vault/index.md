@@ -1,21 +1,50 @@
+---
+tags:
+  - meta
+type: overview
+---
+
 # Wylderan
 
-**Emerging World**
-
-A world being built from the ground up through bottom-up worldbuilding.
-
-## Campaign Resources
-
-- [[World Overview]] - The setting overview
-- [[PartyState]] - Current party status and inventory
-- [[Timeline]] - Campaign timeline
-- [[NPCRegistry]] - Characters encountered
-- [[CHANGELOG]] - World development history
-
-## Sessions
-
-View [[Sessions/|campaign sessions]] and play reports.
+Welcome to Wylderan. This world is being built from the ground up through bottom-up worldbuilding. What exists so far has emerged organically from implications, one thread at a time. As the world grows, this index will grow with it.
 
 ---
 
-*A world in progress, shaped by the stories we tell.*
+## Explore the World
+
+- [[World Overview]] - Core world concept and emerging themes
+- [[Timeline]] - Chronological history
+- [[NPCRegistry]] - Master index of all named NPCs
+
+---
+
+## Settlements
+
+- [[Millford]] - River town with three competing water mills
+
+---
+
+## The NPCs
+
+See the full roster in [[NPCRegistry]].
+
+**Notable Characters:**
+- [[Garrick Thane]] - Dominant miller, owns two mills
+- [[Brenna Cray]] - Rival miller upstream, quality advocate
+- [[Halford Quick]] - Dock master and peacekeeper
+- [[Kellan Thane]] - Garrick's brother, runs Southgrain Mill
+- [[Dace Torrn]] - River trader and barge captain
+- [[Osmund Vey]] - Senior farmer, community voice
+- [[Lyman Corvish]] - Crown-appointed toll collector
+
+---
+
+> [!info] Vault Stats
+> | | |
+> |---|---|
+> | **Total files** | 8 |
+> | **Settlements** | 1 |
+> | **Named NPCs** | 7 |
+> | **NPC files** | 7 |
+> | **Campaign** | Unknown |
+> | **Status** | Emerging |
