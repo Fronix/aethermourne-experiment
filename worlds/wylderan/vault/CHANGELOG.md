@@ -291,3 +291,33 @@ type: changelog
 - Create Thom Harrow NPC file (cartel informant at Ashcrag)
 - The Stone Heights region atlas (already flagged from Cycle 5)
 - Forge Council faction file (already flagged from Cycle 5)
+
+## 2026-03-28 06:31 - Cycle 7: Forge Council Faction
+
+**Created by:** wylderan-writer1, wylderan-characterwriter
+**Implication:** Forge Council faction file (flagged Cycles 5-6, structural gap)
+
+- Created `Compendium/Factions/Forge Council.md` (150 lines)
+- Added 1 NPC to NPCRegistry: Hal Brennan (master smith, council member, Myra's rival) - pending characterwriter
+- Established council founding timeline: ~22 years ago (guild-landowner defensive alliance), restructured 20 years ago (Myra's centralization after harsh winter)
+- Detailed council governance: 5-member body (2 smiths permanent, 3 landowners elected 3-year terms), majority vote, monthly meetings at Stone Hearth
+- Named all 5 council members: Myra Cadros (head), Hal Brennan (rival smith), Aldric Harth (compromised landowner), Jorin Kelm (Myra loyalist), Marna Veld (swing vote)
+
+**Key features:**
+- Guild-dominated governance model (deliberate design to resist Crown and lowland control)
+- Territory: Ashcrag + outlying farms within valley watershed, NOT Ironhollow (cartel company town)
+- Resources: Market fees (10% on transactions), barge priority control, grain price influence, timber licensing, emergency grain reserve
+- Internal factions: Myra (guild pragmatist), Aldric (landowner conservative, debt-compromised), Brennan (guild rival, quiet underminer)
+- Crown relationship: Nominal fealty, de facto independence (Crown ignores highlands, council governs autonomously)
+
+**Opposition dynamics:**
+- Highland Workers Coalition: Council knows about organizing, Myra waiting for collapse, preparing economic pressure (barge denial, license revocation)
+- Highland Merchant Cartel: Economic rivalry, Ironhollow displacement ~10 years ago, Myra wants to reclaim tool market
+- Saltmere Merchant Assembly: Aldric's debt due in 2 months, lowland leverage threatens highland grain control
+- Counter-insurgency stance: Monitoring phase, no formal crackdown, internal divide on response (Myra wait, Aldric crack down, Brennan unknown)
+
+**Implications revealed:**
+- Brennan's potential coalition sympathies (could flip if PCs intervene)
+- Aldric's default countdown (2 months until Assembly seizes estate)
+- Thom Harrow informant NPC file (still missing from Cycle 6 gap)
+- Council vote dynamics (Myra + Brennan + Jorin = 3-vote majority, Marna as swing)
