@@ -1,0 +1,13 @@
+{
+  "name": "Wylderan",
+  "slug": "wylderan",
+  "campaign": "Emerging World",
+  "tone": "A world being built from the ground up through bottom-up worldbuilding",
+  "vaultPath": "worlds/wylderan/vault",
+  "dataPath": "data/wylderan",
+  "agentsPath": ".agents-wylderan",
+  "buildConfig": {
+    "quartzTitle": "Wylderan",
+    "baseUrl": "aethermourne.fronix.se"
+  }
+}

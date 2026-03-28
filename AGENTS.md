@@ -1,8 +1,8 @@
-# Aethermourne — Global Rules
+# Global Agent Rules
 
-This vault is an **Obsidian vault** for the world of **Aethermourne**, a mythic dark fantasy TTRPG setting using the **Nimble TTRPG** system. The active campaign is **The Second Silence**.
+This repository contains multiple TTRPG worlds, each using the **Nimble TTRPG** system and stored as **Obsidian vaults**.
 
-All world content lives under `Aethermourne/`.
+World content lives under `worlds/{world-name}/vault/`. Check your agent role file (`.agents-{world-name}/{agent-name}.md`) for world-specific paths and tone guidance.
 
 ---
 
@@ -194,12 +194,6 @@ Aethermourne/
         ├── The Pale Wastes.md
         └── The Verdant Marches.md
 ```
-
-## Tone
-
-Mythic dark fantasy. Decayed majesty. A world built on the bones of dead gods where everything beautiful is also haunted. Heroes exist but heroism is hard-won and leaves marks. Consequence-driven, morally complex, awe and unease in equal measure.
-
----
 
 ## GM Design Principles
 
