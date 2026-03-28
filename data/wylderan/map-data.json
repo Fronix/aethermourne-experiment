@@ -29,6 +29,30 @@
   },
   "regions": [
     {
+      "id": "the-stone-heights",
+      "name": "The Stone Heights",
+      "god": "Unknown",
+      "terrain": "Rocky highlands, pine forests, cold streams",
+      "color": "#6B7A8F",
+      "polygon": [
+        [150, 280],
+        [180, 240],
+        [220, 210],
+        [280, 190],
+        [340, 200],
+        [380, 250],
+        [360, 300],
+        [320, 340],
+        [280, 360],
+        [240, 370],
+        [200, 350],
+        [170, 320]
+      ],
+      "labelPos": [280, 270],
+      "capital": "Ashcrag",
+      "population": "~350"
+    },
+    {
       "id": "the-riverlands",
       "name": "The Riverlands",
       "god": "Unknown",
@@ -71,10 +95,50 @@
   ],
   "landmarks": [
     {
+      "name": "The Confluence",
+      "type": "landmark",
+      "description": "Where three highland streams (Cold Run, Ashwater, Piney Flow) converge to form the Millrun River",
+      "position": [280, 320],
+      "radius": 15
+    },
+    {
+      "name": "Cold Run",
+      "type": "river",
+      "description": "Highland stream flowing from the northwest into The Confluence",
+      "points": [
+        [240, 280],
+        [260, 300],
+        [280, 320]
+      ]
+    },
+    {
+      "name": "Ashwater",
+      "type": "river",
+      "description": "Highland stream flowing from the north into The Confluence",
+      "points": [
+        [250, 250],
+        [265, 285],
+        [280, 320]
+      ]
+    },
+    {
+      "name": "Piney Flow",
+      "type": "river",
+      "description": "Highland stream flowing from the northeast into The Confluence",
+      "points": [
+        [320, 270],
+        [300, 295],
+        [280, 320]
+      ]
+    },
+    {
       "name": "Millrun River",
       "type": "river",
-      "description": "Major river flowing from northern highlands through The Riverlands to the delta",
+      "description": "Major river flowing from The Confluence through The Riverlands to the delta",
       "points": [
+        [280, 320],
+        [310, 340],
+        [330, 370],
         [350, 400],
         [380, 420],
         [420, 430],
@@ -100,6 +164,14 @@
     }
   ],
   "settlements": [
+    {
+      "name": "Ashcrag",
+      "region": "the-stone-heights",
+      "position": [285, 325],
+      "population": 350,
+      "type": "village",
+      "description": "Highland market town at the Millrun headwaters with forge industry"
+    },
     {
       "name": "Millford",
       "region": "the-riverlands",
