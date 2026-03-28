@@ -158,10 +158,10 @@
       ]
     },
     {
-      "name": "The Pull",
+      "name": "The Pull Site",
       "type": "hazard",
-      "description": "Mysterious supernatural current that appears in the river delta during low water",
-      "position": [560, 800],
+      "description": "Delta convergence where supernatural currents drag vessels off course, site of Passage Keeper's beating heart, 2 miles upstream from Saltmere",
+      "position": [535, 765],
       "radius": 25
     },
     {
