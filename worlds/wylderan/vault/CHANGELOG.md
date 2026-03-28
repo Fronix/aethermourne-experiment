@@ -321,3 +321,47 @@ type: changelog
 - Aldric's default countdown (2 months until Assembly seizes estate)
 - Thom Harrow informant NPC file (still missing from Cycle 6 gap)
 - Council vote dynamics (Myra + Brennan + Jorin = 3-vote majority, Marna as swing)
+
+## 2026-03-28 06:59 - Cycle 8: The Stone Heights Region Atlas
+
+**Created by:** wylderan-writer1, wylderan-lorekeeper, wylderan-characterwriter (workshop synthesis)
+**Implication:** Foundational region atlas for highland content built in Cycles 3-7
+
+**Deliverables:**
+- Created `Compendium/Cosmology and Pantheon/The Stone Warden.md` (60-90 lines, minimal pantheon entry)
+- Created `Compendium/World Atlas/Regions/The Stone Heights.md` (200-300 lines, comprehensive region atlas)
+- Created `Compendium/Cosmology and Pantheon/` directory (new)
+- Created `Compendium/World Atlas/Regions/` directory (new)
+
+**Key features:**
+- Boundaries: Northern peaks to Millrun Falls, ~200-300 sq miles, population 750-900
+- River system: Cold Run, Ashwater, Piney Flow converge at The Confluence (Ashcrag) to form Millrun River
+- Terrain: Ashcrag Valley (primary), Ironhollow Valley (mining), Piney Reach/Ashwood forests (depleting), Northern Peaks (god's spine)
+- Climate: Harsh winters (3-5 months isolation), short growing season (4 months), seasonal trade cycles
+- Dead god: The Stone Warden (Stone/Earth/Mountains domain), petrified corpse forms highland ridgeline and bedrock, died 75 years ago during Theomachis
+- Supernatural: Stone-cursed creatures, ore madness, cold sickness, living ore veins, divine decay ongoing
+- Cultural: Highland independence ideology, guild culture, stone shrine at Confluence, forge blessing rituals, miner prayers
+
+**Implications revealed:**
+- The Twelve pantheon (Stone Warden is one of twelve gods who died during Theomachis)
+- Theomachis date established: 75 years ago (Year -75), Crown collapse allowed highland independence
+- Divine decay as ongoing threat (cold intensifying, ore depleting, soil thinning)
+- Cosmology framework for future cycles (other dead gods in other regions)
+
+**Connections established:**
+- Stone Heights connects south to The Riverlands (Millford) via Millrun River
+- The Riverlands connects south to The Saltfen (Saltmere) via Millrun River delta
+- Highland-lowland economic dependency (highlands produce grain/tools, lowlands provide capital/markets)
+- Regional power triangle: Forge Council (Ashcrag), Highland Merchant Cartel (Ironhollow), Saltmere Merchant Assembly (lowland creditors)
+
+**Threads advanced:**
+- Highland Workers Coalition strike (now grounded in geography: 8-mile separation, Halfway Burn Site neutral ground)
+- Charcoal shortage (now explained: forest depletion from 40+ years logging, divine decay killing trees)
+- Aldric's debt crisis (now contextualized: lowland creditor Corwin Marsh threatening highland independence)
+- Resource depletion (iron ore surface veins finite, timber thinning, soil thin over god's bedrock)
+
+**Optional future work (deferred to Cycle 9+):**
+- Expand The Twelve pantheon (11 other gods, 11 other regions)
+- NPC cultural integration (add Stone Warden oaths/rituals to 17 highland NPCs)
+- Settlement updates (add sacred sites, burial grounds, shrine details to Ashcrag/Ironhollow)
+- Faction updates (add divine legitimacy, theological rhetoric to Forge Council/Coalition files)

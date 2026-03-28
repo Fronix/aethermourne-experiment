@@ -45,12 +45,11 @@ See the full roster in [[NPCRegistry]].
 ---
 
 > [!info] Vault Stats
-> | | |
-> |---|---|
-> | **Total files** | 38 |
-> | **Settlements** | 4 |
-> | **Named NPCs** | 31 |
-> | **NPC files** | 31 |
-> | **Factions** | 4 |
-> | **Campaign** | Unknown |
-> | **Status** | Emerging |
+> - **Settlements:** 3 (Millford, Saltmere, Ashcrag)
+> - **Landmarks:** 2 (Halfway Burn Site, Ironhollow)
+> - **Regions:** 1 (The Stone Heights)
+> - **Factions:** 4 (Forge Council, Highland Workers Coalition, Highland Merchant Cartel, Saltmere Merchant Assembly)
+> - **NPCs:** 31
+> - **Cosmology:** 1 (The Stone Warden)
+> - **Total files:** 40
+> - **Status:** Established
