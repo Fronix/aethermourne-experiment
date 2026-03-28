@@ -163,6 +163,27 @@
       "description": "Mysterious supernatural current that appears in the river delta during low water",
       "position": [560, 800],
       "radius": 25
+    },
+    {
+      "name": "North Barracks",
+      "type": "landmark",
+      "description": "Ironhollow boarding house where Senna Kade organizes contract miners",
+      "position": [222, 262],
+      "radius": 3
+    },
+    {
+      "name": "Timber Yards",
+      "type": "landmark",
+      "description": "Charcoal kilns south of Ashcrag where Orrin Pike organizes tenant farmers",
+      "position": [295, 325],
+      "radius": 5
+    },
+    {
+      "name": "Harth Estate",
+      "type": "landmark",
+      "description": "Largest farm in The Stone Heights, controlling a third of highland grain exports",
+      "position": [275, 315],
+      "radius": 8
     }
   ],
   "settlements": [
