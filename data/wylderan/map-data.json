@@ -172,6 +172,13 @@
       "radius": 3
     },
     {
+      "name": "Halfway Burn Site",
+      "type": "landmark",
+      "description": "Abandoned charcoal production site along Cold Run, secret meeting location for Highland Workers Coalition",
+      "position": [260, 300],
+      "radius": 5
+    },
+    {
       "name": "Timber Yards",
       "type": "landmark",
       "description": "Charcoal kilns south of Ashcrag where Orrin Pike organizes tenant farmers",
