@@ -44,12 +44,19 @@ See the full roster in [[NPCRegistry]].
 
 ---
 
+## Adventures
+
+- [[One-Shot - The Missing Barge]] - Investigation into barge disappearances in the delta
+
+---
+
 > [!info] Vault Stats
 > - **Settlements:** 4 (Millford, Saltmere, Ashcrag, Ironhollow)
-> - **Landmarks:** 1 (Halfway Burn Site)
-> - **Regions:** 1 (The Stone Heights)
+> - **Landmarks:** 2 (Halfway Burn Site, The Pull Site)
+> - **Regions:** 2 (The Stone Heights, The Riverlands)
 > - **Factions:** 4 (Forge Council, Highland Workers Coalition, Highland Merchant Cartel, Saltmere Merchant Assembly)
 > - **NPCs:** 31
-> - **Cosmology:** 1 (The Stone Warden)
-> - **Total files:** 48
+> - **Cosmology:** 2 (The Stone Warden, The Passage Keeper)
+> - **Adventures:** 1 (One-Shot)
+> - **Total files:** 53
 > - **Status:** Established

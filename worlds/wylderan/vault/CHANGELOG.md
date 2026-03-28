@@ -446,3 +446,95 @@ type: changelog
 - Create The Riverlands region atlas (define dead god, river ecology, ford culture)
 - Create The Saltfen region atlas (define dead god, connect "the pull" to divine decay)
 - Cosmology integration: update lowland content with Theomachis references, cultural practices
+
+## 2026-03-28 08:07 - Cycle 10: The Riverlands Region & First One-Shot Adventure
+
+**Type:** Build cycle (implication-driven worldbuilding)
+**Implication explored:** The Riverlands region - river corridor connecting Stone Heights and Saltfen, shaped by fragmented dead river god
+**Team:** wylderan-writer1 (region atlas, landmark), wylderan-writer2 (god entry, one-shot), wylderan-characterwriter (NPC updates)
+
+**What was built:**
+
+### 1. The Passage Keeper Pantheon Entry
+- **Created by:** wylderan-writer2
+- **File:** `Compendium/Cosmology and Pantheon/The Passage Keeper.md` (142 lines)
+- **Domain:** Passage, Rivers, Commerce, Transitions, Change, Adaptation
+- **Death:** Fragmented during Theomachis, corpse scattered along Millrun River
+- **Corpse geography:** Skull at highland confluence (Ashcrag), ribcage at ford (Millford), heart at delta (Saltmere)
+- **Philosophy:** "Yield but don't break, flow around obstacles" (contrasts Stone Warden's permanence/endurance)
+- **Divine decay manifestations:** The pull (heart reassembly will), ford instability (dissolving bones), changing river behavior, whispers in current
+- **Cultural legacy:** Ford blessings, barge oaths sworn "by the current," toll origins (corrupted offerings), river prayers
+- **Campaign threat:** Divine reassembly accelerating, heart pulse quickening, fragments trying to return together
+
+### 2. The Riverlands Region Atlas
+- **Created by:** wylderan-writer1
+- **File:** `Compendium/World Atlas/Regions/The Riverlands.md` (332 lines)
+- **Structure:** River System first (modified from Stone Heights template), Trade Corridors subsection, River Culture section added
+- **Geography:** 50-mile linear corridor from Millrun Falls (north) to delta (south), 2-6 miles wide settled zone
+- **River System:** Upper Millrun (falls to Millford), The Ford at Millford (sacred site, divine bones), Lower Millrun (Millford to delta, pull zone)
+- **Trade Corridors:** Barge routes (one-way downstream only), seasonal navigation (spring floods, autumn pull), ford crossing economics
+- **Divine Influence:** Passage Keeper's fragmented remains define supernatural geography, pull phenomenon, ford instability, whispers in current
+- **River Culture:** Ford maintenance traditions (communal civic duty), barge-building craft, forgotten shrines, flood season rituals (vigil fires)
+- **Political Structure:** Crown toll authority (nominal), local council governance (Millford only), no regional authority, hinge between highland/lowland factions
+- **Cultural Identity:** Transitional/liminal, "river folk" defined by what they connect not what they contain, pragmatic adaptation vs highland endurance
+- **Tone:** "Flow, adaptation, horizontal power" vs highlands "permanence, resistance, vertical power"
+
+### 3. The Pull Site Landmark
+- **Created by:** wylderan-writer1
+- **File:** `Compendium/World Atlas/Landmarks/The Pull Site.md` (135 lines)
+- **Location:** Delta convergence where Westrun, Centerflow, Saltcurrent channels meet, 2 miles upstream from Saltmere
+- **Description:** Water moving wrong, reversed currents, shadows beneath surface, grinding heartbeat sound
+- **The Pull Phenomenon:** Supernatural downstream current during autumn low water, water density increase, divine reassembly will
+- **Environmental Hazards:** Navigation checks (DC 12), drowning risk (DC 14-16), barge damage, divine manifestations
+- **The Missing Barge:** Wreckage at bottom (20 feet down), crew bodies trapped in hull, cargo spill evidence, divine interference cause
+- **Hooks:** Missing barge investigation, Assembly cover-up, pull worsening over time, salvage contract, divine discovery
+- **GM Secrets:** Passage Keeper's heart (house-sized, still beating), pulse accelerating (hourly → 40 minutes), reassembly threat, trade collapse if unchecked, three potential solutions (all with costs)
+- **Campaign thesis:** "The dead are still dying, and the living must choose how to survive the decay"
+
+### 4. One-Shot Adventure: The Missing Barge
+- **Created by:** wylderan-writer2
+- **File:** `Adventures/One-Shots/One-Shot - The Missing Barge.md` (364 lines)
+- **Structure:** Three-act investigation → exploration → revelation, hub-and-spokes (Millford base, river travel, Pull Site climax)
+- **Act 1:** Millford investigation (interview family/dockmaster/traders, gather clues, establish pull as legend vs threat)
+- **Act 2:** River exploration (downstream travel, environmental hazards, evidence discovery)
+- **Act 3:** Pull Site confrontation (supernatural encounter, wreckage recovery, divine revelation)
+- **Playable content:** Introduces Wylderan's tone (grounded supernatural horror in economic collapse), divine decay mechanics, moral complexity
+- **Level:** 1-3, estimated 4-6 hours, single session or short two-session arc
+
+### 5. NPC File Updates (7 Millford NPCs)
+- **Updated by:** wylderan-characterwriter
+- **NPCs enriched:** Garrick Thane, Brenna Cray, Halford Quick, Lyman Corvish, Dace Torrn, Osmund Vey, Kellan Thane
+- **Content added:** Passage Keeper cultural references (ford blessings, barge oaths), river trade context, one-shot adventure integration, Millford tensions grounded in divine geography
+
+**Threads discovered (deferred to future cycles):**
+
+- **The Saltfen region atlas** (Cycle 11+): Delta ecology, salt marsh terrain, divine remains integration, Saltmere cultural patterns, bay trade routes
+- **Cosmology integration for Saltmere NPCs** (Cycle 11+): Add Passage Keeper worship remnants, salt guild rituals, delta shrines, Assembly theological rhetoric
+- **Divine reassembly threat escalation** (campaign arc): Heart pulse acceleration, fragments responding, potential cult attempting to "help" god reassemble, trade collapse scenarios
+- **Crown authority expansion** (political thread): Toll collection as colonial extraction, river governance disputes, highland-lowland independence tensions
+- **Other dead gods** (Cycle 12+): The Twelve pantheon expansion, 10 additional gods in 10 regions, divine decay patterns across Wylderan
+
+**Connections established:**
+
+- **River god vs Stone Warden philosophy:** Adaptation/flow/yielding (Passage Keeper) vs endurance/permanence/resistance (Stone Warden), cultural divide between river folk and highlanders
+- **Highland-lowland economic hinge:** Riverlands as passage not producer, grain flows downstream cheaply (barge), goods flow upstream expensively (wagon), asymmetry creates debt dependency
+- **Sacred ford as trade chokepoint:** Divine bones hold ford stable (temporary), all wagon traffic must cross here, toll collection descended from corrupted god offerings
+- **Divine fragmentation as regional connector:** Passage Keeper's corpse geography links three regions (Stone Heights/Riverlands/Saltfen) through shared divine remains
+- **Dead gods still dying:** Divine decay as ongoing threat not historical event, remains active/dangerous 75 years after Theomachis, mortal economies built on unstable divine foundations
+
+**Playable content delivered:**
+
+- **First one-shot adventure:** "The Missing Barge" - introduces world tone, divine decay mechanics, Wylderan's emerging themes (beautiful and wrong, labor against entropy, no clean answers)
+- **Investigation structure:** Teaches players how Wylderan adventures work (gather clues, explore dangerous sites, confront supernatural threats with moral complexity)
+- **Divine encounter design:** Pull Site as first "dead god corpse" encounter, establishes pattern for future god-remains interactions
+- **Three-clue rule demonstrated:** Missing barge discoverable through multiple paths (family interview, dockmaster rumors, trader testimony, physical evidence)
+- **Moral dilemma introduction:** What to do about the pull? Destroy heart/sever connection/complete reassembly? All solutions have costs, no clean victory
+
+**File count:**
+- Before Cycle 10: 48 files
+- New files: 4 (The Passage Keeper, The Riverlands, The Pull Site, One-Shot - The Missing Barge)
+- NPC updates: 7 (enriched, not new files)
+- After Cycle 10: 52 files
+- Index reports: 53 files (includes directory markers)
+
+**Status:** Established → Growing (first playable content created, world expanding beyond single region)

@@ -37,6 +37,8 @@ Brenna was nineteen when the spring flood destroyed her family's mill. Her fathe
 
 The formative event: When [[Garrick Thane]] bought the wreckage of her family's mill for a pittance, Brenna swore she'd rebuild it and take back what was stolen. Garrick offered her work at one of his mills once. She told him she'd see him drowned in the millrace first. That refusal cost her, but it also defined her.
 
+On the night she finished rebuilding Kess Mill, Brenna walked to the ford alone and swore an oath by the current: she would never sell the mill to Garrick, no matter the price or pressure. Her grandfather taught her the old mill rituals, and she's one of the few who still keeps them. Every season-change, she pours river water over the wheel at dawn and whispers the blessing he taught her. When negotiations with Garrick or creditors grow desperate, she leaves offerings at the dock shrine, small copper coins and carved wood, asking the river for strength.
+
 ## Relationships
 
 - [[Garrick Thane]] — Her enemy. She blames him for profiting off her family's ruin. Every success she has is measured against him. She undercuts his rates when she can afford to, even if it means operating at a loss. It's personal, and it's consuming her.

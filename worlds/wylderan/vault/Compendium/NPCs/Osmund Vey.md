@@ -31,6 +31,8 @@ Osmund is a weathered man in his early sixties, broad-shouldered and stooped fro
 
 Osmund is patient, pragmatic, and deeply tired. He's been the voice of the farming community for so long that he's forgotten what it's like to just tend his own land without carrying everyone else's grievances. He's the mediator, the negotiator, the one who talks people down from rash decisions. He believes in community, in working together to survive, but he's also a realist. He knows [[Garrick Thane]] has them over a barrel, and he knows complaining won't change that. He picks his battles carefully and hates that he has to. Beneath the calm, there's a simmering anger at the unfairness of it all, but he's too disciplined to let it show.
 
+Osmund is old enough to remember when more people in Millford honored the Passage Keeper. He still attends [[Halford Quick]]'s Ford Blessing festival each spring, one of the few who does. When he negotiates serious contracts, he insists they be sworn on the ford, touching the water and invoking the old words. He believes the river's worsening behavior, the deeper floods, the unpredictable currents, is divine punishment for the town's neglect. He's said as much at council meetings, and younger farmers dismiss it as superstition. Osmund doesn't argue. He just waits for them to notice he's right.
+
 ## Backstory
 
 Osmund has farmed the same plot of land his entire life, land his father and grandfather worked before him. He married young, had five children, buried two. His wife, Maren, died three years ago from a fever. His remaining children work the land with him, though his eldest son, Tomas, has been talking about leaving for the lowlands. Osmund dreads that conversation.

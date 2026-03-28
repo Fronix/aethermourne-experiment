@@ -31,6 +31,8 @@ Dace is a lean man in his late thirties with sun-darkened skin and ropy muscle f
 
 Dace is affable, adaptable, and entirely untrustworthy in the best possible way. He's charming when it suits him, blunt when charm won't work, and always calculating the angles. He treats everyone like a potential customer or useful contact. He's a gossip and an information broker, trading news as freely as goods. People like him because he's entertaining and useful, but no one truly trusts him. Dace doesn't mind. Trust is expensive and not particularly profitable. He's loyal to the river first, profit second, and people a distant third.
 
+Beneath the pragmatism, Dace is deeply superstitious about the river. He drops offerings into the current before every dangerous run, copper coins or twists of tobacco, and whispers the old prayer: "Flow steady, return safe." He wears a carved wooden fish token on a cord around his wrist, a Keeper symbol his grandmother gave him. He won't cross the ford without touching the water first. When he's alone on the *Kingfisher* at night, he talks to the barge like it can hear the god listening through the current.
+
 ## Backstory
 
 Dace grew up on the river, the son of a barge family that worked the trade routes between the highlands and lowlands for generations. He inherited his father's barge, the *Kingfisher*, ten years ago, along with the routes, contacts, and debts. Dace learned early that the river has moods, and the people along it have needs. He built his reputation on being reliable (mostly), discreet (when paid), and willing to carry things other traders wouldn't touch.

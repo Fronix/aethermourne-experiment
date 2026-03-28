@@ -37,6 +37,8 @@ Halford wasn't born in Millford. He came twenty years ago as a barge worker, you
 
 The formative event: Fifteen years ago, a merchant tried to bypass Halford's fees by mooring downstream and hauling goods overland. Halford quietly spread word that the merchant was smuggling stolen goods. The merchant's reputation was ruined, and he left Millford broke. The message was clear: cross Halford, pay the price. No one's tried since.
 
+When Halford took the dock master role, he inherited an informal duty that Harrow had neglected: maintaining the small shrine to the Passage Keeper near the Upper Docks. Halford keeps it clean, replaces offerings left by older traders, and leads the annual Ford Blessing festival each spring, though attendance has dwindled over the years. He does this not from faith but from tradition, and because his father was a ferryman who taught him that disrespecting the river brings bad luck. Privately, Halford worries the town's neglect of the old ways is why the floods are worsening and the ford is deepening.
+
 ## Relationships
 
 - [[Garrick Thane]] — Garrick pays Halford a yearly "consideration" to prioritize his barges. Halford likes Garrick's straightforwardness: Garrick doesn't haggle or complain, he just pays. It's a comfortable arrangement.

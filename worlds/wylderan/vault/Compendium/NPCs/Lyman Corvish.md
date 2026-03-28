@@ -36,6 +36,8 @@ Lyman is officious, petty, and deeply insecure. He clings to the rules because t
 
 Lyman was born in the capital, the youngest son of a minor clerk. He was educated enough to read and write but not connected enough to secure a position of real power. Toll collector was the best he could get: a posting on the edge of civilization, collecting taxes from people who despise him. He's been in Millford for five years and hates every moment of it. He lives in a small, rented room above the general store and eats his meals alone.
 
+What Lyman doesn't tell anyone: the Corvish family were ford-keepers at Millford generations ago, before the role was secularized by the Crown. His great-grandfather kept the shrine to the Passage Keeper and collected offerings from travelers, not taxes. Lyman found his great-grandfather's ledger in the family's archives, a faded book listing "offerings" rather than "tolls," with prayers and blessings written in the margins. He brought it with him to Millford, though he's never shown it to anyone. He resents that what was once a sacred duty has been reduced to tax collection, and he resents even more that no one here remembers or cares.
+
 The formative event: Three years ago, Lyman caught a group of farmers smuggling grain past the toll point. He confiscated the grain and fined them heavily, following the letter of the law. One of the farmers, an old man named Harver, couldn't pay the fine and lost his land. Harver's family blamed Lyman, and someone painted "Crown's Thief" on his door. Lyman requested a transfer. It was denied. He stays because he has nowhere else to go, and because transferring would be admitting failure.
 
 ## Relationships
