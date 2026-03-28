@@ -64,14 +64,23 @@ document.addEventListener("nav", () => {
   }
 
   function initials(name: string): string {
-    const short = name.replace(/^aethermourne-/, "")
-    const parts = short.split(/[-_]/)
-    if (parts.length >= 2) return (parts[0][0] + parts[1][0]).toUpperCase()
-    return short.slice(0, 2).toUpperCase()
+    // Extract world and role: "wylderan-gamemaster" → ["wylderan", "gamemaster"]
+    const match = name.match(/^([^-]+)-(.+)$/)
+    if (!match) return name.slice(0, 2).toUpperCase()
+
+    const [, world, role] = match
+    const parts = role.split(/[-_]/)
+
+    if (parts.length >= 2) {
+      return (parts[0][0] + parts[1][0]).toUpperCase()
+    }
+    return role.slice(0, 2).toUpperCase()
   }
 
   function shortName(name: string): string {
-    return name.replace(/^aethermourne-/, "")
+    // Remove world prefix dynamically
+    const match = name.match(/^([^-]+)-(.+)$/)
+    return match ? match[2] : name
   }
 
   function esc(s: string): string {
@@ -113,6 +122,13 @@ document.addEventListener("nav", () => {
   // ── Render helpers ──────────────────────────────
   function renderBubble(msg: AmpMessage): string {
     const fromColor = agentColor(msg.fromName)
+
+    // Extract world for badge
+    const worldMatch = msg.fromName.match(/^([^-]+)-/)
+    const worldBadge = worldMatch
+      ? `<span class="amp-world-badge" style="background:${fromColor}">${worldMatch[1].substring(0, 1).toUpperCase()}</span>`
+      : ""
+
     const typeTag = msg.type
       ? `<span class="amp-tag amp-tag-${msg.type}">${esc(msg.type)}</span>`
       : ""
@@ -133,6 +149,7 @@ document.addEventListener("nav", () => {
       <div class="amp-msg" data-id="${esc(msg.id)}">
         <div class="amp-msg-header">
           <span class="amp-avatar" style="background:${fromColor}">${initials(msg.fromName)}</span>
+          ${worldBadge}
           <span class="amp-sender" style="color:${fromColor}">${esc(shortName(msg.fromName))}</span>
           <span class="amp-arrow">&#9654;</span>
           <span class="amp-recipient">${esc(shortName(msg.toName))}</span>

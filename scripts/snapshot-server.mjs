@@ -89,7 +89,16 @@ async function startServer() {
   const mapApp = express();
   mapApp.use('/map', express.static(join(gamemasterRoot, 'map')));
   mapApp.get('/map/map-data.json', (req, res) => {
-    res.sendFile(join(gamemasterRoot, 'data', 'map-data.json'));
+    const mapDataPath = join(gamemasterRoot, 'data', WORLD_NAME, 'map-data.json');
+
+    if (!fs.existsSync(mapDataPath)) {
+      console.error(`Map data not found: ${mapDataPath}`);
+      res.status(404).send(`Map data not found for world: ${WORLD_NAME}`);
+      return;
+    }
+
+    console.log(`Serving map data: data/${WORLD_NAME}/map-data.json`);
+    res.sendFile(mapDataPath);
   });
   const mapServer = mapApp.listen(MAP_PORT);
 

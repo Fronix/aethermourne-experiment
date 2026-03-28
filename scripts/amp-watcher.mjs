@@ -41,12 +41,18 @@ async function sendMessage(filePath) {
     const id = parsed.envelope?.id
     if (!id || seenIds.has(id)) return
 
-    // Only send messages between aethermourne agents
     const from = parsed.envelope.from || ""
     const to = parsed.envelope.to || ""
     const fromAgent = from.split("@")[0]
     const toAgent = to.split("@")[0]
-    if (!fromAgent.startsWith("aethermourne-") || !toAgent.startsWith("aethermourne-")) return
+
+    // Only relay messages between known agent patterns
+    const agentPattern = /^(aethermourne|wylderan)-(gamemaster|lorekeeper|writer1|writer2|characterwriter|cartographer)$/
+
+    if (!agentPattern.test(fromAgent) || !agentPattern.test(toAgent)) {
+      console.log(`[FILTER] Skipping non-agent message: ${fromAgent} → ${toAgent}`)
+      return
+    }
 
     seenIds.add(id)
     // Cap seen set
