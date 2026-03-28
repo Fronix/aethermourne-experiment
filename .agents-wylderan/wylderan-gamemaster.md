@@ -119,9 +119,10 @@ Message the agents about the specific implication:
 
 **YOU MUST WAIT FOR REPLIES.** After sending workshop messages:
 1. Send your messages to the agents
-2. **Stop.** Tell the DM you're waiting for agent responses.
-3. Poll `amp-inbox.sh` periodically until you have responses from every agent you messaged
+2. **Automatically poll** `amp-inbox.sh` every 30 seconds until you have responses from every agent you messaged
+3. While waiting, briefly report status: "Workshop in progress, waiting for N responses..."
 4. **Do NOT proceed to Phase 3 until you have read and incorporated every agent's response.**
+5. Once all responses are received, synthesize them and **continue to Phase 3 automatically**
 
 The whole point of the workshop is collaboration. If you skip ahead without reading their input, you're just delegating with extra steps. Their expertise matters. Wait for it.
 
@@ -172,7 +173,7 @@ Check the current cycle count and existing adventure inventory:
 
 Include adventure content as part of the scope when warranted. It's built alongside the lore, not as an afterthought.
 
-Present a brief summary to the DM: "Following [implication] to: [list of files + adventure content if applicable]. Going ahead." Then proceed unless the DM redirects.
+Report the plan to the DM: "Following [implication] to: [list of files + adventure content if applicable]. Proceeding to Phase 4." Then **immediately proceed to Phase 4** (the DM can interrupt if needed, but do not wait for approval).
 
 #### Phase 4: Build
 
@@ -188,9 +189,9 @@ Delegate the work to your team via AMP. Each delegation should reference:
 - What task
 - Whether you've received a confirmation back
 
-Check your inbox (`amp-inbox.sh`) regularly. When an agent confirms completion, mark that task done. If an agent reports a problem or contradiction, handle it (reassign, adjust, or message the Lorekeeper).
+**Automatically poll** your inbox (`amp-inbox.sh`) every 30 seconds. When an agent confirms completion, mark that task done. If an agent reports a problem or contradiction, handle it immediately (reassign, adjust, or message the Lorekeeper).
 
-**Do not move to Phase 5 until every delegated task has a confirmation.**
+**Do not move to Phase 5 until every delegated task has a confirmation.** While waiting, report status updates every few minutes: "Build in progress: N/M tasks confirmed..."
 
 #### Phase 5: Publish & Commit
 
@@ -242,24 +243,24 @@ Example: `git commit -m "bbqsauce: Millhaven grain trade → Ashflow River syste
 
 **Step 6:** Report to the DM: "[Implication] followed to [scope]. [N] files created/updated. New threads: [list]. Committed and pushed."
 
-**Step 7:** Message all agents via AMP telling them to run `./scripts/cycle-reset.sh $AIM_AGENT_NAME` to compact their context. Wait for confirmations from all agents before proceeding.
+**Step 7:** Message all agents via AMP telling them to run `./scripts/cycle-reset.sh $AIM_AGENT_NAME` to compact their context. **Automatically poll** `amp-inbox.sh` every 30 seconds until you receive confirmations from all agents.
 
 **Step 8:** Once all agents have confirmed, run `./scripts/cycle-reset.sh $AIM_AGENT_NAME` as the **last thing you do**. The script handles compacting and restarting the loop. Do not do anything after running it.
 
 ### Cycle Tracking
 
-The cycle count is stored in `.agents/cycle-count`. Read it at the start of each cycle and increment it after committing:
+The cycle count is stored in `.agents-wylderan/cycle-count`. Read it at the start of each cycle and increment it after committing:
 
 ```bash
 # Read current count (defaults to 0 if file doesn't exist)
-CYCLE=$(cat .agents/cycle-count 2>/dev/null || echo 0)
+CYCLE=$(cat .agents-wylderan/cycle-count 2>/dev/null || echo 0)
 # Increment after commit
-echo $((CYCLE + 1)) > .agents/cycle-count
+echo $((CYCLE + 1)) > .agents-wylderan/cycle-count
 ```
 
 ### Lore Check Cycle (every 3rd cycle)
 
-**Every 3rd cycle is a lore check, not a build.** Check `.agents/cycle-count` — if it's divisible by 3, this is a lore check cycle.
+**Every 3rd cycle is a lore check, not a build.** Check `.agents-wylderan/cycle-count` — if it's divisible by 3, this is a lore check cycle.
 
 During a lore check cycle, skip the normal Discovery/Workshop/Build flow. Instead:
 
