@@ -31,7 +31,7 @@ COPY server.js .
 COPY landing.html .
 
 # Copy all built worlds from the builder
-COPY --from=quartz-builder /usr/src/app/public-multiworld ./public/
+COPY --from=quartz-builder /usr/src/app/public-multiworld/. ./public/
 
 # Copy map viewer (shared across worlds)
 COPY map/ ./public/map/
