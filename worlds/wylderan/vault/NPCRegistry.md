@@ -21,3 +21,10 @@ Master index of all named NPCs in wylderan.
 | [[Osmund Vey]] | Senior Farmer, Community Voice | Millford | | alive |
 | [[Lyman Corvish]] | Toll Collector | Millford | Crown Authority | alive |
 | [[Kellan Thane]] | Mill Operator (Southgrain Mill), [[Garrick Thane]]'s brother | Millford | | alive |
+| [[Corwin Marsh]] | Merchant House Head (Marsh family) | Saltmere | Merchant Assembly | alive |
+| [[Ossian Greave]] | Merchant, Debt Collector (Greave family) | Saltmere (currently in Millford) | Merchant Assembly | alive |
+| [[Marda Vorren]] | Assembly Speaker, Merchant House Head (Vorren family) | Saltmere | Merchant Assembly | alive |
+| [[Halden Brack]] | Fishing Fleet Leader, Merchant House Head (Brack family) | Saltmere | Merchant Assembly | alive |
+| [[Lira Fenn]] | Barge Captain, River Trader | Saltmere | | alive |
+| [[Venna Cade]] | Harbormaster | Saltmere | | alive |
+| [[Miren Hallis]] | Widow of Captain Jorin Hallis | Saltmere | | alive |

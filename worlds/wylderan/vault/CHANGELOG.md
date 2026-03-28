@@ -84,3 +84,51 @@ type: changelog
 - Environmental change (worsening floods, weakening autumn flow)
 - The three mills rivalry (water rights, economic power dynamics)
 - Farm community tension (miller's cut vs farmer survival)
+
+## 2026-03-28 04:16 - Cycle 2: Saltmere Created
+
+**Created by:** wylderan-writer1
+**Implication:** Lowland markets - downstream trade destination for Millford grain barges
+
+- Created `Compendium/World Atlas/Settlements/Saltmere.md` (160 lines)
+- Added 5 NPCs to NPCRegistry: Corwin Marsh, Ossian Greave, Marda Vorren, Halden Brack, Lira Fenn
+- Established new region name: "The Saltfen" (coastal/delta region)
+- Established river geography: Millrun splits into three channels (Westrun, Centerflow, Saltcurrent) before meeting bay
+
+**Key features:**
+- Delta port city (population ~3,200)
+- Salt production economy with grain dependency
+- Three market districts on three river channels
+- Merchant Assembly government (five merchant houses)
+- River mouth with "the pull" supernatural phenomenon
+
+**Implications revealed:**
+- The Saltfen region (coastal/marshland, salt production)
+- The bay/ocean beyond river mouth (maritime trade network)
+- Five merchant houses (Marsh, Greave, Vorren, Salter, Brack families)
+- Coastal trade network (cloth, tools, other goods)
+- Inland forges (source of tools mentioned in trade goods)
+- "The pull" supernatural threat (ancient thing beneath delta)
+- Highland-lowland economic dependency (grain for survival)
+- Salt evaporation pond labor system (contract labor, debt servitude)
+
+**Connections established:**
+- Corwin Marsh holds [[Garrick Thane]]'s debt (Millford connection)
+- Ossian Greave collecting from [[Kellan Thane]] (Millford connection)
+- [[Lira Fenn]] rival to [[Dace Torrn]] on trade route
+- Missing barge from Millford never arrived at Saltmere
+- Grain shortage creating economic/political pressure in both settlements
+
+## 2026-03-28 04:20 - Cycle 2: Saltmere NPC Coordination
+
+**Updated by:** wylderan-writer1
+**Context:** Resolved NPC overlap between writer1 and characterwriter
+
+- Updated `Compendium/World Atlas/Settlements/Saltmere.md` to add 2 NPCs to Notable Residents
+- Added Venna Cade (Harbormaster) to Notable Residents section
+- Added Miren Hallis (missing barge captain's widow) to Notable Residents section
+- Final Saltmere NPC roster: 7 NPCs (Corwin Marsh, Ossian Greave, Marda Vorren, Halden Brack, Lira Fenn, Venna Cade, Miren Hallis)
+
+**Coordination:**
+- Characterwriter creating detail files for Marda Vorren, Halden Brack, Lira Fenn
+- Characterwriter updating location references in existing files from 'Lowland Markets' to 'Saltmere'
