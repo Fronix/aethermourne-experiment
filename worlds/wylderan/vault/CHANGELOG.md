@@ -365,3 +365,84 @@ type: changelog
 - NPC cultural integration (add Stone Warden oaths/rituals to 17 highland NPCs)
 - Settlement updates (add sacred sites, burial grounds, shrine details to Ashcrag/Ironhollow)
 - Faction updates (add divine legitimacy, theological rhetoric to Forge Council/Coalition files)
+
+## 2026-03-28 07:08 - Cycle 9: Lore Check - Lowland Content Audit
+
+**Type:** Lore audit cycle (every 3rd cycle)
+**Scope:** Millford, Saltmere, The Riverlands, The Saltfen regions (Cycles 1-2 content)
+**Auditor:** wylderan-lorekeeper
+
+**Audit Results:**
+- 95% consistency grade (A-)
+- 4 blocking contradictions fixed (Kellan surname, Tallow affiliation, missing faction file, index stats)
+- 0 broken wikilinks
+- Economic logic fully consistent
+- NPC relationship web coherent
+- Structural gaps identified: The Riverlands & The Saltfen region atlases (deferred to Cycle 10)
+
+**Critical Path Fixes (completed this cycle):**
+
+### Fix 1: Kellan Surname (Millford.md)
+- **Fixed by:** wylderan-writer1
+- Fixed `Compendium/World Atlas/Settlements/Millford.md` (lines 55, 91): "Kellan Ashfeld" → "Kellan Thane"
+- Reason: Ashfeld is the mill name, Thane is the family surname
+
+### Fix 2: Tallow Affiliation (Ossian Greave.md)
+- **Fixed by:** wylderan-characterwriter
+- Fixed `Compendium/NPCs/Ossian Greave.md` (line 38): "a Saltmere merchant named Tallow" → "a highland cartel factor named Tallow Breck"
+- Reason: Tallow Breck is based in Ashcrag (Highland Merchant Cartel), not Saltmere
+
+### Fix 3: Index Stats (index.md)
+- **Fixed by:** wylderan-writer1
+- Updated `index.md` vault stats:
+  - Settlements: 3 → 4 (added Ironhollow)
+  - Landmarks: 2 → 1 (removed Ironhollow, kept Halfway Burn Site)
+  - Factions: 4 → 3 (corrected, Saltmere Merchant Assembly file didn't exist yet)
+  - Total files: 40 → 48
+
+### Fix 4: Saltmere Merchant Assembly Faction File
+- **Created by:** wylderan-writer2
+- Created `Compendium/Factions/Saltmere Merchant Assembly.md` (150 lines)
+- Reason: Faction referenced extensively in settlement/NPC files but no detail file existed
+
+**Structure (following Forge Council template):**
+- Overview (guild-dominated governance, grain dependency vulnerability)
+- Leadership (5 merchant houses: Marsh, Greave, Vorren, Salter, Brack)
+- Structure & Governance (weekly meetings, Speaker tiebreaker, consensus voting)
+- Territory & Jurisdiction (delta control, barge licensing, salt quotas)
+- Resources & Assets (licensing fees, grain price-setting, emergency reserves)
+- Goals & Motivations (maintain grain supply, prevent internal competition, coastal expansion)
+- Opposition (Forge Council, Highland Merchant Cartel, potential labor organizing)
+- Internal Tensions (Marsh consolidation, Greave rivalry, missing barge cover-up, Speaker neutrality)
+- Campaign Role (political quest hub, power shift scenarios)
+
+**Key NPCs referenced:**
+- [[Marda Vorren]] - Assembly Speaker, tiebreaker
+- [[Corwin Marsh]] - Marsh house, debt empire builder
+- Ossian Greave - Greave house, highland expansion
+- [[Halden Brack]] - Brack house, moral voice pushing for barge investigation
+- Kellen Salter - Salter house, conservative salt producer (NEW stub NPC)
+
+**Faction dynamics established:**
+- Assembly controls lowland economy through grain pricing, salt quotas, barge licensing
+- Five-house coalition held together by shared interest but fracturing under internal rivalries
+- Grain dependency is existential vulnerability (Saltmere cannot feed itself)
+- Missing barge cover-up creating internal crisis (Brack demanding transparency vs others wanting silence)
+- Marsh's debt consolidation threatening other houses' independence
+
+**Campaign integration:**
+- Obstacle to missing barge investigation (cover-up to avoid panic)
+- Political quest hub (weekly meetings, faction rivalries, Speaker mediation)
+- Power shift potential (if grain supply disrupted or barge mystery exposed)
+- Opposition to highland independence (Forge Council sees Assembly as economic colonizer)
+
+### Fix 5: Index Faction Count Final Update
+- **Fixed by:** wylderan-writer1
+- Updated `index.md` line 51: Factions count 3 → 4
+- Added "Saltmere Merchant Assembly" to faction list after writer2 created the file
+- Now lists: Forge Council, Highland Workers Coalition, Highland Merchant Cartel, Saltmere Merchant Assembly
+
+**Threads for Cycle 10 (Lorekeeper Recommendation):**
+- Create The Riverlands region atlas (define dead god, river ecology, ford culture)
+- Create The Saltfen region atlas (define dead god, connect "the pull" to divine decay)
+- Cosmology integration: update lowland content with Theomachis references, cultural practices

@@ -52,7 +52,7 @@ On both sides of the ford, wagon ruts have carved deep grooves into the approach
 
 **Ashfeld's Mill** (mid-river, town center). [[Garrick Thane]]'s primary operation. A larger building with two grinding wheels, rebuilt and expanded ten years ago when Garrick bought out a failing competitor. Ashfeld's takes the bulk of commercial grain contracts. The building doubles as Garrick's home, a two-story structure that looms over the docks.
 
-**Southgrain Mill** (downstream, southern edge). [[Garrick Thane]]'s second mill, smaller and older. He bought it five years ago from a widow who couldn't keep up with repairs. It's staffed by his younger brother, Kellan Ashfeld, who handles overflow work and undercuts Kess Mill on price. Some farmers say Southgrain's flour tastes of river mud, but it's cheap.
+**Southgrain Mill** (downstream, southern edge). [[Garrick Thane]]'s second mill, smaller and older. He bought it five years ago from a widow who couldn't keep up with repairs. It's staffed by his younger brother, Kellan Thane, who handles overflow work and undercuts Kess Mill on price. Some farmers say Southgrain's flour tastes of river mud, but it's cheap.
 
 The three mills stand like rival keeps along the riverbank. The sound of their wheels, out of sync with each other, creates a constant rolling thunder across the town.
 
@@ -88,7 +88,7 @@ People in Millford respect hard work, distrust outsiders who don't bring trade, 
 
 **[[Halford Quick]]**, dock master and council member. Older man, maybe 60, with a weathered face and a talent for keeping the peace between traders. Neutral in the mill rivalry, which makes him valuable as a tiebreaker on the council. Knows every barge captain who runs the Millrun and keeps mental records of who owes favors to whom.
 
-**Kellan Ashfeld**, [[Garrick Thane]]'s younger brother, runs Southgrain Mill. Less ambitious than his brother, more interested in drinking at The Crossing House than managing the mill. Some say he's embezzling from the mill profits, others say Garrick keeps him underpaid on purpose. Either way, Southgrain's reputation for poor quality reflects on Kellan's work.
+**Kellan Thane**, [[Garrick Thane]]'s younger brother, runs Southgrain Mill. Less ambitious than his brother, more interested in drinking at The Crossing House than managing the mill. Some say he's embezzling from the mill profits, others say Garrick keeps him underpaid on purpose. Either way, Southgrain's reputation for poor quality reflects on Kellan's work.
 
 ---
 
