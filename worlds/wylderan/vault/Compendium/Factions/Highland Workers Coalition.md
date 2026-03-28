@@ -48,6 +48,9 @@ The coalition is fragile. Its dual leadership is separated by eight miles of rou
 
 The dual leadership is both the coalition's strength and its weakness. Senna and Orrin trust each other, but they lead different groups with different goals. If one is arrested or killed, the other cannot hold both factions together.
 
+> [!info] Design Note
+> Senna Kade and Orrin Pike do not have formal Highland Workers Coalition faction affiliations in the NPCRegistry. This is intentional: they began organizing independently before the coalition existed, and their primary identity remains as independent labor organizers. The lieutenants (Torvin, Dessa, Halden, Mira) joined the coalition as an organization, so they carry the faction affiliation.
+
 ---
 
 ## Structure

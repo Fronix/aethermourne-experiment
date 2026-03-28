@@ -271,3 +271,23 @@ type: changelog
 - Coalition uses seasonal workers (Ashcrag farmers work Ironhollow pits) as couriers
 - Charcoal shipments from [[Orrin Pike]]'s family to [[Ironhollow]] as message cover
 - Winter isolation weakens cartel oversight ([[Tallow Breck]] cannot reach [[Ironhollow]])
+
+## 2026-03-28 06:11 - Cycle 6: Lore Check - The Stone Heights Region
+
+**Type:** Lore audit and consistency check (every 3rd cycle)
+**Scope:** The Stone Heights region (Ashcrag, Ironhollow, Halfway Burn Site, 3 factions, 16 NPCs)
+
+**Audit findings:**
+- 98% consistency across Cycles 3-5
+- 2 blocking issues fixed: Senna-Orrin meeting timeline (standardized to 2 years ago), coalition leader faction affiliation design clarification
+- 3 non-blocking gaps identified for future cycles: Rennic Vale NPC file (informant), Thom Harrow NPC file (informant), The Stone Heights region atlas
+
+**Files modified:**
+- Senna Kade.md: Timeline fix (3 years → 2 years)
+- Highland Workers Coalition.md: Added design note explaining leader faction affiliation status
+
+**Implications for future cycles:**
+- Create Rennic Vale NPC file (cartel informant at Ironhollow)
+- Create Thom Harrow NPC file (cartel informant at Ashcrag)
+- The Stone Heights region atlas (already flagged from Cycle 5)
+- Forge Council faction file (already flagged from Cycle 5)
