@@ -35,7 +35,7 @@ Garrick projects competence and control. He speaks in measured tones, weighing h
 
 Garrick was born the third son of a tenant farmer. No inheritance, no prospects. At fifteen, he apprenticed to Old Tam, the original miller, and worked the stones for twelve years. When Tam died without heirs, Garrick married Tam's widow, Marda, though she was fifteen years his senior. She died three winters later, and Garrick inherited the mill. He built the second mill ten years ago using loans from a merchant in the lowlands, loans he's still repaying. That debt is a constant weight.
 
-The formative event: Five years ago, a spring flood destroyed the upstream mill owned by the Cray family. Garrick offered to buy the wreckage and rebuild it, but on his terms. The Crays refused out of pride, and Garrick waited. When their debts mounted, he bought it for a quarter of what he'd originally offered. The Crays never forgave him. Neither did [[Brenna Cray]], who rebuilt her family's mill with borrowed money and raw determination.
+The formative event: Fifteen years ago, a spring flood destroyed the upstream mill owned by the Cray family. Garrick offered to buy the wreckage and rebuild it, but on his terms. The Crays refused out of pride, and Garrick waited. When their debts mounted, he bought it for a quarter of what he'd originally offered. The Crays never forgave him. Neither did [[Brenna Cray]], who rebuilt her family's mill with borrowed money and raw determination.
 
 ## Relationships
 

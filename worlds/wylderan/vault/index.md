@@ -21,6 +21,8 @@ Welcome to Wylderan. This world is being built from the ground up through bottom
 ## Settlements
 
 - [[Millford]] - River town with three competing water mills
+- [[Saltmere]] - Delta port controlling highland grain distribution
+- [[Ashcrag]] - Highland market town at the river's source
 
 ---
 
@@ -29,22 +31,23 @@ Welcome to Wylderan. This world is being built from the ground up through bottom
 See the full roster in [[NPCRegistry]].
 
 **Notable Characters:**
-- [[Garrick Thane]] - Dominant miller, owns two mills
-- [[Brenna Cray]] - Rival miller upstream, quality advocate
-- [[Halford Quick]] - Dock master and peacekeeper
-- [[Kellan Thane]] - Garrick's brother, runs Southgrain Mill
-- [[Dace Torrn]] - River trader and barge captain
-- [[Osmund Vey]] - Senior farmer, community voice
-- [[Lyman Corvish]] - Crown-appointed toll collector
+- [[Garrick Thane]] - Dominant miller, Millford
+- [[Brenna Cray]] - Rival miller, Millford
+- [[Corwin Marsh]] - Merchant house head, Saltmere
+- [[Myra Cadros]] - Master smith, Forge Council head, Ashcrag
+- [[Aldric Harth]] - Grain lord, Ashcrag
+- [[Tallow Breck]] - Cartel factor, Dace's creditor, Ashcrag
+- [[Orrin Pike]] - Tenant farmer organizer, Ashcrag
 
 ---
 
 > [!info] Vault Stats
 > | | |
 > |---|---|
-> | **Total files** | 8 |
-> | **Settlements** | 1 |
-> | **Named NPCs** | 7 |
-> | **NPC files** | 7 |
+> | **Total files** | 22 |
+> | **Settlements** | 3 |
+> | **Named NPCs** | 19 |
+> | **NPC files** | 19 |
+> | **Factions** | 2 |
 > | **Campaign** | Unknown |
 > | **Status** | Emerging |

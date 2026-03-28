@@ -132,3 +132,55 @@ type: changelog
 **Coordination:**
 - Characterwriter creating detail files for Marda Vorren, Halden Brack, Lira Fenn
 - Characterwriter updating location references in existing files from 'Lowland Markets' to 'Saltmere'
+
+## 2026-03-28 04:50 - Cycle 3: Ashcrag Created
+
+**Created by:** wylderan-writer1
+**Implication:** Highland settlements - upstream grain source and forge center at Millrun headwaters
+
+- Created `Compendium/World Atlas/Settlements/Ashcrag.md` (155 lines)
+- Added 5 NPCs to NPCRegistry: Myra Cadros, Aldric Harth, Grett Voss, Tallow Breck, Orrin Pike
+- Established new region name: "The Stone Heights" (highland region north of The Riverlands)
+- Established Millrun River source: three streams (Cold Run, Ashwater, Piney Flow) converge at Ashcrag
+
+**Key features:**
+- Highland market town (population ~350, smaller than Millford)
+- Grain farming economy with tool forging (two master forges: Cadros Ironworks, Brennan's Forge)
+- Barge assembly and loading at the Confluence (headwaters)
+- Forge Council governance (guild-dominated, not Crown authority)
+- Higher elevation, colder climate, winter road closures (3-4 months isolated)
+- Timber industry feeding charcoal to forges
+
+**Implications revealed:**
+- The Stone Heights region (rocky highlands, pine forests, shorter growing season)
+- Forge Council as political faction (rival to Merchant Assembly, independent of Crown)
+- Highland-lowland cultural divide (independent highland folk vs. lowland merchants)
+- Iron ore deposits in hills north of Ashcrag (source of forging industry)
+- Trade Cartel faction (lowland creditors financing river trade, represented by Tallow Breck)
+- Tenant farmer vs. landowner class conflict (Orrin Pike organizing labor against guild)
+- Winter isolation as economic pressure (road freezes, cutting off trade for months)
+- Charcoal/timber resource depletion (forests thinning, fuel shortage brewing)
+- Lowland debt leverage over highland economy (Corwin Marsh holds Aldric Harth's debt)
+
+**Connections established:**
+- Aldric Harth owes debt to [[Corwin Marsh]] in [[Saltmere]] (highland grain supply at risk)
+- Tallow Breck is [[Dace Torrn]]'s creditor (cartel collecting debts from river traders)
+- Ashcrag supplies grain to [[Millford]] mills via barge downstream
+- Tools from Ashcrag forges flow downstream to [[Saltmere]] markets
+- Winter road closure affects [[Millford]] highland trade (seasonal isolation pattern)
+
+## 2026-03-28 04:58 - Cycle 3: Character & Faction Development
+
+**Created by:** wylderan-characterwriter
+
+- Created 5 NPC detail files (Myra Cadros, Aldric Harth, Grett Voss, Tallow Breck, Orrin Pike) - 440 total lines
+- Created faction stub: Highland Merchant Cartel (80 lines)
+- Fixed timeline inconsistency in Garrick Thane.md (flood event: 5 years → 15 years ago)
+- Updated NPCRegistry with faction affiliations
+- Established NPC web: Myra vs Orrin conflict, Aldric smuggling to pay debt, Grett as information broker
+
+**Faction established:**
+- Highland Merchant Cartel: Council of 5 Factors (grain, transport, forge/tools, land loans, foreign goods)
+- Competitive with Saltmere's Merchant Assembly (especially Corwin Marsh)
+- Cooperative with Forge Council
+- Leverage over independent traders through debt

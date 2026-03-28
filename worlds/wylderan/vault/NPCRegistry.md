@@ -28,3 +28,8 @@ Master index of all named NPCs in wylderan.
 | [[Lira Fenn]] | Barge Captain, River Trader | Saltmere | | alive |
 | [[Venna Cade]] | Harbormaster | Saltmere | | alive |
 | [[Miren Hallis]] | Widow of Captain Jorin Hallis | Saltmere | | alive |
+| [[Myra Cadros]] | Master Smith, Forge Council Head | Ashcrag | Forge Council | alive |
+| [[Aldric Harth]] | Grain Lord, Largest Landowner | Ashcrag | Forge Council | alive |
+| [[Grett Voss]] | Market Factor | Ashcrag | | alive |
+| [[Tallow Breck]] | River Trader, Cartel Factor | Ashcrag | Highland Merchant Cartel | alive |
+| [[Orrin Pike]] | Tenant Farmer, Labor Organizer | Ashcrag | | alive |
