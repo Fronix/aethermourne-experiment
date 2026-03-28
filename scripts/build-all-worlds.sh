@@ -46,6 +46,11 @@ for world in $WORLDS; do
 done
 echo ""
 
+# Save original config before any modifications
+if [ ! -f "$QUARTZ_DIR/quartz.config.ts.original" ]; then
+  cp "$QUARTZ_DIR/quartz.config.ts" "$QUARTZ_DIR/quartz.config.ts.original"
+fi
+
 # Build each world
 for world_slug in $WORLDS; do
   echo "Building world: $world_slug"
@@ -80,9 +85,8 @@ for world_slug in $WORLDS; do
   # Copy vault content
   cp -r "$VAULT_DIR/"* "$QUARTZ_DIR/content/"
 
-  # Update quartz.config.ts
-  cp "$QUARTZ_DIR/quartz.config.ts.template" "$QUARTZ_DIR/quartz.config.ts" 2>/dev/null || \
-    cp "$QUARTZ_DIR/quartz.config.ts" "$QUARTZ_DIR/quartz.config.ts.bak"
+  # Restore original config and modify for this world
+  cp "$QUARTZ_DIR/quartz.config.ts.original" "$QUARTZ_DIR/quartz.config.ts"
 
   sed -i "s|baseUrl:.*|baseUrl: \"$BASE_URL/$world_slug\",|" "$QUARTZ_DIR/quartz.config.ts"
   sed -i "s|pageTitle:.*|pageTitle: \"$WORLD_NAME\",|" "$QUARTZ_DIR/quartz.config.ts"
