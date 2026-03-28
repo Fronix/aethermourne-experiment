@@ -51,8 +51,8 @@
       "population": "~600"
     },
     {
-      "id": "the-lower-reach",
-      "name": "The Lower Reach",
+      "id": "the-saltfen",
+      "name": "The Saltfen",
       "god": "Unknown",
       "terrain": "River delta, coastal lowlands, salt marshes",
       "color": "#5B8BA0",
@@ -110,7 +110,7 @@
     },
     {
       "name": "Saltmere",
-      "region": "the-lower-reach",
+      "region": "the-saltfen",
       "position": [540, 780],
       "population": 1200,
       "type": "town",
